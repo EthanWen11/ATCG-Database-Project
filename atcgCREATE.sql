@@ -1,0 +1,144 @@
+drop database atcg;
+create database atcg;
+use atcg;
+
+CREATE TABLE CardSet
+(
+setID			INTEGER,
+setName			VARCHAR (255),
+designer		VARCHAR (255),
+logo			VARCHAR (255),
+setAbr			VARCHAR (255),
+setNum			INTEGER,
+
+PRIMARY KEY (setID)
+);
+
+CREATE TABLE Image
+(
+imageID			INTEGER,
+fileURL			VARCHAR (255),
+artist			VARCHAR (255),
+
+PRIMARY KEY (imageID)
+);
+
+CREATE TABLE Card
+(
+cardID			INTEGER,
+cardName		VARCHAR (255),
+cardtext		TEXT,
+imageID			INTEGER,
+
+PRIMARY KEY (cardID),
+FOREIGN KEY (imageID) REFERENCES Image(imageID) ON DELETE CASCADE
+);
+
+CREATE TABLE Subtype
+(
+cardID			INTEGER,
+subtype			VARCHAR(255),
+
+PRIMARY KEY (cardID, subtype),
+FOREIGN KEY (cardID) REFERENCES Card(cardID) ON DELETE CASCADE
+);
+
+CREATE TABLE CharacterCard
+(
+cardID			INTEGER,
+attack			INTEGER,
+health			INTEGER,
+cost			INTEGER,
+orbCost			INTEGER,
+
+PRIMARY KEY (cardID),
+FOREIGN KEY (cardID) REFERENCES Card(cardID) ON DELETE CASCADE	
+);
+
+CREATE TABLE SpellCard
+(
+cardID			INTEGER,
+cost			INTEGER,
+orbCost			INTEGER,
+
+PRIMARY KEY (cardID),
+FOREIGN KEY (cardID) REFERENCES Card(cardID) ON DELETE CASCADE	
+);
+
+CREATE TABLE ItemCard
+(
+cardID			INTEGER,
+cost			INTEGER,
+orbCost			INTEGER,
+
+PRIMARY KEY (cardID),
+FOREIGN KEY (cardID) REFERENCES Card(cardID) ON DELETE CASCADE	
+);
+
+CREATE TABLE DistrictCard
+(
+cardID			INTEGER,
+tier			VARCHAR(255),
+
+PRIMARY KEY (cardID),
+FOREIGN KEY (cardID) REFERENCES Card(cardID) ON DELETE CASCADE	
+);
+
+CREATE TABLE DistrictOrb
+(
+cardID			INTEGER,
+orb				VARCHAR(255),
+
+PRIMARY KEY (cardID, orb),
+FOREIGN KEY (cardID) REFERENCES DistrictCard(cardID) ON DELETE CASCADE
+);
+
+CREATE TABLE Color
+(
+cardID			INTEGER,
+color			VARCHAR(255),
+
+PRIMARY KEY (cardID, color),
+FOREIGN KEY (cardID) REFERENCES Card(cardID) ON DELETE CASCADE
+);
+
+CREATE TABLE SetContains
+(
+setID			INTEGER,
+cardID			INTEGER,
+
+PRIMARY KEY (cardID, setID),
+FOREIGN KEY (setID) REFERENCES CardSet(setID) ON DELETE CASCADE,
+FOREIGN KEY (cardID) REFERENCES Card(cardID) ON DELETE CASCADE
+);
+
+CREATE TABLE Deck
+(
+deckID			INTEGER,
+
+PRIMARY KEY (deckID)
+);
+
+CREATE TABLE DeckContains
+(
+deckID			INTEGER,
+cardID			INTEGER,
+
+PRIMARY KEY (deckID, cardID),
+FOREIGN KEY (deckID) REFERENCES Deck(deckID) ON DELETE CASCADE,
+FOREIGN KEY (cardID) REFERENCES Card(cardID) ON DELETE CASCADE
+);
+
+CREATE TABLE Keyword
+(
+wordName		VARCHAR(255),
+cardID			INTEGER,
+keyText			TEXT,
+symbol			VARCHAR(255),
+
+PRIMARY KEY (wordName, cardID),
+FOREIGN KEY (cardID) REFERENCES Card(cardID) ON DELETE CASCADE
+);
+
+
+
