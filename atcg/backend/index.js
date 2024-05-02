@@ -2,7 +2,7 @@ const express = require('express');
 const http = require('http');
 
 // Import routes
-const indexRouter = require('./routes/routes');
+const indexRouter = require('./routes/index');
 
 const app = express();
 const port = process.env.PORT || 3000;
