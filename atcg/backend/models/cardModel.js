@@ -13,6 +13,16 @@ const CardModel = {
             if (error) throw error;
             callback(results[0]);
         });
+    },
+
+    createCard: function(cardData, callback) {
+        pool.query('INSERT INTO Card SET ?', cardData, function(error, results, fields) {
+            if (error) {
+                callback(null, error);
+            } else {
+                callback(results.insertId, null);
+            }
+        });
     }
 };
 
