@@ -15,13 +15,48 @@ const CardModel = {
         });
     },
 
-    createCard: function(cardData, callback) {
-        pool.query('INSERT INTO Card SET ?', cardData, function(error, results, fields) {
-            if (error) {
-                callback(null, error);
-            } else {
-                callback(results.insertId, null);
-            }
+    createCard: function(cardData, imageData, callback) {
+        pool.getConnection(function(err, connection) {
+            if (err) throw err; // not connected!
+            connection.beginTransaction(function(err) {
+                if (err) { // Transaction Error (Rollback and release connection)
+                    connection.rollback(function() {
+                        connection.release();
+                        // Failure
+                    });
+                } else {
+                    connection.query('INSERT INTO Image SET ?', imageData, function (error, results, fields) {
+                        if (error) {
+                            return connection.rollback(function() {
+                                connection.release();
+                                callback(null, error);
+                            });
+                        }
+
+                        const imageID = results.insertId;
+                        const newCardData = {...cardData, imageID: imageID};
+
+                        connection.query('INSERT INTO Card SET ?', newCardData, function (error, results, fields) {
+                            if (error) {
+                                return connection.rollback(function() {
+                                    connection.release();
+                                    callback(null, error);
+                                });
+                            }
+                            connection.commit(function(err) {
+                                if (err) {
+                                    return connection.rollback(function() {
+                                        connection.release();
+                                        callback(null, err);
+                                    });
+                                }
+                                connection.release();
+                                callback(results.insertId, null);
+                            });
+                        });
+                    });
+                }
+            });
         });
     }
 };
