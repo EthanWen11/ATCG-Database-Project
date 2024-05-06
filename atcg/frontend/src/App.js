@@ -1,15 +1,15 @@
-import { Routes, Route } from "react-router-dom"
+import { Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import Search from "./pages/Search";
+import AdvancedSearch from "./pages/AdvancedSearch"; // Import AdvancedSearch component
 
-// root page for navigation
 function App() {
   return (
     <div>
       <Routes>
-        {/* define your routes here */}
         <Route path="/" element={<Home />} />
-        <Route path="search" element={<Search />} />
+        <Route path="/search" element={<Search />} />
+        <Route path="/Advanced" element={<AdvancedSearch />} /> {/* Add this route */}
       </Routes>
     </div>
   );
