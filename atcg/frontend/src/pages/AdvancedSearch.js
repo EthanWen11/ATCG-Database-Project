@@ -83,7 +83,7 @@ const AdvancedSearch = () => {
       params.set("match", amountMatch);
       params.set("amt", amountValue);
     }
-
+    
     navigate(`/search?${params.toString()}`);
   };
 
