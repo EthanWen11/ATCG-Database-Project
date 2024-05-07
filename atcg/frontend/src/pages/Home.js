@@ -11,7 +11,7 @@ const Home = () => {
         <p className="text-white text-lg mb-8 text-center">Search and explore cards from the Apostleland Trading Card Game.</p>
         <SearchForm />
         <div className="flex justify-center mt-4">
-          <Link to="/Advanced">
+          <Link to="/advanced">
             <button className="mr-4 px-4 py-1 border border-gray-500 bg-gray-600 text-white rounded-md hover:bg-gray-500 focus:outline-none">Advanced Search</button>
           </Link>
           <Link to="/Home.js">
