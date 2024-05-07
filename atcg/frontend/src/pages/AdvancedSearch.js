@@ -1,4 +1,6 @@
-import React, { useState } from 'react';
+  import React, { useState } from 'react';
+import { useNavigate } from 'react-router-dom';
+import ComboInput from '../components/ComboInput';
 
 const diamondStyle = {
   display: 'inline-block',
@@ -25,9 +27,11 @@ const AdvancedSearch = () => {
   const [colors, setColors] = useState([]);
   const [rarities, setRarities] = useState([]);
   const [type, setType] = useState('');
-  const [cardName, setCardName] = useState('');
+  const [cardName, setCardName] = useState([]);
   const [amountMatch, setAmountMatch] = useState('Match');
   const [amountValue, setAmountValue] = useState('');
+  const navigate = useNavigate();
+
 
   // Handler functions for form inputs
   const handleColorChange = (e) => {
@@ -52,9 +56,9 @@ const AdvancedSearch = () => {
     setType(e.target.value);
   };
 
-  const handleCardNameChange = (e) => {
-    setCardName(e.target.value);
-  };
+  // const handleCardNameChange = (e) => {
+  //   setCardName(e.target.value);
+  // };
 
   const handleAmountMatchChange = (e) => {
     setAmountMatch(e.target.value);
@@ -64,11 +68,30 @@ const AdvancedSearch = () => {
     setAmountValue(e.target.value);
   };
 
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    const params = new URLSearchParams();
+    // order by name by default
+    params.set("order", "name");
+    if(colors.length > 0) params.set("color", colors.join(" "));
+    if(rarities.length > 0) params.set("rarity", rarities.join(" "));
+    if(type.length > 0) params.set("type", type);
+    if(cardName.length > 0) params.set("cardName", cardName.join(" "));
+    if(amountValue.length > 0) 
+    {
+      params.set("match", amountMatch);
+      params.set("amt", amountValue);
+    }
+    
+    navigate(`/search?${params.toString()}`);
+  };
+
   // Render function for the form
   return (
     <div className="min-h-screen relative bg-gradient-to-b from-gray-600 to-indigo-900 flex flex-col items-center overflow-hidden">
       <h1 className="text-white text-3xl font-bold mb-2 text-center mt-10 mb-8">Advanced Search Page</h1>
-      <form className="flex flex-col items-start p-4 border border-gray-300 rounded-md w-full max-w-2xl">
+      <form className="flex flex-col items-start p-4 border border-gray-300 rounded-md w-full max-w-2xl" method='GET' onSubmit={handleSubmit}>
           <fieldset className="mb-4">
             <legend className="text-white mb-1">Colors:</legend>
             <div className="space-x-4">
@@ -147,15 +170,16 @@ const AdvancedSearch = () => {
 
           <div className="mb-4">
             <label className="text-white">
-              Card Name:
-              <input
+            Card Name:
+            </label>
+              {/* <input
                 type="text"
                 value={cardName}
                 onChange={handleCardNameChange}
                 className="ml-2 px-2 py-1 border border-gray-400 rounded-md bg-gray-200 text-black"
                 placeholder="Healing potion"
-              />
-            </label>
+              /> */}
+              <ComboInput setValues={setCardName}/>
           </div>
 
           <div className="mb-4">
@@ -172,8 +196,6 @@ const AdvancedSearch = () => {
             </label>
             <input type="number" value={amountValue} onChange={handleAmountValueChange} className="ml-2 px-2 py-1 border border-gray-400 rounded-md bg-gray-200 text-gray-700" />
           </div>
-
-
           <button type="submit" className="px-4 py-2 border border-gray-500 bg-gray-600 text-white rounded-md hover:bg-gray-500 focus:outline-none">Search</button>
       </form>
     </div>

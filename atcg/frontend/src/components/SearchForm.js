@@ -1,22 +1,20 @@
 import React, { useState } from 'react';
-import { Link, useNavigate, useSearchParams } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import { Logo } from './Logo';
 
 
 const SearchForm = () => {
   const [query, setQuery] = useState('');
-  const [searchParams, setSearchParams] = useSearchParams();
   const navigate = useNavigate();
 
   const handleLogoClick = () => {
     setQuery('');
-    setSearchParams('');
   };
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    setSearchParams({ query });
-    navigate(`/search?query=${query}`)
+    const params = new URLSearchParams({"q": query})
+    navigate(`/search?${params.toString()}`);
   };
 
   return (

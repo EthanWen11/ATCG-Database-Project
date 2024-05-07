@@ -3,8 +3,8 @@ import { useSearchParams } from 'react-router-dom'
 
 const Search = () => {
     const [searchParams] = useSearchParams();
-    const query = searchParams.get('query');
-
+    const query = Array.from(searchParams.values()).toString();
+    // use searchParams.get() to get a specific search parameter values and pass it to get req
     
     const textStyle = {
         color: 'white',
