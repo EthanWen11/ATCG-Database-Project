@@ -1,0 +1,21 @@
+{
+  "imageData": {
+    "fileURL": "http://example.com/images/warrior.png",
+    "artist": "John Doe"
+  },
+  "cardData": {
+    "cardID": "char001",
+    "setID": "set01",
+    "cardName": "Warrior of Dawn",
+    "cardType": "Character",
+    "cardtext": "The Warrior of Dawn fights with unmatched bravery and skill.",
+    "imageID": 1
+  },
+  "characterCardData": {
+    "cardID": "char001",
+    "setID": "set01",
+    "attack": 10,
+    "health": 30,
+    "cost": 5
+  }
+}

@@ -136,6 +136,3 @@ symbol			VARCHAR(255),
 PRIMARY KEY (wordName, cardID),
 FOREIGN KEY (cardID) REFERENCES Card(cardID) ON DELETE CASCADE
 );
-
-
-
