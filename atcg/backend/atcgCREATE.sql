@@ -129,10 +129,11 @@ FOREIGN KEY (cardID, setID) REFERENCES Card(cardID, setID) ON DELETE CASCADE
 CREATE TABLE Keyword
 (
 wordName		VARCHAR(255),
-cardID			INTEGER,
+cardID			VARCHAR (255),
+setID			VARCHAR (255),
 keyText			TEXT,
 symbol			VARCHAR(255),
 
-PRIMARY KEY (wordName, cardID),
-FOREIGN KEY (cardID) REFERENCES Card(cardID) ON DELETE CASCADE
+PRIMARY KEY (wordName, cardID, setID),
+FOREIGN KEY (cardID, setID) REFERENCES Card(cardID, setID) ON DELETE CASCADE
 );
