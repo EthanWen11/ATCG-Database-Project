@@ -38,7 +38,7 @@ const NavSearchForm = () => {
                     maxLength='1024'
                     value={query}
                     onChange={(e) => setQuery(e.target.value)}
-                    placeholder="Search for Cards ..."
+                    placeholder="  Search for Cards ..."
                 />
             </div>
             <button type='submit' className='hidden border-0'>

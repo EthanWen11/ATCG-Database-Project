@@ -5,8 +5,8 @@ import SearchForm from '../components/SearchForm';
 const Home = () => {
   return (
     <div className="min-h-screen relative bg-gradient-to-b from-gray-600 to-indigo-900 flex flex-col items-center overflow-hidden">
-      <div className="mt-40">
-        <img src="/Nexus.png" alt="Nexus Logo" className="w-36 h-36 mb-8 mx-auto" />
+      <div className="mt-10">
+        <img src="/Nexus.png" alt="Nexus Logo" className="w-36 h-36 mb-6 mt-20 mx-auto" />
         <h1 className="text-white text-4xl font-bold mb-2 text-center">ATCG Database</h1>
         <p className="text-white text-lg mb-8 text-center">Search and explore cards from the Apostleland Trading Card Game.</p>
         <SearchForm />
