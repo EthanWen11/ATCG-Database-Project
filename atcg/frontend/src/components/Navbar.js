@@ -1,9 +1,15 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
+import { Link, useLocation } from 'react-router-dom'
 import NavSearchForm from './NavSearchForm'
 
 const Navbar = () => {
+    const location = useLocation();
+
+if(location.pathname === "/") {
+    return null;
+}
   return (
+
     <div className="w-full bg-slate-800 px-8 min ">
         <div className='h-16 w-full flex items-center flex-row flex-nowrap justify-between'>
             <div className='flex space-x-2 w-full'>
