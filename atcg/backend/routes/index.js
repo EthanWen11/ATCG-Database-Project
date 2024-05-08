@@ -19,4 +19,18 @@ router.get('/cards/:id', (req, res) => {
     });
 });
 
+router.post('/cards', (req, res) => {
+    const newCard = req.body;
+    console.log(newCard);  // Log the incoming card data
+
+    CardModel.createCard(newCard, (result, err) => {
+        if (err) {
+            console.error(err);  // Log any SQL errors
+            res.status(500).send('Error creating the card: ' + err.message);
+        } else {
+            res.status(201).send(`Card created successfully with ID: ${result}`);
+        }
+    });
+});
+
 module.exports = router;
