@@ -3,7 +3,7 @@ DBMS + Web Design project for Apostleland Trading Card Game.
 
 Collaborators: 
  - Ethan Wen (Project Lead, Project Specifications, Relational Model, Data Production)
- - Kyaw Soe Han (
+ - Kyaw Soe Han ( Database Functional Requirements, ER Design, Relational Schema, Relation Normalization, MySQL initializtion statements)
  - Kyle Chen (
  - Mathew Estrada (Front-End Development, User Interface Design, Home Page / Advanced Search Implementation, User Input Handling)
  - Nathan Pham (

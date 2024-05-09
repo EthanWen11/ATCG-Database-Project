@@ -14,7 +14,7 @@ PRIMARY KEY (setID)
 
 CREATE TABLE Image
 (
-imageID			INTEGER,
+imageID			VARCHAR (255),
 fileURL			VARCHAR (255),
 artist			VARCHAR (255),
 
@@ -28,7 +28,7 @@ setID			VARCHAR (255),
 cardName		VARCHAR (255),
 cardType		VARCHAR (255),
 cardtext		TEXT,
-imageID			INTEGER,
+imageID			VARCHAR (255),
 
 PRIMARY KEY (cardID, setID),
 FOREIGN KEY (setID) REFERENCES CardSet(setID) ON DELETE CASCADE,
@@ -128,12 +128,10 @@ FOREIGN KEY (cardID, setID) REFERENCES Card(cardID, setID) ON DELETE CASCADE
 
 CREATE TABLE Keyword
 (
-wordName		VARCHAR(255),
+keyword		VARCHAR(255),
 cardID			VARCHAR (255),
 setID			VARCHAR (255),
-keyText			TEXT,
-symbol			VARCHAR(255),
 
-PRIMARY KEY (wordName, cardID, setID),
+PRIMARY KEY (keyword, cardID, setID),
 FOREIGN KEY (cardID, setID) REFERENCES Card(cardID, setID) ON DELETE CASCADE
 );
