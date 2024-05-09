@@ -33,7 +33,7 @@ if(location.pathname === "/") {
                         <button className='text-stone-200 font-thin pl-2 hover:underline'>Advanced</button>
                     </span>
                 </Link>
-                <Link to="/advanced">
+                <Link to="/search?order=set&setID=cor+qil+jgk+cla+elm+hoe+nin+kgd+str+whv+jig+fal+dep">
                     <span className='flex items-center hover:brightness-150'>
                         <button className='text-stone-200 font-thin pl-2 hover:underline'>Deck</button>
                     </span>
