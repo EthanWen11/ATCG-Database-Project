@@ -24,33 +24,34 @@ const CardDetails = () => {
   }, [id, set]);
 
   return (
-    <div className="min-h-screen relative bg-gradient-to-b from-gray-600 to-indigo-900 flex flex-col items-center overflow-hidden">
-      <div className="px-60 py-6 w-full">
-        {card ? (
-          <div className="mt-10 text-white flex justify-center">
-            <div className="w-1/2 pr-8">
-            <img src={card.imageID ? `/images/${card.imageID}.png` : '/cardEx.png'} alt={card.cardName} style={{ maxWidth: '360px' }}/>            </div>
-            <div className="w-1/2">
-              <h2 className="text-4xl mb-6">Card Name:  {card.cardName}</h2>
-              <p className="text-2xl mb-4">Card ID:  {card.cardID}</p>
-              <p className="text-2xl mb-4">Set ID:  {card.setID}</p>
-              <p className="text-2xl mb-4">Card Type:  {card.cardType}</p>
-              <p className="text-2xl mb-4">Description:  {card.cardtext}</p>
-            </div>
+  <div className="min-h-screen relative bg-gradient-to-b from-gray-600 to-indigo-900 flex flex-col items-center overflow-hidden">
+    <div className="px-60 py-6 w-full">
+      {card ? (
+        <div className="mt-16 text-white flex justify-center">
+          <div className="w-1/2 pr-8">
+            <img src={card.imageID ? `/images/${card.imageID}.png` : '/cardEx.png'} alt={card.cardName} style={{ maxWidth: '360px' }}/>            
           </div>
-        ) : (
-          <p>Loading...</p>
-        )}
-      </div>
-
-      <div className="mt-auto mb-4"> 
-        <p className="text-white text-sm">
-          Visit our GitHub repository: {' '}
-          <a href="https://github.com/EthanWen11/ATCG-Database-Project" target="_blank" rel="noopener noreferrer" className="text-indigo-400 hover:underline">GitHub Repo</a>
-        </p>
-      </div>
+          <div className="w-1/2">
+            <h2 className="text-4xl mb-8"><span className="font-bold italic text-green-400">Card Name: </span>{card.cardName}</h2>
+            <p className="text-2xl mb-6"><span className="font-bold italic text-red-400">Card ID:</span> {card.cardID}</p>
+            <p className="text-2xl mb-6"><span className="font-bold italic text-purple-400">Set ID:</span> {card.setID}</p>
+            <p className="text-2xl mb-6"><span className="font-bold italic text-cyan-400">Card Type:</span> {card.cardType}</p>
+            <p className="text-2xl mb-6"><span className="font-bold italic text-pink-300">Description:</span> {card.cardtext}</p>
+          </div>
+        </div>
+      ) : (
+        <p>Loading...</p>
+      )}
     </div>
-  );
+
+    <div className="mt-auto mb-4"> 
+      <p className="text-white text-sm">
+        Visit our GitHub repository: {' '}
+        <a href="https://github.com/EthanWen11/ATCG-Database-Project" target="_blank" rel="noopener noreferrer" className="text-indigo-400 hover:underline">GitHub Repo</a>
+      </p>
+    </div>
+  </div>
+);
 };
 
 export default CardDetails;
