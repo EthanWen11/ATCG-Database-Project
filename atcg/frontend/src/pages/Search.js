@@ -10,6 +10,8 @@ const Search = () => {
     const textStyle = {
         color: 'white',
         marginTop: '100px',
+        fontSize: '24px', 
+        fontStyle: 'italic', 
     };
 
     const [cards, setCards] = useState([])
@@ -50,21 +52,22 @@ const Search = () => {
     }, [searchParams])
 
 
-    // atm only displays the search query
     return (
         <div className="min-h-screen bg-gradient-to-b from-gray-600 to-indigo-900 flex flex-col items-center">
             <div className="search-results-container" style={{ padding: '20px' }}>
-                <span style={{ color: 'white', marginTop: '100px' }}>Search Results: </span>
+                <span style={textStyle}>Search Results: </span>
                 <div className="cards-container" style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center' }}>
                     {cards.map((card) => (
-                        <div key={card.cardID} className="card" style={{ display: 'flex', alignItems: 'center', margin: '10px', backgroundColor: '#333', borderRadius: '5px', padding: '10px', width: '300px' }}>
-                            <img src={card.imageID ? `/images/${card.imageID}.png` : '/cardEx.png'} alt={card.cardName} style={{ maxWidth: '100px', marginRight: '20px' }} />
-                            <div className="card-details" style={{ color: 'white' }}>
-                                <p>Card ID: {card.cardID}</p>
-                                <p>Set: {card.setID}</p>
-                                <p>Card Name: {card.cardName}</p>
+                        <a key={card.cardID} href={`/card/${card.setID}/${card.cardID}`} className="card-link">
+                            <div className="card" style={{ display: 'flex', alignItems: 'center', margin: '10px', backgroundColor: '#333', borderRadius: '5px', padding: '10px', width: '300px' }}>
+                                <img src={card.imageID ? `/images/${card.imageID}.png` : '/cardEx.png'} alt={card.cardName} style={{ maxWidth: '100px', marginRight: '20px' }} />
+                                <div className="card-details" style={{ color: 'white' }}>
+                                    <p>Card ID: {card.cardID}</p>
+                                    <p>Set: {card.setID}</p>
+                                    <p>Card Name: {card.cardName}</p>
+                                </div>
                             </div>
-                        </div>
+                        </a>
                     ))}
                 </div>
             </div>
