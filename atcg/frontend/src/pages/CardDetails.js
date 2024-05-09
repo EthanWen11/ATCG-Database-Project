@@ -2,13 +2,13 @@ import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
 
 const CardDetails = () => {
-  const { id } = useParams();
+  const { id, set } = useParams();
   const [card, setCard] = useState(null);
 
   useEffect(() => {
     const fetchCard = async () => {
       try {
-        const response = await fetch(`http://localhost:3001/cards/${id}`);
+        const response = await fetch(`http://localhost:3001/cards/${set}/${id}`);
         if (response.ok) {
           const data = await response.json();
           setCard(data);
@@ -21,15 +21,15 @@ const CardDetails = () => {
     };
 
     fetchCard();
-  }, [id]);
+  }, [id, set]);
 
   return (
     <div className="min-h-screen relative bg-gradient-to-b from-gray-600 to-indigo-900 flex flex-col items-center overflow-hidden">
       <div className="px-60 py-6 w-full">
         {card ? (
-          <div className="mt-20 text-white flex justify-center">
+          <div className="mt-10 text-white flex justify-center">
             <div className="w-1/2 pr-8">
-              <img src={`/images/${card.imageID}.png`} alt={card.cardName} />
+              <img src={`/images/${card.imageID}.png`} alt={card.cardName} style={{ maxWidth: '360px' }}/>
             </div>
             <div className="w-1/2">
               <h2 className="text-4xl mb-6">Card Name:  {card.cardName}</h2>
