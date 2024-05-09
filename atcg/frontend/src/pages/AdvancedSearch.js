@@ -89,9 +89,8 @@ const AdvancedSearch = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    const params = new URLSearchParams();
+    const params = new URLSearchParams({"order" : "id"});
 
-    params.set("order", cardName);
     if (cardName.length > 0) params.set("cardName", cardName);
     if(colors.length > 0) params.set("color", colors.join(" "));
     if(rarities.length > 0) params.set("rarity", rarities.join(" "));

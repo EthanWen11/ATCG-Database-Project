@@ -13,7 +13,8 @@ const SearchForm = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    const params = new URLSearchParams({"q": query})
+    const params = new URLSearchParams({"order": "id"})
+    if(query !== '') params.set("q", query);
     navigate(`/search?${params.toString()}`);
   };
 
