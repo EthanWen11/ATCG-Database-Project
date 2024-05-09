@@ -28,7 +28,7 @@ const Search = () => {
         const fetchData = async () => {
             try {
                 if (searchParams.get("q")) {
-                    const res = await fetch('http://localhost:3001/cards');
+                    const res = await fetch('http://localhost:3001/search?' + searchParams.toString(), { method: 'get', });
                     setCards(await res.json())
                 }
                 else if (searchParams.size >= 1) {
@@ -55,7 +55,7 @@ const Search = () => {
         <div className="min-h-screen bg-gradient-to-b from-gray-600 to-indigo-900 flex flex-col items-center">
             <span style={textStyle}>{query}</span>
             <span style={textStyle}>
-                {cards.map((card, i) =>
+                {cards.map((card) =>
                     <p>
                         {card.setID}
                         {card.cardName}
