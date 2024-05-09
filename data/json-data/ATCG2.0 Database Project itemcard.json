@@ -1,0 +1,1117 @@
+[
+  {
+    "setID": "COR",
+    "cardID": "029",
+    "cost": 1
+  },
+  {
+    "setID": "COR",
+    "cardID": "030",
+    "cost": 2
+  },
+  {
+    "setID": "COR",
+    "cardID": "031",
+    "cost": 3
+  },
+  {
+    "setID": "COR",
+    "cardID": "032",
+    "cost": 4
+  },
+  {
+    "setID": "COR",
+    "cardID": "033",
+    "cost": 5
+  },
+  {
+    "setID": "COR",
+    "cardID": "056",
+    "cost": 2
+  },
+  {
+    "setID": "COR",
+    "cardID": "057",
+    "cost": 2
+  },
+  {
+    "setID": "COR",
+    "cardID": "058",
+    "cost": 2
+  },
+  {
+    "setID": "COR",
+    "cardID": "059",
+    "cost": 3
+  },
+  {
+    "setID": "COR",
+    "cardID": "060",
+    "cost": 4
+  },
+  {
+    "setID": "COR",
+    "cardID": "079",
+    "cost": 1
+  },
+  {
+    "setID": "COR",
+    "cardID": "080",
+    "cost": 1
+  },
+  {
+    "setID": "COR",
+    "cardID": "081",
+    "cost": 2
+  },
+  {
+    "setID": "COR",
+    "cardID": "082",
+    "cost": 2
+  },
+  {
+    "setID": "COR",
+    "cardID": "083",
+    "cost": 2
+  },
+  {
+    "setID": "COR",
+    "cardID": "084",
+    "cost": 2
+  },
+  {
+    "setID": "COR",
+    "cardID": "085",
+    "cost": 2
+  },
+  {
+    "setID": "COR",
+    "cardID": "086",
+    "cost": 3
+  },
+  {
+    "setID": "COR",
+    "cardID": "087",
+    "cost": 3
+  },
+  {
+    "setID": "COR",
+    "cardID": "088",
+    "cost": 4
+  },
+  {
+    "setID": "COR",
+    "cardID": 112,
+    "cost": 2
+  },
+  {
+    "setID": "COR",
+    "cardID": 113,
+    "cost": 2
+  },
+  {
+    "setID": "COR",
+    "cardID": 114,
+    "cost": 2
+  },
+  {
+    "setID": "COR",
+    "cardID": 115,
+    "cost": 3
+  },
+  {
+    "setID": "COR",
+    "cardID": 116,
+    "cost": 3
+  },
+  {
+    "setID": "COR",
+    "cardID": 139,
+    "cost": 1
+  },
+  {
+    "setID": "COR",
+    "cardID": 140,
+    "cost": 2
+  },
+  {
+    "setID": "COR",
+    "cardID": 141,
+    "cost": 3
+  },
+  {
+    "setID": "COR",
+    "cardID": 142,
+    "cost": 4
+  },
+  {
+    "setID": "COR",
+    "cardID": 143,
+    "cost": 5
+  },
+  {
+    "setID": "COR",
+    "cardID": 144,
+    "cost": 6
+  },
+  {
+    "setID": "HOE",
+    "cardID": "006",
+    "cost": 1
+  },
+  {
+    "setID": "HOE",
+    "cardID": "007",
+    "cost": 1
+  },
+  {
+    "setID": "HOE",
+    "cardID": "008",
+    "cost": 2
+  },
+  {
+    "setID": "HOE",
+    "cardID": "025",
+    "cost": 1
+  },
+  {
+    "setID": "HOE",
+    "cardID": "026",
+    "cost": 1
+  },
+  {
+    "setID": "HOE",
+    "cardID": "027",
+    "cost": 1
+  },
+  {
+    "setID": "HOE",
+    "cardID": "028",
+    "cost": 1
+  },
+  {
+    "setID": "HOE",
+    "cardID": "048",
+    "cost": 1
+  },
+  {
+    "setID": "HOE",
+    "cardID": "049",
+    "cost": 1
+  },
+  {
+    "setID": "HOE",
+    "cardID": "050",
+    "cost": 2
+  },
+  {
+    "setID": "HOE",
+    "cardID": "051",
+    "cost": 2
+  },
+  {
+    "setID": "HOE",
+    "cardID": "052",
+    "cost": 1
+  },
+  {
+    "setID": "HOE",
+    "cardID": "053",
+    "cost": 0
+  },
+  {
+    "setID": "HOE",
+    "cardID": "054",
+    "cost": 1
+  },
+  {
+    "setID": "HOE",
+    "cardID": "055",
+    "cost": 0
+  },
+  {
+    "setID": "HOE",
+    "cardID": "056",
+    "cost": 2
+  },
+  {
+    "setID": "HOE",
+    "cardID": "057",
+    "cost": 3
+  },
+  {
+    "setID": "HOE",
+    "cardID": "080",
+    "cost": 0
+  },
+  {
+    "setID": "HOE",
+    "cardID": "081",
+    "cost": 0
+  },
+  {
+    "setID": "HOE",
+    "cardID": "082",
+    "cost": 0
+  },
+  {
+    "setID": "HOE",
+    "cardID": "083",
+    "cost": 1
+  },
+  {
+    "setID": "HOE",
+    "cardID": "084",
+    "cost": 0
+  },
+  {
+    "setID": "HOE",
+    "cardID": "085",
+    "cost": 1
+  },
+  {
+    "setID": "HOE",
+    "cardID": 108,
+    "cost": 0
+  },
+  {
+    "setID": "HOE",
+    "cardID": 109,
+    "cost": 0
+  },
+  {
+    "setID": "HOE",
+    "cardID": 110,
+    "cost": 2
+  },
+  {
+    "setID": "HOE",
+    "cardID": 111,
+    "cost": 1
+  },
+  {
+    "setID": "HOE",
+    "cardID": 112,
+    "cost": 1
+  },
+  {
+    "setID": "HOE",
+    "cardID": 113,
+    "cost": 2
+  },
+  {
+    "setID": "ELM",
+    "cardID": "015",
+    "cost": 2
+  },
+  {
+    "setID": "WHV",
+    "cardID": "020",
+    "cost": 0
+  },
+  {
+    "setID": "WHV",
+    "cardID": "021",
+    "cost": 2
+  },
+  {
+    "setID": "WHV",
+    "cardID": "022",
+    "cost": 2
+  },
+  {
+    "setID": "WHV",
+    "cardID": "023",
+    "cost": 4
+  },
+  {
+    "setID": "WHV",
+    "cardID": "038",
+    "cost": 1
+  },
+  {
+    "setID": "WHV",
+    "cardID": "039",
+    "cost": 2
+  },
+  {
+    "setID": "WHV",
+    "cardID": "040",
+    "cost": 3
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T09",
+    "cost": 1
+  },
+  {
+    "setID": "WHV",
+    "cardID": "049",
+    "cost": 1
+  },
+  {
+    "setID": "WHV",
+    "cardID": "050",
+    "cost": 2
+  },
+  {
+    "setID": "WHV",
+    "cardID": "051",
+    "cost": 3
+  },
+  {
+    "setID": "WHV",
+    "cardID": "052",
+    "cost": 4
+  },
+  {
+    "setID": "WHV",
+    "cardID": "053",
+    "cost": 5
+  },
+  {
+    "setID": "WHV",
+    "cardID": "054",
+    "cost": 6
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T03",
+    "cost": 3
+  },
+  {
+    "setID": "WHV",
+    "cardID": "066",
+    "cost": 1
+  },
+  {
+    "setID": "WHV",
+    "cardID": "067",
+    "cost": 3
+  },
+  {
+    "setID": "WHV",
+    "cardID": "068",
+    "cost": 3
+  },
+  {
+    "setID": "WHV",
+    "cardID": "081",
+    "cost": 2
+  },
+  {
+    "setID": "WHV",
+    "cardID": "082",
+    "cost": 3
+  },
+  {
+    "setID": "DEP",
+    "cardID": "017",
+    "cost": 2
+  },
+  {
+    "setID": "DEP",
+    "cardID": "018",
+    "cost": 2
+  },
+  {
+    "setID": "DEP",
+    "cardID": "037",
+    "cost": 1
+  },
+  {
+    "setID": "DEP",
+    "cardID": "038",
+    "cost": 1
+  },
+  {
+    "setID": "DEP",
+    "cardID": "039",
+    "cost": 2
+  },
+  {
+    "setID": "DEP",
+    "cardID": "040",
+    "cost": 2
+  },
+  {
+    "setID": "DEP",
+    "cardID": "041",
+    "cost": 3
+  },
+  {
+    "setID": "DEP",
+    "cardID": "054",
+    "cost": 1
+  },
+  {
+    "setID": "DEP",
+    "cardID": "055",
+    "cost": 2
+  },
+  {
+    "setID": "DEP",
+    "cardID": "056",
+    "cost": 2
+  },
+  {
+    "setID": "DEP",
+    "cardID": "057",
+    "cost": 2
+  },
+  {
+    "setID": "DEP",
+    "cardID": "058",
+    "cost": 3
+  },
+  {
+    "setID": "DEP",
+    "cardID": "059",
+    "cost": 3
+  },
+  {
+    "setID": "DEP",
+    "cardID": "060",
+    "cost": 3
+  },
+  {
+    "setID": "DEP",
+    "cardID": "061",
+    "cost": 4
+  },
+  {
+    "setID": "DEP",
+    "cardID": "079",
+    "cost": 2
+  },
+  {
+    "setID": "DEP",
+    "cardID": "080",
+    "cost": 3
+  },
+  {
+    "setID": "DEP",
+    "cardID": "081",
+    "cost": 3
+  },
+  {
+    "setID": "DEP",
+    "cardID": "098",
+    "cost": 2
+  },
+  {
+    "setID": "DEP",
+    "cardID": "099",
+    "cost": 2
+  },
+  {
+    "setID": "DEP",
+    "cardID": 100,
+    "cost": 3
+  },
+  {
+    "setID": "DEP",
+    "cardID": 101,
+    "cost": 4
+  },
+  {
+    "setID": "QIL",
+    "cardID": "020",
+    "cost": 1
+  },
+  {
+    "setID": "QIL",
+    "cardID": "021",
+    "cost": 2
+  },
+  {
+    "setID": "QIL",
+    "cardID": "043",
+    "cost": 1
+  },
+  {
+    "setID": "QIL",
+    "cardID": "044",
+    "cost": 2
+  },
+  {
+    "setID": "QIL",
+    "cardID": "061",
+    "cost": 1
+  },
+  {
+    "setID": "QIL",
+    "cardID": "062",
+    "cost": 2
+  },
+  {
+    "setID": "QIL",
+    "cardID": "063",
+    "cost": 2
+  },
+  {
+    "setID": "QIL",
+    "cardID": "064",
+    "cost": 3
+  },
+  {
+    "setID": "QIL",
+    "cardID": "083",
+    "cost": 2
+  },
+  {
+    "setID": "QIL",
+    "cardID": "084",
+    "cost": 4
+  },
+  {
+    "setID": "QIL",
+    "cardID": 101,
+    "cost": 2
+  },
+  {
+    "setID": "QIL",
+    "cardID": 102,
+    "cost": 2
+  },
+  {
+    "setID": "QIL",
+    "cardID": 103,
+    "cost": 2
+  },
+  {
+    "setID": "QIL",
+    "cardID": 104,
+    "cost": 3
+  },
+  {
+    "setID": "QIL",
+    "cardID": "T07",
+    "cost": 2
+  },
+  {
+    "setID": "CLA",
+    "cardID": "011",
+    "cost": 0
+  },
+  {
+    "setID": "CLA",
+    "cardID": "012",
+    "cost": 2
+  },
+  {
+    "setID": "CLA",
+    "cardID": "T01",
+    "cost": 4
+  },
+  {
+    "setID": "CLA",
+    "cardID": "032",
+    "cost": 4
+  },
+  {
+    "setID": "CLA",
+    "cardID": "034",
+    "cost": 1
+  },
+  {
+    "setID": "CLA",
+    "cardID": "035",
+    "cost": 2
+  },
+  {
+    "setID": "CLA",
+    "cardID": "036",
+    "cost": 2
+  },
+  {
+    "setID": "CLA",
+    "cardID": "037",
+    "cost": 3
+  },
+  {
+    "setID": "CLA",
+    "cardID": "038",
+    "cost": 3
+  },
+  {
+    "setID": "CLA",
+    "cardID": "039",
+    "cost": 6
+  },
+  {
+    "setID": "CLA",
+    "cardID": "T04",
+    "cost": 2
+  },
+  {
+    "setID": "CLA",
+    "cardID": "048",
+    "cost": 4
+  },
+  {
+    "setID": "CLA",
+    "cardID": "049",
+    "cost": 1
+  },
+  {
+    "setID": "CLA",
+    "cardID": "050",
+    "cost": 1
+  },
+  {
+    "setID": "CLA",
+    "cardID": "051",
+    "cost": 2
+  },
+  {
+    "setID": "CLA",
+    "cardID": "052",
+    "cost": 2
+  },
+  {
+    "setID": "CLA",
+    "cardID": "053",
+    "cost": 2
+  },
+  {
+    "setID": "CLA",
+    "cardID": "068",
+    "cost": 3
+  },
+  {
+    "setID": "CLA",
+    "cardID": "T05",
+    "cost": 4
+  },
+  {
+    "setID": "KGD",
+    "cardID": "023",
+    "cost": 2
+  },
+  {
+    "setID": "KGD",
+    "cardID": "024",
+    "cost": 4
+  },
+  {
+    "setID": "KGD",
+    "cardID": "039",
+    "cost": 2
+  },
+  {
+    "setID": "KGD",
+    "cardID": "040",
+    "cost": 4
+  },
+  {
+    "setID": "KGD",
+    "cardID": "053",
+    "cost": 2
+  },
+  {
+    "setID": "KGD",
+    "cardID": "054",
+    "cost": 4
+  },
+  {
+    "setID": "KGD",
+    "cardID": "067",
+    "cost": 2
+  },
+  {
+    "setID": "KGD",
+    "cardID": "068",
+    "cost": 4
+  },
+  {
+    "setID": "KGD",
+    "cardID": "081",
+    "cost": 2
+  },
+  {
+    "setID": "KGD",
+    "cardID": "082",
+    "cost": 4
+  },
+  {
+    "setID": "NIN",
+    "cardID": "015",
+    "cost": 2
+  },
+  {
+    "setID": "NIN",
+    "cardID": "016",
+    "cost": 2
+  },
+  {
+    "setID": "NIN",
+    "cardID": "017",
+    "cost": 2
+  },
+  {
+    "setID": "NIN",
+    "cardID": "018",
+    "cost": 2
+  },
+  {
+    "setID": "NIN",
+    "cardID": "019",
+    "cost": 2
+  },
+  {
+    "setID": "NIN",
+    "cardID": "020",
+    "cost": 2
+  },
+  {
+    "setID": "NIN",
+    "cardID": "043",
+    "cost": 1
+  },
+  {
+    "setID": "NIN",
+    "cardID": "044",
+    "cost": 1
+  },
+  {
+    "setID": "NIN",
+    "cardID": "045",
+    "cost": 1
+  },
+  {
+    "setID": "NIN",
+    "cardID": "046",
+    "cost": 2
+  },
+  {
+    "setID": "NIN",
+    "cardID": "047",
+    "cost": 3
+  },
+  {
+    "setID": "NIN",
+    "cardID": "067",
+    "cost": 1
+  },
+  {
+    "setID": "NIN",
+    "cardID": "068",
+    "cost": 1
+  },
+  {
+    "setID": "NIN",
+    "cardID": "069",
+    "cost": 2
+  },
+  {
+    "setID": "NIN",
+    "cardID": "070",
+    "cost": 2
+  },
+  {
+    "setID": "NIN",
+    "cardID": "071",
+    "cost": 3
+  },
+  {
+    "setID": "NIN",
+    "cardID": "072",
+    "cost": 3
+  },
+  {
+    "setID": "NIN",
+    "cardID": "T01",
+    "cost": 2
+  },
+  {
+    "setID": "NIN",
+    "cardID": "094",
+    "cost": 1
+  },
+  {
+    "setID": "NIN",
+    "cardID": "095",
+    "cost": 1
+  },
+  {
+    "setID": "NIN",
+    "cardID": "096",
+    "cost": 2
+  },
+  {
+    "setID": "NIN",
+    "cardID": "097",
+    "cost": 3
+  },
+  {
+    "setID": "NIN",
+    "cardID": 118,
+    "cost": 1
+  },
+  {
+    "setID": "NIN",
+    "cardID": 119,
+    "cost": 1
+  },
+  {
+    "setID": "NIN",
+    "cardID": 120,
+    "cost": 2
+  },
+  {
+    "setID": "NIN",
+    "cardID": 121,
+    "cost": 4
+  },
+  {
+    "setID": "NIN",
+    "cardID": 122,
+    "cost": 7
+  },
+  {
+    "setID": "NIN",
+    "cardID": 129,
+    "cost": 3
+  },
+  {
+    "setID": "NIN",
+    "cardID": 130,
+    "cost": 3
+  },
+  {
+    "setID": "NIN",
+    "cardID": 131,
+    "cost": 3
+  },
+  {
+    "setID": "NIN",
+    "cardID": 132,
+    "cost": 3
+  },
+  {
+    "setID": "NIN",
+    "cardID": 133,
+    "cost": 3
+  },
+  {
+    "setID": "NIN",
+    "cardID": 134,
+    "cost": 3
+  },
+  {
+    "setID": "JGK",
+    "cardID": "023",
+    "cost": 3
+  },
+  {
+    "setID": "JGK",
+    "cardID": "024",
+    "cost": 4
+  },
+  {
+    "setID": "JGK",
+    "cardID": "049",
+    "cost": 1
+  },
+  {
+    "setID": "JGK",
+    "cardID": "050",
+    "cost": 2
+  },
+  {
+    "setID": "JGK",
+    "cardID": "051",
+    "cost": 4
+  },
+  {
+    "setID": "JGK",
+    "cardID": "052",
+    "cost": 4
+  },
+  {
+    "setID": "JGK",
+    "cardID": "075",
+    "cost": 1
+  },
+  {
+    "setID": "JGK",
+    "cardID": "076",
+    "cost": 2
+  },
+  {
+    "setID": "JGK",
+    "cardID": "077",
+    "cost": 3
+  },
+  {
+    "setID": "JGK",
+    "cardID": "078",
+    "cost": 4
+  },
+  {
+    "setID": "JGK",
+    "cardID": "079",
+    "cost": 7
+  },
+  {
+    "setID": "JGK",
+    "cardID": 104,
+    "cost": 3
+  },
+  {
+    "setID": "JGK",
+    "cardID": 105,
+    "cost": 2
+  },
+  {
+    "setID": "JGK",
+    "cardID": 106,
+    "cost": 10
+  },
+  {
+    "setID": "JGK",
+    "cardID": 130,
+    "cost": 2
+  },
+  {
+    "setID": "JGK",
+    "cardID": 131,
+    "cost": 3
+  },
+  {
+    "setID": "JGK",
+    "cardID": 132,
+    "cost": 4
+  },
+  {
+    "setID": "JGK",
+    "cardID": 133,
+    "cost": 5
+  },
+  {
+    "setID": "JGK",
+    "cardID": 138,
+    "cost": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": "087",
+    "cost": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": "088",
+    "cost": 1
+  },
+  {
+    "setID": "FAL",
+    "cardID": "089",
+    "cost": 1
+  },
+  {
+    "setID": "FAL",
+    "cardID": "090",
+    "cost": 4
+  },
+  {
+    "setID": "FAL",
+    "cardID": "091",
+    "cost": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": 118,
+    "cost": 1
+  },
+  {
+    "setID": "FAL",
+    "cardID": 119,
+    "cost": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": 120,
+    "cost": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": 121,
+    "cost": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": 122,
+    "cost": 4
+  },
+  {
+    "setID": "FAL",
+    "cardID": 123,
+    "cost": 5
+  },
+  {
+    "setID": "FAL",
+    "cardID": 124,
+    "cost": 8
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T05",
+    "cost": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": 153,
+    "cost": 1
+  },
+  {
+    "setID": "FAL",
+    "cardID": 154,
+    "cost": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": 155,
+    "cost": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": 156,
+    "cost": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": 157,
+    "cost": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": 188,
+    "cost": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": 189,
+    "cost": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": 190,
+    "cost": 5
+  },
+  {
+    "setID": "FAL",
+    "cardID": 192,
+    "cost": 4
+  },
+  {
+    "setID": "FAL",
+    "cardID": 198,
+    "cost": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": 200,
+    "cost": 2
+  }
+]

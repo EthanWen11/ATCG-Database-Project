@@ -1,0 +1,4881 @@
+[
+  {
+    "setID": "COR",
+    "cardID": "001",
+    "cost": 2,
+    "attack": 2,
+    "health": 3
+  },
+  {
+    "setID": "COR",
+    "cardID": "002",
+    "cost": 5,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "COR",
+    "cardID": "003",
+    "cost": 4,
+    "attack": 5,
+    "health": 4
+  },
+  {
+    "setID": "COR",
+    "cardID": "012",
+    "cost": 1,
+    "attack": 1,
+    "health": 3
+  },
+  {
+    "setID": "COR",
+    "cardID": "013",
+    "cost": 1,
+    "attack": 2,
+    "health": 1
+  },
+  {
+    "setID": "COR",
+    "cardID": "014",
+    "cost": 1,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "COR",
+    "cardID": "015",
+    "cost": 2,
+    "attack": 2,
+    "health": 1
+  },
+  {
+    "setID": "COR",
+    "cardID": "016",
+    "cost": 3,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "COR",
+    "cardID": "017",
+    "cost": 3,
+    "attack": 4,
+    "health": 2
+  },
+  {
+    "setID": "COR",
+    "cardID": "018",
+    "cost": 4,
+    "attack": 4,
+    "health": 4
+  },
+  {
+    "setID": "COR",
+    "cardID": "019",
+    "cost": 4,
+    "attack": 0,
+    "health": 3
+  },
+  {
+    "setID": "COR",
+    "cardID": "020",
+    "cost": 5,
+    "attack": 4,
+    "health": 4
+  },
+  {
+    "setID": "COR",
+    "cardID": "021",
+    "cost": 5,
+    "attack": 2,
+    "health": 6
+  },
+  {
+    "setID": "COR",
+    "cardID": "022",
+    "cost": 6,
+    "attack": 4,
+    "health": 4
+  },
+  {
+    "setID": "COR",
+    "cardID": "023",
+    "cost": 10,
+    "attack": 12,
+    "health": 12
+  },
+  {
+    "setID": "COR",
+    "cardID": "T01",
+    "cost": 1,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "COR",
+    "cardID": "T02",
+    "cost": 3,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "COR",
+    "cardID": "004",
+    "cost": 6,
+    "attack": 2,
+    "health": 4
+  },
+  {
+    "setID": "COR",
+    "cardID": "005",
+    "cost": 16,
+    "attack": 6,
+    "health": 6
+  },
+  {
+    "setID": "COR",
+    "cardID": "038",
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "COR",
+    "cardID": "039",
+    "cost": 2,
+    "attack": 2,
+    "health": 1
+  },
+  {
+    "setID": "COR",
+    "cardID": "040",
+    "cost": 2,
+    "attack": 2,
+    "health": 3
+  },
+  {
+    "setID": "COR",
+    "cardID": "041",
+    "cost": 2,
+    "attack": 1,
+    "health": 3
+  },
+  {
+    "setID": "COR",
+    "cardID": "042",
+    "cost": 2,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "COR",
+    "cardID": "043",
+    "cost": 3,
+    "attack": 4,
+    "health": 4
+  },
+  {
+    "setID": "COR",
+    "cardID": "044",
+    "cost": 3,
+    "attack": 4,
+    "health": 5
+  },
+  {
+    "setID": "COR",
+    "cardID": "045",
+    "cost": 4,
+    "attack": 4,
+    "health": 4
+  },
+  {
+    "setID": "COR",
+    "cardID": "046",
+    "cost": 5,
+    "attack": 3,
+    "health": 2
+  },
+  {
+    "setID": "COR",
+    "cardID": "047",
+    "cost": 7,
+    "attack": 5,
+    "health": 7
+  },
+  {
+    "setID": "COR",
+    "cardID": "048",
+    "cost": 8,
+    "attack": 8,
+    "health": 8
+  },
+  {
+    "setID": "COR",
+    "cardID": "T03",
+    "cost": 2,
+    "attack": 2,
+    "health": 3
+  },
+  {
+    "setID": "COR",
+    "cardID": "006",
+    "cost": 3,
+    "attack": 2,
+    "health": 1
+  },
+  {
+    "setID": "COR",
+    "cardID": "007",
+    "cost": 5,
+    "attack": 3,
+    "health": 5
+  },
+  {
+    "setID": "COR",
+    "cardID": "066",
+    "cost": 1,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "COR",
+    "cardID": "067",
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "COR",
+    "cardID": "068",
+    "cost": 2,
+    "attack": 3,
+    "health": 1
+  },
+  {
+    "setID": "COR",
+    "cardID": "069",
+    "cost": 2,
+    "attack": 1,
+    "health": 3
+  },
+  {
+    "setID": "COR",
+    "cardID": "070",
+    "cost": 3,
+    "attack": 3,
+    "health": 2
+  },
+  {
+    "setID": "COR",
+    "cardID": "071",
+    "cost": 4,
+    "attack": 4,
+    "health": 4
+  },
+  {
+    "setID": "COR",
+    "cardID": "072",
+    "cost": 5,
+    "attack": 3,
+    "health": 5
+  },
+  {
+    "setID": "COR",
+    "cardID": "073",
+    "cost": 7,
+    "attack": 4,
+    "health": 4
+  },
+  {
+    "setID": "COR",
+    "cardID": "074",
+    "cost": 9,
+    "attack": 5,
+    "health": 6
+  },
+  {
+    "setID": "COR",
+    "cardID": "T04",
+    "cost": 2,
+    "attack": 0,
+    "health": 3
+  },
+  {
+    "setID": "COR",
+    "cardID": "T05",
+    "cost": 3,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "COR",
+    "cardID": "008",
+    "cost": 2,
+    "attack": 3,
+    "health": 1
+  },
+  {
+    "setID": "COR",
+    "cardID": "009",
+    "cost": 6,
+    "attack": 3,
+    "health": 5
+  },
+  {
+    "setID": "COR",
+    "cardID": "094",
+    "cost": 1,
+    "attack": 2,
+    "health": 1
+  },
+  {
+    "setID": "COR",
+    "cardID": "095",
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "COR",
+    "cardID": "096",
+    "cost": 3,
+    "attack": 3,
+    "health": 4
+  },
+  {
+    "setID": "COR",
+    "cardID": "097",
+    "cost": 3,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "COR",
+    "cardID": "098",
+    "cost": 4,
+    "attack": 4,
+    "health": 4
+  },
+  {
+    "setID": "COR",
+    "cardID": "099",
+    "cost": 5,
+    "attack": 3,
+    "health": 2
+  },
+  {
+    "setID": "COR",
+    "cardID": 100,
+    "cost": 5,
+    "attack": 3,
+    "health": 4
+  },
+  {
+    "setID": "COR",
+    "cardID": 101,
+    "cost": 6,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "COR",
+    "cardID": "T07",
+    "cost": 1,
+    "attack": 0,
+    "health": 1
+  },
+  {
+    "setID": "COR",
+    "cardID": "T08",
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "COR",
+    "cardID": "T09",
+    "cost": 4,
+    "attack": 4,
+    "health": 4
+  },
+  {
+    "setID": "COR",
+    "cardID": "T10",
+    "cost": 5,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "COR",
+    "cardID": "T11",
+    "cost": 6,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "COR",
+    "cardID": "010",
+    "cost": 2,
+    "attack": 2,
+    "health": 0
+  },
+  {
+    "setID": "COR",
+    "cardID": "011",
+    "cost": 8,
+    "attack": 3,
+    "health": 8
+  },
+  {
+    "setID": "COR",
+    "cardID": 122,
+    "cost": 1,
+    "attack": 1,
+    "health": 2
+  },
+  {
+    "setID": "COR",
+    "cardID": 123,
+    "cost": 1,
+    "attack": 2,
+    "health": 1
+  },
+  {
+    "setID": "COR",
+    "cardID": 124,
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "COR",
+    "cardID": 125,
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "COR",
+    "cardID": 126,
+    "cost": 2,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "COR",
+    "cardID": 127,
+    "cost": 4,
+    "attack": 4,
+    "health": 4
+  },
+  {
+    "setID": "COR",
+    "cardID": 128,
+    "cost": 4,
+    "attack": 3,
+    "health": 6
+  },
+  {
+    "setID": "COR",
+    "cardID": 129,
+    "cost": 4,
+    "attack": 4,
+    "health": 4
+  },
+  {
+    "setID": "COR",
+    "cardID": 130,
+    "cost": 4,
+    "attack": 3,
+    "health": 2
+  },
+  {
+    "setID": "COR",
+    "cardID": 131,
+    "cost": 5,
+    "attack": 1,
+    "health": 5
+  },
+  {
+    "setID": "COR",
+    "cardID": 132,
+    "cost": 10,
+    "attack": 8,
+    "health": 8
+  },
+  {
+    "setID": "COR",
+    "cardID": "T12",
+    "cost": 3,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "HOE",
+    "cardID": "001",
+    "cost": 0,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "HOE",
+    "cardID": "002",
+    "cost": 0,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "HOE",
+    "cardID": "003",
+    "cost": 0,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "HOE",
+    "cardID": "004",
+    "cost": 0,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "HOE",
+    "cardID": "005",
+    "cost": 5,
+    "attack": 0,
+    "health": 20
+  },
+  {
+    "setID": "HOE",
+    "cardID": "009",
+    "cost": 1,
+    "attack": 3,
+    "health": 2
+  },
+  {
+    "setID": "HOE",
+    "cardID": "010",
+    "cost": 1,
+    "attack": 0,
+    "health": 3
+  },
+  {
+    "setID": "HOE",
+    "cardID": "011",
+    "cost": 2,
+    "attack": 5,
+    "health": 2
+  },
+  {
+    "setID": "HOE",
+    "cardID": "012",
+    "cost": 1,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "HOE",
+    "cardID": "013",
+    "cost": 2,
+    "attack": 3,
+    "health": 4
+  },
+  {
+    "setID": "HOE",
+    "cardID": "014",
+    "cost": 1,
+    "attack": 3,
+    "health": 4
+  },
+  {
+    "setID": "HOE",
+    "cardID": "015",
+    "cost": 0,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "HOE",
+    "cardID": "016",
+    "cost": 6,
+    "attack": 6,
+    "health": 6
+  },
+  {
+    "setID": "HOE",
+    "cardID": "017",
+    "cost": 1,
+    "attack": 1,
+    "health": 2
+  },
+  {
+    "setID": "HOE",
+    "cardID": "018",
+    "cost": 5,
+    "attack": 5,
+    "health": 8
+  },
+  {
+    "setID": "HOE",
+    "cardID": "019",
+    "cost": 1,
+    "attack": "",
+    "health": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "035",
+    "cost": 5,
+    "attack": 4,
+    "health": 4
+  },
+  {
+    "setID": "HOE",
+    "cardID": "036",
+    "cost": 0,
+    "attack": 1,
+    "health": 2
+  },
+  {
+    "setID": "HOE",
+    "cardID": "037",
+    "cost": 1,
+    "attack": 1,
+    "health": 3
+  },
+  {
+    "setID": "HOE",
+    "cardID": "038",
+    "cost": 2,
+    "attack": 2,
+    "health": 3
+  },
+  {
+    "setID": "HOE",
+    "cardID": "039",
+    "cost": 0,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "HOE",
+    "cardID": "040",
+    "cost": 1,
+    "attack": 1,
+    "health": 2
+  },
+  {
+    "setID": "HOE",
+    "cardID": "041",
+    "cost": 2,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "HOE",
+    "cardID": "062",
+    "cost": 1,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "HOE",
+    "cardID": "063",
+    "cost": 0,
+    "attack": 1,
+    "health": 2
+  },
+  {
+    "setID": "HOE",
+    "cardID": "064",
+    "cost": 1,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "HOE",
+    "cardID": "065",
+    "cost": 2,
+    "attack": 0,
+    "health": 1
+  },
+  {
+    "setID": "HOE",
+    "cardID": "066",
+    "cost": 1,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "HOE",
+    "cardID": "067",
+    "cost": 1,
+    "attack": 2,
+    "health": 0
+  },
+  {
+    "setID": "HOE",
+    "cardID": "068",
+    "cost": 0,
+    "attack": 2,
+    "health": 1
+  },
+  {
+    "setID": "HOE",
+    "cardID": "069",
+    "cost": 1,
+    "attack": 1,
+    "health": 2
+  },
+  {
+    "setID": "HOE",
+    "cardID": "070",
+    "cost": 2,
+    "attack": "",
+    "health": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "089",
+    "cost": 2,
+    "attack": 7,
+    "health": 6
+  },
+  {
+    "setID": "HOE",
+    "cardID": "090",
+    "cost": 1,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "HOE",
+    "cardID": "091",
+    "cost": 1,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "HOE",
+    "cardID": "092",
+    "cost": 2,
+    "attack": 0,
+    "health": 5
+  },
+  {
+    "setID": "HOE",
+    "cardID": "093",
+    "cost": 2,
+    "attack": 2,
+    "health": 3
+  },
+  {
+    "setID": "HOE",
+    "cardID": "094",
+    "cost": 1,
+    "attack": 0,
+    "health": 0
+  },
+  {
+    "setID": "HOE",
+    "cardID": "095",
+    "cost": 1,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "HOE",
+    "cardID": "096",
+    "cost": 2,
+    "attack": 2,
+    "health": 5
+  },
+  {
+    "setID": "HOE",
+    "cardID": "097",
+    "cost": 2,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "HOE",
+    "cardID": "098",
+    "cost": 1,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "HOE",
+    "cardID": "099",
+    "cost": 2,
+    "attack": 4,
+    "health": 4
+  },
+  {
+    "setID": "HOE",
+    "cardID": 100,
+    "cost": 1,
+    "attack": 2,
+    "health": 1
+  },
+  {
+    "setID": "HOE",
+    "cardID": 101,
+    "cost": 1,
+    "attack": 1,
+    "health": 2
+  },
+  {
+    "setID": "ELM",
+    "cardID": "006",
+    "cost": 2,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "ELM",
+    "cardID": "011",
+    "cost": 0,
+    "attack": 1,
+    "health": 7
+  },
+  {
+    "setID": "ELM",
+    "cardID": "025",
+    "cost": 7,
+    "attack": 0,
+    "health": 5
+  },
+  {
+    "setID": "ELM",
+    "cardID": "027",
+    "cost": 0,
+    "attack": 0,
+    "health": 3
+  },
+  {
+    "setID": "WHV",
+    "cardID": "001",
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "WHV",
+    "cardID": "002",
+    "cost": 6,
+    "attack": 4,
+    "health": 4
+  },
+  {
+    "setID": "WHV",
+    "cardID": "011",
+    "cost": 1,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "WHV",
+    "cardID": "012",
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "WHV",
+    "cardID": "013",
+    "cost": 3,
+    "attack": 2,
+    "health": 4
+  },
+  {
+    "setID": "WHV",
+    "cardID": "014",
+    "cost": 4,
+    "attack": 1,
+    "health": 4
+  },
+  {
+    "setID": "WHV",
+    "cardID": "015",
+    "cost": 4,
+    "attack": 1,
+    "health": 2
+  },
+  {
+    "setID": "WHV",
+    "cardID": "003",
+    "cost": 3,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "WHV",
+    "cardID": "004",
+    "cost": 7,
+    "attack": 6,
+    "health": 6
+  },
+  {
+    "setID": "WHV",
+    "cardID": "028",
+    "cost": 1,
+    "attack": 2,
+    "health": 1
+  },
+  {
+    "setID": "WHV",
+    "cardID": "029",
+    "cost": 3,
+    "attack": 2,
+    "health": 3
+  },
+  {
+    "setID": "WHV",
+    "cardID": "030",
+    "cost": 3,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "WHV",
+    "cardID": "031",
+    "cost": 4,
+    "attack": 4,
+    "health": 2
+  },
+  {
+    "setID": "WHV",
+    "cardID": "032",
+    "cost": 4,
+    "attack": 3,
+    "health": 5
+  },
+  {
+    "setID": "WHV",
+    "cardID": "033",
+    "cost": 6,
+    "attack": 4,
+    "health": 5
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T01",
+    "cost": 1,
+    "attack": 2,
+    "health": 1
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T08",
+    "cost": 5,
+    "attack": 3,
+    "health": 5
+  },
+  {
+    "setID": "WHV",
+    "cardID": "005",
+    "cost": 3,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "WHV",
+    "cardID": "006",
+    "cost": 7,
+    "attack": 6,
+    "health": 6
+  },
+  {
+    "setID": "WHV",
+    "cardID": "042",
+    "cost": 1,
+    "attack": 0,
+    "health": 2
+  },
+  {
+    "setID": "WHV",
+    "cardID": "043",
+    "cost": 3,
+    "attack": 2,
+    "health": 3
+  },
+  {
+    "setID": "WHV",
+    "cardID": "044",
+    "cost": 3,
+    "attack": 3,
+    "health": 2
+  },
+  {
+    "setID": "WHV",
+    "cardID": "045",
+    "cost": 4,
+    "attack": 0,
+    "health": 4
+  },
+  {
+    "setID": "WHV",
+    "cardID": "046",
+    "cost": 4,
+    "attack": 1,
+    "health": 5
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T02",
+    "cost": 1,
+    "attack": 0,
+    "health": 2
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T10",
+    "cost": 6,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T11",
+    "cost": 2,
+    "attack": 2,
+    "health": 4
+  },
+  {
+    "setID": "WHV",
+    "cardID": "007",
+    "cost": 3,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "WHV",
+    "cardID": "008",
+    "cost": 7,
+    "attack": 6,
+    "health": 6
+  },
+  {
+    "setID": "WHV",
+    "cardID": "056",
+    "cost": 1,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "WHV",
+    "cardID": "057",
+    "cost": 3,
+    "attack": 1,
+    "health": 2
+  },
+  {
+    "setID": "WHV",
+    "cardID": "058",
+    "cost": 4,
+    "attack": 4,
+    "health": 2
+  },
+  {
+    "setID": "WHV",
+    "cardID": "059",
+    "cost": 7,
+    "attack": 7,
+    "health": 8
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T04",
+    "cost": 1,
+    "attack": "",
+    "health": ""
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T05",
+    "cost": 1,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T12",
+    "cost": 8,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "WHV",
+    "cardID": "009",
+    "cost": 3,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "WHV",
+    "cardID": "010",
+    "cost": 7,
+    "attack": 6,
+    "health": 6
+  },
+  {
+    "setID": "WHV",
+    "cardID": "070",
+    "cost": 1,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "WHV",
+    "cardID": "071",
+    "cost": 1,
+    "attack": 1,
+    "health": 2
+  },
+  {
+    "setID": "WHV",
+    "cardID": "072",
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "WHV",
+    "cardID": "073",
+    "cost": 3,
+    "attack": 3,
+    "health": 1
+  },
+  {
+    "setID": "WHV",
+    "cardID": "074",
+    "cost": 4,
+    "attack": 2,
+    "health": 3
+  },
+  {
+    "setID": "WHV",
+    "cardID": "075",
+    "cost": 5,
+    "attack": 3,
+    "health": 4
+  },
+  {
+    "setID": "WHV",
+    "cardID": "076",
+    "cost": 6,
+    "attack": 5,
+    "health": 6
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T06",
+    "cost": 1,
+    "attack": 1,
+    "health": 3
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T07",
+    "cost": 1,
+    "attack": 1,
+    "health": 2
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T14",
+    "cost": 7,
+    "attack": 5,
+    "health": 4
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T15",
+    "cost": 4,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "DEP",
+    "cardID": "001",
+    "cost": 1,
+    "attack": 0,
+    "health": 2
+  },
+  {
+    "setID": "DEP",
+    "cardID": "010",
+    "cost": 2,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "DEP",
+    "cardID": "011",
+    "cost": 3,
+    "attack": 0,
+    "health": 5
+  },
+  {
+    "setID": "DEP",
+    "cardID": "012",
+    "cost": 3,
+    "attack": 2,
+    "health": 3
+  },
+  {
+    "setID": "DEP",
+    "cardID": "013",
+    "cost": 4,
+    "attack": 3,
+    "health": 4
+  },
+  {
+    "setID": "DEP",
+    "cardID": "014",
+    "cost": 6,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "DEP",
+    "cardID": "002",
+    "cost": 2,
+    "attack": 2,
+    "health": 1
+  },
+  {
+    "setID": "DEP",
+    "cardID": "023",
+    "cost": 1,
+    "attack": 1,
+    "health": 2
+  },
+  {
+    "setID": "DEP",
+    "cardID": "024",
+    "cost": 1,
+    "attack": 2,
+    "health": 1
+  },
+  {
+    "setID": "DEP",
+    "cardID": "025",
+    "cost": 2,
+    "attack": 2,
+    "health": 3
+  },
+  {
+    "setID": "DEP",
+    "cardID": "026",
+    "cost": 2,
+    "attack": 3,
+    "health": 1
+  },
+  {
+    "setID": "DEP",
+    "cardID": "027",
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "DEP",
+    "cardID": "028",
+    "cost": 3,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "DEP",
+    "cardID": "029",
+    "cost": 4,
+    "attack": 3,
+    "health": 4
+  },
+  {
+    "setID": "DEP",
+    "cardID": "030",
+    "cost": 6,
+    "attack": 5,
+    "health": 8
+  },
+  {
+    "setID": "DEP",
+    "cardID": "031",
+    "cost": 6,
+    "attack": 5,
+    "health": 4
+  },
+  {
+    "setID": "DEP",
+    "cardID": "T01",
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "DEP",
+    "cardID": "003",
+    "cost": 3,
+    "attack": 4,
+    "health": 2
+  },
+  {
+    "setID": "DEP",
+    "cardID": "043",
+    "cost": 2,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "DEP",
+    "cardID": "044",
+    "cost": 3,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "DEP",
+    "cardID": "045",
+    "cost": 3,
+    "attack": 3,
+    "health": 2
+  },
+  {
+    "setID": "DEP",
+    "cardID": "046",
+    "cost": 3,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "DEP",
+    "cardID": "047",
+    "cost": 4,
+    "attack": 3,
+    "health": 4
+  },
+  {
+    "setID": "DEP",
+    "cardID": "048",
+    "cost": 4,
+    "attack": 5,
+    "health": 2
+  },
+  {
+    "setID": "DEP",
+    "cardID": "049",
+    "cost": 4,
+    "attack": 1,
+    "health": 4
+  },
+  {
+    "setID": "DEP",
+    "cardID": "050",
+    "cost": 5,
+    "attack": 2,
+    "health": 5
+  },
+  {
+    "setID": "DEP",
+    "cardID": "051",
+    "cost": 6,
+    "attack": 5,
+    "health": 5
+  },
+  {
+    "setID": "DEP",
+    "cardID": "004",
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "DEP",
+    "cardID": "063",
+    "cost": 1,
+    "attack": 1,
+    "health": 2
+  },
+  {
+    "setID": "DEP",
+    "cardID": "064",
+    "cost": 2,
+    "attack": 0,
+    "health": 3
+  },
+  {
+    "setID": "DEP",
+    "cardID": "065",
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "DEP",
+    "cardID": "066",
+    "cost": 3,
+    "attack": 1,
+    "health": 4
+  },
+  {
+    "setID": "DEP",
+    "cardID": "067",
+    "cost": 4,
+    "attack": 3,
+    "health": 4
+  },
+  {
+    "setID": "DEP",
+    "cardID": "068",
+    "cost": 4,
+    "attack": 3,
+    "health": 4
+  },
+  {
+    "setID": "DEP",
+    "cardID": "069",
+    "cost": 5,
+    "attack": 4,
+    "health": 6
+  },
+  {
+    "setID": "DEP",
+    "cardID": "070",
+    "cost": 5,
+    "attack": 3,
+    "health": 5
+  },
+  {
+    "setID": "DEP",
+    "cardID": "071",
+    "cost": 6,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "DEP",
+    "cardID": "T02",
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "DEP",
+    "cardID": "005",
+    "cost": 3,
+    "attack": 2,
+    "health": 4
+  },
+  {
+    "setID": "DEP",
+    "cardID": "083",
+    "cost": 1,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "DEP",
+    "cardID": "084",
+    "cost": 1,
+    "attack": 2,
+    "health": 1
+  },
+  {
+    "setID": "DEP",
+    "cardID": "085",
+    "cost": 1,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "DEP",
+    "cardID": "086",
+    "cost": 2,
+    "attack": 2,
+    "health": 3
+  },
+  {
+    "setID": "DEP",
+    "cardID": "087",
+    "cost": 2,
+    "attack": 0,
+    "health": 4
+  },
+  {
+    "setID": "DEP",
+    "cardID": "088",
+    "cost": 3,
+    "attack": 1,
+    "health": 3
+  },
+  {
+    "setID": "DEP",
+    "cardID": "089",
+    "cost": 3,
+    "attack": 4,
+    "health": 1
+  },
+  {
+    "setID": "DEP",
+    "cardID": "090",
+    "cost": 3,
+    "attack": 3,
+    "health": 4
+  },
+  {
+    "setID": "DEP",
+    "cardID": "091",
+    "cost": 4,
+    "attack": 2,
+    "health": 5
+  },
+  {
+    "setID": "DEP",
+    "cardID": "092",
+    "cost": 6,
+    "attack": 4,
+    "health": 7
+  },
+  {
+    "setID": "DEP",
+    "cardID": "006",
+    "cost": 3,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "DEP",
+    "cardID": "007",
+    "cost": 6,
+    "attack": 2,
+    "health": 8
+  },
+  {
+    "setID": "DEP",
+    "cardID": "008",
+    "cost": 7,
+    "attack": 5,
+    "health": 4
+  },
+  {
+    "setID": "DEP",
+    "cardID": "009",
+    "cost": 3,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "DEP",
+    "cardID": 103,
+    "cost": 4,
+    "attack": 1,
+    "health": 6
+  },
+  {
+    "setID": "DEP",
+    "cardID": 104,
+    "cost": 6,
+    "attack": 0,
+    "health": 8
+  },
+  {
+    "setID": "DEP",
+    "cardID": 105,
+    "cost": 8,
+    "attack": 6,
+    "health": 8
+  },
+  {
+    "setID": "DEP",
+    "cardID": 106,
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "DEP",
+    "cardID": 107,
+    "cost": 3,
+    "attack": 2,
+    "health": 3
+  },
+  {
+    "setID": "DEP",
+    "cardID": 108,
+    "cost": 2,
+    "attack": 1,
+    "health": 2
+  },
+  {
+    "setID": "QIL",
+    "cardID": "001",
+    "cost": 7,
+    "attack": 3,
+    "health": 9
+  },
+  {
+    "setID": "QIL",
+    "cardID": "013",
+    "cost": 1,
+    "attack": 2,
+    "health": 1
+  },
+  {
+    "setID": "QIL",
+    "cardID": "014",
+    "cost": 1,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "QIL",
+    "cardID": "015",
+    "cost": 2,
+    "attack": 2,
+    "health": 1
+  },
+  {
+    "setID": "QIL",
+    "cardID": "016",
+    "cost": 3,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "QIL",
+    "cardID": "T01",
+    "cost": 1,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "QIL",
+    "cardID": "002",
+    "cost": 3,
+    "attack": 1,
+    "health": 2
+  },
+  {
+    "setID": "QIL",
+    "cardID": "026",
+    "cost": 1,
+    "attack": 2,
+    "health": 1
+  },
+  {
+    "setID": "QIL",
+    "cardID": "027",
+    "cost": 2,
+    "attack": 3,
+    "health": 1
+  },
+  {
+    "setID": "QIL",
+    "cardID": "028",
+    "cost": 3,
+    "attack": 3,
+    "health": 4
+  },
+  {
+    "setID": "QIL",
+    "cardID": "029",
+    "cost": 3,
+    "attack": 2,
+    "health": 3
+  },
+  {
+    "setID": "QIL",
+    "cardID": "030",
+    "cost": 3,
+    "attack": 1,
+    "health": 4
+  },
+  {
+    "setID": "QIL",
+    "cardID": "031",
+    "cost": 4,
+    "attack": 1,
+    "health": 2
+  },
+  {
+    "setID": "QIL",
+    "cardID": "032",
+    "cost": 5,
+    "attack": 5,
+    "health": 3
+  },
+  {
+    "setID": "QIL",
+    "cardID": "033",
+    "cost": 5,
+    "attack": 3,
+    "health": 5
+  },
+  {
+    "setID": "QIL",
+    "cardID": "034",
+    "cost": 7,
+    "attack": 3,
+    "health": 9
+  },
+  {
+    "setID": "QIL",
+    "cardID": "035",
+    "cost": 8,
+    "attack": 5,
+    "health": 9
+  },
+  {
+    "setID": "QIL",
+    "cardID": "T03",
+    "cost": 1,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "QIL",
+    "cardID": "003",
+    "cost": 4,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "QIL",
+    "cardID": "046",
+    "cost": 1,
+    "attack": 2,
+    "health": 1
+  },
+  {
+    "setID": "QIL",
+    "cardID": "047",
+    "cost": 3,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "QIL",
+    "cardID": "048",
+    "cost": 3,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "QIL",
+    "cardID": "049",
+    "cost": 3,
+    "attack": 2,
+    "health": 4
+  },
+  {
+    "setID": "QIL",
+    "cardID": "050",
+    "cost": 3,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "QIL",
+    "cardID": "051",
+    "cost": 4,
+    "attack": 1,
+    "health": 5
+  },
+  {
+    "setID": "QIL",
+    "cardID": "052",
+    "cost": 5,
+    "attack": 2,
+    "health": 6
+  },
+  {
+    "setID": "QIL",
+    "cardID": "053",
+    "cost": 6,
+    "attack": 5,
+    "health": 4
+  },
+  {
+    "setID": "QIL",
+    "cardID": "054",
+    "cost": 7,
+    "attack": 4,
+    "health": 7
+  },
+  {
+    "setID": "QIL",
+    "cardID": "055",
+    "cost": 8,
+    "attack": 5,
+    "health": 8
+  },
+  {
+    "setID": "QIL",
+    "cardID": "T04",
+    "cost": 3,
+    "attack": "",
+    "health": ""
+  },
+  {
+    "setID": "QIL",
+    "cardID": "004",
+    "cost": 5,
+    "attack": 1,
+    "health": 5
+  },
+  {
+    "setID": "QIL",
+    "cardID": "066",
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "QIL",
+    "cardID": "067",
+    "cost": 3,
+    "attack": 2,
+    "health": 1
+  },
+  {
+    "setID": "QIL",
+    "cardID": "068",
+    "cost": 3,
+    "attack": 3,
+    "health": 2
+  },
+  {
+    "setID": "QIL",
+    "cardID": "069",
+    "cost": 4,
+    "attack": 2,
+    "health": 4
+  },
+  {
+    "setID": "QIL",
+    "cardID": "070",
+    "cost": 5,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "QIL",
+    "cardID": "071",
+    "cost": 6,
+    "attack": 4,
+    "health": 5
+  },
+  {
+    "setID": "QIL",
+    "cardID": "072",
+    "cost": 7,
+    "attack": 5,
+    "health": 7
+  },
+  {
+    "setID": "QIL",
+    "cardID": "073",
+    "cost": 8,
+    "attack": 6,
+    "health": 7
+  },
+  {
+    "setID": "QIL",
+    "cardID": "074",
+    "cost": 10,
+    "attack": 8,
+    "health": 8
+  },
+  {
+    "setID": "QIL",
+    "cardID": "005",
+    "cost": 7,
+    "attack": 6,
+    "health": 6
+  },
+  {
+    "setID": "QIL",
+    "cardID": "086",
+    "cost": 2,
+    "attack": 1,
+    "health": 3
+  },
+  {
+    "setID": "QIL",
+    "cardID": "087",
+    "cost": 3,
+    "attack": 1,
+    "health": 4
+  },
+  {
+    "setID": "QIL",
+    "cardID": "088",
+    "cost": 3,
+    "attack": 2,
+    "health": 0
+  },
+  {
+    "setID": "QIL",
+    "cardID": "089",
+    "cost": 3,
+    "attack": 3,
+    "health": 4
+  },
+  {
+    "setID": "QIL",
+    "cardID": "090",
+    "cost": 4,
+    "attack": 1,
+    "health": 5
+  },
+  {
+    "setID": "QIL",
+    "cardID": "091",
+    "cost": 4,
+    "attack": 3,
+    "health": 2
+  },
+  {
+    "setID": "QIL",
+    "cardID": "092",
+    "cost": 4,
+    "attack": 2,
+    "health": 1
+  },
+  {
+    "setID": "QIL",
+    "cardID": "093",
+    "cost": 6,
+    "attack": 5,
+    "health": 5
+  },
+  {
+    "setID": "QIL",
+    "cardID": "094",
+    "cost": 6,
+    "attack": 4,
+    "health": 5
+  },
+  {
+    "setID": "QIL",
+    "cardID": "095",
+    "cost": 9,
+    "attack": 7,
+    "health": 5
+  },
+  {
+    "setID": "QIL",
+    "cardID": "T06",
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "QIL",
+    "cardID": "006",
+    "cost": 2,
+    "attack": 2,
+    "health": 3
+  },
+  {
+    "setID": "QIL",
+    "cardID": "007",
+    "cost": 3,
+    "attack": 1,
+    "health": 4
+  },
+  {
+    "setID": "QIL",
+    "cardID": "008",
+    "cost": 4,
+    "attack": 4,
+    "health": 2
+  },
+  {
+    "setID": "QIL",
+    "cardID": "009",
+    "cost": 2,
+    "attack": 2,
+    "health": 3
+  },
+  {
+    "setID": "QIL",
+    "cardID": "010",
+    "cost": 6,
+    "attack": 5,
+    "health": 6
+  },
+  {
+    "setID": "QIL",
+    "cardID": "011",
+    "cost": 3,
+    "attack": 4,
+    "health": 5
+  },
+  {
+    "setID": "QIL",
+    "cardID": "012",
+    "cost": 10,
+    "attack": 7,
+    "health": 12
+  },
+  {
+    "setID": "QIL",
+    "cardID": 106,
+    "cost": 3,
+    "attack": 2,
+    "health": 3
+  },
+  {
+    "setID": "QIL",
+    "cardID": 108,
+    "cost": 2,
+    "attack": 0,
+    "health": 4
+  },
+  {
+    "setID": "QIL",
+    "cardID": 110,
+    "cost": 3,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "QIL",
+    "cardID": 112,
+    "cost": 3,
+    "attack": 4,
+    "health": 3
+  },
+  {
+    "setID": "QIL",
+    "cardID": 114,
+    "cost": 2,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "QIL",
+    "cardID": 116,
+    "cost": 4,
+    "attack": 3,
+    "health": 5
+  },
+  {
+    "setID": "CLA",
+    "cardID": "005",
+    "cost": 1,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "CLA",
+    "cardID": "006",
+    "cost": 2,
+    "attack": 0,
+    "health": 4
+  },
+  {
+    "setID": "CLA",
+    "cardID": "007",
+    "cost": 3,
+    "attack": 5,
+    "health": 5
+  },
+  {
+    "setID": "CLA",
+    "cardID": "001",
+    "cost": 3,
+    "attack": 1,
+    "health": 3
+  },
+  {
+    "setID": "CLA",
+    "cardID": "015",
+    "cost": 1,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "CLA",
+    "cardID": "016",
+    "cost": 4,
+    "attack": 2,
+    "health": 5
+  },
+  {
+    "setID": "CLA",
+    "cardID": "017",
+    "cost": 4,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "CLA",
+    "cardID": "018",
+    "cost": 4,
+    "attack": 2,
+    "health": 6
+  },
+  {
+    "setID": "CLA",
+    "cardID": "019",
+    "cost": 5,
+    "attack": 3,
+    "health": 8
+  },
+  {
+    "setID": "CLA",
+    "cardID": "020",
+    "cost": 5,
+    "attack": 1,
+    "health": 4
+  },
+  {
+    "setID": "CLA",
+    "cardID": "021",
+    "cost": 6,
+    "attack": 2,
+    "health": 5
+  },
+  {
+    "setID": "CLA",
+    "cardID": "022",
+    "cost": 7,
+    "attack": 6,
+    "health": 6
+  },
+  {
+    "setID": "CLA",
+    "cardID": "023",
+    "cost": 7,
+    "attack": 4,
+    "health": 5
+  },
+  {
+    "setID": "CLA",
+    "cardID": "024",
+    "cost": 7,
+    "attack": 4,
+    "health": 8
+  },
+  {
+    "setID": "CLA",
+    "cardID": "T02",
+    "cost": 1,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "CLA",
+    "cardID": "T03",
+    "cost": 1,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "CLA",
+    "cardID": "002",
+    "cost": 4,
+    "attack": 1,
+    "health": 6
+  },
+  {
+    "setID": "CLA",
+    "cardID": "029",
+    "cost": 2,
+    "attack": 3,
+    "health": 1
+  },
+  {
+    "setID": "CLA",
+    "cardID": "030",
+    "cost": 2,
+    "attack": 1,
+    "health": 4
+  },
+  {
+    "setID": "CLA",
+    "cardID": "031",
+    "cost": 3,
+    "attack": 2,
+    "health": 4
+  },
+  {
+    "setID": "CLA",
+    "cardID": "003",
+    "cost": 5,
+    "attack": 4,
+    "health": 3
+  },
+  {
+    "setID": "CLA",
+    "cardID": "043",
+    "cost": 7,
+    "attack": 6,
+    "health": 7
+  },
+  {
+    "setID": "CLA",
+    "cardID": "004",
+    "cost": 2,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "CLA",
+    "cardID": "057",
+    "cost": 3,
+    "attack": 2,
+    "health": 3
+  },
+  {
+    "setID": "CLA",
+    "cardID": "058",
+    "cost": 4,
+    "attack": 1,
+    "health": 3
+  },
+  {
+    "setID": "CLA",
+    "cardID": "059",
+    "cost": 5,
+    "attack": 2,
+    "health": 4
+  },
+  {
+    "setID": "CLA",
+    "cardID": "060",
+    "cost": 6,
+    "attack": 0,
+    "health": 8
+  },
+  {
+    "setID": "CLA",
+    "cardID": "061",
+    "cost": 7,
+    "attack": 2,
+    "health": 8
+  },
+  {
+    "setID": "CLA",
+    "cardID": "062",
+    "cost": 7,
+    "attack": 3,
+    "health": 6
+  },
+  {
+    "setID": "CLA",
+    "cardID": "063",
+    "cost": 8,
+    "attack": 3,
+    "health": 10
+  },
+  {
+    "setID": "CLA",
+    "cardID": "T06",
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "KGD",
+    "cardID": "001",
+    "cost": 5,
+    "attack": 2,
+    "health": 4
+  },
+  {
+    "setID": "KGD",
+    "cardID": "006",
+    "cost": 1,
+    "attack": 0,
+    "health": 2
+  },
+  {
+    "setID": "KGD",
+    "cardID": "007",
+    "cost": 2,
+    "attack": 3,
+    "health": 2
+  },
+  {
+    "setID": "KGD",
+    "cardID": "008",
+    "cost": 2,
+    "attack": 1,
+    "health": 2
+  },
+  {
+    "setID": "KGD",
+    "cardID": "009",
+    "cost": 3,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "KGD",
+    "cardID": "010",
+    "cost": 3,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "KGD",
+    "cardID": "011",
+    "cost": 4,
+    "attack": 1,
+    "health": 6
+  },
+  {
+    "setID": "KGD",
+    "cardID": "012",
+    "cost": 5,
+    "attack": 4,
+    "health": 4
+  },
+  {
+    "setID": "KGD",
+    "cardID": "013",
+    "cost": 5,
+    "attack": 4,
+    "health": 4
+  },
+  {
+    "setID": "KGD",
+    "cardID": "014",
+    "cost": 5,
+    "attack": 5,
+    "health": 5
+  },
+  {
+    "setID": "KGD",
+    "cardID": "015",
+    "cost": 6,
+    "attack": 3,
+    "health": 6
+  },
+  {
+    "setID": "KGD",
+    "cardID": "016",
+    "cost": 7,
+    "attack": 5,
+    "health": 4
+  },
+  {
+    "setID": "KGD",
+    "cardID": "017",
+    "cost": 9,
+    "attack": 9,
+    "health": 9
+  },
+  {
+    "setID": "KGD",
+    "cardID": "018",
+    "cost": 10,
+    "attack": 10,
+    "health": 10
+  },
+  {
+    "setID": "KGD",
+    "cardID": "002",
+    "cost": 7,
+    "attack": 3,
+    "health": 12
+  },
+  {
+    "setID": "KGD",
+    "cardID": "027",
+    "cost": 1,
+    "attack": 1,
+    "health": 2
+  },
+  {
+    "setID": "KGD",
+    "cardID": "028",
+    "cost": 2,
+    "attack": 2,
+    "health": 3
+  },
+  {
+    "setID": "KGD",
+    "cardID": "029",
+    "cost": 3,
+    "attack": 2,
+    "health": 4
+  },
+  {
+    "setID": "KGD",
+    "cardID": "030",
+    "cost": 3,
+    "attack": 3,
+    "health": 2
+  },
+  {
+    "setID": "KGD",
+    "cardID": "031",
+    "cost": 4,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "KGD",
+    "cardID": "032",
+    "cost": 5,
+    "attack": 3,
+    "health": 5
+  },
+  {
+    "setID": "KGD",
+    "cardID": "033",
+    "cost": 5,
+    "attack": 4,
+    "health": 4
+  },
+  {
+    "setID": "KGD",
+    "cardID": "034",
+    "cost": 7,
+    "attack": 6,
+    "health": 7
+  },
+  {
+    "setID": "KGD",
+    "cardID": "035",
+    "cost": 8,
+    "attack": 4,
+    "health": 3
+  },
+  {
+    "setID": "KGD",
+    "cardID": "036",
+    "cost": 9,
+    "attack": 9,
+    "health": 9
+  },
+  {
+    "setID": "KGD",
+    "cardID": "003",
+    "cost": 5,
+    "attack": 4,
+    "health": 6
+  },
+  {
+    "setID": "KGD",
+    "cardID": "041",
+    "cost": 1,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "KGD",
+    "cardID": "042",
+    "cost": 2,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "KGD",
+    "cardID": "043",
+    "cost": 3,
+    "attack": 2,
+    "health": 4
+  },
+  {
+    "setID": "KGD",
+    "cardID": "044",
+    "cost": 3,
+    "attack": 3,
+    "health": 2
+  },
+  {
+    "setID": "KGD",
+    "cardID": "045",
+    "cost": 4,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "KGD",
+    "cardID": "046",
+    "cost": 5,
+    "attack": 4,
+    "health": 5
+  },
+  {
+    "setID": "KGD",
+    "cardID": "047",
+    "cost": 5,
+    "attack": 4,
+    "health": 4
+  },
+  {
+    "setID": "KGD",
+    "cardID": "048",
+    "cost": 7,
+    "attack": 6,
+    "health": 7
+  },
+  {
+    "setID": "KGD",
+    "cardID": "049",
+    "cost": 8,
+    "attack": 3,
+    "health": 4
+  },
+  {
+    "setID": "KGD",
+    "cardID": "050",
+    "cost": 9,
+    "attack": 9,
+    "health": 9
+  },
+  {
+    "setID": "KGD",
+    "cardID": "004",
+    "cost": 6,
+    "attack": 5,
+    "health": 5
+  },
+  {
+    "setID": "KGD",
+    "cardID": "055",
+    "cost": 1,
+    "attack": 2,
+    "health": 1
+  },
+  {
+    "setID": "KGD",
+    "cardID": "056",
+    "cost": 2,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "KGD",
+    "cardID": "057",
+    "cost": 3,
+    "attack": 2,
+    "health": 4
+  },
+  {
+    "setID": "KGD",
+    "cardID": "058",
+    "cost": 3,
+    "attack": 2,
+    "health": 1
+  },
+  {
+    "setID": "KGD",
+    "cardID": "059",
+    "cost": 4,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "KGD",
+    "cardID": "060",
+    "cost": 5,
+    "attack": 4,
+    "health": 2
+  },
+  {
+    "setID": "KGD",
+    "cardID": "061",
+    "cost": 5,
+    "attack": 4,
+    "health": 4
+  },
+  {
+    "setID": "KGD",
+    "cardID": "062",
+    "cost": 7,
+    "attack": 6,
+    "health": 7
+  },
+  {
+    "setID": "KGD",
+    "cardID": "063",
+    "cost": 8,
+    "attack": 4,
+    "health": 3
+  },
+  {
+    "setID": "KGD",
+    "cardID": "064",
+    "cost": 9,
+    "attack": 9,
+    "health": 9
+  },
+  {
+    "setID": "KGD",
+    "cardID": "005",
+    "cost": 7,
+    "attack": 7,
+    "health": 4
+  },
+  {
+    "setID": "KGD",
+    "cardID": "069",
+    "cost": 1,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "KGD",
+    "cardID": "070",
+    "cost": 2,
+    "attack": 2,
+    "health": 1
+  },
+  {
+    "setID": "KGD",
+    "cardID": "071",
+    "cost": 3,
+    "attack": 2,
+    "health": 4
+  },
+  {
+    "setID": "KGD",
+    "cardID": "072",
+    "cost": 3,
+    "attack": 3,
+    "health": 2
+  },
+  {
+    "setID": "KGD",
+    "cardID": "073",
+    "cost": 4,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "KGD",
+    "cardID": "074",
+    "cost": 5,
+    "attack": 4,
+    "health": 4
+  },
+  {
+    "setID": "KGD",
+    "cardID": "075",
+    "cost": 5,
+    "attack": 4,
+    "health": 4
+  },
+  {
+    "setID": "KGD",
+    "cardID": "076",
+    "cost": 7,
+    "attack": 6,
+    "health": 7
+  },
+  {
+    "setID": "KGD",
+    "cardID": "077",
+    "cost": 8,
+    "attack": 3,
+    "health": 4
+  },
+  {
+    "setID": "KGD",
+    "cardID": "078",
+    "cost": 9,
+    "attack": 9,
+    "health": 9
+  },
+  {
+    "setID": "NIN",
+    "cardID": "001",
+    "cost": 3,
+    "attack": 2,
+    "health": 4
+  },
+  {
+    "setID": "NIN",
+    "cardID": "008",
+    "cost": 2,
+    "attack": 3,
+    "health": 2
+  },
+  {
+    "setID": "NIN",
+    "cardID": "009",
+    "cost": 2,
+    "attack": 1,
+    "health": 2
+  },
+  {
+    "setID": "NIN",
+    "cardID": "010",
+    "cost": 3,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "NIN",
+    "cardID": "011",
+    "cost": 3,
+    "attack": 2,
+    "health": 4
+  },
+  {
+    "setID": "NIN",
+    "cardID": "012",
+    "cost": 4,
+    "attack": 2,
+    "health": 3
+  },
+  {
+    "setID": "NIN",
+    "cardID": "013",
+    "cost": 5,
+    "attack": 6,
+    "health": 5
+  },
+  {
+    "setID": "NIN",
+    "cardID": "014",
+    "cost": 6,
+    "attack": 2,
+    "health": 6
+  },
+  {
+    "setID": "NIN",
+    "cardID": "023",
+    "cost": 1,
+    "attack": 0,
+    "health": 2
+  },
+  {
+    "setID": "NIN",
+    "cardID": "024",
+    "cost": 1,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "NIN",
+    "cardID": "025",
+    "cost": 2,
+    "attack": 2,
+    "health": 3
+  },
+  {
+    "setID": "NIN",
+    "cardID": "026",
+    "cost": 2,
+    "attack": 1,
+    "health": 3
+  },
+  {
+    "setID": "NIN",
+    "cardID": "027",
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "NIN",
+    "cardID": "028",
+    "cost": 3,
+    "attack": 4,
+    "health": 5
+  },
+  {
+    "setID": "NIN",
+    "cardID": "029",
+    "cost": 3,
+    "attack": 2,
+    "health": 4
+  },
+  {
+    "setID": "NIN",
+    "cardID": "030",
+    "cost": 4,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "NIN",
+    "cardID": "031",
+    "cost": 4,
+    "attack": 4,
+    "health": 3
+  },
+  {
+    "setID": "NIN",
+    "cardID": "032",
+    "cost": 5,
+    "attack": 3,
+    "health": 6
+  },
+  {
+    "setID": "NIN",
+    "cardID": "033",
+    "cost": 5,
+    "attack": 4,
+    "health": 4
+  },
+  {
+    "setID": "NIN",
+    "cardID": "034",
+    "cost": 5,
+    "attack": 3,
+    "health": 5
+  },
+  {
+    "setID": "NIN",
+    "cardID": "035",
+    "cost": 6,
+    "attack": 5,
+    "health": 3
+  },
+  {
+    "setID": "NIN",
+    "cardID": "036",
+    "cost": 7,
+    "attack": 7,
+    "health": 7
+  },
+  {
+    "setID": "NIN",
+    "cardID": "048",
+    "cost": 1,
+    "attack": 3,
+    "health": 1
+  },
+  {
+    "setID": "NIN",
+    "cardID": "049",
+    "cost": 2,
+    "attack": 0,
+    "health": 4
+  },
+  {
+    "setID": "NIN",
+    "cardID": "050",
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "NIN",
+    "cardID": "051",
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "NIN",
+    "cardID": "052",
+    "cost": 2,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "NIN",
+    "cardID": "053",
+    "cost": 3,
+    "attack": 3,
+    "health": 1
+  },
+  {
+    "setID": "NIN",
+    "cardID": "054",
+    "cost": 3,
+    "attack": 1,
+    "health": 3
+  },
+  {
+    "setID": "NIN",
+    "cardID": "055",
+    "cost": 3,
+    "attack": 0,
+    "health": 1
+  },
+  {
+    "setID": "NIN",
+    "cardID": "056",
+    "cost": 4,
+    "attack": 1,
+    "health": 4
+  },
+  {
+    "setID": "NIN",
+    "cardID": "057",
+    "cost": 4,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "NIN",
+    "cardID": "058",
+    "cost": 5,
+    "attack": 4,
+    "health": 7
+  },
+  {
+    "setID": "NIN",
+    "cardID": "059",
+    "cost": 5,
+    "attack": 4,
+    "health": 3
+  },
+  {
+    "setID": "NIN",
+    "cardID": "060",
+    "cost": 6,
+    "attack": 2,
+    "health": 7
+  },
+  {
+    "setID": "NIN",
+    "cardID": "061",
+    "cost": 7,
+    "attack": 5,
+    "health": 9
+  },
+  {
+    "setID": "NIN",
+    "cardID": "073",
+    "cost": 1,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "NIN",
+    "cardID": "074",
+    "cost": 2,
+    "attack": 2,
+    "health": 3
+  },
+  {
+    "setID": "NIN",
+    "cardID": "075",
+    "cost": 2,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "NIN",
+    "cardID": "076",
+    "cost": 3,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "NIN",
+    "cardID": "077",
+    "cost": 3,
+    "attack": 3,
+    "health": 4
+  },
+  {
+    "setID": "NIN",
+    "cardID": "078",
+    "cost": 3,
+    "attack": 2,
+    "health": 1
+  },
+  {
+    "setID": "NIN",
+    "cardID": "079",
+    "cost": 3,
+    "attack": 1,
+    "health": 4
+  },
+  {
+    "setID": "NIN",
+    "cardID": "080",
+    "cost": 4,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "NIN",
+    "cardID": "081",
+    "cost": 4,
+    "attack": 2,
+    "health": 5
+  },
+  {
+    "setID": "NIN",
+    "cardID": "082",
+    "cost": 4,
+    "attack": 1,
+    "health": 5
+  },
+  {
+    "setID": "NIN",
+    "cardID": "083",
+    "cost": 5,
+    "attack": 4,
+    "health": 4
+  },
+  {
+    "setID": "NIN",
+    "cardID": "084",
+    "cost": 6,
+    "attack": 5,
+    "health": 5
+  },
+  {
+    "setID": "NIN",
+    "cardID": "098",
+    "cost": 1,
+    "attack": 2,
+    "health": 4
+  },
+  {
+    "setID": "NIN",
+    "cardID": "099",
+    "cost": 2,
+    "attack": 3,
+    "health": 1
+  },
+  {
+    "setID": "NIN",
+    "cardID": 100,
+    "cost": 2,
+    "attack": 1,
+    "health": 2
+  },
+  {
+    "setID": "NIN",
+    "cardID": 101,
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "NIN",
+    "cardID": 102,
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "NIN",
+    "cardID": 103,
+    "cost": 3,
+    "attack": 1,
+    "health": 4
+  },
+  {
+    "setID": "NIN",
+    "cardID": 104,
+    "cost": 3,
+    "attack": 0,
+    "health": 5
+  },
+  {
+    "setID": "NIN",
+    "cardID": 105,
+    "cost": 3,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "NIN",
+    "cardID": 106,
+    "cost": 4,
+    "attack": 4,
+    "health": 3
+  },
+  {
+    "setID": "NIN",
+    "cardID": 107,
+    "cost": 4,
+    "attack": 2,
+    "health": 3
+  },
+  {
+    "setID": "NIN",
+    "cardID": 108,
+    "cost": 5,
+    "attack": 4,
+    "health": 5
+  },
+  {
+    "setID": "NIN",
+    "cardID": 109,
+    "cost": 5,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "NIN",
+    "cardID": 110,
+    "cost": 6,
+    "attack": 4,
+    "health": 6
+  },
+  {
+    "setID": "NIN",
+    "cardID": 111,
+    "cost": 7,
+    "attack": 7,
+    "health": 7
+  },
+  {
+    "setID": "NIN",
+    "cardID": "002",
+    "cost": 3,
+    "attack": 2,
+    "health": 4
+  },
+  {
+    "setID": "NIN",
+    "cardID": "003",
+    "cost": 5,
+    "attack": 1,
+    "health": 5
+  },
+  {
+    "setID": "NIN",
+    "cardID": "004",
+    "cost": 4,
+    "attack": 1,
+    "health": 4
+  },
+  {
+    "setID": "NIN",
+    "cardID": "005",
+    "cost": 3,
+    "attack": 2,
+    "health": 3
+  },
+  {
+    "setID": "NIN",
+    "cardID": "006",
+    "cost": 3,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "NIN",
+    "cardID": "007",
+    "cost": 7,
+    "attack": 6,
+    "health": 6
+  },
+  {
+    "setID": "NIN",
+    "cardID": 123,
+    "cost": 3,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "NIN",
+    "cardID": 124,
+    "cost": 4,
+    "attack": 3,
+    "health": 4
+  },
+  {
+    "setID": "NIN",
+    "cardID": 125,
+    "cost": 6,
+    "attack": 5,
+    "health": 7
+  },
+  {
+    "setID": "NIN",
+    "cardID": 126,
+    "cost": 3,
+    "attack": 3,
+    "health": 2
+  },
+  {
+    "setID": "NIN",
+    "cardID": 127,
+    "cost": 3,
+    "attack": 1,
+    "health": 3
+  },
+  {
+    "setID": "NIN",
+    "cardID": 128,
+    "cost": 3,
+    "attack": 0,
+    "health": 4
+  },
+  {
+    "setID": "NIN",
+    "cardID": "T03",
+    "cost": 4,
+    "attack": 3,
+    "health": 4
+  },
+  {
+    "setID": "JGK",
+    "cardID": "001",
+    "cost": 6,
+    "attack": 2,
+    "health": 6
+  },
+  {
+    "setID": "JGK",
+    "cardID": "008",
+    "cost": 1,
+    "attack": 2,
+    "health": 1
+  },
+  {
+    "setID": "JGK",
+    "cardID": "009",
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "JGK",
+    "cardID": "010",
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "JGK",
+    "cardID": "011",
+    "cost": 2,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "JGK",
+    "cardID": "012",
+    "cost": 2,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "JGK",
+    "cardID": "013",
+    "cost": 3,
+    "attack": 2,
+    "health": 3
+  },
+  {
+    "setID": "JGK",
+    "cardID": "014",
+    "cost": 3,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "JGK",
+    "cardID": "015",
+    "cost": 3,
+    "attack": 3,
+    "health": 1
+  },
+  {
+    "setID": "JGK",
+    "cardID": "016",
+    "cost": 3,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "JGK",
+    "cardID": "017",
+    "cost": 4,
+    "attack": 2,
+    "health": 5
+  },
+  {
+    "setID": "JGK",
+    "cardID": "018",
+    "cost": 5,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "JGK",
+    "cardID": "019",
+    "cost": 6,
+    "attack": 5,
+    "health": 5
+  },
+  {
+    "setID": "JGK",
+    "cardID": "020",
+    "cost": 10,
+    "attack": 5,
+    "health": 11
+  },
+  {
+    "setID": "JGK",
+    "cardID": "002",
+    "cost": 4,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "JGK",
+    "cardID": "027",
+    "cost": 1,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "JGK",
+    "cardID": "028",
+    "cost": 1,
+    "attack": 2,
+    "health": 1
+  },
+  {
+    "setID": "JGK",
+    "cardID": "029",
+    "cost": 2,
+    "attack": 2,
+    "health": 1
+  },
+  {
+    "setID": "JGK",
+    "cardID": "030",
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "JGK",
+    "cardID": "031",
+    "cost": 3,
+    "attack": 1,
+    "health": 5
+  },
+  {
+    "setID": "JGK",
+    "cardID": "032",
+    "cost": 3,
+    "attack": 3,
+    "health": 2
+  },
+  {
+    "setID": "JGK",
+    "cardID": "033",
+    "cost": 3,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "JGK",
+    "cardID": "034",
+    "cost": 4,
+    "attack": 4,
+    "health": 5
+  },
+  {
+    "setID": "JGK",
+    "cardID": "035",
+    "cost": 4,
+    "attack": 2,
+    "health": 5
+  },
+  {
+    "setID": "JGK",
+    "cardID": "036",
+    "cost": 4,
+    "attack": 1,
+    "health": 4
+  },
+  {
+    "setID": "JGK",
+    "cardID": "037",
+    "cost": 4,
+    "attack": 4,
+    "health": 5
+  },
+  {
+    "setID": "JGK",
+    "cardID": "038",
+    "cost": 5,
+    "attack": 5,
+    "health": 7
+  },
+  {
+    "setID": "JGK",
+    "cardID": "039",
+    "cost": 6,
+    "attack": 6,
+    "health": 5
+  },
+  {
+    "setID": "JGK",
+    "cardID": "040",
+    "cost": 7,
+    "attack": 5,
+    "health": 5
+  },
+  {
+    "setID": "JGK",
+    "cardID": "041",
+    "cost": 8,
+    "attack": 3,
+    "health": 5
+  },
+  {
+    "setID": "JGK",
+    "cardID": "042",
+    "cost": 9,
+    "attack": 7,
+    "health": 7
+  },
+  {
+    "setID": "JGK",
+    "cardID": "043",
+    "cost": 10,
+    "attack": 8,
+    "health": 8
+  },
+  {
+    "setID": "JGK",
+    "cardID": "T02",
+    "cost": 2,
+    "attack": 2,
+    "health": 3
+  },
+  {
+    "setID": "JGK",
+    "cardID": "T03",
+    "cost": 2,
+    "attack": 2,
+    "health": 1
+  },
+  {
+    "setID": "JGK",
+    "cardID": "T04",
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "JGK",
+    "cardID": "T05",
+    "cost": 3,
+    "attack": 3,
+    "health": 2
+  },
+  {
+    "setID": "JGK",
+    "cardID": "003",
+    "cost": 4,
+    "attack": 3,
+    "health": 4
+  },
+  {
+    "setID": "JGK",
+    "cardID": "054",
+    "cost": 1,
+    "attack": 2,
+    "health": 0
+  },
+  {
+    "setID": "JGK",
+    "cardID": "055",
+    "cost": 2,
+    "attack": 2,
+    "health": 1
+  },
+  {
+    "setID": "JGK",
+    "cardID": "056",
+    "cost": 2,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "JGK",
+    "cardID": "057",
+    "cost": 3,
+    "attack": 1,
+    "health": 3
+  },
+  {
+    "setID": "JGK",
+    "cardID": "058",
+    "cost": 3,
+    "attack": 3,
+    "health": 4
+  },
+  {
+    "setID": "JGK",
+    "cardID": "059",
+    "cost": 3,
+    "attack": 3,
+    "health": 1
+  },
+  {
+    "setID": "JGK",
+    "cardID": "060",
+    "cost": 3,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "JGK",
+    "cardID": "061",
+    "cost": 3,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "JGK",
+    "cardID": "062",
+    "cost": 4,
+    "attack": 2,
+    "health": 5
+  },
+  {
+    "setID": "JGK",
+    "cardID": "063",
+    "cost": 4,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "JGK",
+    "cardID": "064",
+    "cost": 4,
+    "attack": 1,
+    "health": 5
+  },
+  {
+    "setID": "JGK",
+    "cardID": "065",
+    "cost": 5,
+    "attack": 4,
+    "health": 5
+  },
+  {
+    "setID": "JGK",
+    "cardID": "066",
+    "cost": 6,
+    "attack": 5,
+    "health": 3
+  },
+  {
+    "setID": "JGK",
+    "cardID": "067",
+    "cost": 6,
+    "attack": 4,
+    "health": 4
+  },
+  {
+    "setID": "JGK",
+    "cardID": "068",
+    "cost": 6,
+    "attack": 4,
+    "health": 2
+  },
+  {
+    "setID": "JGK",
+    "cardID": "069",
+    "cost": 7,
+    "attack": 7,
+    "health": 11
+  },
+  {
+    "setID": "JGK",
+    "cardID": "070",
+    "cost": 10,
+    "attack": 8,
+    "health": 8
+  },
+  {
+    "setID": "JGK",
+    "cardID": "004",
+    "cost": 7,
+    "attack": 4,
+    "health": 6
+  },
+  {
+    "setID": "JGK",
+    "cardID": "081",
+    "cost": 1,
+    "attack": 1,
+    "health": 2
+  },
+  {
+    "setID": "JGK",
+    "cardID": "082",
+    "cost": 2,
+    "attack": 1,
+    "health": 3
+  },
+  {
+    "setID": "JGK",
+    "cardID": "083",
+    "cost": 2,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "JGK",
+    "cardID": "084",
+    "cost": 3,
+    "attack": 4,
+    "health": 1
+  },
+  {
+    "setID": "JGK",
+    "cardID": "085",
+    "cost": 3,
+    "attack": 2,
+    "health": 3
+  },
+  {
+    "setID": "JGK",
+    "cardID": "086",
+    "cost": 3,
+    "attack": 3,
+    "health": 1
+  },
+  {
+    "setID": "JGK",
+    "cardID": "087",
+    "cost": 3,
+    "attack": 2,
+    "health": 4
+  },
+  {
+    "setID": "JGK",
+    "cardID": "088",
+    "cost": 3,
+    "attack": 0,
+    "health": 0
+  },
+  {
+    "setID": "JGK",
+    "cardID": "089",
+    "cost": 4,
+    "attack": 3,
+    "health": 2
+  },
+  {
+    "setID": "JGK",
+    "cardID": "090",
+    "cost": 4,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "JGK",
+    "cardID": "091",
+    "cost": 4,
+    "attack": 2,
+    "health": 5
+  },
+  {
+    "setID": "JGK",
+    "cardID": "092",
+    "cost": 4,
+    "attack": 1,
+    "health": 2
+  },
+  {
+    "setID": "JGK",
+    "cardID": "093",
+    "cost": 6,
+    "attack": 6,
+    "health": 5
+  },
+  {
+    "setID": "JGK",
+    "cardID": "094",
+    "cost": 6,
+    "attack": 5,
+    "health": 4
+  },
+  {
+    "setID": "JGK",
+    "cardID": "095",
+    "cost": 7,
+    "attack": 4,
+    "health": 7
+  },
+  {
+    "setID": "JGK",
+    "cardID": "096",
+    "cost": 10,
+    "attack": 8,
+    "health": 8
+  },
+  {
+    "setID": "JGK",
+    "cardID": "T06",
+    "cost": 1,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "JGK",
+    "cardID": "T07",
+    "cost": 1,
+    "attack": 0,
+    "health": 1
+  },
+  {
+    "setID": "JGK",
+    "cardID": "005",
+    "cost": 5,
+    "attack": 4,
+    "health": 3
+  },
+  {
+    "setID": "JGK",
+    "cardID": 108,
+    "cost": 1,
+    "attack": 2,
+    "health": 1
+  },
+  {
+    "setID": "JGK",
+    "cardID": 109,
+    "cost": 2,
+    "attack": 3,
+    "health": 1
+  },
+  {
+    "setID": "JGK",
+    "cardID": 110,
+    "cost": 2,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "JGK",
+    "cardID": 111,
+    "cost": 2,
+    "attack": 1,
+    "health": 3
+  },
+  {
+    "setID": "JGK",
+    "cardID": 112,
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "JGK",
+    "cardID": 113,
+    "cost": 3,
+    "attack": 3,
+    "health": 2
+  },
+  {
+    "setID": "JGK",
+    "cardID": 114,
+    "cost": 3,
+    "attack": 4,
+    "health": 3
+  },
+  {
+    "setID": "JGK",
+    "cardID": 115,
+    "cost": 3,
+    "attack": 2,
+    "health": 4
+  },
+  {
+    "setID": "JGK",
+    "cardID": 116,
+    "cost": 3,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "JGK",
+    "cardID": 117,
+    "cost": 4,
+    "attack": 2,
+    "health": 5
+  },
+  {
+    "setID": "JGK",
+    "cardID": 118,
+    "cost": 4,
+    "attack": 3,
+    "health": 2
+  },
+  {
+    "setID": "JGK",
+    "cardID": 119,
+    "cost": 5,
+    "attack": 3,
+    "health": 4
+  },
+  {
+    "setID": "JGK",
+    "cardID": 120,
+    "cost": 5,
+    "attack": 3,
+    "health": 1
+  },
+  {
+    "setID": "JGK",
+    "cardID": 121,
+    "cost": 6,
+    "attack": 6,
+    "health": 6
+  },
+  {
+    "setID": "JGK",
+    "cardID": 122,
+    "cost": 7,
+    "attack": 5,
+    "health": 7
+  },
+  {
+    "setID": "JGK",
+    "cardID": 123,
+    "cost": 7,
+    "attack": 7,
+    "health": 5
+  },
+  {
+    "setID": "JGK",
+    "cardID": 124,
+    "cost": 8,
+    "attack": 6,
+    "health": 7
+  },
+  {
+    "setID": "JGK",
+    "cardID": 125,
+    "cost": 10,
+    "attack": 8,
+    "health": 8
+  },
+  {
+    "setID": "JGK",
+    "cardID": "T15",
+    "cost": 1,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "JGK",
+    "cardID": "006",
+    "cost": 5,
+    "attack": 4,
+    "health": 4
+  },
+  {
+    "setID": "JGK",
+    "cardID": "007",
+    "cost": 7,
+    "attack": 7,
+    "health": 8
+  },
+  {
+    "setID": "JGK",
+    "cardID": 136,
+    "cost": 3,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "JGK",
+    "cardID": 137,
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": "001",
+    "cost": 3,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": "027",
+    "cost": 1,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "FAL",
+    "cardID": "028",
+    "cost": 1,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "FAL",
+    "cardID": "029",
+    "cost": 1,
+    "attack": 2,
+    "health": 1
+  },
+  {
+    "setID": "FAL",
+    "cardID": "030",
+    "cost": 1,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "FAL",
+    "cardID": "031",
+    "cost": 1,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "FAL",
+    "cardID": "032",
+    "cost": 1,
+    "attack": 3,
+    "health": 1
+  },
+  {
+    "setID": "FAL",
+    "cardID": "033",
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": "034",
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": "035",
+    "cost": 3,
+    "attack": 3,
+    "health": 1
+  },
+  {
+    "setID": "FAL",
+    "cardID": "036",
+    "cost": 3,
+    "attack": 2,
+    "health": 4
+  },
+  {
+    "setID": "FAL",
+    "cardID": "037",
+    "cost": 3,
+    "attack": 3,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": "038",
+    "cost": 4,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": "039",
+    "cost": 4,
+    "attack": 1,
+    "health": 4
+  },
+  {
+    "setID": "FAL",
+    "cardID": "040",
+    "cost": 4,
+    "attack": 3,
+    "health": 1
+  },
+  {
+    "setID": "FAL",
+    "cardID": "041",
+    "cost": 4,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": "042",
+    "cost": 5,
+    "attack": 0,
+    "health": 0
+  },
+  {
+    "setID": "FAL",
+    "cardID": "043",
+    "cost": 5,
+    "attack": 3,
+    "health": 4
+  },
+  {
+    "setID": "FAL",
+    "cardID": "044",
+    "cost": 6,
+    "attack": 5,
+    "health": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": "045",
+    "cost": 7,
+    "attack": 0,
+    "health": 9
+  },
+  {
+    "setID": "FAL",
+    "cardID": "046",
+    "cost": 8,
+    "attack": 7,
+    "health": 5
+  },
+  {
+    "setID": "FAL",
+    "cardID": "047",
+    "cost": 9,
+    "attack": 5,
+    "health": 9
+  },
+  {
+    "setID": "FAL",
+    "cardID": "048",
+    "cost": 9,
+    "attack": 7,
+    "health": 8
+  },
+  {
+    "setID": "FAL",
+    "cardID": "049",
+    "cost": 10,
+    "attack": 15,
+    "health": 15
+  },
+  {
+    "setID": "FAL",
+    "cardID": "002",
+    "cost": 5,
+    "attack": 3,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": "059",
+    "cost": 1,
+    "attack": 1,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": "060",
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": "061",
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": "062",
+    "cost": 3,
+    "attack": 3,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": "063",
+    "cost": 3,
+    "attack": 1,
+    "health": 4
+  },
+  {
+    "setID": "FAL",
+    "cardID": "064",
+    "cost": 3,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": "065",
+    "cost": 3,
+    "attack": 4,
+    "health": 4
+  },
+  {
+    "setID": "FAL",
+    "cardID": "066",
+    "cost": 4,
+    "attack": 1,
+    "health": 5
+  },
+  {
+    "setID": "FAL",
+    "cardID": "067",
+    "cost": 4,
+    "attack": 3,
+    "health": 4
+  },
+  {
+    "setID": "FAL",
+    "cardID": "068",
+    "cost": 4,
+    "attack": 4,
+    "health": 5
+  },
+  {
+    "setID": "FAL",
+    "cardID": "069",
+    "cost": 4,
+    "attack": 2,
+    "health": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": "070",
+    "cost": 4,
+    "attack": 4,
+    "health": 4
+  },
+  {
+    "setID": "FAL",
+    "cardID": "071",
+    "cost": 5,
+    "attack": 2,
+    "health": 4
+  },
+  {
+    "setID": "FAL",
+    "cardID": "072",
+    "cost": 7,
+    "attack": 0,
+    "health": 7
+  },
+  {
+    "setID": "FAL",
+    "cardID": "073",
+    "cost": 8,
+    "attack": 6,
+    "health": 5
+  },
+  {
+    "setID": "FAL",
+    "cardID": "074",
+    "cost": 9,
+    "attack": 6,
+    "health": 8
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T02",
+    "cost": 2,
+    "attack": 2,
+    "health": 1
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T03",
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T04",
+    "cost": 4,
+    "attack": 4,
+    "health": 4
+  },
+  {
+    "setID": "FAL",
+    "cardID": "003",
+    "cost": 4,
+    "attack": 4,
+    "health": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": "092",
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": "093",
+    "cost": 2,
+    "attack": 1,
+    "health": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": "094",
+    "cost": 2,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "FAL",
+    "cardID": "095",
+    "cost": 2,
+    "attack": 2,
+    "health": 1
+  },
+  {
+    "setID": "FAL",
+    "cardID": "096",
+    "cost": 2,
+    "attack": 2,
+    "health": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": "097",
+    "cost": 3,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": "098",
+    "cost": 3,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": "099",
+    "cost": 3,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": 100,
+    "cost": 3,
+    "attack": 1,
+    "health": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": 101,
+    "cost": 3,
+    "attack": 1,
+    "health": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": 102,
+    "cost": 3,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": 103,
+    "cost": 4,
+    "attack": 2,
+    "health": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": 104,
+    "cost": 4,
+    "attack": 3,
+    "health": 4
+  },
+  {
+    "setID": "FAL",
+    "cardID": 105,
+    "cost": 4,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": 106,
+    "cost": 5,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": 107,
+    "cost": 5,
+    "attack": 2,
+    "health": 4
+  },
+  {
+    "setID": "FAL",
+    "cardID": 108,
+    "cost": 6,
+    "attack": 3,
+    "health": 5
+  },
+  {
+    "setID": "FAL",
+    "cardID": 109,
+    "cost": 7,
+    "attack": 6,
+    "health": 5
+  },
+  {
+    "setID": "FAL",
+    "cardID": 110,
+    "cost": 15,
+    "attack": 9,
+    "health": 9
+  },
+  {
+    "setID": "FAL",
+    "cardID": "004",
+    "cost": 4,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": 125,
+    "cost": 1,
+    "attack": 2,
+    "health": 1
+  },
+  {
+    "setID": "FAL",
+    "cardID": 126,
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": 127,
+    "cost": 2,
+    "attack": 3,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": 128,
+    "cost": 2,
+    "attack": 1,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": 129,
+    "cost": 2,
+    "attack": 1,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": 130,
+    "cost": 2,
+    "attack": 2,
+    "health": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": 131,
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": 132,
+    "cost": 2,
+    "attack": 1,
+    "health": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": 133,
+    "cost": 3,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": 134,
+    "cost": 3,
+    "attack": 1,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": 135,
+    "cost": 3,
+    "attack": 2,
+    "health": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": 136,
+    "cost": 4,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": 137,
+    "cost": 4,
+    "attack": 2,
+    "health": 4
+  },
+  {
+    "setID": "FAL",
+    "cardID": 138,
+    "cost": 5,
+    "attack": 4,
+    "health": 4
+  },
+  {
+    "setID": "FAL",
+    "cardID": 139,
+    "cost": 6,
+    "attack": 4,
+    "health": 4
+  },
+  {
+    "setID": "FAL",
+    "cardID": 140,
+    "cost": 6,
+    "attack": 3,
+    "health": 4
+  },
+  {
+    "setID": "FAL",
+    "cardID": 141,
+    "cost": 7,
+    "attack": 4,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": 142,
+    "cost": 7,
+    "attack": 5,
+    "health": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": 143,
+    "cost": 8,
+    "attack": 6,
+    "health": 7
+  },
+  {
+    "setID": "FAL",
+    "cardID": 144,
+    "cost": 8,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": 145,
+    "cost": 9,
+    "attack": 7,
+    "health": 7
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T06",
+    "cost": 1,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T07",
+    "cost": 1,
+    "attack": 0,
+    "health": 1
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T08",
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T09",
+    "cost": 3,
+    "attack": 0,
+    "health": 0
+  },
+  {
+    "setID": "FAL",
+    "cardID": "005",
+    "cost": 7,
+    "attack": 6,
+    "health": 6
+  },
+  {
+    "setID": "FAL",
+    "cardID": 158,
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": 159,
+    "cost": 2,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": 160,
+    "cost": 2,
+    "attack": 1,
+    "health": 5
+  },
+  {
+    "setID": "FAL",
+    "cardID": 161,
+    "cost": 3,
+    "attack": 3,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": 162,
+    "cost": 3,
+    "attack": 5,
+    "health": 4
+  },
+  {
+    "setID": "FAL",
+    "cardID": 163,
+    "cost": 3,
+    "attack": 3,
+    "health": 1
+  },
+  {
+    "setID": "FAL",
+    "cardID": 164,
+    "cost": 4,
+    "attack": 2,
+    "health": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": 165,
+    "cost": 4,
+    "attack": 1,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": 166,
+    "cost": 4,
+    "attack": 4,
+    "health": 4
+  },
+  {
+    "setID": "FAL",
+    "cardID": 167,
+    "cost": 4,
+    "attack": 2,
+    "health": 1
+  },
+  {
+    "setID": "FAL",
+    "cardID": 168,
+    "cost": 4,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": 169,
+    "cost": 4,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": 170,
+    "cost": 4,
+    "attack": 4,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": 171,
+    "cost": 5,
+    "attack": 4,
+    "health": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": 172,
+    "cost": 5,
+    "attack": 1,
+    "health": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": 173,
+    "cost": 5,
+    "attack": 3,
+    "health": 4
+  },
+  {
+    "setID": "FAL",
+    "cardID": 174,
+    "cost": 7,
+    "attack": 5,
+    "health": 8
+  },
+  {
+    "setID": "FAL",
+    "cardID": 175,
+    "cost": 7,
+    "attack": 3,
+    "health": 4
+  },
+  {
+    "setID": "FAL",
+    "cardID": 176,
+    "cost": 8,
+    "attack": 4,
+    "health": 6
+  },
+  {
+    "setID": "FAL",
+    "cardID": 177,
+    "cost": 10,
+    "attack": 8,
+    "health": 8
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T11",
+    "cost": 1,
+    "attack": 0,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T12",
+    "cost": 1,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T13",
+    "cost": 1,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "setID": "FAL",
+    "cardID": "006",
+    "cost": 5,
+    "attack": 4,
+    "health": 4
+  },
+  {
+    "setID": "FAL",
+    "cardID": "007",
+    "cost": 6,
+    "attack": 3,
+    "health": 4
+  },
+  {
+    "setID": "FAL",
+    "cardID": "008",
+    "cost": 4,
+    "attack": 1,
+    "health": 5
+  },
+  {
+    "setID": "FAL",
+    "cardID": "009",
+    "cost": 7,
+    "attack": 5,
+    "health": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": "010",
+    "cost": 3,
+    "attack": 3,
+    "health": 5
+  },
+  {
+    "setID": "FAL",
+    "cardID": "011",
+    "cost": 6,
+    "attack": 1,
+    "health": 6
+  },
+  {
+    "setID": "FAL",
+    "cardID": "012",
+    "cost": 7,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": "013",
+    "cost": 4,
+    "attack": 2,
+    "health": 6
+  },
+  {
+    "setID": "FAL",
+    "cardID": "014",
+    "cost": 7,
+    "attack": 7,
+    "health": 4
+  },
+  {
+    "setID": "FAL",
+    "cardID": "015",
+    "cost": 7,
+    "attack": 4,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": "016",
+    "cost": 3,
+    "attack": 3,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": "017",
+    "cost": 4,
+    "attack": 2,
+    "health": 4
+  },
+  {
+    "setID": "FAL",
+    "cardID": "018",
+    "cost": 5,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": "019",
+    "cost": 7,
+    "attack": 3,
+    "health": 8
+  },
+  {
+    "setID": "FAL",
+    "cardID": "020",
+    "cost": 5,
+    "attack": 3,
+    "health": 2
+  },
+  {
+    "setID": "FAL",
+    "cardID": "021",
+    "cost": 8,
+    "attack": 4,
+    "health": 12
+  },
+  {
+    "setID": "FAL",
+    "cardID": "022",
+    "cost": 7,
+    "attack": 5,
+    "health": 7
+  },
+  {
+    "setID": "FAL",
+    "cardID": "023",
+    "cost": 4,
+    "attack": 4,
+    "health": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": "024",
+    "cost": 6,
+    "attack": 2,
+    "health": 5
+  },
+  {
+    "setID": "FAL",
+    "cardID": "025",
+    "cost": 4,
+    "attack": 3,
+    "health": 3
+  },
+  {
+    "setID": "FAL",
+    "cardID": "026",
+    "cost": 9,
+    "attack": 6,
+    "health": 6
+  },
+  {
+    "setID": "FAL",
+    "cardID": 191,
+    "cost": 3,
+    "attack": 1,
+    "health": 4
+  },
+  {
+    "setID": "FAL",
+    "cardID": 193,
+    "cost": 5,
+    "attack": 4,
+    "health": 5
+  },
+  {
+    "setID": "FAL",
+    "cardID": 195,
+    "cost": 4,
+    "attack": 2,
+    "health": 5
+  },
+  {
+    "setID": "FAL",
+    "cardID": 197,
+    "cost": 7,
+    "attack": 4,
+    "health": 4
+  },
+  {
+    "setID": "FAL",
+    "cardID": 199,
+    "cost": 6,
+    "attack": 3,
+    "health": 6
+  },
+  {
+    "setID": "FAL",
+    "cardID": 201,
+    "cost": 4,
+    "attack": 3,
+    "health": 5
+  }
+]

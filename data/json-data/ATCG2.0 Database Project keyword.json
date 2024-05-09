@@ -1,0 +1,6647 @@
+[
+  {
+    "setID": "COR",
+    "cardID": "001",
+    "keyword": "Haste, Legend, Trash"
+  },
+  {
+    "setID": "COR",
+    "cardID": "002",
+    "keyword": "Legend, Summon"
+  },
+  {
+    "setID": "COR",
+    "cardID": "003",
+    "keyword": "Invest, Legend"
+  },
+  {
+    "setID": "COR",
+    "cardID": "012",
+    "keyword": "Mill, Reclaim"
+  },
+  {
+    "setID": "COR",
+    "cardID": "013",
+    "keyword": "Reaction"
+  },
+  {
+    "setID": "COR",
+    "cardID": "014",
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": "015",
+    "keyword": "Haste, Invest"
+  },
+  {
+    "setID": "COR",
+    "cardID": "016",
+    "keyword": "Exhaust"
+  },
+  {
+    "setID": "COR",
+    "cardID": "017",
+    "keyword": "Haste"
+  },
+  {
+    "setID": "COR",
+    "cardID": "018",
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": "019",
+    "keyword": "Reaction, Barrier"
+  },
+  {
+    "setID": "COR",
+    "cardID": "020",
+    "keyword": "Blockade"
+  },
+  {
+    "setID": "COR",
+    "cardID": "021",
+    "keyword": "Armored"
+  },
+  {
+    "setID": "COR",
+    "cardID": "022",
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": "023",
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": "024",
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": "025",
+    "keyword": "Reaction"
+  },
+  {
+    "setID": "COR",
+    "cardID": "026",
+    "keyword": "Reposition"
+  },
+  {
+    "setID": "COR",
+    "cardID": "027",
+    "keyword": "Reaction"
+  },
+  {
+    "setID": "COR",
+    "cardID": "028",
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": "029",
+    "keyword": "Deploy, Restrain"
+  },
+  {
+    "setID": "COR",
+    "cardID": "030",
+    "keyword": "Choose One"
+  },
+  {
+    "setID": "COR",
+    "cardID": "031",
+    "keyword": "Attach"
+  },
+  {
+    "setID": "COR",
+    "cardID": "032",
+    "keyword": "Equip, Reaction"
+  },
+  {
+    "setID": "COR",
+    "cardID": "033",
+    "keyword": "Deploy"
+  },
+  {
+    "setID": "COR",
+    "cardID": "034",
+    "keyword": "Summon"
+  },
+  {
+    "setID": "COR",
+    "cardID": "035",
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": "036",
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": "037",
+    "keyword": "Reach"
+  },
+  {
+    "setID": "COR",
+    "cardID": 150,
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": 151,
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": 152,
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": 153,
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": 154,
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": 155,
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": "T01",
+    "keyword": "Sacrifice"
+  },
+  {
+    "setID": "COR",
+    "cardID": "T02",
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": "004",
+    "keyword": "Legend, Quick Strike"
+  },
+  {
+    "setID": "COR",
+    "cardID": "005",
+    "keyword": "Legend"
+  },
+  {
+    "setID": "COR",
+    "cardID": "038",
+    "keyword": "Invest"
+  },
+  {
+    "setID": "COR",
+    "cardID": "039",
+    "keyword": "Invest, Lethal"
+  },
+  {
+    "setID": "COR",
+    "cardID": "040",
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": "041",
+    "keyword": "Blockade"
+  },
+  {
+    "setID": "COR",
+    "cardID": "042",
+    "keyword": "Exhaust"
+  },
+  {
+    "setID": "COR",
+    "cardID": "043",
+    "keyword": "Overheal"
+  },
+  {
+    "setID": "COR",
+    "cardID": "044",
+    "keyword": "Haste"
+  },
+  {
+    "setID": "COR",
+    "cardID": "045",
+    "keyword": "Breakthrough"
+  },
+  {
+    "setID": "COR",
+    "cardID": "046",
+    "keyword": "Reaction, Overpass"
+  },
+  {
+    "setID": "COR",
+    "cardID": "047",
+    "keyword": "Breakthrough, Barrier"
+  },
+  {
+    "setID": "COR",
+    "cardID": "048",
+    "keyword": "Breakthrough, Exhaust"
+  },
+  {
+    "setID": "COR",
+    "cardID": "049",
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": "050",
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": "051",
+    "keyword": "Reaction, Reposition"
+  },
+  {
+    "setID": "COR",
+    "cardID": "052",
+    "keyword": "Invest"
+  },
+  {
+    "setID": "COR",
+    "cardID": "053",
+    "keyword": "Transform"
+  },
+  {
+    "setID": "COR",
+    "cardID": "054",
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": "055",
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": "056",
+    "keyword": "Equip, Lethal"
+  },
+  {
+    "setID": "COR",
+    "cardID": "057",
+    "keyword": "Equip, Reaction"
+  },
+  {
+    "setID": "COR",
+    "cardID": "058",
+    "keyword": "Afflict"
+  },
+  {
+    "setID": "COR",
+    "cardID": "059",
+    "keyword": "Invest"
+  },
+  {
+    "setID": "COR",
+    "cardID": "060",
+    "keyword": "Equip, Quick Strike"
+  },
+  {
+    "setID": "COR",
+    "cardID": "061",
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": "062",
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": "063",
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": "064",
+    "keyword": "Breakthrough"
+  },
+  {
+    "setID": "COR",
+    "cardID": "065",
+    "keyword": "Sacrifice"
+  },
+  {
+    "setID": "COR",
+    "cardID": "T03",
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": "006",
+    "keyword": "Legend, Summon, Haste"
+  },
+  {
+    "setID": "COR",
+    "cardID": "007",
+    "keyword": "Legend"
+  },
+  {
+    "setID": "COR",
+    "cardID": "066",
+    "keyword": "Overpass, Spy"
+  },
+  {
+    "setID": "COR",
+    "cardID": "067",
+    "keyword": "Invest"
+  },
+  {
+    "setID": "COR",
+    "cardID": "068",
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": "069",
+    "keyword": "Reaction, Armored"
+  },
+  {
+    "setID": "COR",
+    "cardID": "070",
+    "keyword": "Haste, Overpass"
+  },
+  {
+    "setID": "COR",
+    "cardID": "071",
+    "keyword": "Echo"
+  },
+  {
+    "setID": "COR",
+    "cardID": "072",
+    "keyword": "Blockade, Armored"
+  },
+  {
+    "setID": "COR",
+    "cardID": "073",
+    "keyword": "Breakthrough, Ruins"
+  },
+  {
+    "setID": "COR",
+    "cardID": "074",
+    "keyword": "Ruins"
+  },
+  {
+    "setID": "COR",
+    "cardID": "075",
+    "keyword": "Reaction"
+  },
+  {
+    "setID": "COR",
+    "cardID": "076",
+    "keyword": "Allocate"
+  },
+  {
+    "setID": "COR",
+    "cardID": "077",
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": "078",
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": "079",
+    "keyword": "Reaction, Afflict, Reposition"
+  },
+  {
+    "setID": "COR",
+    "cardID": "080",
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": "081",
+    "keyword": "Reaction, Afflict"
+  },
+  {
+    "setID": "COR",
+    "cardID": "082",
+    "keyword": "Reaction, Deploy, Haste, Quick Strike"
+  },
+  {
+    "setID": "COR",
+    "cardID": "083",
+    "keyword": "Equip, Reaction, Sacrifice, Sift"
+  },
+  {
+    "setID": "COR",
+    "cardID": "084",
+    "keyword": "Afflict"
+  },
+  {
+    "setID": "COR",
+    "cardID": "085",
+    "keyword": "Reaction"
+  },
+  {
+    "setID": "COR",
+    "cardID": "086",
+    "keyword": "Choose One"
+  },
+  {
+    "setID": "COR",
+    "cardID": "087",
+    "keyword": "Sift"
+  },
+  {
+    "setID": "COR",
+    "cardID": "088",
+    "keyword": "Echo"
+  },
+  {
+    "setID": "COR",
+    "cardID": "089",
+    "keyword": "Sift"
+  },
+  {
+    "setID": "COR",
+    "cardID": "090",
+    "keyword": "Armored"
+  },
+  {
+    "setID": "COR",
+    "cardID": "091",
+    "keyword": "Overpass"
+  },
+  {
+    "setID": "COR",
+    "cardID": "092",
+    "keyword": "Reclaim"
+  },
+  {
+    "setID": "COR",
+    "cardID": "093",
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": "T04",
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": "T05",
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": "T06",
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": "008",
+    "keyword": "Haste, Legend, Ephemeral, Sacrifice"
+  },
+  {
+    "setID": "COR",
+    "cardID": "009",
+    "keyword": "Spy, Legend, Reaction"
+  },
+  {
+    "setID": "COR",
+    "cardID": "094",
+    "keyword": "Overpass, Silence"
+  },
+  {
+    "setID": "COR",
+    "cardID": "095",
+    "keyword": "Invest"
+  },
+  {
+    "setID": "COR",
+    "cardID": "096",
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": "097",
+    "keyword": "Ward, Spy"
+  },
+  {
+    "setID": "COR",
+    "cardID": "098",
+    "keyword": "Ward"
+  },
+  {
+    "setID": "COR",
+    "cardID": "099",
+    "keyword": "Overpass, Spy"
+  },
+  {
+    "setID": "COR",
+    "cardID": 100,
+    "keyword": "Ward"
+  },
+  {
+    "setID": "COR",
+    "cardID": 101,
+    "keyword": "Ward, Summon"
+  },
+  {
+    "setID": "COR",
+    "cardID": 102,
+    "keyword": "Reaction"
+  },
+  {
+    "setID": "COR",
+    "cardID": 103,
+    "keyword": "Summon, Invest"
+  },
+  {
+    "setID": "COR",
+    "cardID": 104,
+    "keyword": "Reaction, Barrier"
+  },
+  {
+    "setID": "COR",
+    "cardID": 105,
+    "keyword": "Breakthrough"
+  },
+  {
+    "setID": "COR",
+    "cardID": 106,
+    "keyword": "Summon, Invest, Haste"
+  },
+  {
+    "setID": "COR",
+    "cardID": 107,
+    "keyword": "Trash"
+  },
+  {
+    "setID": "COR",
+    "cardID": 108,
+    "keyword": "Spy"
+  },
+  {
+    "setID": "COR",
+    "cardID": 109,
+    "keyword": "Summon"
+  },
+  {
+    "setID": "COR",
+    "cardID": 110,
+    "keyword": "Exhaust, Echo"
+  },
+  {
+    "setID": "COR",
+    "cardID": 111,
+    "keyword": "Spy"
+  },
+  {
+    "setID": "COR",
+    "cardID": 112,
+    "keyword": "Equip, Reaction, Sacrifice"
+  },
+  {
+    "setID": "COR",
+    "cardID": 113,
+    "keyword": "Summon, Invest"
+  },
+  {
+    "setID": "COR",
+    "cardID": 114,
+    "keyword": "Choose One, Invest"
+  },
+  {
+    "setID": "COR",
+    "cardID": 115,
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": 116,
+    "keyword": "Untargetable, Equip, Ward"
+  },
+  {
+    "setID": "COR",
+    "cardID": 117,
+    "keyword": "Summon"
+  },
+  {
+    "setID": "COR",
+    "cardID": 118,
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": 119,
+    "keyword": "Exhaust"
+  },
+  {
+    "setID": "COR",
+    "cardID": 120,
+    "keyword": "Ward"
+  },
+  {
+    "setID": "COR",
+    "cardID": 121,
+    "keyword": "Summon, Spy, Sacrifice"
+  },
+  {
+    "setID": "COR",
+    "cardID": "T07",
+    "keyword": "Blockade, Barrier"
+  },
+  {
+    "setID": "COR",
+    "cardID": "T08",
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": "T09",
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": "T10",
+    "keyword": "Transform"
+  },
+  {
+    "setID": "COR",
+    "cardID": "T11",
+    "keyword": "Ward"
+  },
+  {
+    "setID": "COR",
+    "cardID": "010",
+    "keyword": "Mill, Legend"
+  },
+  {
+    "setID": "COR",
+    "cardID": "011",
+    "keyword": "Legend, Mill, Summon"
+  },
+  {
+    "setID": "COR",
+    "cardID": 122,
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": 123,
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": 124,
+    "keyword": "Invest, Convert"
+  },
+  {
+    "setID": "COR",
+    "cardID": 125,
+    "keyword": "Overpass"
+  },
+  {
+    "setID": "COR",
+    "cardID": 126,
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": 127,
+    "keyword": "Convert"
+  },
+  {
+    "setID": "COR",
+    "cardID": 128,
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": 129,
+    "keyword": "Breakthrough, Mill"
+  },
+  {
+    "setID": "COR",
+    "cardID": 130,
+    "keyword": "Overpass"
+  },
+  {
+    "setID": "COR",
+    "cardID": 131,
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": 132,
+    "keyword": "Convert, Sacrifice"
+  },
+  {
+    "setID": "COR",
+    "cardID": 133,
+    "keyword": "Sacrifice"
+  },
+  {
+    "setID": "COR",
+    "cardID": 134,
+    "keyword": "Invest"
+  },
+  {
+    "setID": "COR",
+    "cardID": 135,
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": 136,
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": 137,
+    "keyword": "Convert"
+  },
+  {
+    "setID": "COR",
+    "cardID": 138,
+    "keyword": "Sacrifice, Mill"
+  },
+  {
+    "setID": "COR",
+    "cardID": 139,
+    "keyword": "Equip"
+  },
+  {
+    "setID": "COR",
+    "cardID": 140,
+    "keyword": "Equip, Reaction, Sacrifice"
+  },
+  {
+    "setID": "COR",
+    "cardID": 141,
+    "keyword": "Deploy, Mill"
+  },
+  {
+    "setID": "COR",
+    "cardID": 142,
+    "keyword": "Deploy"
+  },
+  {
+    "setID": "COR",
+    "cardID": 143,
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": 144,
+    "keyword": "Attach, Reposition"
+  },
+  {
+    "setID": "COR",
+    "cardID": 145,
+    "keyword": "Convert"
+  },
+  {
+    "setID": "COR",
+    "cardID": 146,
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": 147,
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": 148,
+    "keyword": ""
+  },
+  {
+    "setID": "COR",
+    "cardID": 149,
+    "keyword": "Sacrifice, Mill"
+  },
+  {
+    "setID": "COR",
+    "cardID": "T12",
+    "keyword": "Mill"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "001",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "002",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "003",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "004",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "005",
+    "keyword": "Frailty, Quick Strike"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "006",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "007",
+    "keyword": "Stealth"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "008",
+    "keyword": "Silence"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "009",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "010",
+    "keyword": "Blockade"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "011",
+    "keyword": "Quick Strike"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "012",
+    "keyword": "Exhaust, Reposition"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "013",
+    "keyword": "Blockade, Armored"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "014",
+    "keyword": "Breakthrough"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "015",
+    "keyword": "Lethal"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "016",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "017",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "018",
+    "keyword": "Breakthrough"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "019",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "020",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "021",
+    "keyword": "Summon"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "022",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "023",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "024",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "025",
+    "keyword": "Armored"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "026",
+    "keyword": "Blockade"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "027",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "028",
+    "keyword": "Deploy"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "029",
+    "keyword": "Frailty"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "030",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "031",
+    "keyword": "Frailty"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "032",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "033",
+    "keyword": "Silence, Untargetable"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "034",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "035",
+    "keyword": "Legend"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "036",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "037",
+    "keyword": "Armored"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "038",
+    "keyword": "Armored"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "039",
+    "keyword": "Frailty"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "040",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "041",
+    "keyword": "Convert"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "042",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "043",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "044",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "045",
+    "keyword": "Reaction, Frailty"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "046",
+    "keyword": "Reaction, Armored"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "047",
+    "keyword": "Frailty, Armored"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "048",
+    "keyword": "Deploy"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "049",
+    "keyword": "Reaction, Exhaust"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "050",
+    "keyword": "Attach, Exhaust"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "051",
+    "keyword": "Restrain"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "052",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "053",
+    "keyword": "Exhaust"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "054",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "055",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "056",
+    "keyword": "Reaction, Attach"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "057",
+    "keyword": "Deploy, Hoard, Trash"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "058",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "059",
+    "keyword": "Armored"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "060",
+    "keyword": "Frailty"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "061",
+    "keyword": "Armored, Frailty"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "062",
+    "keyword": "Leader, Legend, Summon"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "063",
+    "keyword": "Invest"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "064",
+    "keyword": "Leader"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "065",
+    "keyword": "Crowd, Twin Strike"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "066",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "067",
+    "keyword": "Crowd"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "068",
+    "keyword": "Exhaust"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "069",
+    "keyword": "Leader, Stealth"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "070",
+    "keyword": "Crowd"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "071",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "072",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "073",
+    "keyword": "Reaction"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "074",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "075",
+    "keyword": "Summon"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "076",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "077",
+    "keyword": "Leader"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "078",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "079",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "080",
+    "keyword": "Equip, Reposition"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "081",
+    "keyword": "Equip, Breakthrough, Overpass"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "082",
+    "keyword": "Deploy, Reposition"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "083",
+    "keyword": "Attach, Reaction"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "084",
+    "keyword": "Invest, Crowd"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "085",
+    "keyword": "Reaction"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "086",
+    "keyword": "Summon"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "087",
+    "keyword": "Leader"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "088",
+    "keyword": "Leader, Crowd"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "089",
+    "keyword": "Breakthrough, Legend, Scarcity"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "090",
+    "keyword": "Stealth"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "091",
+    "keyword": "Invest, Summon"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "092",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "093",
+    "keyword": "Trash"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "094",
+    "keyword": "Reposition"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "095",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "096",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "097",
+    "keyword": "Overpass"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "098",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": "099",
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": 100,
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": 101,
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": 102,
+    "keyword": "Scarcity"
+  },
+  {
+    "setID": "HOE",
+    "cardID": 103,
+    "keyword": "Scarcity"
+  },
+  {
+    "setID": "HOE",
+    "cardID": 104,
+    "keyword": "Scarcity"
+  },
+  {
+    "setID": "HOE",
+    "cardID": 105,
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": 106,
+    "keyword": "Scarcity"
+  },
+  {
+    "setID": "HOE",
+    "cardID": 107,
+    "keyword": "Restrain"
+  },
+  {
+    "setID": "HOE",
+    "cardID": 108,
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": 109,
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": 110,
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": 111,
+    "keyword": "Exhaust, Scarcity"
+  },
+  {
+    "setID": "HOE",
+    "cardID": 112,
+    "keyword": "Deploy, Exhaust"
+  },
+  {
+    "setID": "HOE",
+    "cardID": 113,
+    "keyword": "Deploy, Haste"
+  },
+  {
+    "setID": "HOE",
+    "cardID": 114,
+    "keyword": ""
+  },
+  {
+    "setID": "HOE",
+    "cardID": 115,
+    "keyword": "Scarcity"
+  },
+  {
+    "setID": "HOE",
+    "cardID": 116,
+    "keyword": ""
+  },
+  {
+    "setID": "ELM",
+    "cardID": "001",
+    "keyword": "Breakthrough"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "002",
+    "keyword": "Breakthrough"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "003",
+    "keyword": "Breakthrough"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "004",
+    "keyword": "Breakthrough, Barrier, Ward"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "005",
+    "keyword": "Breakthrough"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "006",
+    "keyword": ""
+  },
+  {
+    "setID": "ELM",
+    "cardID": "007",
+    "keyword": "Summon, Invest"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "008",
+    "keyword": "Summon"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "009",
+    "keyword": ""
+  },
+  {
+    "setID": "ELM",
+    "cardID": "010",
+    "keyword": "Downgrade, Summon"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "011",
+    "keyword": "Summon"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "012",
+    "keyword": "Trash"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "013",
+    "keyword": "Invest"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "014",
+    "keyword": "Trash"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "015",
+    "keyword": "Lethal"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "016",
+    "keyword": "Trash"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "017",
+    "keyword": "Attach, Invest"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "018",
+    "keyword": "Silence"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "019",
+    "keyword": ""
+  },
+  {
+    "setID": "ELM",
+    "cardID": "020",
+    "keyword": ""
+  },
+  {
+    "setID": "ELM",
+    "cardID": "021",
+    "keyword": "Deploy"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "022",
+    "keyword": "Reposition"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "023",
+    "keyword": ""
+  },
+  {
+    "setID": "ELM",
+    "cardID": "024",
+    "keyword": "Summon"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "025",
+    "keyword": ""
+  },
+  {
+    "setID": "ELM",
+    "cardID": "026",
+    "keyword": ""
+  },
+  {
+    "setID": "ELM",
+    "cardID": "027",
+    "keyword": ""
+  },
+  {
+    "setID": "ELM",
+    "cardID": "028",
+    "keyword": "Reaction, First Strike"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "029",
+    "keyword": "Overpass, Armored"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "030",
+    "keyword": "Reaction, Armored"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "031",
+    "keyword": "Armored, Overpass"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "032",
+    "keyword": "Restrain, Armored"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "001",
+    "keyword": "Roll, Legend"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "002",
+    "keyword": "Armored, Legend"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "011",
+    "keyword": "Stealth"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "012",
+    "keyword": "Blockade"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "013",
+    "keyword": "Overpass, Spy"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "014",
+    "keyword": "Armored"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "015",
+    "keyword": ""
+  },
+  {
+    "setID": "WHV",
+    "cardID": "016",
+    "keyword": ""
+  },
+  {
+    "setID": "WHV",
+    "cardID": "017",
+    "keyword": "Reaction, Ward, Reposition"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "018",
+    "keyword": ""
+  },
+  {
+    "setID": "WHV",
+    "cardID": "019",
+    "keyword": "Depth"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "020",
+    "keyword": ""
+  },
+  {
+    "setID": "WHV",
+    "cardID": "021",
+    "keyword": ""
+  },
+  {
+    "setID": "WHV",
+    "cardID": "022",
+    "keyword": ""
+  },
+  {
+    "setID": "WHV",
+    "cardID": "023",
+    "keyword": "Attach"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "024",
+    "keyword": "Depth"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "025",
+    "keyword": "Invest"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "026",
+    "keyword": "Depth"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "027",
+    "keyword": "Legend"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "084",
+    "keyword": "Depth, Mill"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "085",
+    "keyword": "Depth, Mill"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "003",
+    "keyword": "Transform, Legend"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "004",
+    "keyword": "Legend"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "028",
+    "keyword": "Breakthrough, Invest, Summon"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "029",
+    "keyword": "Depth"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "030",
+    "keyword": "Overpass, Invest"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "031",
+    "keyword": "Depth, Quick Strike"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "032",
+    "keyword": ""
+  },
+  {
+    "setID": "WHV",
+    "cardID": "033",
+    "keyword": "Breakthrough"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "034",
+    "keyword": "Reaction, Attach, Reposition, Ward"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "035",
+    "keyword": ""
+  },
+  {
+    "setID": "WHV",
+    "cardID": "036",
+    "keyword": "Attach, Silence"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "037",
+    "keyword": "Attach"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "038",
+    "keyword": "Overheal, Transform"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "039",
+    "keyword": "Attach, Armored"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "040",
+    "keyword": "Lethal"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "041",
+    "keyword": "Reaction"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T01",
+    "keyword": "Breakthrough"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T08",
+    "keyword": "Legend"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T09",
+    "keyword": "Deploy"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "005",
+    "keyword": "Transform, Legend, Stealth, Reposition"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "006",
+    "keyword": "Legend, Stealth"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "042",
+    "keyword": "Invest, Summon"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "043",
+    "keyword": "Armored, Stealth"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "044",
+    "keyword": "Stealth"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "045",
+    "keyword": "Armored"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "046",
+    "keyword": ""
+  },
+  {
+    "setID": "WHV",
+    "cardID": "047",
+    "keyword": "Allocate"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "048",
+    "keyword": "Depth, Sift"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "049",
+    "keyword": "Depth"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "050",
+    "keyword": "Depth, Transform"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "051",
+    "keyword": "Sift, Armored"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "052",
+    "keyword": "Attach, Quick Strike, Twin Strike"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "053",
+    "keyword": "Attach, Trash"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "054",
+    "keyword": "Deploy, Depth, Sift, Mill"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "055",
+    "keyword": "Reaction"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T02",
+    "keyword": ""
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T03",
+    "keyword": "Attach, Stealth"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T10",
+    "keyword": "Overpass, Legend"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T11",
+    "keyword": "Blockade, Exhaust, Sift"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "007",
+    "keyword": "Transform, Legend, Trash"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "008",
+    "keyword": "Legend, Silence, Sacrifice"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "056",
+    "keyword": "Sacrifice, Invest"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "057",
+    "keyword": "Summon, Silence"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "058",
+    "keyword": "Depth"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "059",
+    "keyword": "Overpass, Choose One, Sacrifice"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "060",
+    "keyword": "Transform"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "061",
+    "keyword": ""
+  },
+  {
+    "setID": "WHV",
+    "cardID": "062",
+    "keyword": "Reaction, Attach, Ward, Barrier"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "063",
+    "keyword": "Reaction"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "064",
+    "keyword": "Depth, Silence"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "065",
+    "keyword": "Summon"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "066",
+    "keyword": "Spy"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "067",
+    "keyword": "Attach, Silence, Sacrifice"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "068",
+    "keyword": "Summon, Ward"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "069",
+    "keyword": "Reaction"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T04",
+    "keyword": "Overpass"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T05",
+    "keyword": "Sacrifice"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T12",
+    "keyword": "Legend, Trash, Silence"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T13",
+    "keyword": ""
+  },
+  {
+    "setID": "WHV",
+    "cardID": "009",
+    "keyword": "Transform"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "010",
+    "keyword": "Legend, Trash"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "070",
+    "keyword": ""
+  },
+  {
+    "setID": "WHV",
+    "cardID": "071",
+    "keyword": "Invest, Summon"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "072",
+    "keyword": "Depth, Stealth"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "073",
+    "keyword": ""
+  },
+  {
+    "setID": "WHV",
+    "cardID": "074",
+    "keyword": "Trash"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "075",
+    "keyword": "Breakthrough, Haste"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "076",
+    "keyword": ""
+  },
+  {
+    "setID": "WHV",
+    "cardID": "077",
+    "keyword": "Invest"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "078",
+    "keyword": "Depth"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "079",
+    "keyword": ""
+  },
+  {
+    "setID": "WHV",
+    "cardID": "080",
+    "keyword": "Reaction"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "081",
+    "keyword": "Convert"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "082",
+    "keyword": "Attach"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "083",
+    "keyword": "Reaction"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T06",
+    "keyword": ""
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T07",
+    "keyword": ""
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T14",
+    "keyword": "Stealth, Legend, Convert"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T15",
+    "keyword": "Breakthrough"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "001",
+    "keyword": "Legend"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "010",
+    "keyword": ""
+  },
+  {
+    "setID": "DEP",
+    "cardID": "011",
+    "keyword": "Depth, Overpass"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "012",
+    "keyword": "Echo"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "013",
+    "keyword": "Depth, Armored"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "014",
+    "keyword": "Echo"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "015",
+    "keyword": "Trash"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "016",
+    "keyword": "Trash"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "017",
+    "keyword": "Invest, Depth"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "018",
+    "keyword": "Attach, Depth"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "019",
+    "keyword": "Echo"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "020",
+    "keyword": "Trash"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "021",
+    "keyword": "Downgrade"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "022",
+    "keyword": "Depth"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "002",
+    "keyword": "Legend"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "023",
+    "keyword": "Reaction"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "024",
+    "keyword": "Exhaust"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "025",
+    "keyword": "Lethal"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "026",
+    "keyword": ""
+  },
+  {
+    "setID": "DEP",
+    "cardID": "027",
+    "keyword": "Depth, Summon"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "028",
+    "keyword": "Breakthrough"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "029",
+    "keyword": "Depth, Barrier, Echo"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "030",
+    "keyword": ""
+  },
+  {
+    "setID": "DEP",
+    "cardID": "031",
+    "keyword": "Breakthrough"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "032",
+    "keyword": ""
+  },
+  {
+    "setID": "DEP",
+    "cardID": "033",
+    "keyword": "Depth"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "034",
+    "keyword": "Attach, Echo"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "035",
+    "keyword": "Reaction"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "036",
+    "keyword": "Depth, Invest, Exhaust, Breakthrough"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "037",
+    "keyword": "Attach, Armored"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "038",
+    "keyword": ""
+  },
+  {
+    "setID": "DEP",
+    "cardID": "039",
+    "keyword": ""
+  },
+  {
+    "setID": "DEP",
+    "cardID": "040",
+    "keyword": "Spy, Echo"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "041",
+    "keyword": "Deploy"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "042",
+    "keyword": ""
+  },
+  {
+    "setID": "DEP",
+    "cardID": "T01",
+    "keyword": "Depth"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "003",
+    "keyword": "Legend"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "043",
+    "keyword": "Stealth"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "044",
+    "keyword": "Armored"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "045",
+    "keyword": "Stealth"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "046",
+    "keyword": "Depth, Echo"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "047",
+    "keyword": "Armored, Reposition, Stealth"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "048",
+    "keyword": "Armored, Breakthrough, Reaction"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "049",
+    "keyword": "Armored, Depth"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "050",
+    "keyword": "Armored, Barrier, Stealth"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "051",
+    "keyword": "Sift"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "052",
+    "keyword": "Reposition"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "053",
+    "keyword": "Depth, Invest"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "054",
+    "keyword": "Stealth"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "055",
+    "keyword": "Stealth"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "056",
+    "keyword": "Deploy"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "057",
+    "keyword": "Deploy"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "058",
+    "keyword": "Depth, Attach, Armored"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "059",
+    "keyword": "Spy, Echo"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "060",
+    "keyword": ""
+  },
+  {
+    "setID": "DEP",
+    "cardID": "061",
+    "keyword": "Deploy"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "062",
+    "keyword": ""
+  },
+  {
+    "setID": "DEP",
+    "cardID": "004",
+    "keyword": "Legend"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "063",
+    "keyword": ""
+  },
+  {
+    "setID": "DEP",
+    "cardID": "064",
+    "keyword": "Reaction, Ward, Exhaust"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "065",
+    "keyword": "Ward, Summon"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "066",
+    "keyword": "Ward, Deploy"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "067",
+    "keyword": "Ward, Echo"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "068",
+    "keyword": "Depth, Summon"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "069",
+    "keyword": "Armored"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "070",
+    "keyword": "Barrier"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "071",
+    "keyword": "Depth"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "072",
+    "keyword": ""
+  },
+  {
+    "setID": "DEP",
+    "cardID": "073",
+    "keyword": "Reaction"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "074",
+    "keyword": "Silence, Invest"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "075",
+    "keyword": "Echo"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "076",
+    "keyword": "Attach"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "077",
+    "keyword": "Attach"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "078",
+    "keyword": "Depth, Invest"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "079",
+    "keyword": "Attach"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "080",
+    "keyword": ""
+  },
+  {
+    "setID": "DEP",
+    "cardID": "081",
+    "keyword": "Spy, Echo"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "082",
+    "keyword": "Summon"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "T02",
+    "keyword": "Ward"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "005",
+    "keyword": "Legend, Stealth, Haste"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "083",
+    "keyword": "Reaction, Convert, Echo"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "084",
+    "keyword": "First Strike"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "085",
+    "keyword": "Covnert"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "086",
+    "keyword": "Invest, Echo"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "087",
+    "keyword": "Depth, Blockade"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "088",
+    "keyword": ""
+  },
+  {
+    "setID": "DEP",
+    "cardID": "089",
+    "keyword": "Barrier, Reposition, Mill"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "090",
+    "keyword": "Depth, Mill"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "091",
+    "keyword": ""
+  },
+  {
+    "setID": "DEP",
+    "cardID": "092",
+    "keyword": "Depth"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "093",
+    "keyword": "Mill"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "094",
+    "keyword": "Depth"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "096",
+    "keyword": "Depth"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "097",
+    "keyword": "Depth, Invest, Mill"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "098",
+    "keyword": "Attach"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "099",
+    "keyword": "Mill"
+  },
+  {
+    "setID": "DEP",
+    "cardID": 100,
+    "keyword": "Depth"
+  },
+  {
+    "setID": "DEP",
+    "cardID": 101,
+    "keyword": "Spy, Echo"
+  },
+  {
+    "setID": "DEP",
+    "cardID": 102,
+    "keyword": ""
+  },
+  {
+    "setID": "DEP",
+    "cardID": "006",
+    "keyword": "Legend"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "007",
+    "keyword": "Blockade, Legend"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "008",
+    "keyword": "Sift, Legend"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "009",
+    "keyword": "Unblockable, Legend, Summon"
+  },
+  {
+    "setID": "DEP",
+    "cardID": 103,
+    "keyword": ""
+  },
+  {
+    "setID": "DEP",
+    "cardID": 104,
+    "keyword": ""
+  },
+  {
+    "setID": "DEP",
+    "cardID": 105,
+    "keyword": "Mill"
+  },
+  {
+    "setID": "DEP",
+    "cardID": 106,
+    "keyword": "Armored, Ward"
+  },
+  {
+    "setID": "DEP",
+    "cardID": 107,
+    "keyword": ""
+  },
+  {
+    "setID": "DEP",
+    "cardID": 108,
+    "keyword": "Overpass"
+  },
+  {
+    "setID": "DEP",
+    "cardID": 109,
+    "keyword": "Depth, Mill"
+  },
+  {
+    "setID": "DEP",
+    "cardID": 110,
+    "keyword": "Depth, Mill"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "001",
+    "keyword": "Legendary, Summon"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "013",
+    "keyword": "Depth"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "014",
+    "keyword": "Haste, Trash"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "015",
+    "keyword": "Summon"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "016",
+    "keyword": "Depth, Quick Strike"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "017",
+    "keyword": ""
+  },
+  {
+    "setID": "QIL",
+    "cardID": "018",
+    "keyword": "Depth, Reaction"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "019",
+    "keyword": ""
+  },
+  {
+    "setID": "QIL",
+    "cardID": "020",
+    "keyword": "Attach"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "021",
+    "keyword": ""
+  },
+  {
+    "setID": "QIL",
+    "cardID": "022",
+    "keyword": ""
+  },
+  {
+    "setID": "QIL",
+    "cardID": "023",
+    "keyword": "Spy"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "024",
+    "keyword": "Depth, Unblockable"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "025",
+    "keyword": "Ward"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "T01",
+    "keyword": ""
+  },
+  {
+    "setID": "QIL",
+    "cardID": "T02",
+    "keyword": ""
+  },
+  {
+    "setID": "QIL",
+    "cardID": "002",
+    "keyword": "Unblockable, Legend"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "026",
+    "keyword": ""
+  },
+  {
+    "setID": "QIL",
+    "cardID": "027",
+    "keyword": ""
+  },
+  {
+    "setID": "QIL",
+    "cardID": "028",
+    "keyword": "Invest, Convert"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "029",
+    "keyword": ""
+  },
+  {
+    "setID": "QIL",
+    "cardID": "030",
+    "keyword": "Overpass"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "031",
+    "keyword": "Lethal"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "032",
+    "keyword": "Breakthrough"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "033",
+    "keyword": "Armored"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "034",
+    "keyword": "Sacrifice"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "035",
+    "keyword": "Lethal"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "036",
+    "keyword": "Reaction, Invest, Armored"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "037",
+    "keyword": "Reaction, Barrier"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "038",
+    "keyword": ""
+  },
+  {
+    "setID": "QIL",
+    "cardID": "039",
+    "keyword": ""
+  },
+  {
+    "setID": "QIL",
+    "cardID": "040",
+    "keyword": "Trash"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "041",
+    "keyword": ""
+  },
+  {
+    "setID": "QIL",
+    "cardID": "042",
+    "keyword": "Summon, Haste"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "043",
+    "keyword": "Deploy"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "044",
+    "keyword": "Attach"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "045",
+    "keyword": "Reaction, Downgrade"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "T03",
+    "keyword": ""
+  },
+  {
+    "setID": "QIL",
+    "cardID": "003",
+    "keyword": "Summon, Sift"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "046",
+    "keyword": ""
+  },
+  {
+    "setID": "QIL",
+    "cardID": "047",
+    "keyword": "Overpass, Invest, Reaction"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "048",
+    "keyword": "Invest"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "049",
+    "keyword": "Summon, Downgrade"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "050",
+    "keyword": "Echo"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "051",
+    "keyword": "Overpass"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "052",
+    "keyword": "Trash"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "053",
+    "keyword": "Exhaust"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "054",
+    "keyword": "Sacrifice"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "055",
+    "keyword": "Sift"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "056",
+    "keyword": "Reposition"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "057",
+    "keyword": "Reaction, Reposition"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "058",
+    "keyword": ""
+  },
+  {
+    "setID": "QIL",
+    "cardID": "059",
+    "keyword": ""
+  },
+  {
+    "setID": "QIL",
+    "cardID": "060",
+    "keyword": "Reaction"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "061",
+    "keyword": ""
+  },
+  {
+    "setID": "QIL",
+    "cardID": "062",
+    "keyword": "Deploy"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "063",
+    "keyword": ""
+  },
+  {
+    "setID": "QIL",
+    "cardID": "064",
+    "keyword": "Downgrade"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "065",
+    "keyword": "Reaction, Downgrade"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "T04",
+    "keyword": "Depth, Sift"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "T05",
+    "keyword": ""
+  },
+  {
+    "setID": "QIL",
+    "cardID": "004",
+    "keyword": "Depth, Attach, Legend, Trash"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "066",
+    "keyword": ""
+  },
+  {
+    "setID": "QIL",
+    "cardID": "067",
+    "keyword": "Echo"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "068",
+    "keyword": "Breakthrough"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "069",
+    "keyword": "Reaction, Overpass, Silence"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "070",
+    "keyword": "Ward"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "071",
+    "keyword": "Breakthrough, Silence"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "072",
+    "keyword": "Ward"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "073",
+    "keyword": "Sacrifice"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "074",
+    "keyword": "Silence"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "075",
+    "keyword": "Silence"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "076",
+    "keyword": "Silence"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "077",
+    "keyword": "Silence"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "078",
+    "keyword": ""
+  },
+  {
+    "setID": "QIL",
+    "cardID": "079",
+    "keyword": "Reposition, Invest"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "080",
+    "keyword": "Reaction"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "081",
+    "keyword": "Silence"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "082",
+    "keyword": ""
+  },
+  {
+    "setID": "QIL",
+    "cardID": "083",
+    "keyword": "Attach"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "084",
+    "keyword": "Attach"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "085",
+    "keyword": "Reaction, Downgrade"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "005",
+    "keyword": "Attach, Legend"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "086",
+    "keyword": ""
+  },
+  {
+    "setID": "QIL",
+    "cardID": "087",
+    "keyword": "Mill"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "088",
+    "keyword": "Mill, Invest"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "089",
+    "keyword": "Summon"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "090",
+    "keyword": "Lethal"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "091",
+    "keyword": "Summon"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "092",
+    "keyword": ""
+  },
+  {
+    "setID": "QIL",
+    "cardID": "093",
+    "keyword": "Convert"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "094",
+    "keyword": "Depth, Overpass, Trash, Summon"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "095",
+    "keyword": "Sacrifice"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "096",
+    "keyword": "Reaction, Attach"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "097",
+    "keyword": "Reaction"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "098",
+    "keyword": "Invest"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "099",
+    "keyword": ""
+  },
+  {
+    "setID": "QIL",
+    "cardID": 100,
+    "keyword": ""
+  },
+  {
+    "setID": "QIL",
+    "cardID": 101,
+    "keyword": "Trash"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 102,
+    "keyword": "Reaction, Attach"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 103,
+    "keyword": "Invest"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 104,
+    "keyword": ""
+  },
+  {
+    "setID": "QIL",
+    "cardID": 105,
+    "keyword": "Reaction, Downgrade"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "T06",
+    "keyword": ""
+  },
+  {
+    "setID": "QIL",
+    "cardID": "T07",
+    "keyword": "Summon"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "006",
+    "keyword": "Legend"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "007",
+    "keyword": "Blockade, Legend, Exhaust"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "008",
+    "keyword": "Legend"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "009",
+    "keyword": "Legend"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "010",
+    "keyword": "Legend"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "011",
+    "keyword": "Legend"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "012",
+    "keyword": "Legend"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 106,
+    "keyword": "Attach"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 107,
+    "keyword": "Reposition, Breakthrough"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 108,
+    "keyword": ""
+  },
+  {
+    "setID": "QIL",
+    "cardID": 109,
+    "keyword": ""
+  },
+  {
+    "setID": "QIL",
+    "cardID": 110,
+    "keyword": "Trash"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 111,
+    "keyword": ""
+  },
+  {
+    "setID": "QIL",
+    "cardID": 112,
+    "keyword": "Echo, Ward"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 113,
+    "keyword": "Barrier"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 114,
+    "keyword": "Lethal, Stealth"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 115,
+    "keyword": "Echo"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 116,
+    "keyword": "Sacrifice"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 117,
+    "keyword": ""
+  },
+  {
+    "setID": "QIL",
+    "cardID": 118,
+    "keyword": ""
+  },
+  {
+    "setID": "QIL",
+    "cardID": 119,
+    "keyword": "Depth, Mill"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 120,
+    "keyword": "Depth, Mill"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "005",
+    "keyword": "Stealth"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "006",
+    "keyword": ""
+  },
+  {
+    "setID": "CLA",
+    "cardID": "007",
+    "keyword": ""
+  },
+  {
+    "setID": "CLA",
+    "cardID": "008",
+    "keyword": "Roll, Summon, Invest"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "009",
+    "keyword": ""
+  },
+  {
+    "setID": "CLA",
+    "cardID": "010",
+    "keyword": ""
+  },
+  {
+    "setID": "CLA",
+    "cardID": "011",
+    "keyword": "Invest"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "012",
+    "keyword": "Mill"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "013",
+    "keyword": "Sacrifice"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "014",
+    "keyword": "Transform, Silence"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "T01",
+    "keyword": "Deploy, Exhaust"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "001",
+    "keyword": "Legend"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "015",
+    "keyword": "Trash, Exhaust"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "016",
+    "keyword": "Reach, First Strike"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "017",
+    "keyword": "Overpass, Trash, Exhaust"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "018",
+    "keyword": ""
+  },
+  {
+    "setID": "CLA",
+    "cardID": "019",
+    "keyword": ""
+  },
+  {
+    "setID": "CLA",
+    "cardID": "020",
+    "keyword": "Armored, Exhaust, Attach"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "021",
+    "keyword": "Overpass, First Strike"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "022",
+    "keyword": "Summon"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "023",
+    "keyword": "Exhaust"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "024",
+    "keyword": ""
+  },
+  {
+    "setID": "CLA",
+    "cardID": "025",
+    "keyword": "Choose One, Mill"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "026",
+    "keyword": "Legend"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "027",
+    "keyword": ""
+  },
+  {
+    "setID": "CLA",
+    "cardID": "028",
+    "keyword": "Roll"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "T02",
+    "keyword": ""
+  },
+  {
+    "setID": "CLA",
+    "cardID": "T03",
+    "keyword": ""
+  },
+  {
+    "setID": "CLA",
+    "cardID": "002",
+    "keyword": "Roll, Exhaust"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "029",
+    "keyword": "Reach, Roll, Transform"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "030",
+    "keyword": ""
+  },
+  {
+    "setID": "CLA",
+    "cardID": "031",
+    "keyword": "Invest"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "032",
+    "keyword": "Legend"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "033",
+    "keyword": "Attach, Roll"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "034",
+    "keyword": "Deploy, Invest, Roll"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "035",
+    "keyword": "Choose One"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "036",
+    "keyword": "Invest"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "037",
+    "keyword": "Reaction, Exhaust"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "038",
+    "keyword": "Haste, Quick Strike, Echo"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "039",
+    "keyword": "Deploy, Choose One"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "040",
+    "keyword": "Choose One"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "041",
+    "keyword": "Ward"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "042",
+    "keyword": ""
+  },
+  {
+    "setID": "CLA",
+    "cardID": "T04",
+    "keyword": "Sift"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "003",
+    "keyword": "First Strike, Legend"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "043",
+    "keyword": ""
+  },
+  {
+    "setID": "CLA",
+    "cardID": "044",
+    "keyword": ""
+  },
+  {
+    "setID": "CLA",
+    "cardID": "045",
+    "keyword": "Reaction, Counter, Roll"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "046",
+    "keyword": ""
+  },
+  {
+    "setID": "CLA",
+    "cardID": "047",
+    "keyword": "Sacrifice, Trash"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "048",
+    "keyword": ""
+  },
+  {
+    "setID": "CLA",
+    "cardID": "049",
+    "keyword": "Spy, Roll"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "050",
+    "keyword": "Roll"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "051",
+    "keyword": "Spy"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "052",
+    "keyword": "Reaction, Trash"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "053",
+    "keyword": "Blockade, Convert, Quick Strike"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "054",
+    "keyword": ""
+  },
+  {
+    "setID": "CLA",
+    "cardID": "055",
+    "keyword": ""
+  },
+  {
+    "setID": "CLA",
+    "cardID": "056",
+    "keyword": "Mill"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "004",
+    "keyword": "Sacrifice, Legend, Trash"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "057",
+    "keyword": "Ward, Unblockable, Trash, Exhaust"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "058",
+    "keyword": "Trash, Exhaust, Reach"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "059",
+    "keyword": "Trash, Exhaust, Convert"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "060",
+    "keyword": "Convert"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "061",
+    "keyword": "Reach, Sacrifice, Attach"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "062",
+    "keyword": "Armored, Breakthrough, Summon, Trash, Exhaust"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "063",
+    "keyword": "Overpass, Haste, Quick Strike, Echo"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "064",
+    "keyword": "Silence"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "065",
+    "keyword": "Sacrifice"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "066",
+    "keyword": "Downgrade"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "067",
+    "keyword": "Summon, Echo"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "068",
+    "keyword": "Attach"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "069",
+    "keyword": ""
+  },
+  {
+    "setID": "CLA",
+    "cardID": "070",
+    "keyword": "Summon"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "T05",
+    "keyword": "Deploy"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "T06",
+    "keyword": ""
+  },
+  {
+    "setID": "KGD",
+    "cardID": "001",
+    "keyword": "Haste, Legend"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "006",
+    "keyword": "Invest, Summon"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "007",
+    "keyword": "Overpass"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "008",
+    "keyword": "Invest"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "009",
+    "keyword": "Stealth, Spy"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "010",
+    "keyword": "Tuck"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "011",
+    "keyword": "Hoard, Depth"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "012",
+    "keyword": "Overpass"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "013",
+    "keyword": "Armored, Ward"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "014",
+    "keyword": "Hoard"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "015",
+    "keyword": ""
+  },
+  {
+    "setID": "KGD",
+    "cardID": "016",
+    "keyword": "Overpass"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "017",
+    "keyword": "Hoard, Overpass, Exhaust, Restrain"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "018",
+    "keyword": "Armored, Breakthrough, Reach"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "019",
+    "keyword": ""
+  },
+  {
+    "setID": "KGD",
+    "cardID": "020",
+    "keyword": ""
+  },
+  {
+    "setID": "KGD",
+    "cardID": "021",
+    "keyword": "Overpass, Reaction"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "022",
+    "keyword": "Legend"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "023",
+    "keyword": "Hoard"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "024",
+    "keyword": "Attach"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "025",
+    "keyword": ""
+  },
+  {
+    "setID": "KGD",
+    "cardID": "026",
+    "keyword": "Hoard"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "002",
+    "keyword": "Hoard, Legend"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "027",
+    "keyword": "Hoard"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "028",
+    "keyword": "Hoard, Trash"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "029",
+    "keyword": "Hoard"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "030",
+    "keyword": ""
+  },
+  {
+    "setID": "KGD",
+    "cardID": "031",
+    "keyword": "Breakthrough"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "032",
+    "keyword": "Hoard, Quick Strike"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "033",
+    "keyword": "Lethal, Overpass"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "034",
+    "keyword": "Hoard, Overheal"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "035",
+    "keyword": "Allocate"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "036",
+    "keyword": "Hoard, Overpass, Exhaust, Lethal"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "037",
+    "keyword": "Reaction, Exhaust"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "038",
+    "keyword": ""
+  },
+  {
+    "setID": "KGD",
+    "cardID": "039",
+    "keyword": "Reclaim"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "040",
+    "keyword": "Deploy"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "003",
+    "keyword": "Hoard, Legend"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "041",
+    "keyword": "Hoard, Sift"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "042",
+    "keyword": "Hoard, Silence"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "043",
+    "keyword": "Hoard, Armored"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "044",
+    "keyword": ""
+  },
+  {
+    "setID": "KGD",
+    "cardID": "045",
+    "keyword": "Armored"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "046",
+    "keyword": "Hoard, Armored"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "047",
+    "keyword": "Overpass, Echo"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "048",
+    "keyword": "Hoard, Reposition"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "049",
+    "keyword": "Allocate"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "050",
+    "keyword": "Hoard, Overpass, Exhaust, Frailty"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "051",
+    "keyword": ""
+  },
+  {
+    "setID": "KGD",
+    "cardID": "052",
+    "keyword": "Spy, Mill"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "053",
+    "keyword": "Reclaim, Reposition"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "054",
+    "keyword": "Deploy, Armored"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "004",
+    "keyword": "Hoard, Legend"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "055",
+    "keyword": "Hoard"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "056",
+    "keyword": "Hoard"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "057",
+    "keyword": "Hoard"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "058",
+    "keyword": ""
+  },
+  {
+    "setID": "KGD",
+    "cardID": "059",
+    "keyword": "Ward"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "060",
+    "keyword": "Hoard, Ward"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "061",
+    "keyword": "Haste, Overpass"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "062",
+    "keyword": "Hoard, Summon"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "063",
+    "keyword": "Allocate"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "064",
+    "keyword": "Hoard, Overpass, Exhaust, Trash"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "065",
+    "keyword": "Armored"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "066",
+    "keyword": ""
+  },
+  {
+    "setID": "KGD",
+    "cardID": "067",
+    "keyword": "Reclaim"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "068",
+    "keyword": "Deploy, Ward"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "T01",
+    "keyword": "Breakthrough"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "005",
+    "keyword": "Hoard"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "069",
+    "keyword": "Hoard, Overpass"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "070",
+    "keyword": "Hoard, Mill"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "071",
+    "keyword": "Hoard"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "072",
+    "keyword": "Lethal"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "073",
+    "keyword": "Convert"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "074",
+    "keyword": "Hoard, Lethal"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "075",
+    "keyword": "Deathcoil, Overpass"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "076",
+    "keyword": "Hoard, Mill"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "077",
+    "keyword": "Sacrifice"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "078",
+    "keyword": "Hoard, Overpass, Exhaust"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "079",
+    "keyword": ""
+  },
+  {
+    "setID": "KGD",
+    "cardID": "080",
+    "keyword": ""
+  },
+  {
+    "setID": "KGD",
+    "cardID": "081",
+    "keyword": "Barrier, Reclaim"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "082",
+    "keyword": "Deploy"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "001",
+    "keyword": "Legend"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "008",
+    "keyword": ""
+  },
+  {
+    "setID": "NIN",
+    "cardID": "009",
+    "keyword": ""
+  },
+  {
+    "setID": "NIN",
+    "cardID": "010",
+    "keyword": ""
+  },
+  {
+    "setID": "NIN",
+    "cardID": "011",
+    "keyword": ""
+  },
+  {
+    "setID": "NIN",
+    "cardID": "012",
+    "keyword": "Reaction"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "013",
+    "keyword": "Blockade, Exhaust"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "014",
+    "keyword": "Trash"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "015",
+    "keyword": "Equip"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "016",
+    "keyword": "Equip"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "017",
+    "keyword": "Equip"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "018",
+    "keyword": "Equip"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "019",
+    "keyword": "Equip"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "020",
+    "keyword": "Equip"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "021",
+    "keyword": "Unblockable"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "022",
+    "keyword": ""
+  },
+  {
+    "setID": "NIN",
+    "cardID": "023",
+    "keyword": "Quick Strike, Blockade"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "024",
+    "keyword": "Invest, Restrain"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "025",
+    "keyword": "Invest"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "026",
+    "keyword": ""
+  },
+  {
+    "setID": "NIN",
+    "cardID": "027",
+    "keyword": "Invest"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "028",
+    "keyword": "Invest"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "029",
+    "keyword": "Invest"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "030",
+    "keyword": "Breakthrough"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "031",
+    "keyword": "Breakthrough"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "032",
+    "keyword": "Breakthrough"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "033",
+    "keyword": "Haste, Reaction, Reposition"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "034",
+    "keyword": "Quick Strike, Reclaim"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "035",
+    "keyword": ""
+  },
+  {
+    "setID": "NIN",
+    "cardID": "036",
+    "keyword": "Attach"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "037",
+    "keyword": ""
+  },
+  {
+    "setID": "NIN",
+    "cardID": "038",
+    "keyword": "Reaction"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "039",
+    "keyword": ""
+  },
+  {
+    "setID": "NIN",
+    "cardID": "040",
+    "keyword": ""
+  },
+  {
+    "setID": "NIN",
+    "cardID": "041",
+    "keyword": "Invest"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "042",
+    "keyword": "Reaction"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "043",
+    "keyword": "Equip"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "044",
+    "keyword": "Equip"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "045",
+    "keyword": "Attach, Invest"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "046",
+    "keyword": "Equip"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "047",
+    "keyword": "Equip, Invest"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "048",
+    "keyword": "Haste, Allocate"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "049",
+    "keyword": "Blockade, Reaction, Reposition"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "050",
+    "keyword": "Spy"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "051",
+    "keyword": ""
+  },
+  {
+    "setID": "NIN",
+    "cardID": "052",
+    "keyword": "Overpass"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "053",
+    "keyword": "Ruins, Allocate"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "054",
+    "keyword": "Overpass, Reaction, Repostion"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "055",
+    "keyword": "Overpass"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "056",
+    "keyword": "Stealth"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "057",
+    "keyword": "Allocate"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "058",
+    "keyword": "Haste, Reach"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "059",
+    "keyword": "Armored"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "060",
+    "keyword": "Reaction, Armored"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "061",
+    "keyword": "Overpass, Ruins, Allocate"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "062",
+    "keyword": ""
+  },
+  {
+    "setID": "NIN",
+    "cardID": "063",
+    "keyword": "Reaction, Attach, Overpass"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "064",
+    "keyword": ""
+  },
+  {
+    "setID": "NIN",
+    "cardID": "065",
+    "keyword": "Stealth"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "066",
+    "keyword": "Invest"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "067",
+    "keyword": "Equip"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "068",
+    "keyword": "Trash"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "069",
+    "keyword": "Reclaim, Echo"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "070",
+    "keyword": "Deploy, Reposition"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "071",
+    "keyword": "Reaction, Equip, Armored, Ward, Allocate"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "072",
+    "keyword": "Reaction, Equip, Quick Strike"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "T01",
+    "keyword": "Afflict"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "073",
+    "keyword": ""
+  },
+  {
+    "setID": "NIN",
+    "cardID": "074",
+    "keyword": "Invest"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "075",
+    "keyword": "Summon, Stealth"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "076",
+    "keyword": "Stealth, Invest"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "077",
+    "keyword": "Stealth"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "078",
+    "keyword": "Ward, Silence"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "079",
+    "keyword": "Exhaust, Restrain"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "080",
+    "keyword": ""
+  },
+  {
+    "setID": "NIN",
+    "cardID": "081",
+    "keyword": "Invest"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "082",
+    "keyword": "Lethal"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "083",
+    "keyword": "Invest"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "084",
+    "keyword": "Stealth"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "085",
+    "keyword": ""
+  },
+  {
+    "setID": "NIN",
+    "cardID": "086",
+    "keyword": ""
+  },
+  {
+    "setID": "NIN",
+    "cardID": "087",
+    "keyword": "Spy"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "088",
+    "keyword": ""
+  },
+  {
+    "setID": "NIN",
+    "cardID": "089",
+    "keyword": "Spy, Invest"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "090",
+    "keyword": "Stealth"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "091",
+    "keyword": "Reaction"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "092",
+    "keyword": "Invest"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "093",
+    "keyword": "Spy"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "094",
+    "keyword": "Afflict"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "095",
+    "keyword": "Trash"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "096",
+    "keyword": "Afflict"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "097",
+    "keyword": "Deploy, Invest, Exhaust"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "T02",
+    "keyword": ""
+  },
+  {
+    "setID": "NIN",
+    "cardID": "098",
+    "keyword": "Stealth"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "099",
+    "keyword": "First Strike"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 100,
+    "keyword": ""
+  },
+  {
+    "setID": "NIN",
+    "cardID": 101,
+    "keyword": ""
+  },
+  {
+    "setID": "NIN",
+    "cardID": 102,
+    "keyword": "Stealth"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 103,
+    "keyword": ""
+  },
+  {
+    "setID": "NIN",
+    "cardID": 104,
+    "keyword": "Convert"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 105,
+    "keyword": "Downgrade, Reclaim"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 106,
+    "keyword": "Stealth"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 107,
+    "keyword": "Haste, Allocate"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 108,
+    "keyword": ""
+  },
+  {
+    "setID": "NIN",
+    "cardID": 109,
+    "keyword": "Allocate, Echo"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 110,
+    "keyword": ""
+  },
+  {
+    "setID": "NIN",
+    "cardID": 111,
+    "keyword": "Stealth, Allocate"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 112,
+    "keyword": "Reaction"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 113,
+    "keyword": ""
+  },
+  {
+    "setID": "NIN",
+    "cardID": 114,
+    "keyword": ""
+  },
+  {
+    "setID": "NIN",
+    "cardID": 115,
+    "keyword": ""
+  },
+  {
+    "setID": "NIN",
+    "cardID": 116,
+    "keyword": "Invest"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 117,
+    "keyword": "Ruins, Summon"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 118,
+    "keyword": "Equip"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 119,
+    "keyword": "Stealth, Lethal, Allocate"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 120,
+    "keyword": "Choose One, Stealth"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 121,
+    "keyword": "Deploy, Stealth"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 122,
+    "keyword": "Equip, Convert"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "002",
+    "keyword": "Reaction, Reposition, Legend, Exhaust"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "003",
+    "keyword": "Invest, Legend"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "004",
+    "keyword": "Reaction, Quick Strike, Legend"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "005",
+    "keyword": "Exhaust, Legend"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "006",
+    "keyword": "Legend"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "007",
+    "keyword": "Legend"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 123,
+    "keyword": "Attach, Reaction, Reposition"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 124,
+    "keyword": "Invest, Summon"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 125,
+    "keyword": ""
+  },
+  {
+    "setID": "NIN",
+    "cardID": 126,
+    "keyword": "Ward"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 127,
+    "keyword": ""
+  },
+  {
+    "setID": "NIN",
+    "cardID": 128,
+    "keyword": "Convert, Stealth"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 129,
+    "keyword": "Choose One, Reposition"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 130,
+    "keyword": "Choose One, Restrain, Barrier"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 131,
+    "keyword": "Choose One"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 132,
+    "keyword": "Choose One, Spy, Trash"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 133,
+    "keyword": "Choose One, Sift, Reclaim"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 134,
+    "keyword": "Choose One, Summon, Sacrifice, Stealth"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 135,
+    "keyword": ""
+  },
+  {
+    "setID": "NIN",
+    "cardID": 136,
+    "keyword": "Invest"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 137,
+    "keyword": ""
+  },
+  {
+    "setID": "NIN",
+    "cardID": 138,
+    "keyword": "Overpass, Spy"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 139,
+    "keyword": "Ruins"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 140,
+    "keyword": "Stealth, Convert"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "T03",
+    "keyword": "Invest, Ward"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "001",
+    "keyword": "Unblockable, Legend"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "008",
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": "009",
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": "010",
+    "keyword": "Restrain"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "011",
+    "keyword": "Summon"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "012",
+    "keyword": "Choose One"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "013",
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": "014",
+    "keyword": "Attach"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "015",
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": "016",
+    "keyword": "Armored"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "017",
+    "keyword": "Exhaust, Reclaim"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "018",
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": "019",
+    "keyword": "Immortal"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "020",
+    "keyword": "Blockade, Summon"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "021",
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": "022",
+    "keyword": "Silence"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "023",
+    "keyword": "Deploy"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "024",
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": "025",
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": "026",
+    "keyword": "Restrain"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "T01",
+    "keyword": "Afflict, Immortal"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "002",
+    "keyword": "Convert, Restrain, Legend"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "027",
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": "028",
+    "keyword": "Overpass"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "029",
+    "keyword": "Deathcoil, Haste, Flurry"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "030",
+    "keyword": "Flurry"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "031",
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": "032",
+    "keyword": "Flurry"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "033",
+    "keyword": "Immortal"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "034",
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": "035",
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": "036",
+    "keyword": "Invest"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "037",
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": "038",
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": "039",
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": "040",
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": "041",
+    "keyword": "Breakthrough"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "042",
+    "keyword": "Deathcoil, Lethal, Barrier"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "043",
+    "keyword": "Immortal"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "044",
+    "keyword": "flurry"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "045",
+    "keyword": "Flurry"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "046",
+    "keyword": "Reaction, Lethal"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "047",
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": "048",
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": "049",
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": "050",
+    "keyword": "Flurry, Equip"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "051",
+    "keyword": "Equip"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "052",
+    "keyword": "Restrain, Reclaim"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "053",
+    "keyword": "Summon"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "T02",
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": "T03",
+    "keyword": "Deathcoil, Haste"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "T04",
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": "T05",
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": "003",
+    "keyword": "Armored, Legend, Mill, Immortal"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "054",
+    "keyword": "Immortal, Mill"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "055",
+    "keyword": "Echo, Trash"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "056",
+    "keyword": "Reclaim, Echo"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "057",
+    "keyword": "Armored, Allocate"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "058",
+    "keyword": "Armored, Echo"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "059",
+    "keyword": "Trash"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "060",
+    "keyword": "Scarcity"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "061",
+    "keyword": "Echo"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "062",
+    "keyword": "Allocate"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "063",
+    "keyword": "Immortal"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "064",
+    "keyword": "Trash"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "065",
+    "keyword": "Armored"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "066",
+    "keyword": "Immortal, Trash"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "067",
+    "keyword": "Allocate"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "068",
+    "keyword": "Echo"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "069",
+    "keyword": "Echo"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "070",
+    "keyword": "Immortal, Mill, Reclaim"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "071",
+    "keyword": "Trash"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "072",
+    "keyword": "Reposition"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "073",
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": "074",
+    "keyword": "Summon"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "075",
+    "keyword": "Trash"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "076",
+    "keyword": "Choose One, Restrain, Reposition"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "077",
+    "keyword": "Silence, Trash"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "078",
+    "keyword": "Deploy, Spy, Trash"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "079",
+    "keyword": "Reposition"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "080",
+    "keyword": "Mill"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "004",
+    "keyword": "Tuck, Legend"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "081",
+    "keyword": "Invest, Barrier"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "082",
+    "keyword": "Lethal, Reaction"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "083",
+    "keyword": "Overpass, Spy, Summon"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "084",
+    "keyword": "Frailty, Attach"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "085",
+    "keyword": "Invest, Summon"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "086",
+    "keyword": "Summon"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "087",
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": "088",
+    "keyword": "Summon, Breakthrough"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "089",
+    "keyword": "Reaction"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "090",
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": "091",
+    "keyword": "Summon, Barrier"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "092",
+    "keyword": "Ward, Summon"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "093",
+    "keyword": "Invest"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "094",
+    "keyword": "Lethal"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "095",
+    "keyword": "Tuck, Summon"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "096",
+    "keyword": "Immortal, Sacrifice, Barrier"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "097",
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": "098",
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": "099",
+    "keyword": "Reaction"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 100,
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": 101,
+    "keyword": "Trash, Summon"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 102,
+    "keyword": "Afflict, Immortal"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 103,
+    "keyword": "Summon, Restrain"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 104,
+    "keyword": "Equip, Lethal"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 105,
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": 106,
+    "keyword": "Deploy, Ward, Summon"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 107,
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": "T06",
+    "keyword": "Summon, Tuck"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "T07",
+    "keyword": "Blockade, Summon, Barrier"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "T08",
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": "T09",
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": "T10",
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": "T11",
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": "T12",
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": "T13",
+    "keyword": "Ward"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "T14",
+    "keyword": "Restrain, Reposition"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "005",
+    "keyword": "Choose One, Legend"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 108,
+    "keyword": "Stealth, Immortal"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 109,
+    "keyword": "Convert"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 110,
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": 111,
+    "keyword": "Choose One"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 112,
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": 113,
+    "keyword": "Lethal, Stealth"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 114,
+    "keyword": "Convert"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 115,
+    "keyword": "Armored"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 116,
+    "keyword": "Choose One, Mill, Summon"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 117,
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": 118,
+    "keyword": "Reach, Choose One"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 119,
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": 120,
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": 121,
+    "keyword": "Choose One"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 122,
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": 123,
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": 124,
+    "keyword": "Choose One"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 125,
+    "keyword": "Immortal, Sacrifice"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 126,
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": 127,
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": 128,
+    "keyword": "Choose One, Sacrifice"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 129,
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": 130,
+    "keyword": "Choose One, Summon"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 131,
+    "keyword": "Reaction, Equip"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 132,
+    "keyword": "Deploy"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 133,
+    "keyword": "Mill, Sift"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 134,
+    "keyword": ""
+  },
+  {
+    "setID": "JGK",
+    "cardID": "T15",
+    "keyword": "Overpass"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "006",
+    "keyword": "Reaction, Legend, Trash, Quick Strike"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "007",
+    "keyword": "Legend"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 135,
+    "keyword": "Flurry, Mill"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 136,
+    "keyword": "Reaction, Reposition, Summon"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 137,
+    "keyword": "Twin Strike"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 138,
+    "keyword": "Equip, Ward"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "001",
+    "keyword": "Haste, Leader, Legend"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "027",
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": "028",
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": "029",
+    "keyword": "Choose One"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "030",
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": "031",
+    "keyword": "Reposition"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "032",
+    "keyword": "Summon"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "033",
+    "keyword": "Reaction, Reposition"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "034",
+    "keyword": "Stealth"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "035",
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": "036",
+    "keyword": "Leader, Invest, Summon"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "037",
+    "keyword": "Ward"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "038",
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": "039",
+    "keyword": "Ward"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "040",
+    "keyword": "Immortal, Summon"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "041",
+    "keyword": "Reaction"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "042",
+    "keyword": "Constellation"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "043",
+    "keyword": "Overpass, Breakthrough, Armored, Ward, Convert"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "044",
+    "keyword": "Haste, Mill, Ruins"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "045",
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": "046",
+    "keyword": "Stealth, Transform"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "047",
+    "keyword": "Ward"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "048",
+    "keyword": "Reclaim"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "049",
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": "050",
+    "keyword": "Choose One"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "051",
+    "keyword": "Choose One"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "052",
+    "keyword": "Reaction"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "053",
+    "keyword": "Reaction, First Strike"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "054",
+    "keyword": "Spy"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "055",
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": "056",
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": "057",
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": "058",
+    "keyword": "Immortal"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T01",
+    "keyword": "Afflict"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "002",
+    "keyword": "Legend"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "059",
+    "keyword": "Exhaust"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "060",
+    "keyword": "Invest"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "061",
+    "keyword": "Flurry"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "062",
+    "keyword": "Invest, Trash"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "063",
+    "keyword": "Invest, Summon"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "064",
+    "keyword": "Invest, Reposition"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "065",
+    "keyword": "Trash"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "066",
+    "keyword": "Blockade"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "067",
+    "keyword": "Overpass, Invest, Ward"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "068",
+    "keyword": "Breakthrough, Reaction, Sift"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "069",
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": "070",
+    "keyword": "Flurry"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "071",
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": "072",
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": "073",
+    "keyword": "Breakthrough, Immortal, Trash"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "074",
+    "keyword": "Overheal, Invest, Ward"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "075",
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": "076",
+    "keyword": "Afflict"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "077",
+    "keyword": "Choose One"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "078",
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": "079",
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": "080",
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": "081",
+    "keyword": "Invest"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "082",
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": "083",
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": "084",
+    "keyword": "Reaction"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "085",
+    "keyword": "Constellation, Breakthrough"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "086",
+    "keyword": "Trash"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "087",
+    "keyword": "Equip, Ward"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "088",
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": "089",
+    "keyword": "Flurry"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "090",
+    "keyword": "Summon"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "091",
+    "keyword": "Equip, Barrier, Sift"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T02",
+    "keyword": "Deathcoil, Haste"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T03",
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T04",
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": "003",
+    "keyword": "Legend, Summon"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "092",
+    "keyword": "Invest"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "093",
+    "keyword": "Allocate"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "094",
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": "095",
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": "096",
+    "keyword": "Reposition"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "097",
+    "keyword": "Twin Strike, Sift"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "098",
+    "keyword": "Reposition"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "099",
+    "keyword": "Reaction"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 100,
+    "keyword": "Armored, Breakthrough"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 101,
+    "keyword": "Overpass"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 102,
+    "keyword": "Armored, Sift"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 103,
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": 104,
+    "keyword": "Overpass"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 105,
+    "keyword": "Echo"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 106,
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": 107,
+    "keyword": "Ruins"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 108,
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": 109,
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": 110,
+    "keyword": "Armored, Constellation"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 111,
+    "keyword": "Reclaim, Sift"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 112,
+    "keyword": "Constellation, Reclaim"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 113,
+    "keyword": "Reaction, Counter"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 114,
+    "keyword": "Reposition, Constellation"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 115,
+    "keyword": "Legend"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 116,
+    "keyword": "Reclaim"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 117,
+    "keyword": "Ephemeral"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 118,
+    "keyword": "Allocate"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 119,
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": 120,
+    "keyword": "Equip, Reaction"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 121,
+    "keyword": "Equip, Breakthrough"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 122,
+    "keyword": "Deploy, Reaction"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 123,
+    "keyword": "Equip, Reaction, Overpass"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 124,
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T05",
+    "keyword": "Afflict"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "004",
+    "keyword": "Leader, Legend"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 125,
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": 126,
+    "keyword": "Invest, Barrier"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 127,
+    "keyword": "Invest, Convert"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 128,
+    "keyword": "Overpass, Invest"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 129,
+    "keyword": "Overheal"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 130,
+    "keyword": "Exhaust, Stealth"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 131,
+    "keyword": "Spy"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 132,
+    "keyword": "Invest, Allocate"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 133,
+    "keyword": "Summon, Allocate"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 134,
+    "keyword": "Allocate"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 135,
+    "keyword": "Overheal, Invest"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 136,
+    "keyword": "Ward, Consume"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 137,
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": 138,
+    "keyword": "Leader, Leathal, Invest, Immortal, Sacrifice"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 139,
+    "keyword": "Summon"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 140,
+    "keyword": "Overpass, Summon"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 141,
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": 142,
+    "keyword": "Overpass"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 143,
+    "keyword": "Hoard, Mill"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 144,
+    "keyword": "Summon, Allocate"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 145,
+    "keyword": "Reach, Constellation, Barrier, Ward"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 146,
+    "keyword": "Barrier"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 147,
+    "keyword": "Summon"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 148,
+    "keyword": "Spy"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 149,
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": 150,
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": 151,
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": 152,
+    "keyword": "Reaction"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 153,
+    "keyword": "Transform, Invest"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 154,
+    "keyword": "Equip"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 155,
+    "keyword": "Equip, Allocate"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 156,
+    "keyword": "Ward"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 157,
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T06",
+    "keyword": "Summon"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T07",
+    "keyword": "Blockade, Summon, Barrier"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T08",
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T09",
+    "keyword": "Crowd, Leader"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T10",
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": "005",
+    "keyword": "Sacrifice, Legend"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 158,
+    "keyword": "Invest, Choose One, Haste, Lethal, Stealth, Quick Strike"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 159,
+    "keyword": "Reposition"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 160,
+    "keyword": "Reach, Summon"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 161,
+    "keyword": "Summon"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 162,
+    "keyword": "Summon"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 163,
+    "keyword": "Summon"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 164,
+    "keyword": "Immortal, Mill"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 165,
+    "keyword": "Exhaust"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 166,
+    "keyword": "Legend"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 167,
+    "keyword": "Stealth, Summon"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 168,
+    "keyword": "Allocate"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 169,
+    "keyword": "Stealth"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 170,
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": 171,
+    "keyword": "Immortal"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 172,
+    "keyword": "Exhaust"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 173,
+    "keyword": "Overpass"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 174,
+    "keyword": "Deathcoil, Immortal, Mill"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 175,
+    "keyword": "Overpass, Choose One"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 176,
+    "keyword": "Constellation"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 177,
+    "keyword": "Immortal, Sacrifice"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 178,
+    "keyword": "Afflict"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 179,
+    "keyword": "Summon"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 180,
+    "keyword": "Attach"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 181,
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": 182,
+    "keyword": "Afflict"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 183,
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": 184,
+    "keyword": "Choose One, Transform"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 185,
+    "keyword": "Legend"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 186,
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": 187,
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": 188,
+    "keyword": "Mill, Reposition, Echo"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 189,
+    "keyword": "Equip, Reposition"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 190,
+    "keyword": "Deploy, Summon"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T11",
+    "keyword": "Afflict"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T12",
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T13",
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": "006",
+    "keyword": "Legend, Attach"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "007",
+    "keyword": "Reposition, Legend"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "008",
+    "keyword": "Convert, Legend"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "009",
+    "keyword": "Breakthrough, Legend, Ruins"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "010",
+    "keyword": "Legend, Reclaim"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "011",
+    "keyword": "Overpass, Legend, Choose One"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "012",
+    "keyword": "Constellation, Legend"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "013",
+    "keyword": "Overheal, Legend"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "014",
+    "keyword": "Legend, Quick Strike"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "015",
+    "keyword": "Downgrade, Legend"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "016",
+    "keyword": "Legend, Mill, Trash, Reclaim"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "017",
+    "keyword": "Legend, Ephemeral"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "018",
+    "keyword": "Ward, Legend"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "019",
+    "keyword": "Legend, Choose One, Silence, Exhaust"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "020",
+    "keyword": "Twin Strike, Legend, Flurry"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "021",
+    "keyword": "Immortal, Legend"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "022",
+    "keyword": "Ward, Legend, Invest"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "023",
+    "keyword": "Convert, Legend, Exhaust"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "024",
+    "keyword": "Overpass, Constellation, Legend"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "025",
+    "keyword": "Legend"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "026",
+    "keyword": "Legend, Tuck"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 191,
+    "keyword": "Sift, Blockade"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 192,
+    "keyword": "Equip, First Strike"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 193,
+    "keyword": "Invest"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 194,
+    "keyword": "Invest"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 195,
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": 196,
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": 197,
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": 198,
+    "keyword": "Afflict, Choose One"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 199,
+    "keyword": "Reposition"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 200,
+    "keyword": "Equip"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 201,
+    "keyword": "Stealth, Spy"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 202,
+    "keyword": ""
+  },
+  {
+    "setID": "FAL",
+    "cardID": 203,
+    "keyword": "Constellation, Downgrade"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 204,
+    "keyword": "Ward, Constellation, Downgrade"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 205,
+    "keyword": "Constellation, Downgrade"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 206,
+    "keyword": "Overpass, Constellation, Downgrade"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 207,
+    "keyword": "Convert, Constellation, Downgrade"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 208,
+    "keyword": "Constellation, Downgrade"
+  }
+]

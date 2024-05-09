@@ -1,0 +1,68 @@
+[
+  {
+    "setID": "COR",
+    "setName": "Core Set",
+    "designer": "Shub Takkorath",
+    "logo": "logo-core"
+  },
+  {
+    "setID": "HOE",
+    "setName": "Hell on Earth",
+    "designer": "Aedriaus Olive",
+    "logo": ""
+  },
+  {
+    "setID": "ELM",
+    "setName": "Elementary",
+    "designer": "Elaina Synranelt",
+    "logo": ""
+  },
+  {
+    "setID": "WHV",
+    "setName": "Shadows of Waterhaven",
+    "designer": "Shub Takkorath",
+    "logo": "logo-whv"
+  },
+  {
+    "setID": "DEP",
+    "setName": "Depths of Triton",
+    "designer": "Shub Takkorath",
+    "logo": "logo-dep"
+  },
+  {
+    "setID": "QIL",
+    "setName": "The Qil'kuoth War",
+    "designer": "Shub Takkorath",
+    "logo": "logo-qil"
+  },
+  {
+    "setID": "CLA",
+    "setName": "Mizuki & Caerula Arbor",
+    "designer": "Shub Takkorath",
+    "logo": "logo-cla"
+  },
+  {
+    "setID": "KGD",
+    "setName": "Kyros' Guide to Dragons",
+    "designer": "Shub Takkorath",
+    "logo": "logo-kgd"
+  },
+  {
+    "setID": "NIN",
+    "setName": "Murder on Nexus Nine",
+    "designer": "Shub Takkorath",
+    "logo": "logo-nin"
+  },
+  {
+    "setID": "JGK",
+    "setName": "Escape from Jigoku",
+    "designer": "Shub Takkorath",
+    "logo": "logo-jgk"
+  },
+  {
+    "setID": "FAL",
+    "setName": "Starfall",
+    "designer": "Shub Takkorath",
+    "logo": "logo-fal"
+  }
+]

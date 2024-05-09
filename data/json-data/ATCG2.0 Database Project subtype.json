@@ -1,0 +1,3777 @@
+[
+  {
+    "setID": "DEP",
+    "cardID": "025",
+    "subtype": "Aquatic"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "049",
+    "subtype": "Aquatic"
+  },
+  {
+    "setID": "DEP",
+    "cardID": 103,
+    "subtype": "Aquatic"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 108,
+    "subtype": "Aquatic"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "028",
+    "subtype": "Aquatic, Beast"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "031",
+    "subtype": "Aquatic, Beast, Cephalopod"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "065",
+    "subtype": "Aquatic, Beast, Cephalopod"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "012",
+    "subtype": "Aquatic, Beast, Cetacean"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "034",
+    "subtype": "Aquatic, Beast, Cetacean"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "030",
+    "subtype": "Aquatic, Beast, Cetacean, Giant"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "030",
+    "subtype": "Aquatic, Beast, Human, Cleric"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "069",
+    "subtype": "Aquatic, Crab"
+  },
+  {
+    "setID": "DEP",
+    "cardID": 107,
+    "subtype": "Aquatic, Crab"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 106,
+    "subtype": "Aquatic, Crab"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "033",
+    "subtype": "Aquatic, Crab, Cephalopod"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "013",
+    "subtype": "Aquatic, Crustacean"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "066",
+    "subtype": "Aquatic, Devil, Fish"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "035",
+    "subtype": "Aquatic, Dragon"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "055",
+    "subtype": "Aquatic, Dragon"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "049",
+    "subtype": "Aquatic, Dragon"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "032",
+    "subtype": "Aquatic, Dragon, Beast, Turtle"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "090",
+    "subtype": "Aquatic, Eldritch"
+  },
+  {
+    "setID": "DEP",
+    "cardID": 105,
+    "subtype": "Aquatic, Eldritch"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "086",
+    "subtype": "Aquatic, Eldritch"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "089",
+    "subtype": "Aquatic, Eldritch, Crab"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "031",
+    "subtype": "Aquatic, Fish"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 112,
+    "subtype": "Aquatic, Fish"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 114,
+    "subtype": "Aquatic, Fish"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "092",
+    "subtype": "Aquatic, Monster"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 110,
+    "subtype": "Aquatic, Monster"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 116,
+    "subtype": "Aquatic, Plant"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "011",
+    "subtype": "Aquatic, Plant, Beast"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "027",
+    "subtype": "Aquatic, Rock, Fish"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "029",
+    "subtype": "Aquatic, Rock, Monster"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "027",
+    "subtype": "Aquatic, Tentacle"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "050",
+    "subtype": "Aquatic, Vehicle"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "023",
+    "subtype": "Aquatic, Wall"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "087",
+    "subtype": "Aquatic, Wall"
+  },
+  {
+    "setID": "COR",
+    "cardID": "039",
+    "subtype": "Arachnid"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 141,
+    "subtype": "Beast, Bear, Cultist"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "030",
+    "subtype": "Beast, Bear, Machine"
+  },
+  {
+    "setID": "COR",
+    "cardID": "015",
+    "subtype": "Beast, Bird, Merchant"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 126,
+    "subtype": "Beast, Cat, Cleric"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 104,
+    "subtype": "Beast, Cat, Entertainer"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "038",
+    "subtype": "Beast, Cat, Merchant"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "039",
+    "subtype": "Beast, Cat, Noble"
+  },
+  {
+    "setID": "COR",
+    "cardID": "017",
+    "subtype": "Beast, Cat, Officer"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "009",
+    "subtype": "Beast, Cat, Rogue"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 101,
+    "subtype": "Beast, Cat, Shark, Merchant"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "092",
+    "subtype": "Beast, Cat, Soldier"
+  },
+  {
+    "setID": "COR",
+    "cardID": "095",
+    "subtype": "Beast, Cat, Wizard"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "028",
+    "subtype": "Beast, Cow, Golem"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "060",
+    "subtype": "Beast, Dog, Fighter"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "007",
+    "subtype": "Beast, Fighter"
+  },
+  {
+    "setID": "COR",
+    "cardID": "099",
+    "subtype": "Beast, Fox, Entertainer"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "098",
+    "subtype": "Beast, Fox, Entertainer"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "026",
+    "subtype": "Beast, Fox, Plant, Samurai"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "098",
+    "subtype": "Beast, Fox, Undead, Spirit"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "056",
+    "subtype": "Beast, Lizard, Fighter"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "006",
+    "subtype": "Beast, Merchant"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 159,
+    "subtype": "Beast, Rat, Entertainer"
+  },
+  {
+    "setID": "COR",
+    "cardID": "014",
+    "subtype": "Beast, Rat, Rogue"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "099",
+    "subtype": "Beast, Rat, Samurai"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "034",
+    "subtype": "Beast, Rat, Swarm"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "027",
+    "subtype": "Beast, Rodent"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "041",
+    "subtype": "Beast, Rodent"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 107,
+    "subtype": "Beast, Rodent, Engineer"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 165,
+    "subtype": "Beast, Rodent, Entertainer"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "035",
+    "subtype": "Beast, Rodent, Knight"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "024",
+    "subtype": "Beast, Rodent, Noble"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "005",
+    "subtype": "Beast, Rogue"
+  },
+  {
+    "setID": "COR",
+    "cardID": 101,
+    "subtype": "Beast, Shark, Human"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "076",
+    "subtype": "Beast, Shark, Noble"
+  },
+  {
+    "setID": "COR",
+    "cardID": 122,
+    "subtype": "Beast, Sheep"
+  },
+  {
+    "setID": "COR",
+    "cardID": "042",
+    "subtype": "Beast, Sheep, Merchant"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "074",
+    "subtype": "Beast, Snake"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "073",
+    "subtype": "Beast, Snake, Cultist"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 104,
+    "subtype": "Beast, Snake, Knight"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "079",
+    "subtype": "Beast, Snake, Wizard"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "031",
+    "subtype": "Beast, Wolf, Cultist"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "030",
+    "subtype": "Beholder"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "069",
+    "subtype": "Bird"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "028",
+    "subtype": "Bird"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 102,
+    "subtype": "Bird, Clock, Soldier"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "027",
+    "subtype": "Bird, Demon"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "043",
+    "subtype": "Bird, Human, Cleric"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 168,
+    "subtype": "Bird, Merchant"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "027",
+    "subtype": "Bird, Noble"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "054",
+    "subtype": "Bird, Officer"
+  },
+  {
+    "setID": "COR",
+    "cardID": "067",
+    "subtype": "Bird, Rogue"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 163,
+    "subtype": "Bird, Rogue"
+  },
+  {
+    "setID": "COR",
+    "cardID": "097",
+    "subtype": "Bird, Wizard"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "036",
+    "subtype": "Celestial"
+  },
+  {
+    "setID": "COR",
+    "cardID": "023",
+    "subtype": "Celestial, Beast, Dog"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 101,
+    "subtype": "Celestial, Beast, Rodent, Vehicle"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "048",
+    "subtype": "Celestial, Dragon"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 143,
+    "subtype": "Celestial, Dragon"
+  },
+  {
+    "setID": "COR",
+    "cardID": 125,
+    "subtype": "Celestial, Eldritch, Insect"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "042",
+    "subtype": "Celestial, Elemental"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 109,
+    "subtype": "Celestial, Entertainer"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "049",
+    "subtype": "Celestial, Giant"
+  },
+  {
+    "setID": "COR",
+    "cardID": "096",
+    "subtype": "Celestial, Knight"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 140,
+    "subtype": "Celestial, Knight"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 110,
+    "subtype": "Celestial, Machine, Mech"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "048",
+    "subtype": "Celestial, Officer"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 134,
+    "subtype": "Celestial, Official"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 144,
+    "subtype": "Celestial, Rock, Elemental"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 125,
+    "subtype": "Celestial, Rogue"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 136,
+    "subtype": "Celestial, Slime"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 164,
+    "subtype": "Celestial, Slime"
+  },
+  {
+    "setID": "COR",
+    "cardID": "098",
+    "subtype": "Celestial, Spirit"
+  },
+  {
+    "setID": "COR",
+    "cardID": 128,
+    "subtype": "Celestial, Spirit, Beast, Cetacean"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "061",
+    "subtype": "Celestial, Vehicle"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 199,
+    "subtype": "Celestial, Vehicle, Entertainer"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "059",
+    "subtype": "Celestial, Worker"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "096",
+    "subtype": "Celestial, Worker"
+  },
+  {
+    "setID": "COR",
+    "cardID": 124,
+    "subtype": "Cephalopod, Cultist"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "094",
+    "subtype": "Civilian"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "072",
+    "subtype": "Clock, Golem, Noble, Warrior"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "097",
+    "subtype": "Clock, Machine, Fighter"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 108,
+    "subtype": "Clock, Machine, Official"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "027",
+    "subtype": "Clock, Machine, Soldier"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "068",
+    "subtype": "Clock, Rock, Elemental"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "004",
+    "subtype": "Concept"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "090",
+    "subtype": "Concept"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "091",
+    "subtype": "Concept"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "092",
+    "subtype": "Concept"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "093",
+    "subtype": "Concept"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "094",
+    "subtype": "Concept"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "095",
+    "subtype": "Concept"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "096",
+    "subtype": "Concept"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "097",
+    "subtype": "Concept"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "098",
+    "subtype": "Concept"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "099",
+    "subtype": "Concept"
+  },
+  {
+    "setID": "COR",
+    "cardID": "056",
+    "subtype": "Consumable"
+  },
+  {
+    "setID": "COR",
+    "cardID": "057",
+    "subtype": "Consumable"
+  },
+  {
+    "setID": "COR",
+    "cardID": "059",
+    "subtype": "Consumable"
+  },
+  {
+    "setID": "COR",
+    "cardID": "083",
+    "subtype": "Consumable"
+  },
+  {
+    "setID": "COR",
+    "cardID": 112,
+    "subtype": "Consumable"
+  },
+  {
+    "setID": "COR",
+    "cardID": 140,
+    "subtype": "Consumable"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "039",
+    "subtype": "Consumable"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "053",
+    "subtype": "Consumable"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "067",
+    "subtype": "Consumable"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "081",
+    "subtype": "Consumable"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "043",
+    "subtype": "Consumable"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "049",
+    "subtype": "Consumable"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "088",
+    "subtype": "Consumable"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "001",
+    "subtype": "Crab"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "009",
+    "subtype": "Crab"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "010",
+    "subtype": "Crab"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "012",
+    "subtype": "Crab"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "016",
+    "subtype": "Crab"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "017",
+    "subtype": "Crab"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "018",
+    "subtype": "Crab"
+  },
+  {
+    "setID": "COR",
+    "cardID": "040",
+    "subtype": "Crab, Giant"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "054",
+    "subtype": "Crab, Monster"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "013",
+    "subtype": "Crab, Monster"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "011",
+    "subtype": "Crustacean"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "013",
+    "subtype": "Crustacean"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "014",
+    "subtype": "Crustacean"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "015",
+    "subtype": "Crustacean"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "043",
+    "subtype": "Deity"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 145,
+    "subtype": "Deity, Celestial, Snake"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "042",
+    "subtype": "Deity, Monster, Snake"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "065",
+    "subtype": "Demon, Beast"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "030",
+    "subtype": "Demon, Beast, Dog"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "032",
+    "subtype": "Demon, Beast, Dog"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "041",
+    "subtype": "Demon, Beast, Dog"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "061",
+    "subtype": "Demon, Beast, Dog, Fighter"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "034",
+    "subtype": "Demon, Beast, Dog, Monster"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "070",
+    "subtype": "Demon, Beast, Ranger"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 108,
+    "subtype": "Demon, Fighter"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "012",
+    "subtype": "Demon, Fighter"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 158,
+    "subtype": "Demon, Fighter"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 175,
+    "subtype": "Demon, Knight"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "009",
+    "subtype": "Demon, Ranger"
+  },
+  {
+    "setID": "COR",
+    "cardID": "022",
+    "subtype": "Demon, Rock, Beast, Bird, Dog, Fighter"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 125,
+    "subtype": "Demon, Rogue, Fighter"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "016",
+    "subtype": "Demon, Soldier"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "018",
+    "subtype": "Demon, Soldier"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "014",
+    "subtype": "Demon, Worker"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "002",
+    "subtype": "Devil"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "036",
+    "subtype": "Devil"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "037",
+    "subtype": "Devil"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "038",
+    "subtype": "Devil"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "039",
+    "subtype": "Devil"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "040",
+    "subtype": "Devil"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "041",
+    "subtype": "Devil"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "059",
+    "subtype": "Devil"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "058",
+    "subtype": "Devil, Fighter"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "009",
+    "subtype": "Dragon"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "012",
+    "subtype": "Dragon"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "014",
+    "subtype": "Dragon"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "016",
+    "subtype": "Dragon"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "017",
+    "subtype": "Dragon"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "028",
+    "subtype": "Dragon"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "030",
+    "subtype": "Dragon"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "033",
+    "subtype": "Dragon"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "035",
+    "subtype": "Dragon"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "036",
+    "subtype": "Dragon"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "042",
+    "subtype": "Dragon"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "044",
+    "subtype": "Dragon"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "047",
+    "subtype": "Dragon"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "050",
+    "subtype": "Dragon"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "056",
+    "subtype": "Dragon"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "058",
+    "subtype": "Dragon"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "061",
+    "subtype": "Dragon"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "063",
+    "subtype": "Dragon"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "064",
+    "subtype": "Dragon"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "070",
+    "subtype": "Dragon"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "072",
+    "subtype": "Dragon"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "075",
+    "subtype": "Dragon"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "077",
+    "subtype": "Dragon"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "078",
+    "subtype": "Dragon"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "008",
+    "subtype": "Dragon, Cultist"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "029",
+    "subtype": "Dragon, Druid"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "043",
+    "subtype": "Dragon, Engineer"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "011",
+    "subtype": "Dragon, Fighter"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 195,
+    "subtype": "Dragon, Fighter, Rogue"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "018",
+    "subtype": "Dragon, Giant"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "062",
+    "subtype": "Dragon, Golem"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "046",
+    "subtype": "Dragon, Machine, Mech"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "074",
+    "subtype": "Dragon, Merchant"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "031",
+    "subtype": "Dragon, Monk"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "073",
+    "subtype": "Dragon, Monk"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "071",
+    "subtype": "Dragon, Rogue"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "072",
+    "subtype": "Dragon, Spirit"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "010",
+    "subtype": "Dragon, Wizard"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "057",
+    "subtype": "Dragon, Wizard"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "052",
+    "subtype": "Drone"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "057",
+    "subtype": "Drone"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "045",
+    "subtype": "Dwarf, Cultist"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "031",
+    "subtype": "Dwarf, Fighter"
+  },
+  {
+    "setID": "COR",
+    "cardID": 103,
+    "subtype": "Earth"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "079",
+    "subtype": "Earth"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 117,
+    "subtype": "Earth"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 154,
+    "subtype": "Earth, Rock, Weapon"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "006",
+    "subtype": "Egg"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 174,
+    "subtype": "Eldritch, Arachnid"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "095",
+    "subtype": "Eldritch, Beast"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 161,
+    "subtype": "Eldritch, Beast"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "046",
+    "subtype": "Eldritch, Beast, Horse"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 142,
+    "subtype": "Eldritch, Celestial"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 167,
+    "subtype": "Eldritch, Cephalopod, Cultist"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 128,
+    "subtype": "Eldritch, Cleric, Cultist"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 138,
+    "subtype": "Eldritch, Crab, Cultist"
+  },
+  {
+    "setID": "COR",
+    "cardID": 123,
+    "subtype": "Eldritch, Cultist"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 100,
+    "subtype": "Eldritch, Cultist"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 173,
+    "subtype": "Eldritch, Cultist, Knight"
+  },
+  {
+    "setID": "COR",
+    "cardID": 132,
+    "subtype": "Eldritch, Deity"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 177,
+    "subtype": "Eldritch, Deity"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "076",
+    "subtype": "Eldritch, Dragon"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 169,
+    "subtype": "Eldritch, Elemental"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 162,
+    "subtype": "Eldritch, Insect"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "077",
+    "subtype": "Eldritch, Knight, Cultist"
+  },
+  {
+    "setID": "COR",
+    "cardID": 131,
+    "subtype": "Eldritch, Monster"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "038",
+    "subtype": "Eldritch, Monster"
+  },
+  {
+    "setID": "COR",
+    "cardID": 127,
+    "subtype": "Eldritch, Spirit"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 201,
+    "subtype": "Eldritch, Spirit"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 160,
+    "subtype": "Eldritch, Tentacle"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "075",
+    "subtype": "Eldritch, Wizard"
+  },
+  {
+    "setID": "COR",
+    "cardID": "048",
+    "subtype": "Elemental"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "068",
+    "subtype": "Elemental"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "040",
+    "subtype": "Elemental"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "049",
+    "subtype": "Elemental, Machine"
+  },
+  {
+    "setID": "COR",
+    "cardID": "045",
+    "subtype": "Elemental, Spirit"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "026",
+    "subtype": "Elemental, Spirit"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "046",
+    "subtype": "Elf, Arachnid, Merchant"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 129,
+    "subtype": "Elf, Cleric"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 135,
+    "subtype": "Elf, Cleric"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 127,
+    "subtype": "Elf, Cultist"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "029",
+    "subtype": "Elf, Druid"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "029",
+    "subtype": "Elf, Druid"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "062",
+    "subtype": "Elf, Druid"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "063",
+    "subtype": "Elf, Druid"
+  },
+  {
+    "setID": "COR",
+    "cardID": "041",
+    "subtype": "Elf, Druid, Fighter"
+  },
+  {
+    "setID": "COR",
+    "cardID": "046",
+    "subtype": "Elf, Druid, Rogue"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "064",
+    "subtype": "Elf, Entertainer"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "067",
+    "subtype": "Elf, Knight"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 193,
+    "subtype": "Elf, Merchant, Wizard"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "036",
+    "subtype": "Elf, Noble, Merchant"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "069",
+    "subtype": "Elf, Official"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 132,
+    "subtype": "Elf, Official"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "044",
+    "subtype": "Elf, Pirate"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "046",
+    "subtype": "Elf, Pirate"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "042",
+    "subtype": "Elf, Pirate, Worker"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 130,
+    "subtype": "Elf, Ranger, Wizard"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "080",
+    "subtype": "Elf, Wizard"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "028",
+    "subtype": "Elf, Wizard"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "060",
+    "subtype": "Fey, Dragon"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "066",
+    "subtype": "Fey, Elemental"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 128,
+    "subtype": "Fey, Elf, Maid, Entertainer"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "047",
+    "subtype": "Fey, Pirate"
+  },
+  {
+    "setID": "COR",
+    "cardID": "054",
+    "subtype": "Fire"
+  },
+  {
+    "setID": "COR",
+    "cardID": 106,
+    "subtype": "Fire"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "041",
+    "subtype": "Fire"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "075",
+    "subtype": "Fire"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "052",
+    "subtype": "Fire, Ice"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "063",
+    "subtype": "Fire, Shadow"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "031",
+    "subtype": "Fish, Worker"
+  },
+  {
+    "setID": "COR",
+    "cardID": "031",
+    "subtype": "Gear"
+  },
+  {
+    "setID": "COR",
+    "cardID": "080",
+    "subtype": "Gear"
+  },
+  {
+    "setID": "COR",
+    "cardID": 143,
+    "subtype": "Gear"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "045",
+    "subtype": "Gear"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "067",
+    "subtype": "Gear"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "094",
+    "subtype": "Gear"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "023",
+    "subtype": "Gear"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 119,
+    "subtype": "Gear"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 198,
+    "subtype": "Gear"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 200,
+    "subtype": "Gear"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "055",
+    "subtype": "Goblin"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "028",
+    "subtype": "Goblin, Fighter"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "015",
+    "subtype": "Golem, Engineer"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "049",
+    "subtype": "Golem, Officer"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "044",
+    "subtype": "Golem, Scientist"
+  },
+  {
+    "setID": "COR",
+    "cardID": 107,
+    "subtype": "Holy"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "060",
+    "subtype": "Holy"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "076",
+    "subtype": "Holy"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "042",
+    "subtype": "Holy"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "077",
+    "subtype": "Holy"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "078",
+    "subtype": "Holy"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "082",
+    "subtype": "Holy"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "046",
+    "subtype": "Holy"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "047",
+    "subtype": "Holy"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "048",
+    "subtype": "Holy"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 150,
+    "subtype": "Holy"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 120,
+    "subtype": "Holy, Consumable"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "003",
+    "subtype": "Human"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "063",
+    "subtype": "Human"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "064",
+    "subtype": "Human"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "065",
+    "subtype": "Human"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "066",
+    "subtype": "Human"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "067",
+    "subtype": "Human"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "068",
+    "subtype": "Human"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "069",
+    "subtype": "Human"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "091",
+    "subtype": "Human"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "073",
+    "subtype": "Human, Agent"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "013",
+    "subtype": "Human, Bird, Soldier"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "007",
+    "subtype": "Human, Cavalry"
+  },
+  {
+    "setID": "COR",
+    "cardID": 129,
+    "subtype": "Human, Cultist"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "057",
+    "subtype": "Human, Cultist"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "085",
+    "subtype": "Human, Cultist"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 102,
+    "subtype": "Human, Cultist"
+  },
+  {
+    "setID": "COR",
+    "cardID": "069",
+    "subtype": "Human, Engineer"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "051",
+    "subtype": "Human, Engineer"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "095",
+    "subtype": "Human, Engineer"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "099",
+    "subtype": "Human, Engineer"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "039",
+    "subtype": "Human, Entertainer"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 170,
+    "subtype": "Human, Entertainer"
+  },
+  {
+    "setID": "COR",
+    "cardID": "019",
+    "subtype": "Human, Fighter"
+  },
+  {
+    "setID": "COR",
+    "cardID": "044",
+    "subtype": "Human, Fighter"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "044",
+    "subtype": "Human, Fighter"
+  },
+  {
+    "setID": "DEP",
+    "cardID": 106,
+    "subtype": "Human, Fighter"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "015",
+    "subtype": "Human, Fighter"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "075",
+    "subtype": "Human, Fighter, Rogue"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 100,
+    "subtype": "Human, Maid, Entertainer"
+  },
+  {
+    "setID": "COR",
+    "cardID": "016",
+    "subtype": "Human, Merchant"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "015",
+    "subtype": "Human, Merchant"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "088",
+    "subtype": "Human, Merchant"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "048",
+    "subtype": "Human, Merchant"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 107,
+    "subtype": "Human, Merchant"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 127,
+    "subtype": "Human, Merchant"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "086",
+    "subtype": "Human, Merchant, Rogue"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "081",
+    "subtype": "Human, Noble"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "059",
+    "subtype": "Human, Noble, Cultist"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 124,
+    "subtype": "Human, Noble, Knight"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "012",
+    "subtype": "Human, Officer"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "060",
+    "subtype": "Human, Officer"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "033",
+    "subtype": "Human, Officer"
+  },
+  {
+    "setID": "COR",
+    "cardID": 126,
+    "subtype": "Human, Official"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 172,
+    "subtype": "Human, Official"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "092",
+    "subtype": "Human, Pirate"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "084",
+    "subtype": "Human, Pirate, Cultist"
+  },
+  {
+    "setID": "DEP",
+    "cardID": 108,
+    "subtype": "Human, Pirate, Rogue"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "087",
+    "subtype": "Human, Pirate, Wizard"
+  },
+  {
+    "setID": "COR",
+    "cardID": 100,
+    "subtype": "Human, Priest"
+  },
+  {
+    "setID": "COR",
+    "cardID": "070",
+    "subtype": "Human, Rogue"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "071",
+    "subtype": "Human, Rogue"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "073",
+    "subtype": "Human, Rogue"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "043",
+    "subtype": "Human, Scientist"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "045",
+    "subtype": "Human, Scientist"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "050",
+    "subtype": "Human, Scientist"
+  },
+  {
+    "setID": "COR",
+    "cardID": "020",
+    "subtype": "Human, Soldier"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "012",
+    "subtype": "Human, Soldier"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "013",
+    "subtype": "Human, Soldier"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 133,
+    "subtype": "Human, Wizard, Merchant"
+  },
+  {
+    "setID": "COR",
+    "cardID": 109,
+    "subtype": "Ice"
+  },
+  {
+    "setID": "COR",
+    "cardID": 110,
+    "subtype": "Ice"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "078",
+    "subtype": "Ice"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 147,
+    "subtype": "Ice"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "074",
+    "subtype": "Illithid, Deity"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "071",
+    "subtype": "Illithid, Monster"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "069",
+    "subtype": "Illithid, Pilot"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "033",
+    "subtype": "Insect"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "055",
+    "subtype": "Insect, Drone"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 137,
+    "subtype": "Insect, Scientist"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "032",
+    "subtype": "Legendary"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "064",
+    "subtype": "Legendary"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "022",
+    "subtype": "Legendary"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "026",
+    "subtype": "Legendary"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "001",
+    "subtype": "Legendary, Aquatic, Golem, Official"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "005",
+    "subtype": "Legendary, Beast, Alligator, Agent"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "025",
+    "subtype": "Legendary, Beast, Alligator, Hero"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "003",
+    "subtype": "Legendary, Beast, Cat, Noble"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "002",
+    "subtype": "Legendary, Beast, Cat, Officer"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "001",
+    "subtype": "Legendary, Beast, Cat, Official"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "002",
+    "subtype": "Legendary, Beast, Fox, Entertainer"
+  },
+  {
+    "setID": "COR",
+    "cardID": "010",
+    "subtype": "Legendary, Beast, Nightmare"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "013",
+    "subtype": "Legendary, Beast, Plant, Druid, Deity"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "016",
+    "subtype": "Legendary, Beast, Rat, Spirit"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "009",
+    "subtype": "Legendary, Beast, Shark, Fighter"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "006",
+    "subtype": "Legendary, Beast, Sheep, Merchant"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "015",
+    "subtype": "Legendary, Bird, Human, Civilian"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "003",
+    "subtype": "Legendary, Bird, Human, Cleric"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "007",
+    "subtype": "Legendary, Bird, Knight, Hero"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "012",
+    "subtype": "Legendary, Celestial, Cleric"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "011",
+    "subtype": "Legendary, Celestial, Demon, Spirit"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "014",
+    "subtype": "Legendary, Clock, Human, Deity"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "089",
+    "subtype": "Legendary, Concept"
+  },
+  {
+    "setID": "COR",
+    "cardID": "001",
+    "subtype": "Legendary, Demon, Beast"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "020",
+    "subtype": "Legendary, Demon, Beast, Dog, Fighter"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "019",
+    "subtype": "Legendary, Demon, Bird, Entertainer"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "005",
+    "subtype": "Legendary, Demon, Villain"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "035",
+    "subtype": "Legendary, Devil"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "005",
+    "subtype": "Legendary, Dragon"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "003",
+    "subtype": "Legendary, Dragon, Deity"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "001",
+    "subtype": "Legendary, Dragon, Human, Knight"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "002",
+    "subtype": "Legendary, Dragon, Monster"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "004",
+    "subtype": "Legendary, Dragon, Wizard"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "003",
+    "subtype": "Legendary, Dwarf, Cleric"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "003",
+    "subtype": "Legendary, Dwarf, Cleric, Engineer"
+  },
+  {
+    "setID": "COR",
+    "cardID": "011",
+    "subtype": "Legendary, Eldritch, Beast, Goat, Druid"
+  },
+  {
+    "setID": "COR",
+    "cardID": "005",
+    "subtype": "Legendary, Eldritch, Fighter"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "008",
+    "subtype": "Legendary, Eldritch, Human, Cleric"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "017",
+    "subtype": "Legendary, Eldritch, Human, Cultist"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "007",
+    "subtype": "Legendary, Eldritch, Villain"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "026",
+    "subtype": "Legendary, Eldritch, Villain"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "005",
+    "subtype": "Legendary, Elf, Agent"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "002",
+    "subtype": "Legendary, Elf, Agent, Druid"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "009",
+    "subtype": "Legendary, Elf, Fighter"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "022",
+    "subtype": "Legendary, Elf, Noble, Official"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "006",
+    "subtype": "Legendary, Elf, Pirate, Rogue, Villain"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "001",
+    "subtype": "Legendary, Elf, Rogue"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "010",
+    "subtype": "Legendary, Elf, Scientist, Villain"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "004",
+    "subtype": "Legendary, Elf, Vampire, Fighter"
+  },
+  {
+    "setID": "COR",
+    "cardID": "009",
+    "subtype": "Legendary, Fey, Wizard"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "062",
+    "subtype": "Legendary, Human"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "010",
+    "subtype": "Legendary, Human, Agent, Swarm"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "024",
+    "subtype": "Legendary, Human, Celestial, Scientist"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "009",
+    "subtype": "Legendary, Human, Cultist, Pirate"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "006",
+    "subtype": "Legendary, Human, Engineer"
+  },
+  {
+    "setID": "COR",
+    "cardID": "007",
+    "subtype": "Legendary, Human, Engineer, Official"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "004",
+    "subtype": "Legendary, Human, Entertainer"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "002",
+    "subtype": "Legendary, Human, Fighter"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "004",
+    "subtype": "Legendary, Human, Fighter, Villain"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "001",
+    "subtype": "Legendary, Human, Hero"
+  },
+  {
+    "setID": "COR",
+    "cardID": "008",
+    "subtype": "Legendary, Human, Maid, Knight"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "001",
+    "subtype": "Legendary, Human, Merchant"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "008",
+    "subtype": "Legendary, Human, Noble, Cultist, Villain"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "008",
+    "subtype": "Legendary, Human, Pirate"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "010",
+    "subtype": "Legendary, Human, Pirate, Noble"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "005",
+    "subtype": "Legendary, Human, Pirate, Rogue"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "008",
+    "subtype": "Legendary, Human, Rogue, Scientist"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "004",
+    "subtype": "Legendary, Human, Samurai"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "003",
+    "subtype": "Legendary, Human, Scientist"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "021",
+    "subtype": "Legendary, Machine, Deity"
+  },
+  {
+    "setID": "COR",
+    "cardID": "006",
+    "subtype": "Legendary, Machine, Scientist"
+  },
+  {
+    "setID": "COR",
+    "cardID": "004",
+    "subtype": "Legendary, Plant, Wizard"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "009",
+    "subtype": "Legendary, Qil'oth, Agent"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "012",
+    "subtype": "Legendary, Qil'oth, Deity"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "007",
+    "subtype": "Legendary, QIl'oth, Fighter"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "006",
+    "subtype": "Legendary, Qil'oth, Merchant"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "002",
+    "subtype": "Legendary, Qil'oth, Ranger"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "007",
+    "subtype": "Legendary, Qil'oth, Ranger"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "004",
+    "subtype": "Legendary, Qil'oth, Wizard"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "003",
+    "subtype": "Legendary, Rock, Human, Gamer"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "018",
+    "subtype": "Legendary, Rock, Spirit"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "004",
+    "subtype": "Legendary, Seaborn, Aquatic, Monster"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "002",
+    "subtype": "Legendary, Seaborn, Aquatic, Monster, Human, Agent"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "001",
+    "subtype": "Legendary, Seaborn, Aquatic, Monster, Human, Entertainer"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "006",
+    "subtype": "Legendary, Spirit, Skeleton, Entertainer"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "007",
+    "subtype": "Legendary, Tiefling, Cleric"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "005",
+    "subtype": "Legendary, Tiefling, Undead, Villain"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "001",
+    "subtype": "Legendary, Undead, Pirate"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "011",
+    "subtype": "Legendary, Undead, Qil'oth, Wizard"
+  },
+  {
+    "setID": "COR",
+    "cardID": "003",
+    "subtype": "Legendary, Undead, Skeleton, Merchant, Priest"
+  },
+  {
+    "setID": "COR",
+    "cardID": "002",
+    "subtype": "Legendary, Undead, Spirit, Maid"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "002",
+    "subtype": "Legendary, Vampire, Criminal"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "023",
+    "subtype": "Legendary, Vampire, Entertainer"
+  },
+  {
+    "setID": "COR",
+    "cardID": 105,
+    "subtype": "Lightning"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "064",
+    "subtype": "Lightning"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "065",
+    "subtype": "Lightning"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "090",
+    "subtype": "Lightning"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 151,
+    "subtype": "Lightning"
+  },
+  {
+    "setID": "COR",
+    "cardID": "068",
+    "subtype": "Machine"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "046",
+    "subtype": "Machine"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "051",
+    "subtype": "Machine"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "052",
+    "subtype": "Machine"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "053",
+    "subtype": "Machine"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 197,
+    "subtype": "Machine"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "050",
+    "subtype": "Machine, Agent"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "047",
+    "subtype": "Machine, Crab"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "043",
+    "subtype": "Machine, Hero, Knight"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "058",
+    "subtype": "Machine, Mech"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 103,
+    "subtype": "Machine, Mech, Dwarf, Worker"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "043",
+    "subtype": "Machine, Merchant"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "048",
+    "subtype": "Machine, Shark"
+  },
+  {
+    "setID": "COR",
+    "cardID": "071",
+    "subtype": "Machine, Spirit"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "045",
+    "subtype": "Machine, Spirit"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 105,
+    "subtype": "Machine, Spirit, Entertainer"
+  },
+  {
+    "setID": "COR",
+    "cardID": "066",
+    "subtype": "Machine, Swarm"
+  },
+  {
+    "setID": "COR",
+    "cardID": "021",
+    "subtype": "Machine, Vehicle"
+  },
+  {
+    "setID": "COR",
+    "cardID": "072",
+    "subtype": "Machine, Vehicle"
+  },
+  {
+    "setID": "COR",
+    "cardID": "073",
+    "subtype": "Machine, Vehicle"
+  },
+  {
+    "setID": "COR",
+    "cardID": "074",
+    "subtype": "Machine, Vehicle"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "016",
+    "subtype": "Machine, Vehicle"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "010",
+    "subtype": "Machine, Wizard"
+  },
+  {
+    "setID": "COR",
+    "cardID": "094",
+    "subtype": "Mana, Bird"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 123,
+    "subtype": "Mech, Officer"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "031",
+    "subtype": "Merchant"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "032",
+    "subtype": "Monster"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "059",
+    "subtype": "Monster"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "082",
+    "subtype": "Monster"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 105,
+    "subtype": "Monster, Fighter"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "013",
+    "subtype": "Monster, Merchant"
+  },
+  {
+    "setID": "COR",
+    "cardID": "049",
+    "subtype": "Nature"
+  },
+  {
+    "setID": "COR",
+    "cardID": "053",
+    "subtype": "Nature"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "034",
+    "subtype": "Nature"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "037",
+    "subtype": "Nature"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "039",
+    "subtype": "Nature"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "078",
+    "subtype": "Nature"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "084",
+    "subtype": "Nature"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "086",
+    "subtype": "Nature"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 106,
+    "subtype": "Nightmare"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "011",
+    "subtype": "Nightmare, Dragon"
+  },
+  {
+    "setID": "COR",
+    "cardID": "012",
+    "subtype": "Nightmare, Merchant"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "083",
+    "subtype": "Nightmare, Spirit"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 111,
+    "subtype": "Nightmare, Spirit"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "033",
+    "subtype": "Officer, Vehicle"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "033",
+    "subtype": "Orc, Fighter"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "053",
+    "subtype": "Pirate, Vehicle, Swarm"
+  },
+  {
+    "setID": "COR",
+    "cardID": "043",
+    "subtype": "Plant"
+  },
+  {
+    "setID": "COR",
+    "cardID": "047",
+    "subtype": "Plant, Beast, Dinosaur"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "032",
+    "subtype": "Plant, Cultist"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "034",
+    "subtype": "Plant, Dragon"
+  },
+  {
+    "setID": "COR",
+    "cardID": "038",
+    "subtype": "Plant, Druid"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "071",
+    "subtype": "Plant, Druid"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "032",
+    "subtype": "Plant, Elemental, Spirit"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "041",
+    "subtype": "Plant, Entertainer"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "074",
+    "subtype": "Plant, Golem"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "028",
+    "subtype": "Plant, Knight"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "023",
+    "subtype": "Plant, Machine, Officer"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "094",
+    "subtype": "Plant, Vehicle, Swarm"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "067",
+    "subtype": "Qil'oth, Agent"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "078",
+    "subtype": "Qil'oth, Agent"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "024",
+    "subtype": "Qil'oth, Civilian"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "068",
+    "subtype": "Qil'oth, Druid"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "071",
+    "subtype": "Qil'oth, Druid"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "014",
+    "subtype": "Qil'oth, Entertainer"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "026",
+    "subtype": "Qil'oth, Fighter"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "067",
+    "subtype": "Qil'oth, Knight"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "029",
+    "subtype": "Qil'oth, Knight"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "090",
+    "subtype": "Qil'oth, Undead, Zombie"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "072",
+    "subtype": "Rat, Rogue"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "030",
+    "subtype": "Rock"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 124,
+    "subtype": "Rock"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 153,
+    "subtype": "Rock"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 156,
+    "subtype": "Rock"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "066",
+    "subtype": "Rock, Crab"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "013",
+    "subtype": "Rock, Dragon"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "093",
+    "subtype": "Rock, Dwarf, Merchant"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "006",
+    "subtype": "Rock, Elemental"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 191,
+    "subtype": "Rock, Elemental"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "035",
+    "subtype": "Rock, Entertainer"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "034",
+    "subtype": "Rock, Fighter"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 121,
+    "subtype": "Rock, Gear"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "047",
+    "subtype": "Rock, Golem"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 106,
+    "subtype": "Rock, Golem"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 131,
+    "subtype": "Rock, Golem"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "025",
+    "subtype": "Rogue, Merchant"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "005",
+    "subtype": "Sand, Castle"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "015",
+    "subtype": "Seaborn, Aquatic, Monster"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "017",
+    "subtype": "Seaborn, Aquatic, Monster"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "018",
+    "subtype": "Seaborn, Aquatic, Monster"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "019",
+    "subtype": "Seaborn, Aquatic, Monster"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "020",
+    "subtype": "Seaborn, Aquatic, Monster"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "021",
+    "subtype": "Seaborn, Aquatic, Monster"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "022",
+    "subtype": "Seaborn, Aquatic, Monster"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "023",
+    "subtype": "Seaborn, Aquatic, Monster"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "057",
+    "subtype": "Seaborn, Aquatic, Monster"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "058",
+    "subtype": "Seaborn, Aquatic, Monster"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "059",
+    "subtype": "Seaborn, Aquatic, Monster"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "062",
+    "subtype": "Seaborn, Aquatic, Monster"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "063",
+    "subtype": "Seaborn, Aquatic, Monster"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "024",
+    "subtype": "Seaborn, Aquatic, Monster, Beast, Knight"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "061",
+    "subtype": "Seaborn, Aquatic, Monster, Cleric"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "060",
+    "subtype": "Seaborn, Aquatic, Monster, Entertainer"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "029",
+    "subtype": "Seaborn, Aquatic, Monster, Human, Agent"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "016",
+    "subtype": "Seaborn, Aquatic, Monster, Human, Ranger"
+  },
+  {
+    "setID": "COR",
+    "cardID": 133,
+    "subtype": "Shadow"
+  },
+  {
+    "setID": "COR",
+    "cardID": 136,
+    "subtype": "Shadow"
+  },
+  {
+    "setID": "COR",
+    "cardID": 137,
+    "subtype": "Shadow"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "072",
+    "subtype": "Shadow"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "076",
+    "subtype": "Shadow"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "098",
+    "subtype": "Shadow"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "037",
+    "subtype": "Shadow"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "088",
+    "subtype": "Shadow"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "091",
+    "subtype": "Shadow"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 113,
+    "subtype": "Shadow"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "022",
+    "subtype": "Shadow"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "090",
+    "subtype": "Shadow"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 178,
+    "subtype": "Shadow"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 182,
+    "subtype": "Shadow"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 187,
+    "subtype": "Shadow"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 190,
+    "subtype": "Shadow"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 202,
+    "subtype": "Shadow"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 109,
+    "subtype": "Slime, Monster"
+  },
+  {
+    "setID": "COR",
+    "cardID": "018",
+    "subtype": "Spirit"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 166,
+    "subtype": "Spirit"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "032",
+    "subtype": "Spirit, Beast, Shark"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "030",
+    "subtype": "Spirit, Bird"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 139,
+    "subtype": "Spirit, Celestial"
+  },
+  {
+    "setID": "DEP",
+    "cardID": 104,
+    "subtype": "Spirit, Giant, Beast, Cetacean"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "051",
+    "subtype": "Spirit, Machine"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "073",
+    "subtype": "Spirit, Nightmare"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "063",
+    "subtype": "Spirit, Qil'oth"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "064",
+    "subtype": "Spirit, Qil'oth"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "070",
+    "subtype": "Spirit, Qil'oth"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "070",
+    "subtype": "Spirit, Qil'oth"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "036",
+    "subtype": "Spirit, Skeleton, Cavalry"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "015",
+    "subtype": "Spirit, Skeleton, Engineer"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "008",
+    "subtype": "Spirit, Skeleton, Ranger"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "056",
+    "subtype": "Tiefling, Cultist"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "014",
+    "subtype": "Tiefling, Merchant"
+  },
+  {
+    "setID": "COR",
+    "cardID": "T06",
+    "subtype": "Token"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "019",
+    "subtype": "Token"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "070",
+    "subtype": "Token"
+  },
+  {
+    "setID": "HOE",
+    "cardID": 100,
+    "subtype": "Token"
+  },
+  {
+    "setID": "HOE",
+    "cardID": 101,
+    "subtype": "Token"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "027",
+    "subtype": "Token"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T03",
+    "subtype": "Token"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "T02",
+    "subtype": "Token"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "T05",
+    "subtype": "Token"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "T07",
+    "subtype": "Token"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "T01",
+    "subtype": "Token"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "T04",
+    "subtype": "Token"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "T05",
+    "subtype": "Token"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "T01",
+    "subtype": "Token"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "T02",
+    "subtype": "Token"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "T01",
+    "subtype": "Token"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T01",
+    "subtype": "Token"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T05",
+    "subtype": "Token"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T10",
+    "subtype": "Token"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "T02",
+    "subtype": "Token, Aquatic, Beast, Cephalopod"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "T01",
+    "subtype": "Token, Aquatic, Tentacle"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T13",
+    "subtype": "Token, Beast, Civilian"
+  },
+  {
+    "setID": "COR",
+    "cardID": "T11",
+    "subtype": "Token, Beast, Shark, Human"
+  },
+  {
+    "setID": "COR",
+    "cardID": "T03",
+    "subtype": "Token, Crab, Giant"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "T02",
+    "subtype": "Token, Crab, Giant"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "T04",
+    "subtype": "Token, Demon, Beast, Dog"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "T05",
+    "subtype": "Token, Demon, Beast, Dog"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T03",
+    "subtype": "Token, Demon, Beast, Dog, Fighter"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T04",
+    "subtype": "Token, Demon, Beast, Dog, Fighter"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T04",
+    "subtype": "Token, Devil"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "011",
+    "subtype": "Token, Earth, Elemental"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T11",
+    "subtype": "Token, Eldritch, Elemental"
+  },
+  {
+    "setID": "COR",
+    "cardID": "T12",
+    "subtype": "Token, Eldritch, Monster"
+  },
+  {
+    "setID": "COR",
+    "cardID": "T09",
+    "subtype": "Token, Elemental"
+  },
+  {
+    "setID": "COR",
+    "cardID": "T08",
+    "subtype": "Token, Elemental, Rock, Golem"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T08",
+    "subtype": "Token, Elemental, Rock, Golem"
+  },
+  {
+    "setID": "COR",
+    "cardID": "T07",
+    "subtype": "Token, Elemental, Wall"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T07",
+    "subtype": "Token, Elemental, Wall"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T02",
+    "subtype": "Token, Elf, Pirate"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T01",
+    "subtype": "Token, Goblin, Fighter"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "T01",
+    "subtype": "Token, Golem"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T12",
+    "subtype": "Token, Human, Civilian"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T09",
+    "subtype": "Token, Human, Civilian, Swarm"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "T03",
+    "subtype": "Token, Human, Noble, Knight"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T07",
+    "subtype": "Token, Human, Rogue"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "T01",
+    "subtype": "Token, Lightning"
+  },
+  {
+    "setID": "COR",
+    "cardID": "T04",
+    "subtype": "Token, Machine, Beast, Cat"
+  },
+  {
+    "setID": "COR",
+    "cardID": "T05",
+    "subtype": "Token, Machine, Human, Soldier"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "T04",
+    "subtype": "Token, Machine, Vehicle, Crab"
+  },
+  {
+    "setID": "COR",
+    "cardID": "T10",
+    "subtype": "Token, Mana, Shapeshifter"
+  },
+  {
+    "setID": "COR",
+    "cardID": "T01",
+    "subtype": "Token, Plant"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T06",
+    "subtype": "Token, Plant, Undead, Zombie"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "T02",
+    "subtype": "Token, Seaborn, Aquatic, Monster"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "T03",
+    "subtype": "Token, Seaborn, Aquatic, Monster"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "T06",
+    "subtype": "Token, Seaborn, Aquatic, Monster"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "T03",
+    "subtype": "Token, Spirit, Beast"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T05",
+    "subtype": "Token, Tiefling, Cultist"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T06",
+    "subtype": "Token, Undead"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "T03",
+    "subtype": "Token, Undead, Bird"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "T02",
+    "subtype": "Token, Undead, Bird"
+  },
+  {
+    "setID": "COR",
+    "cardID": "T02",
+    "subtype": "Token, Undead, Maid"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "T06",
+    "subtype": "Token, Undead, Zombie, Plant"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T09",
+    "subtype": "Transformed"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T08",
+    "subtype": "Transformed, Legendary, Dwarf, Cleric, Merchant"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T10",
+    "subtype": "Transformed, Legendary, Elf, Agent, Druid"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T14",
+    "subtype": "Transformed, Legendary, Elf, Vampire, Fighter"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T12",
+    "subtype": "Transformed, Legendary, Tiefling, Undead, Cleric"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T11",
+    "subtype": "Transformed, Machine, Orb"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T13",
+    "subtype": "Transformed, Shadow"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "T15",
+    "subtype": "Transformed, Undead, Zombie"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "084",
+    "subtype": "Undead"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "037",
+    "subtype": "Undead"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "031",
+    "subtype": "Undead, Beast, Sheep"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "029",
+    "subtype": "Undead, Bird"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "070",
+    "subtype": "Undead, Bird, Merchant"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 171,
+    "subtype": "Undead, Deity"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "074",
+    "subtype": "Undead, Dragon, Slime"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "010",
+    "subtype": "Undead, Plant, Crab"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "029",
+    "subtype": "Undead, Skeleton, Demon"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "093",
+    "subtype": "Undead, Skeleton, Dragon"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "020",
+    "subtype": "Undead, Skeleton, Golem"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "019",
+    "subtype": "Undead, Skeleton, Noble"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "040",
+    "subtype": "Undead, Skeleton, Noble"
+  },
+  {
+    "setID": "COR",
+    "cardID": "013",
+    "subtype": "Undead, Skeleton, Ranger"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "008",
+    "subtype": "Undead, Skeleton, Rogue"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "010",
+    "subtype": "Undead, Spirit"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "014",
+    "subtype": "Undead, Spirit"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "048",
+    "subtype": "Undead, Spirit"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 126,
+    "subtype": "Undead, Spirit, Agent"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "037",
+    "subtype": "Undead, Spirit, Agent"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "011",
+    "subtype": "Undead, Spirit, Merchant"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "088",
+    "subtype": "Undead, Zombie"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "011",
+    "subtype": "Undead, Zombie"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "017",
+    "subtype": "Undead, Zombie, Criminal"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "076",
+    "subtype": "Undead, Zombie, Giant"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "083",
+    "subtype": "Undead, Zombie, Noble, Soldier"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "089",
+    "subtype": "Undead, Zombie, Pirate"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "091",
+    "subtype": "Undead, Zombie, Plant"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "014",
+    "subtype": "Undead, Zombie, Worker"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "035",
+    "subtype": "Vampire, Fighter"
+  },
+  {
+    "setID": "COR",
+    "cardID": 130,
+    "subtype": "Vampire, Rogue"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 176,
+    "subtype": "Vampire, Rogue, Spirit"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 110,
+    "subtype": "Vampire, Samurai, Rogue"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 103,
+    "subtype": "Vampire, Wizard"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "045",
+    "subtype": "Vehicle"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "025",
+    "subtype": "Water, Elemental, Abomination"
+  },
+  {
+    "setID": "COR",
+    "cardID": "032",
+    "subtype": "Weapon"
+  },
+  {
+    "setID": "COR",
+    "cardID": "060",
+    "subtype": "Weapon"
+  },
+  {
+    "setID": "COR",
+    "cardID": 116,
+    "subtype": "Weapon"
+  },
+  {
+    "setID": "COR",
+    "cardID": 139,
+    "subtype": "Weapon"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "044",
+    "subtype": "Weapon"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "047",
+    "subtype": "Weapon"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "071",
+    "subtype": "Weapon"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "072",
+    "subtype": "Weapon"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 118,
+    "subtype": "Weapon"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 120,
+    "subtype": "Weapon"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 122,
+    "subtype": "Weapon"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "050",
+    "subtype": "Weapon"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "087",
+    "subtype": "Weapon"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "091",
+    "subtype": "Weapon"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 192,
+    "subtype": "Weapon"
+  }
+]

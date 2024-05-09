@@ -1,0 +1,5322 @@
+[
+  {
+    "setID": "HOE",
+    "cardID": 114,
+    "orb": "+ 1 [C]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "086",
+    "orb": "+ 1 [M]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "058",
+    "orb": "+ 1 [T]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "059",
+    "orb": "+ 1 [T]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "060",
+    "orb": "+ 1 [T]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": 115,
+    "orb": "+ 2 [C]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": 116,
+    "orb": "+ 2 [C]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "087",
+    "orb": "+ 2 [M]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "029",
+    "orb": "+ 2 [N]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "030",
+    "orb": "+ 2 [N]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "031",
+    "orb": "+ 2 [N]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "032",
+    "orb": "+ 2 [N]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "061",
+    "orb": "+ 2 [T]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "088",
+    "orb": "+ 3 [M]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "033",
+    "orb": "+ 3 [N]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "034",
+    "orb": "+ 3 [N]"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "012",
+    "orb": "{N}{T}{M}{C}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 118,
+    "orb": "{N}{T}{M}{C}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "083",
+    "orb": "+ {C}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "069",
+    "orb": "+ {M}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 120,
+    "orb": "+ {M} {C}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "041",
+    "orb": "+ {N}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "084",
+    "orb": "+ {N} {C}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": 109,
+    "orb": "+ {N} {M}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 119,
+    "orb": "+ {N} {T}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "055",
+    "orb": "+ {T}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": 110,
+    "orb": "+ {T} {C}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "085",
+    "orb": "+ {T} {M}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 145,
+    "orb": "+ 1 {C}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 146,
+    "orb": "+ 1 {C}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 117,
+    "orb": "+ 1 {M}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 155,
+    "orb": "+ 1 {M} 1 {C}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 152,
+    "orb": "+ 1 {N} 1 {C}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 151,
+    "orb": "+ 1 {N} 1 {M}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 150,
+    "orb": "+ 1 {N} 1 {T}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "089",
+    "orb": "+ 1 {T}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "090",
+    "orb": "+ 1 {T}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "091",
+    "orb": "+ 1 {T}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 154,
+    "orb": "+ 1 {T} 1 {C}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 153,
+    "orb": "+ 1 {T} 1 {M}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 147,
+    "orb": "+ 2 {C}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 149,
+    "orb": "+ 2 {C}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 118,
+    "orb": "+ 2 {M}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 119,
+    "orb": "+ 2 {M}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "061",
+    "orb": "+ 2 {N}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "062",
+    "orb": "+ 2 {N}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "092",
+    "orb": "+ 2 {T}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "093",
+    "orb": "+ 2 {T}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 148,
+    "orb": "+ 3 {C}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 120,
+    "orb": "+ 3 {M}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 121,
+    "orb": "+ 3 {M}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "063",
+    "orb": "+ 3 {N}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "065",
+    "orb": "+ 3 {N}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "064",
+    "orb": "+ 4 {N}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 134,
+    "orb": "+{C}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 107,
+    "orb": "+{M}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 140,
+    "orb": "+{M}{C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 137,
+    "orb": "+{N}{C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 136,
+    "orb": "+{N}{M}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "053",
+    "orb": "+{N}{N}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 135,
+    "orb": "+{N}{T}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "080",
+    "orb": "+{T}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 139,
+    "orb": "+{T}{C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 138,
+    "orb": "+{T}{M}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": 102,
+    "orb": "+1 {C}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "069",
+    "orb": "+1 {C}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "070",
+    "orb": "+1 {C}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "054",
+    "orb": "+1 {M}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "062",
+    "orb": "+1 {T}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "040",
+    "orb": "+1 {T}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "041",
+    "orb": "+1 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 208,
+    "orb": "+1{M}2{C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 203,
+    "orb": "+1{N}2{T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 207,
+    "orb": "+1{T}2{C}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "082",
+    "orb": "+2 {M}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "055",
+    "orb": "+2 {M}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "028",
+    "orb": "+2 {N}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "065",
+    "orb": "+2 {T}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "042",
+    "orb": "+2 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 205,
+    "orb": "+2{N}1{C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 204,
+    "orb": "+2{N}1{M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 206,
+    "orb": "+2{T}1{M}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 105,
+    "orb": "+3 {C}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "085",
+    "orb": "+3 {M}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "056",
+    "orb": "+3 {M}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "042",
+    "orb": "+3 {N}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "045",
+    "orb": "+3 {N}"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "078",
+    "orb": "0 [M]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "042",
+    "orb": "0 [T]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "055",
+    "orb": "0 [T]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "063",
+    "orb": "1 [M]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "064",
+    "orb": "1 [M]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "065",
+    "orb": "1 [M]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "066",
+    "orb": "1 [M]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "067",
+    "orb": "1 [M]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "068",
+    "orb": "1 [M]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "069",
+    "orb": "1 [M]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "072",
+    "orb": "1 [M]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "073",
+    "orb": "1 [M]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "076",
+    "orb": "1 [M]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "077",
+    "orb": "1 [M]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "080",
+    "orb": "1 [M]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "082",
+    "orb": "1 [M]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "083",
+    "orb": "1 [M]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "085",
+    "orb": "1 [M]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "036",
+    "orb": "1 [T]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "037",
+    "orb": "1 [T]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "038",
+    "orb": "1 [T]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "039",
+    "orb": "1 [T]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "040",
+    "orb": "1 [T]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "041",
+    "orb": "1 [T]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "043",
+    "orb": "1 [T]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "044",
+    "orb": "1 [T]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "045",
+    "orb": "1 [T]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "047",
+    "orb": "1 [T]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "049",
+    "orb": "1 [T]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "050",
+    "orb": "1 [T]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "051",
+    "orb": "1 [T]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "052",
+    "orb": "1 [T]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "053",
+    "orb": "1 [T]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "054",
+    "orb": "1 [T]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "056",
+    "orb": "1 [T]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "057",
+    "orb": "1 [T]"
+  },
+  {
+    "setID": "COR",
+    "cardID": 122,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 123,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 124,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 125,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 126,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 128,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 129,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 130,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 131,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 133,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 134,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 135,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 139,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 140,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 143,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "009",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "070",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "071",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "072",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "073",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "075",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "077",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "078",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "081",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "082",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "005",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "083",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "084",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "085",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "086",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "087",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "088",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "091",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "092",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "093",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "098",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "099",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": 100,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": 101,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "086",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "087",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "088",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "091",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "092",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "098",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "099",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 101,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 102,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 103,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 104,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "004",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "057",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "058",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "065",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "067",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "068",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "069",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "070",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "071",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "072",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "073",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "074",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "075",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "079",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "080",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "081",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "082",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "098",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "099",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 100,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 101,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 102,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 104,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 105,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 107,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 109,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 112,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 113,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 114,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 118,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 119,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 120,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 121,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 108,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 109,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 110,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 111,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 113,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 114,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 115,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 117,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 122,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 126,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 127,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 130,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 131,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 132,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 133,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 158,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 159,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 160,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 161,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 163,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 164,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 165,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 166,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 170,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 172,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 178,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 180,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 181,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 182,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 188,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 189,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "089",
+    "orb": "1 {M]"
+  },
+  {
+    "setID": "COR",
+    "cardID": "008",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "094",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "095",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "096",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "097",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 100,
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 102,
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 103,
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 104,
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 106,
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 112,
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 113,
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 114,
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 115,
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 116,
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "007",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "056",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "057",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "060",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "061",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "066",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "067",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "068",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "063",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "065",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "067",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "069",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "072",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "073",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "074",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "075",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "080",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "081",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "004",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "066",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "067",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "069",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "075",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "076",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "077",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "079",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "083",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "084",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "044",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "047",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "049",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "050",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "051",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "052",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "055",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "056",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "057",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "058",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "059",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "060",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "065",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "067",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "068",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "073",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "074",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "075",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "077",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "078",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "079",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "081",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "083",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "085",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "086",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "087",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "089",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "094",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "095",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "096",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "097",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "081",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "082",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "083",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "084",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "085",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "086",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "087",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "090",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "093",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "097",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "098",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "099",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 100,
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 101,
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 104,
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 125,
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 126,
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 127,
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 128,
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 129,
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 132,
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 133,
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 134,
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 135,
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 137,
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 138,
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 141,
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 146,
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 147,
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 153,
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 155,
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 156,
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": 108,
+    "orb": "1 {M} 1 {C}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 116,
+    "orb": "1 {M} 1 {C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 128,
+    "orb": "1 {M} 1 {C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 134,
+    "orb": "1 {M} 1 {C}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 138,
+    "orb": "1 {M} 1 {C}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "009",
+    "orb": "1 {M} 2 {C}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "011",
+    "orb": "1 {M} 2 {C}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 117,
+    "orb": "1 {M} 2 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "008",
+    "orb": "1 {M} 2 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "017",
+    "orb": "1 {M} 2 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 201,
+    "orb": "1 {M} 2 {C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "007",
+    "orb": "1 {M} 3 {C}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "038",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "040",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "041",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "042",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "043",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "044",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "049",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "050",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "051",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "052",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "057",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "058",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "059",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "060",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "003",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "028",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "030",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "031",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "033",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "034",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "035",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "036",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "038",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "039",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "040",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "002",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "023",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "024",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "025",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "026",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "027",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "028",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "032",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "033",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "037",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "038",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "039",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "040",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "041",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "026",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "027",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "028",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "029",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "030",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "036",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "038",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "043",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "044",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "015",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "016",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "017",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "020",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "025",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "027",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "028",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "029",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "031",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "038",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "039",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "040",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "023",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "024",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "025",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "026",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "027",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "029",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "031",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "037",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "039",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "042",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "043",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "044",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "045",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "046",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "076",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "027",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "028",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "029",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "030",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "031",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "032",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "034",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "035",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "036",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "037",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "038",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "044",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "045",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "048",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "049",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "050",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "051",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "059",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "060",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "062",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "063",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "064",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "067",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "068",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "075",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "076",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "077",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "078",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "081",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "083",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "084",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "087",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "088",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "089",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "090",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "091",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "008",
+    "orb": "1 {N} 1 {C}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 110,
+    "orb": "1 {N} 1 {C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 131,
+    "orb": "1 {N} 1 {C}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 135,
+    "orb": "1 {N} 1 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "023",
+    "orb": "1 {N} 1 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 196,
+    "orb": "1 {N} 1 {C}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 108,
+    "orb": "1 {N} 1 {M}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 109,
+    "orb": "1 {N} 1 {M}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 124,
+    "orb": "1 {N} 1 {M}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 130,
+    "orb": "1 {N} 1 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "007",
+    "orb": "1 {N} 1 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 194,
+    "orb": "1 {N} 1 {M}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "006",
+    "orb": "1 {N} 1 {T}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "006",
+    "orb": "1 {N} 1 {T}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 106,
+    "orb": "1 {N} 1 {T}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 129,
+    "orb": "1 {N} 1 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 192,
+    "orb": "1 {N} 1 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "006",
+    "orb": "1 {N} 2 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "019",
+    "orb": "1 {N} 2 {C}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "007",
+    "orb": "1 {N} 2 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "022",
+    "orb": "1 {N} 2 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 193,
+    "orb": "1 {N} 2 {M}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "002",
+    "orb": "1 {N} 2 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "021",
+    "orb": "1 {N} 3 {T}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "066",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "067",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "068",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "069",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "070",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "075",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "076",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "079",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "080",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "083",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "084",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "085",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "086",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "087",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "088",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "005",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "042",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "043",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "044",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "047",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "048",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "049",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "050",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "051",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "053",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "043",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "044",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "045",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "046",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "047",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "049",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "050",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "052",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "053",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "054",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "055",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "056",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "057",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "058",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "059",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "003",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "046",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "047",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "050",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "051",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "052",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "054",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "056",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "057",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "058",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "059",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "061",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "062",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "063",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "029",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "030",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "031",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "033",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "034",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "036",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "003",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "041",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "042",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "043",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "044",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "045",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "047",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "051",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "053",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "054",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "048",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "050",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "051",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "053",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "054",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "055",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "056",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "057",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "062",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "063",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "064",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "066",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "067",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "068",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "069",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "070",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "071",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "072",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "054",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "055",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "056",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "057",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "058",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "059",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "060",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "061",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "062",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "063",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "065",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "066",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "069",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "071",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "072",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "073",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "075",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "076",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "077",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "078",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "079",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "003",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "092",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "093",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "095",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "096",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "098",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "099",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 100,
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 101,
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 104,
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 105,
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 106,
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 111,
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 112,
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 113,
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 114,
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 115,
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 118,
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 119,
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 120,
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 121,
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 123,
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "081",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": 107,
+    "orb": "1 {T} 1 {C}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 114,
+    "orb": "1 {T} 1 {C}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 115,
+    "orb": "1 {T} 1 {C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "006",
+    "orb": "1 {T} 1 {C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 127,
+    "orb": "1 {T} 1 {C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 133,
+    "orb": "1 {T} 1 {C}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 137,
+    "orb": "1 {T} 1 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "016",
+    "orb": "1 {T} 1 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "025",
+    "orb": "1 {T} 1 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 200,
+    "orb": "1 {T} 1 {C}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": 106,
+    "orb": "1 {T} 1 {M}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "009",
+    "orb": "1 {T} 1 {M}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 112,
+    "orb": "1 {T} 1 {M}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "005",
+    "orb": "1 {T} 1 {M}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 126,
+    "orb": "1 {T} 1 {M}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 132,
+    "orb": "1 {T} 1 {M}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 136,
+    "orb": "1 {T} 1 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "010",
+    "orb": "1 {T} 1 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 198,
+    "orb": "1 {T} 1 {M}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "010",
+    "orb": "1 {T} 2 {C}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 113,
+    "orb": "1 {T} 2 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "012",
+    "orb": "1 {T} 2 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "018",
+    "orb": "1 {T} 2 {M}"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "090",
+    "orb": "1[C]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "091",
+    "orb": "1[C]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "093",
+    "orb": "1[C]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "094",
+    "orb": "1[C]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "095",
+    "orb": "1[C]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "097",
+    "orb": "1[C]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "098",
+    "orb": "1[C]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": 102,
+    "orb": "1[C]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": 103,
+    "orb": "1[C]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": 104,
+    "orb": "1[C]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": 108,
+    "orb": "1[C]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": 110,
+    "orb": "1[C]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "009",
+    "orb": "1[N]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "010",
+    "orb": "1[N]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "012",
+    "orb": "1[N]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "015",
+    "orb": "1[N]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "017",
+    "orb": "1[N]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "023",
+    "orb": "1[N]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "024",
+    "orb": "1[N]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "025",
+    "orb": "1[N]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "026",
+    "orb": "1[N]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "028",
+    "orb": "1[N]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "020",
+    "orb": "10[N]"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "006",
+    "orb": "1L 1M"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "017",
+    "orb": "1L 1N"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "007",
+    "orb": "1L 2M"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "018",
+    "orb": "1L 2N"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "028",
+    "orb": "1L 2T"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "030",
+    "orb": "1L 2T"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "002",
+    "orb": "1L 3M"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "029",
+    "orb": "1L 3T"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "004",
+    "orb": "1L 5M"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "014",
+    "orb": "1L 5N"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "022",
+    "orb": "1T"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "062",
+    "orb": "2 [M]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "071",
+    "orb": "2 [M]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "074",
+    "orb": "2 [M]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "075",
+    "orb": "2 [M]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "079",
+    "orb": "2 [M]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "081",
+    "orb": "2 [M]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "084",
+    "orb": "2 [M]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "035",
+    "orb": "2 [T]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "046",
+    "orb": "2 [T]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "048",
+    "orb": "2 [T]"
+  },
+  {
+    "setID": "COR",
+    "cardID": "010",
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 127,
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 136,
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 137,
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 141,
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "010",
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "074",
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "076",
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "079",
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "080",
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "089",
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "090",
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "094",
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "096",
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "089",
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "090",
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "093",
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "096",
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "059",
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "061",
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "066",
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "005",
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "077",
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 103,
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 106,
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 108,
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 110,
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 111,
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 112,
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 116,
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 118,
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 119,
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 121,
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 123,
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 128,
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 129,
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "005",
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 162,
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 167,
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 168,
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 169,
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 171,
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 175,
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 179,
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 183,
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 184,
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 186,
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 190,
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "098",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "099",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 101,
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 105,
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 108,
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 109,
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 110,
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "008",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "058",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "063",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "064",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "065",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "004",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "064",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "066",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "068",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "076",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "077",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "079",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "068",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "070",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "071",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "072",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "078",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "081",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "082",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "003",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "045",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "046",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "053",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "004",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "061",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "066",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "080",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "082",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "084",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "088",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "090",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "091",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "091",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "092",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "094",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 102,
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 105,
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "004",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 130,
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 131,
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 136,
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 139,
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 140,
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 143,
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 148,
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 149,
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 150,
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 154,
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 157,
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "011",
+    "orb": "2 {M} 2 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 202,
+    "orb": "2 {M} 2 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "026",
+    "orb": "2 {M} 3 {C}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "005",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "039",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "045",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "046",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "053",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "056",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "004",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "029",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "032",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "037",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "029",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "031",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "035",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "031",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "033",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "035",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "042",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "021",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "024",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "030",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "032",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "033",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "037",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "030",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "032",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "035",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "036",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "038",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "041",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "047",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "033",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "039",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "046",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "052",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "002",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "061",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "065",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "069",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "070",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "071",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "072",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "079",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "082",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "004",
+    "orb": "2 {N} 1 {C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 125,
+    "orb": "2 {N} 1 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "020",
+    "orb": "2 {N} 1 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 195,
+    "orb": "2 {N} 1 {C}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "007",
+    "orb": "2 {N} 1 {M}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "007",
+    "orb": "2 {N} 1 {M}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": 103,
+    "orb": "2 {N} 1 {T}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 107,
+    "orb": "2 {N} 1 {T}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 123,
+    "orb": "2 {N} 1 {T}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "006",
+    "orb": "2 {N} 1 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 191,
+    "orb": "2 {N} 1 {T}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "003",
+    "orb": "2 {N} 2 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "014",
+    "orb": "2 {N} 2 {T}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "007",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "071",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "072",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "073",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "074",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "077",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "082",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "006",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "045",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "046",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "052",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "054",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "003",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "048",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "051",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "060",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "061",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "048",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "049",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "053",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "055",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "064",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "002",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "035",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "037",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "038",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "039",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "046",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "048",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "049",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "052",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "049",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "052",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "058",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "059",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "060",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "061",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "065",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "003",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "064",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "067",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "094",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "097",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 102,
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 103,
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 107,
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 108,
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 109,
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 116,
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 122,
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "008",
+    "orb": "2 {T} 1 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "015",
+    "orb": "2 {T} 1 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 199,
+    "orb": "2 {T} 1 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "024",
+    "orb": "2 {T} 1 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 197,
+    "orb": "2 {T} 1 {M}"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "092",
+    "orb": "2[C]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "096",
+    "orb": "2[C]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": 105,
+    "orb": "2[C]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": 106,
+    "orb": "2[C]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": 113,
+    "orb": "2[C]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "011",
+    "orb": "2[N]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "013",
+    "orb": "2[N]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "014",
+    "orb": "2[N]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "021",
+    "orb": "2[N]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "022",
+    "orb": "2[N]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "027",
+    "orb": "2[N]"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "009",
+    "orb": "2L 3M"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "024",
+    "orb": "2L 4T"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "031",
+    "orb": "2L 5T"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "015",
+    "orb": "2N"
+  },
+  {
+    "setID": "COR",
+    "cardID": 142,
+    "orb": "3 {C}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 144,
+    "orb": "3 {C}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "097",
+    "orb": "3 {C}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "094",
+    "orb": "3 {C}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "095",
+    "orb": "3 {C}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "097",
+    "orb": "3 {C}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 100,
+    "orb": "3 {C}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "063",
+    "orb": "3 {C}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "076",
+    "orb": "3 {C}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "078",
+    "orb": "3 {C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 115,
+    "orb": "3 {C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 116,
+    "orb": "3 {C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 122,
+    "orb": "3 {C}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "005",
+    "orb": "3 {C}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 120,
+    "orb": "3 {C}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 124,
+    "orb": "3 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 173,
+    "orb": "3 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 176,
+    "orb": "3 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 185,
+    "orb": "3 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 187,
+    "orb": "3 {C}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "009",
+    "orb": "3 {M}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 107,
+    "orb": "3 {M}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "059",
+    "orb": "3 {M}"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "062",
+    "orb": "3 {M}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "070",
+    "orb": "3 {M}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "071",
+    "orb": "3 {M}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "078",
+    "orb": "3 {M}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "073",
+    "orb": "3 {M}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "080",
+    "orb": "3 {M}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "043",
+    "orb": "3 {M}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "048",
+    "orb": "3 {M}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "062",
+    "orb": "3 {M}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "063",
+    "orb": "3 {M}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "064",
+    "orb": "3 {M}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "092",
+    "orb": "3 {M}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "004",
+    "orb": "3 {M}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "088",
+    "orb": "3 {M}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "095",
+    "orb": "3 {M}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 103,
+    "orb": "3 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 142,
+    "orb": "3 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 144,
+    "orb": "3 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 151,
+    "orb": "3 {M}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "047",
+    "orb": "3 {N}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "054",
+    "orb": "3 {N}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "034",
+    "orb": "3 {N}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "036",
+    "orb": "3 {N}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "002",
+    "orb": "3 {N}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "032",
+    "orb": "3 {N}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "034",
+    "orb": "3 {N}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "037",
+    "orb": "3 {N}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "039",
+    "orb": "3 {N}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "001",
+    "orb": "3 {N}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "018",
+    "orb": "3 {N}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "023",
+    "orb": "3 {N}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "026",
+    "orb": "3 {N}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "002",
+    "orb": "3 {N}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "034",
+    "orb": "3 {N}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "035",
+    "orb": "3 {N}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "028",
+    "orb": "3 {N}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "033",
+    "orb": "3 {N}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "034",
+    "orb": "3 {N}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "040",
+    "orb": "3 {N}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "002",
+    "orb": "3 {N}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "040",
+    "orb": "3 {N}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "041",
+    "orb": "3 {N}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "047",
+    "orb": "3 {N}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "066",
+    "orb": "3 {N}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "073",
+    "orb": "3 {N}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "080",
+    "orb": "3 {N}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "085",
+    "orb": "3 {N}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "086",
+    "orb": "3 {N}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "013",
+    "orb": "3 {N} 1 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "009",
+    "orb": "3 {N} 1 {T}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": 105,
+    "orb": "3 {N} 2 {C}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 111,
+    "orb": "3 {N} 2 {C}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": 104,
+    "orb": "3 {N} 3 {M}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "006",
+    "orb": "3 {T}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "060",
+    "orb": "3 {T}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "050",
+    "orb": "3 {T}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "068",
+    "orb": "3 {T}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "074",
+    "orb": "3 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 110,
+    "orb": "3 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 124,
+    "orb": "3 {T}"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "099",
+    "orb": "3[C]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": 107,
+    "orb": "3[C]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": 111,
+    "orb": "3[C]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": 112,
+    "orb": "3[C]"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "012",
+    "orb": "3L 1N"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "003",
+    "orb": "3L 3M"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "025",
+    "orb": "3L 4T"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "021",
+    "orb": "3L 7N"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "013",
+    "orb": "3N"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "023",
+    "orb": "3N 3T"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "005",
+    "orb": "4 {C}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "062",
+    "orb": "4 {C}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 117,
+    "orb": "4 {C}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 125,
+    "orb": "4 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 174,
+    "orb": "4 {C}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "074",
+    "orb": "4 {M}"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "093",
+    "orb": "4 {M}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "096",
+    "orb": "4 {M}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "004",
+    "orb": "4 {N}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "048",
+    "orb": "4 {N}"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "030",
+    "orb": "4 {N}"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "041",
+    "orb": "4 {N}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "019",
+    "orb": "4 {N}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "022",
+    "orb": "4 {N}"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "036",
+    "orb": "4 {N}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "043",
+    "orb": "4 {N}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "074",
+    "orb": "4 {N}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "032",
+    "orb": "4 {T}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "070",
+    "orb": "4 {T}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 117,
+    "orb": "4 {T}"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "089",
+    "orb": "4[C]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": 109,
+    "orb": "4[C]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "016",
+    "orb": "4[N]"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "018",
+    "orb": "4[N]"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "008",
+    "orb": "4L 3M"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "020",
+    "orb": "4L 4N"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "010",
+    "orb": "4L 6M"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "026",
+    "orb": "4L 6T"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "019",
+    "orb": "4N"
+  },
+  {
+    "setID": "COR",
+    "cardID": "011",
+    "orb": "5 {C}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 132,
+    "orb": "5 {C}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 138,
+    "orb": "5 {C}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "060",
+    "orb": "5 {C}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "064",
+    "orb": "5 {C}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 177,
+    "orb": "5 {C}"
+  },
+  {
+    "setID": "COR",
+    "cardID": 111,
+    "orb": "5 {M}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 106,
+    "orb": "5 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 145,
+    "orb": "5 {M}"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 152,
+    "orb": "5 {M}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "055",
+    "orb": "5 {N}"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "027",
+    "orb": "5 {N}"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "042",
+    "orb": "5 {N}"
+  },
+  {
+    "setID": "COR",
+    "cardID": "078",
+    "orb": "5 {T}"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "001",
+    "orb": "5L 3M"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "032",
+    "orb": "5L 5T"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "040",
+    "orb": "6 {N}"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "005",
+    "orb": "6L 4M"
+  },
+  {
+    "setID": "ELM",
+    "cardID": "016",
+    "orb": "7L 3N"
+  }
+]

@@ -1,0 +1,577 @@
+[
+  {
+    "setID": "COR",
+    "cardID": "034",
+    "tier": "I"
+  },
+  {
+    "setID": "COR",
+    "cardID": "035",
+    "tier": "I"
+  },
+  {
+    "setID": "COR",
+    "cardID": "036",
+    "tier": "II"
+  },
+  {
+    "setID": "COR",
+    "cardID": "037",
+    "tier": "III"
+  },
+  {
+    "setID": "COR",
+    "cardID": 150,
+    "tier": "II"
+  },
+  {
+    "setID": "COR",
+    "cardID": 151,
+    "tier": "II"
+  },
+  {
+    "setID": "COR",
+    "cardID": 152,
+    "tier": "II"
+  },
+  {
+    "setID": "COR",
+    "cardID": 153,
+    "tier": "II"
+  },
+  {
+    "setID": "COR",
+    "cardID": 154,
+    "tier": "II"
+  },
+  {
+    "setID": "COR",
+    "cardID": 155,
+    "tier": "II"
+  },
+  {
+    "setID": "COR",
+    "cardID": "061",
+    "tier": "I"
+  },
+  {
+    "setID": "COR",
+    "cardID": "062",
+    "tier": "II"
+  },
+  {
+    "setID": "COR",
+    "cardID": "063",
+    "tier": "II"
+  },
+  {
+    "setID": "COR",
+    "cardID": "064",
+    "tier": "III"
+  },
+  {
+    "setID": "COR",
+    "cardID": "065",
+    "tier": "III"
+  },
+  {
+    "setID": "COR",
+    "cardID": "089",
+    "tier": "I"
+  },
+  {
+    "setID": "COR",
+    "cardID": "090",
+    "tier": "II"
+  },
+  {
+    "setID": "COR",
+    "cardID": "091",
+    "tier": "II"
+  },
+  {
+    "setID": "COR",
+    "cardID": "092",
+    "tier": "III"
+  },
+  {
+    "setID": "COR",
+    "cardID": "093",
+    "tier": "III"
+  },
+  {
+    "setID": "COR",
+    "cardID": "T06",
+    "tier": "I"
+  },
+  {
+    "setID": "COR",
+    "cardID": 117,
+    "tier": "I"
+  },
+  {
+    "setID": "COR",
+    "cardID": 118,
+    "tier": "II"
+  },
+  {
+    "setID": "COR",
+    "cardID": 119,
+    "tier": "II"
+  },
+  {
+    "setID": "COR",
+    "cardID": 120,
+    "tier": "III"
+  },
+  {
+    "setID": "COR",
+    "cardID": 121,
+    "tier": "III"
+  },
+  {
+    "setID": "COR",
+    "cardID": 145,
+    "tier": "I"
+  },
+  {
+    "setID": "COR",
+    "cardID": 146,
+    "tier": "II"
+  },
+  {
+    "setID": "COR",
+    "cardID": 147,
+    "tier": "II"
+  },
+  {
+    "setID": "COR",
+    "cardID": 148,
+    "tier": "III"
+  },
+  {
+    "setID": "COR",
+    "cardID": 149,
+    "tier": "III"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "029",
+    "tier": "I"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "030",
+    "tier": "I"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "031",
+    "tier": "II"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "032",
+    "tier": "II"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "033",
+    "tier": "III"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "034",
+    "tier": "III"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "058",
+    "tier": "I"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "059",
+    "tier": "I"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "060",
+    "tier": "II"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "061",
+    "tier": "III"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "086",
+    "tier": "I"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "087",
+    "tier": "II"
+  },
+  {
+    "setID": "HOE",
+    "cardID": "088",
+    "tier": "III"
+  },
+  {
+    "setID": "HOE",
+    "cardID": 114,
+    "tier": "I"
+  },
+  {
+    "setID": "HOE",
+    "cardID": 115,
+    "tier": "II"
+  },
+  {
+    "setID": "HOE",
+    "cardID": 116,
+    "tier": "III"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "024",
+    "tier": "I"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "025",
+    "tier": "II"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "026",
+    "tier": "III"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "027",
+    "tier": "III"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "084",
+    "tier": "I"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "085",
+    "tier": "I"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "041",
+    "tier": "I"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "055",
+    "tier": "I"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "069",
+    "tier": "I"
+  },
+  {
+    "setID": "WHV",
+    "cardID": "083",
+    "tier": "I"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "019",
+    "tier": "I"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "020",
+    "tier": "I"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "021",
+    "tier": "II"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "022",
+    "tier": "III"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "042",
+    "tier": "II"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "062",
+    "tier": "II"
+  },
+  {
+    "setID": "DEP",
+    "cardID": "082",
+    "tier": "II"
+  },
+  {
+    "setID": "DEP",
+    "cardID": 102,
+    "tier": "II"
+  },
+  {
+    "setID": "DEP",
+    "cardID": 109,
+    "tier": "I"
+  },
+  {
+    "setID": "DEP",
+    "cardID": 110,
+    "tier": "I"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "022",
+    "tier": "I"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "023",
+    "tier": "II"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "024",
+    "tier": "II"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "025",
+    "tier": "III"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "T02",
+    "tier": "I"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "045",
+    "tier": "III"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "065",
+    "tier": "III"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "T05",
+    "tier": "I"
+  },
+  {
+    "setID": "QIL",
+    "cardID": "085",
+    "tier": "III"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 105,
+    "tier": "III"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 119,
+    "tier": "I"
+  },
+  {
+    "setID": "QIL",
+    "cardID": 120,
+    "tier": "I"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "013",
+    "tier": "I"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "014",
+    "tier": "III"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "028",
+    "tier": "I"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "040",
+    "tier": "I"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "041",
+    "tier": "II"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "042",
+    "tier": "III"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "054",
+    "tier": "I"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "055",
+    "tier": "II"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "056",
+    "tier": "III"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "069",
+    "tier": "I"
+  },
+  {
+    "setID": "CLA",
+    "cardID": "070",
+    "tier": "II"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "025",
+    "tier": "I"
+  },
+  {
+    "setID": "KGD",
+    "cardID": "026",
+    "tier": "III"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "021",
+    "tier": "I"
+  },
+  {
+    "setID": "NIN",
+    "cardID": "022",
+    "tier": "II"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 135,
+    "tier": "II"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 136,
+    "tier": "II"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 137,
+    "tier": "II"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 138,
+    "tier": "II"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 139,
+    "tier": "II"
+  },
+  {
+    "setID": "NIN",
+    "cardID": 140,
+    "tier": "II"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "025",
+    "tier": "I"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "026",
+    "tier": "II"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "053",
+    "tier": "I"
+  },
+  {
+    "setID": "JGK",
+    "cardID": "080",
+    "tier": "I"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 107,
+    "tier": "I"
+  },
+  {
+    "setID": "JGK",
+    "cardID": 134,
+    "tier": "I"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "056",
+    "tier": "I"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "057",
+    "tier": "II"
+  },
+  {
+    "setID": "FAL",
+    "cardID": "058",
+    "tier": "III"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 203,
+    "tier": "III"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 204,
+    "tier": "III"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 205,
+    "tier": "III"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 206,
+    "tier": "III"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 207,
+    "tier": "III"
+  },
+  {
+    "setID": "FAL",
+    "cardID": 208,
+    "tier": "III"
+  }
+]
