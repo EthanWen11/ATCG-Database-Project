@@ -29,8 +29,7 @@ const CardDetails = () => {
         {card ? (
           <div className="mt-10 text-white flex justify-center">
             <div className="w-1/2 pr-8">
-              <img src={`/images/${card.imageID}.png`} alt={card.cardName} style={{ maxWidth: '360px' }}/>
-            </div>
+            <img src={card.imageID ? `/images/${card.imageID}.png` : '/cardEx.png'} alt={card.cardName} style={{ maxWidth: '360px' }}/>            </div>
             <div className="w-1/2">
               <h2 className="text-4xl mb-6">Card Name:  {card.cardName}</h2>
               <p className="text-2xl mb-4">Card ID:  {card.cardID}</p>
