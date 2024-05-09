@@ -1,9 +1,11 @@
-import React from 'react'
-import { useSearchParams } from 'react-router-dom'
+import React, { useState, useEffect } from 'react'
+import { useNavigate, useSearchParams } from 'react-router-dom'
 
 const Search = () => {
     const [searchParams] = useSearchParams();
+    const navigate = useNavigate()
     const query = Array.from(searchParams.values()).toString();
+    const queryString = searchParams.toString()
     // use searchParams.get() to get a specific search parameter values and pass it to get req
     
     const textStyle = {
@@ -11,10 +13,46 @@ const Search = () => {
         marginTop: '100px', 
     };
 
+    const [cards, setCards] = useState(null)
+
+    const getCards = async () => {
+        const res = await fetch(`http://localhost:3001/search?${searchParams.toString()}`)
+        // const data = res.json()
+        // setCards(data)
+    }
+
+    useEffect(() => {
+        const fetchData = async () => {
+            try {
+                if(searchParams.get("q"))
+                {
+                    await getCards()
+                }
+                else if (searchParams.size >= 1){
+                    await getCards()
+                }
+                else
+                {
+                    // if somehow we route to a page with no search params, we return a default value
+                    searchParams.set("order", "id")
+                    navigate(`/search?${searchParams.toString()}`);
+                }
+            }
+            catch(error)
+            {
+                console.error('Error occured on data request', error)
+            }
+        }
+        
+        fetchData();
+    }, [[searchParams]])
+
+
     // atm only displays the search query
     return (
         <div className="min-h-screen bg-gradient-to-b from-gray-600 to-indigo-900 flex flex-col items-center">
             <span style={textStyle}>{query}</span>
+            <span style={textStyle}>{queryString}</span>
         </div>
     )
 }

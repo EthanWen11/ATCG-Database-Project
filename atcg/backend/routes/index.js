@@ -1,6 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const CardModel = require('../models/cardModel');
+const subTypeModel = require('../models/subtypeModel');
 
 router.get('/cards', (req, res) => {
     CardModel.getAllCards((data) => {
@@ -19,6 +20,11 @@ router.get('/cards/:id', (req, res) => {
     });
 });
 
+router.get('/search', (req, res) => {
+    // testing responses, currently just logging query request
+    console.log(req.query)
+})
+
 router.post('/cards', (req, res) => {
     const newCard = req.body;
     console.log(newCard);  // Log the incoming card data
@@ -28,9 +34,16 @@ router.post('/cards', (req, res) => {
             console.error(err);  // Log any SQL errors
             res.status(500).send('Error creating the card: ' + err.message);
         } else {
-            res.status(201).send(`Card created successfully with ID: ${result}`);
+            res.status(201).send(`Card created successsfully with ID: ${result}`);
         }
     });
 });
+
+router.get('/subtypes', (req, res) => {
+    subTypeModel.getAllSubtypes((data) => {
+        res.json(data);
+    });
+});
+
 
 module.exports = router;

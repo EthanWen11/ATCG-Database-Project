@@ -1,4 +1,4 @@
-drop database atcg;
+drop database if exists atcg;
 create database atcg;
 use atcg;
 

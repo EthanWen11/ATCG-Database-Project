@@ -15,6 +15,7 @@ const CardModel = {
         });
     },
 
+
     createCard: function(cardData, imageData, callback) {
         pool.getConnection(function(err, connection) {
             if (err) throw err; // not connected!
