@@ -15,6 +15,17 @@ const CardModel = {
         });
     },
 
+    getRandomCard: function (callback) {
+        // Fetch a random card from the database
+        pool.query('SELECT * FROM Card ORDER BY RAND() LIMIT 1', (error, results, fields) => {
+            if (error) {
+                throw error;
+            }
+            // Pass the random card data to the callback function
+            callback(results[0]);
+        });
+    },
+
 
     getCardsByParams: function (order = "id",
         cardName = undefined,
