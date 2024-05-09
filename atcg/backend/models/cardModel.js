@@ -15,6 +15,44 @@ const CardModel = {
         });
     },
 
+    getCardsByQuery: function (order = "id", query = undefined, callback) {
+        let q = 'SELECT * FROM Card\n'
+        let values = []
+
+        if (query) {
+            q += 'LEFT JOIN CardSet USING(setID)\n';
+            q += 'LEFT JOIN Subtype USING(cardID, setID)\n';
+            q += 'LEFT JOIN Keyword USING(cardID, setID)\n';
+            q += "WHERE 1 = 1\n";
+            q += 'AND cardName like ?\n';
+            q += 'OR cardID like ?\n';
+            q += 'OR setID like ?\n';
+            q += 'OR setName like ?\n';
+            q += 'OR cardText like ?\n';
+            q += 'OR designer like ?\n';
+            q += 'OR subtype like ?\n';
+            q += 'OR keyword like ?\n';
+
+            for (let i = 0; i < 8; i++) {
+                values.push('%' + query + '%');
+            }
+        }
+
+        if (order === "id") {
+            q += 'ORDER BY cardID, setID\n'
+        }
+        else if (order === "set") {
+            q += 'ORDER BY setID, cardID\n'
+        }
+        else if (order === "name") {
+            q += 'ORDER BY cardName, cardID\n'
+        }
+        console.log(q)
+        pool.query(q, values, function (error, results, fields) {
+            if (error) throw error;
+            callback(results);
+        });
+    },
 
     getCardsByParams: function (order = "id",
         cardName = undefined,

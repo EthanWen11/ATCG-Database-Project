@@ -28,7 +28,7 @@ const Search = () => {
         const fetchData = async () => {
             try {
                 if (searchParams.get("q")) {
-                    const res = await fetch('http://localhost:3001/cards');
+                    const res = await fetch('http://localhost:3001/search?' + searchParams.toString(), { method: 'get', });
                     setCards(await res.json())
                 }
                 else if (searchParams.size >= 1) {

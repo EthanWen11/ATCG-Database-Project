@@ -26,34 +26,47 @@ router.get('/search', (req, res) => {
         let str_array = str.split(" ")
         return str_array;
     }
-    // testing responses, currently just logging query request
-    // console.log(req.query.order)
-    const type = req.query.type;
     const order = req.query.order;
-    let cardName = req.query.cardName;
-    let setID = req.query.setID;
-    let color = req.query.color;
-    const health = req.query.health;
-    const attack = req.query.attack;
-    const cost = req.query.cost;
-    let subtype = req.query.subtype;
-    console.log(subtype);
-    let keywords = req.query.keywords;
+    if (req.query.q) {
+        const q = req.query.q;
+        CardModel.getCardsByQuery(order, q, (data) => {
+            if (data) {
+                res.json(data);
+            }
+            else {
+                console.log("did not go down");
+            }
+        });
+    }
+    else {
+        // testing responses, currently just logging query request
+        // console.log(req.query.order)
+        const type = req.query.type;
+        let cardName = req.query.cardName;
+        let setID = req.query.setID;
+        let color = req.query.color;
+        const health = req.query.health;
+        const attack = req.query.attack;
+        const cost = req.query.cost;
+        let subtype = req.query.subtype;
+        console.log(subtype);
+        let keywords = req.query.keywords;
 
-    // if (cardName) cardName = convert(cardName);
-    if (color) color = convert(color);
-    if (setID) setID = convert(setID);
-    if (subtype) subtype = convert(subtype);
-    if (keywords) keywords = convert(setID);
+        // if (cardName) cardName = convert(cardName);
+        if (color) color = convert(color);
+        if (setID) setID = convert(setID);
+        if (subtype) subtype = convert(subtype);
+        if (keywords) keywords = convert(setID);
 
-    CardModel.getCardsByParams(order, cardName, setID, type, color, health, attack, cost, subtype, keywords, (data) => {
-        if (data) {
-            res.json(data);
-        }
-        else {
-            console.log("did not go down");
-        }
-    });
+        CardModel.getCardsByParams(order, cardName, setID, type, color, health, attack, cost, subtype, keywords, (data) => {
+            if (data) {
+                res.json(data);
+            }
+            else {
+                res.status(404).send('Card not found');
+            }
+        });
+    }
 });
 
 router.post('/cards', (req, res) => {
