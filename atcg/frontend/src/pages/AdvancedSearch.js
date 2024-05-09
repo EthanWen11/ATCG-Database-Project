@@ -182,8 +182,8 @@ const AdvancedSearch = () => {
               <span className="shape-diamond bg-blue-500" style={diamondStyle}></span>
             </label>
             <label className="inline-flex items-center">
-              <input type="checkbox" value="cbd" onChange={handleRarityChange} />
-              <span className="ml-3 text-white">CBD</span>
+              <input type="checkbox" value="jgk" onChange={handleRarityChange} />
+              <span className="ml-3 text-white">JGK</span>
               <span className="shape-diamond bg-green-500" style={diamondStyle}></span>
             </label>
             <label className="inline-flex items-center">
