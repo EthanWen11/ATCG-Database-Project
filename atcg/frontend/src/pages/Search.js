@@ -58,8 +58,8 @@ const Search = () => {
         fetchData();
     }, [searchParams, navigate]);
 
-    const handleMouseEnter = (cardId) => {
-        setHoveredCardId(cardId);
+    const handleMouseEnter = (cardId, setId) => {
+        setHoveredCardId(`${cardId}-${setId}`);
     };
 
     const handleMouseLeave = () => {
@@ -73,7 +73,7 @@ const Search = () => {
                 <div className="cards-container" style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center' }}>
                     {cards.map((card) => (
                         <a key={card.cardID} href={`/card/${card.setID}/${card.cardID}`} className="card-link">
-                            <div className="card-hover" style={{ ...cardHoverStyle, ...(hoveredCardId === card.cardID && cardHoverStyleHover) }} onMouseEnter={() => handleMouseEnter(card.cardID)} onMouseLeave={handleMouseLeave}>
+                            <div className="card-hover" style={{ ...cardHoverStyle, ...(hoveredCardId === `${card.cardID}-${card.setID}` && cardHoverStyleHover) }} onMouseEnter={() => handleMouseEnter(card.cardID, card.setID)} onMouseLeave={handleMouseLeave}>
                                 <div className="card" style={cardStyle}>
                                     <img src={card.imageID ? `/images/${card.imageID}.png` : '/cardEx.png'} alt={card.cardName} style={{ maxWidth: '100px', marginRight: '20px' }} />
                                     <div className="card-details" style={{ color: 'white' }}>
