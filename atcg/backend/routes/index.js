@@ -9,9 +9,10 @@ router.get('/cards', (req, res) => {
     });
 });
 
-router.get('/cards/:id', (req, res) => {
+router.get('/cards/:set/:id', (req, res) => {
+    const setID = req.params.set;
     const cardID = req.params.id;
-    CardModel.getCardById(cardID, (data) => {
+    CardModel.getCardById(setID, cardID, (data) => {
         if (data) {
             res.json(data);
         } else {
@@ -21,9 +22,39 @@ router.get('/cards/:id', (req, res) => {
 });
 
 router.get('/search', (req, res) => {
+    function convert(str) {
+        let str_array = str.split(" ")
+        return str_array;
+    }
     // testing responses, currently just logging query request
-    console.log(req.query)
-})
+    // console.log(req.query.order)
+    const type = req.query.type;
+    const order = req.query.order;
+    let cardName = req.query.cardName;
+    let setID = req.query.setID;
+    let color = req.query.color;
+    const health = req.query.health;
+    const attack = req.query.attack;
+    const cost = req.query.cost;
+    let subtype = req.query.subtype;
+    console.log(subtype);
+    let keywords = req.query.keywords;
+
+    // if (cardName) cardName = convert(cardName);
+    if (color) color = convert(color);
+    if (setID) setID = convert(setID);
+    if (subtype) subtype = convert(subtype);
+    if (keywords) keywords = convert(setID);
+
+    CardModel.getCardsByParams(order, cardName, setID, type, color, health, attack, cost, subtype, keywords, (data) => {
+        if (data) {
+            res.json(data);
+        }
+        else {
+            console.log("did not go down");
+        }
+    });
+});
 
 router.post('/cards', (req, res) => {
     const newCard = req.body;
