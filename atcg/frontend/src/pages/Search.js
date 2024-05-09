@@ -26,10 +26,10 @@ const Search = () => {
             try {
                 if(searchParams.get("q"))
                 {
-                    await getCards()
+                    const test = await getCards()
                 }
                 else if (searchParams.size >= 1){
-                    await getCards()
+                    const test =  await getCards()
                 }
                 else
                 {

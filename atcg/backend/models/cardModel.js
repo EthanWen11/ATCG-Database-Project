@@ -15,6 +15,12 @@ const CardModel = {
         });
     },
 
+    getDeckID: function(callback) {
+        pool.query('SELECT * FROM Deck', function(error, results, fields) {
+            if (error) throw error;
+            callback(results);
+        });
+    },
 
     createCard: function(cardData, imageData, callback) {
         pool.getConnection(function(err, connection) {

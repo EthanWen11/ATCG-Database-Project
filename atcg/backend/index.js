@@ -1,10 +1,13 @@
 const express = require('express');
+const cors = require('cors');
 const http = require('http');
 
 // Import routes
 const indexRouter = require('./routes/index');
 
 const app = express();
+app.use(cors());
+
 const port = process.env.PORT || 3001;
 
 app.use(express.json());
