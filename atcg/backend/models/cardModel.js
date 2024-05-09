@@ -8,14 +8,26 @@ const CardModel = {
         });
     },
 
-    getCardById: function(cardID, callback) {
-        pool.query('SELECT * FROM Card WHERE cardID = ?', [cardID], function(error, results, fields) {
+    getCardById: function(setID, cardID, callback) {
+        pool.query('SELECT * FROM Card WHERE setID = ? AND cardID = ?', [setID, cardID], function(error, results, fields) {
             if (error) throw error;
             callback(results[0]);
         });
     },
 
-    getDeckID: function(callback) {
+    getCardsByParams: function(order="cardName", 
+        cardName=undefined, 
+        setID=undefined, 
+        type=undefined, 
+        health=undefined, 
+        attack=undefined, 
+        subtype=undefined, 
+        keywords=undefined, 
+        callback) {
+        if(order)
+        {
+            
+        }
         pool.query('SELECT * FROM Deck', function(error, results, fields) {
             if (error) throw error;
             callback(results);

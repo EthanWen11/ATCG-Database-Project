@@ -9,9 +9,10 @@ router.get('/cards', (req, res) => {
     });
 });
 
-router.get('/cards/:id', (req, res) => {
+router.get('/cards/:set/:id', (req, res) => {
+    const setID = req.params.set;
     const cardID = req.params.id;
-    CardModel.getCardById(cardID, (data) => {
+    CardModel.getCardById(setID, cardID, (data) => {
         if (data) {
             res.json(data);
         } else {
