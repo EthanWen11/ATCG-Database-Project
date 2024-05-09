@@ -15,7 +15,7 @@ function App() {
         <Route path="/search" element={<Search />} />
         <Route path="/advanced" element={<AdvancedSearch />} /> {/* Add this route */}
         <Route path="/test" element={<Test />}/>
-        <Route path="/card/:id" element={<CardDetails />} />
+        <Route path="/card/:set/:id" element={<CardDetails />} />
       </Routes>
     </div>
   );

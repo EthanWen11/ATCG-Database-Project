@@ -27,6 +27,17 @@ router.get('/cards/:set/:id', (req, res) => {
     });
 });
 
+router.get('/cards/random', (req, res) => {
+    // Fetch a random card from the database
+    CardModel.getRandomCard((data) => {
+        if (data) {
+            res.json(data);
+        } else {
+            res.status(404).send('Random card not found');
+        }
+    });
+});
+
 router.get('/search', (req, res) => {
     function convert(str) {
         let str_array = str.split(" ")
