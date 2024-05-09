@@ -15,6 +15,13 @@ const CardModel = {
         });
     },
 
+    getCardNames: function (callback) {
+        pool.query('SELECT cardName FROM Card', function (error, results, fields) {
+            if (error) throw error;
+            callback(results);
+        });
+    },
+
     getCardsByQuery: function (order = "id", query = undefined, callback) {
         let q = 'SELECT * FROM Card\n'
         let values = []

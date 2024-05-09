@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import ComboInput from '../components/ComboInput';
 
@@ -34,7 +34,7 @@ const AdvancedSearch = () => {
   const [subtype, setSubtype] = useState('');
   const [allText, setAllText] = useState('');
   const navigate = useNavigate();
-
+  const [nameData, setNameData] = useState([]);
 
   // Handler functions for form inputs
 
@@ -108,6 +108,21 @@ const AdvancedSearch = () => {
     navigate(`/search?${params.toString()}`);
   };
 
+  // useEffect(() => {
+  //   const fetchData = async () => {
+  //     try {
+  //       const res = await fetch('http://localhost:3001/cardName', { method: 'get', });
+  //       setNameData(await res.json())
+  //     }
+  //     catch (error) {
+  //       console.error('Error occured on data request', error)
+  //     }
+  //   }
+
+  //   fetchData();
+  // }, [])
+
+
   return (
     <div className="min-h-screen relative bg-gradient-to-b from-gray-600 to-indigo-900 flex flex-col items-center overflow-hidden">
       <h1 className="text-white text-3xl font-bold mb-2 text-center mt-4 mb-4">Advanced Search Page</h1>
@@ -123,7 +138,7 @@ const AdvancedSearch = () => {
             className="ml-2 px-2 py-1 border border-gray-400 rounded-md bg-gray-200 text-black"
             placeholder="Healing potion"
           />}
-          {/* <ComboInput setValues={setCardName}/> */}
+          {/* <ComboInput setValues={setCardName} data={nameData} /> */}
         </div>
 
 

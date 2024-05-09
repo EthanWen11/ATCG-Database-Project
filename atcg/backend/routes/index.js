@@ -9,6 +9,12 @@ router.get('/cards', (req, res) => {
     });
 });
 
+router.get('/cardName', (req, res) => {
+    CardModel.getCardNames((data) => {
+        res.json(data);
+    });
+})
+
 router.get('/cards/:set/:id', (req, res) => {
     const setID = req.params.set;
     const cardID = req.params.id;
@@ -82,6 +88,8 @@ router.post('/cards', (req, res) => {
         }
     });
 });
+
+router.get
 
 router.get('/subtypes', (req, res) => {
     subTypeModel.getAllSubtypes((data) => {
