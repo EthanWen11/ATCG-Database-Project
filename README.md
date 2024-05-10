@@ -18,8 +18,8 @@ This project is a web-based database application that serves to improve the qual
 The backend part of the project handles the database operations and serves the API endpoints required by the frontend.
 
 #### Initialization and Insert Scripts
-- `InitializeDB.sql`: Initializes the database schema.
-- `InsertStatements/`: Contains SQL scripts for populating the database with initial data.
+- `InitializeDB.sql`: Initializes and populates the database schema.
+- `InsertStatements/`: Contains individual SQL scripts for populating the database with initial data for reference. All the populating is already done by InitializeDB.sql.
 
 #### API and Models
 - `index.js`: The entry point for the backend server.
