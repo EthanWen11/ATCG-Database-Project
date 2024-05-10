@@ -43,22 +43,22 @@ const Home = () => {
         </div>
       </div>
       <div className="absolute bottom-7 right-0 transform -rotate-45 translate-x-10 translate-y-2 hover:translate-x-1 hover:-translate-y-12 transition duration-500 cursor-pointer">
-        <Link to="/card/CLA/068">
+        <Link to="/card/CLA/Item/068">
           <img src="/images/10115.png" alt="Example Card1" className="h-auto w-60" />
         </Link>
       </div>
       <div className="absolute bottom-0 right-12 transform -rotate-45 translate-x-10 translate-y-20 hover:translate-x-5 hover:translate-y-10 transition duration-500 cursor-pointer">
-      <Link to="/card/CLA/065"> 
+      <Link to="/card/CLA/Spell/065"> 
         <img src="/images/10112.png" alt="Example Card2" className="h-auto w-60" />
       </Link>
       </div>
       <div className="absolute bottom-7 left-0 transform rotate-45 -translate-x-10 translate-y-2 hover:-translate-x-1 hover:-translate-y-12 transition duration-500 cursor-pointer">
-      <Link to="/card/CLA/069"> 
+      <Link to="/card/CLA/District/069"> 
         <img src="/images/10116.png" alt="Example Card3" className="h-auto w-60" />
       </Link>
       </div>
       <div className="absolute bottom-0 left-12 transform rotate-45 -translate-x-10 translate-y-20 hover:-translate-x-5 hover:translate-y-10 transition duration-500 cursor-pointer">
-      <Link to="/card/CLA/070"> 
+      <Link to="/card/CLA/District/070"> 
         <img src="/images/10117.png" alt="Example Card4" className="h-auto w-60" />
       </Link>
       </div>

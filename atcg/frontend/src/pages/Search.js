@@ -1,14 +1,16 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate, useSearchParams } from 'react-router-dom';
+import SortForm from '../components/SortForm';
 
 const Search = () => {
     const [searchParams] = useSearchParams();
+    const [order, setOrder] = useState(searchParams.get("order"));
     const navigate = useNavigate();
     const query = Array.from(searchParams.values()).toString();
 
     const textStyle = {
         color: 'white',
-        marginTop: '100px',
+        // marginTop: '40px',
         fontSize: '24px',
         fontStyle: 'italic', 
     };
@@ -58,6 +60,12 @@ const Search = () => {
         fetchData();
     }, [searchParams, navigate]);
 
+    useEffect(() => {
+        console.log(order)
+        searchParams.set("order", `${order}`)
+        navigate(`/search?${searchParams.toString()}`);
+    }, [order])
+
     const handleMouseEnter = (cardId, setId) => {
         setHoveredCardId(`${cardId}-${setId}`);
     };
@@ -68,11 +76,14 @@ const Search = () => {
 
     return (
         <div className="min-h-screen bg-gradient-to-b from-gray-600 to-indigo-900 flex flex-col items-center">
+            <div className='flex justify-between items-end flex-wrap mx-24 w-4/5 pt-10'>
+                <span style={textStyle}> Search Results: </span>
+                <SortForm setOrder={setOrder}/>
+            </div>
             <div className="search-results-container" style={{ padding: '20px' }}>
-                <span style={textStyle}>Search Results: </span>
                 <div className="cards-container" style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center' }}>
-                    {cards.map((card) => (
-                        <a key={card.cardID} href={`/card/${card.setID}/${card.cardID}`} className="card-link">
+                    {cards.map((card, index) => (
+                        <a key={index} href={`/card/${card.setID}/${card.cardType}/${card.cardID}`} className="card-link">
                             <div className="card-hover" style={{ ...cardHoverStyle, ...(hoveredCardId === `${card.cardID}-${card.setID}` && cardHoverStyleHover) }} onMouseEnter={() => handleMouseEnter(card.cardID, card.setID)} onMouseLeave={handleMouseLeave}>
                                 <div className="card" style={cardStyle}>
                                     <img src={card.imageID ? `/images/${card.imageID}.png` : '/cardEx.png'} alt={card.cardName} style={{ maxWidth: '100px', marginRight: '20px' }} />

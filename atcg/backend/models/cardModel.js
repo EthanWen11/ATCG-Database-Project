@@ -15,6 +15,34 @@ const CardModel = {
         });
     },
 
+    getCharCardById: function (setID, cardID, callback) {
+        pool.query('SELECT * FROM Card WHERE setID = ? AND cardID = ?', [setID, cardID], function (error, results, fields) {
+            if (error) throw error;
+            callback(results[0]);
+        });
+    },
+
+    getSpellCardById: function (setID, cardID, callback) {
+        pool.query('SELECT * FROM Card WHERE setID = ? AND cardID = ?', [setID, cardID], function (error, results, fields) {
+            if (error) throw error;
+            callback(results[0]);
+        });
+    },
+
+    getItemCardById: function (setID, cardID, callback) {
+        pool.query('SELECT * FROM Card WHERE setID = ? AND cardID = ?', [setID, cardID], function (error, results, fields) {
+            if (error) throw error;
+            callback(results[0]);
+        });
+    },
+
+    getDistrictCardById: function (setID, cardID, callback) {
+        pool.query('SELECT * FROM Card WHERE setID = ? AND cardID = ?', [setID, cardID], function (error, results, fields) {
+            if (error) throw error;
+            callback(results[0]);
+        });
+    },
+
     getCardNames: function (callback) {
         pool.query('SELECT cardName FROM Card', function (error, results, fields) {
             if (error) throw error;
