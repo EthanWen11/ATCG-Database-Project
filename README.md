@@ -54,13 +54,38 @@ Instructions on how to set up and run the project locally.
 - npm
 
 ### Installation
+Front-End
+1. cd into the frontend folder
+2. run 'npm install' to download all frontend dependencies
+3. run 'npm start' to start the npm server
 ```bash
+cd ./atcg/frontend
 npm install
 npm start
 ```
 
+Back-End
+1. cd into the backend folder
+2. run 'npm install' to download all backend dependencies
+3. open an sql connection to an sql server and run the sql script initializeDB.sql to create the database, necessary tables, and populate the data(the default connection being used is the root localhost)
+5. create a .env file inside the backend folder containing, specifying the environment variables associated with the previous sql connection:
+```bash
+// example
+  DB_HOST='localhost'
+  DB_USER='root'
+  DB_PASSWORD='pass123'
+  DB_NAME='atcg'
+```
+6. Finally start the node backend server, passing in the .env file on the index.js file
+```bash
+cd ./atcg/backend
+npm install
+node --env-file=.env index.js
+```
+
 ## Usage
 Details on how to use the application, including any available scripts and commands.
+After starting both frontend and backend servers, the application should be ready to be used
 
 ## Contributing
 Guidelines for contributing to the project.
