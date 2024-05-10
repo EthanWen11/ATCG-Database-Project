@@ -4,7 +4,7 @@ DBMS + Web Design project for Apostleland Trading Card Game.
 Collaborators: 
  - Ethan Wen (Project Lead, Project Specifications, ER Design, Relational Schema, Data Production and Formatting, Graphic Elements)
  - Kyaw Soe Han ( Database Functional Requirements, ER Design, Relational Schema, Relation Normalization, MySQL initializtion statements)
- - Kyle Chen (
+ - Kyle Chen ( Front-End Development, Back-End Development, Searching and Sorting Components, Front-End Routing, Generating and Formatting Search Queries, Front-End to Back-End Connection, Backend Routes, NodeJS Search and Filter Queries)
  - Mathew Estrada (Front-End Development, User Interface Design, Home Page / Advanced Search Implementation, User Input Handling, Random Card Generator, Card Details Page, Search Results Displayed)
  - Nathan Pham (Back-End Development, Database Management, REST API, Web Server, Routes and Controllers, API Testing, Data Interaction)
 
