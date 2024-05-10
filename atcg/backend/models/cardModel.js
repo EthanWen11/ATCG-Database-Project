@@ -16,28 +16,55 @@ const CardModel = {
     },
 
     getCharCardById: function (setID, cardID, callback) {
-        pool.query('SELECT * FROM Card WHERE setID = ? AND cardID = ?', [setID, cardID], function (error, results, fields) {
+        let q = "SELECT * FROM Card\n";
+        q += "JOIN characterCard USING (cardID, setID)\n";
+        q += "JOIN Color USING (cardID, setID)\n";
+        q += "LEFT JOIN Keyword USING (cardID, setID)\n";
+        q += "LEFT JOIN Subtype USING (cardID, setID)\n";
+        q += "WHERE setID = ? AND cardID = ?";
+        pool.query(q, [setID, cardID], function (error, results, fields) {
             if (error) throw error;
             callback(results[0]);
         });
     },
 
     getSpellCardById: function (setID, cardID, callback) {
-        pool.query('SELECT * FROM Card WHERE setID = ? AND cardID = ?', [setID, cardID], function (error, results, fields) {
+        let q = "SELECT * FROM Card\n";
+        q += "JOIN spellCard USING (cardID, setID)\n";
+        q += "JOIN Color USING (cardID, setID)\n";
+        q += "LEFT JOIN Keyword USING (cardID, setID)\n";
+        q += "LEFT JOIN Subtype USING (cardID, setID)\n";
+        q += "WHERE setID = ? AND cardID = ?";
+
+        pool.query(q, [setID, cardID], function (error, results, fields) {
             if (error) throw error;
             callback(results[0]);
         });
     },
 
     getItemCardById: function (setID, cardID, callback) {
-        pool.query('SELECT * FROM Card WHERE setID = ? AND cardID = ?', [setID, cardID], function (error, results, fields) {
+        let q = "SELECT * FROM Card\n";
+        q += "JOIN itemCard USING (cardID, setID)\n";
+        q += "JOIN Color USING (cardID, setID)\n";
+        q += "LEFT JOIN Keyword USING (cardID, setID)\n";
+        q += "LEFT JOIN Subtype USING (cardID, setID)\n";
+        q += "WHERE setID = ? AND cardID = ?";
+
+        pool.query(q, [setID, cardID], function (error, results, fields) {
             if (error) throw error;
             callback(results[0]);
         });
     },
 
     getDistrictCardById: function (setID, cardID, callback) {
-        pool.query('SELECT * FROM Card WHERE setID = ? AND cardID = ?', [setID, cardID], function (error, results, fields) {
+        let q = "SELECT * FROM Card\n";
+        q += "JOIN districtCard USING (cardID, setID)\n";
+        q += "JOIN Color USING (cardID, setID)\n";
+        q += "LEFT JOIN Keyword USING (cardID, setID)\n";
+        q += "LEFT JOIN Subtype USING (cardID, setID)\n";
+        q += "WHERE setID = ? AND cardID = ?";
+
+        pool.query(q, [setID, cardID], function (error, results, fields) {
             if (error) throw error;
             callback(results[0]);
         });
