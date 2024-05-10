@@ -15,16 +15,57 @@ router.get('/cardName', (req, res) => {
     });
 })
 
-router.get('/cards/:set/:id', (req, res) => {
+router.get('/cards/:set/:type/:id', (req, res) => {
     const setID = req.params.set;
     const cardID = req.params.id;
-    CardModel.getCardById(setID, cardID, (data) => {
-        if (data) {
-            res.json(data);
-        } else {
-            res.status(404).send('Card not found');
-        }
-    });
+    const type = req.params.type;
+    console.log(type)
+
+    if(type === "Character"){
+        CardModel.getCharCardById(setID, cardID, (data) => {
+            if (data) {
+                res.json(data);
+            } else {
+                res.status(404).send('Card not found');
+            }
+        });
+    }
+    else if(type === "Spell"){
+        CardModel.getSpellCardById(setID, cardID, (data) => {
+            if (data) {
+                res.json(data);
+            } else {
+                res.status(404).send('Card not found');
+            }
+        });
+    }
+    else if(type === "Item") {
+        CardModel.getItemCardById(setID, cardID, (data) => {
+            if (data) {
+                res.json(data);
+            } else {
+                res.status(404).send('Card not found');
+            }
+        });
+    }
+    else if(type === "District"){
+        CardModel.getDistrictCardById(setID, cardID, (data) => {
+            if (data) {
+                res.json(data);
+            } else {
+                res.status(404).send('Card not found');
+            }
+        });
+    }
+    else {
+        CardModel.getCardById(setID, cardID, (data) => {
+            if (data) {
+                res.json(data);
+            } else {
+                res.status(404).send('Card not found');
+            }
+        });
+    }
 });
 
 router.get('/cards/random', (req, res) => {

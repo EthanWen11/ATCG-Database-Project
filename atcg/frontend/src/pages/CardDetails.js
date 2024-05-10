@@ -2,13 +2,13 @@ import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
 
 const CardDetails = () => {
-  const { id, set } = useParams();
+  const { id, type, set } = useParams();
   const [card, setCard] = useState(null);
 
   useEffect(() => {
     const fetchCard = async () => {
       try {
-        const response = await fetch(`http://localhost:3001/cards/${set}/${id}`);
+        const response = await fetch(`http://localhost:3001/cards/${set}/${type}/${id}`);
         if (response.ok) {
           const data = await response.json();
           setCard(data);
@@ -21,7 +21,7 @@ const CardDetails = () => {
     };
 
     fetchCard();
-  }, [id, set]);
+  }, [id, type, set]);
 
   return (
   <div className="min-h-screen relative bg-gradient-to-b from-gray-600 to-indigo-900 flex flex-col items-center overflow-hidden">
