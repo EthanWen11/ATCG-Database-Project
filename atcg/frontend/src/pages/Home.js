@@ -34,10 +34,10 @@ const Home = () => {
           <Link to="/advanced">
             <button className="mr-4 px-4 py-1 border border-gray-500 bg-gray-600 text-white rounded-md hover:bg-gray-500 focus:outline-none">Advanced Search</button>
           </Link>
-          <Link to="/search?order=set&setID=cor+qil+jgk+cla+elm+hoe+nin+kgd+str+whv+jig+fal+dep">
+          <Link to="/search?order=id&setID=cor+qil+jgk+cla+elm+hoe+nin+kgd+str+whv+jig+fal+dep">
             <button className="mx-4 px-4 py-1 border border-gray-500 bg-gray-600 text-white rounded-md hover:bg-gray-500 focus:outline-none">All Card Sets</button>
           </Link>
-          <Link to={`/card/${randomCard?.setID}/${randomCard?.cardID}`}>
+          <Link to={`/card/${randomCard?.setID}/${randomCard?.cardType}/${randomCard?.cardID}`}>
             <button className="ml-4 px-4 py-1 border border-gray-500 bg-gray-600 text-white rounded-md hover:bg-gray-500 focus:outline-none">Random Card Generator</button>
           </Link>
         </div>
