@@ -64,5 +64,17 @@
     "setName": "Starfall",
     "designer": "Shub Takkorath",
     "logo": "logo-fal"
+  },
+  {
+    "setID": "CNF",
+    "setName": "Camp Night Falls",
+    "designer": "Shub Takkorath",
+    "logo": "logo-cnf"
+  },
+  {
+    "setID": "DAE",
+    "setName": "Daedalea",
+    "designer": "Shub Takkorath",
+    "logo": "logo-dae"
   }
 ]

@@ -5318,5 +5318,900 @@
     "setID": "ELM",
     "cardID": "016",
     "orb": "7L 3N"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "013",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "014",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "015",
+    "orb": "3 {N}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "016",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "017",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "018",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "019",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "020",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "021",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "022",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "023",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "024",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "025",
+    "orb": "3 {N}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "026",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "027",
+    "orb": "+{N}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "028",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "029",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "030",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "031",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "032",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "033",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "034",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "035",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "036",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "037",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "038",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "039",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "040",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "041",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "042",
+    "orb": "+{T}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "043",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "044",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "045",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "046",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "047",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "048",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "049",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "050",
+    "orb": "4 {M}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "051",
+    "orb": "3 {M}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "052",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "053",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "054",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "055",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "056",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "057",
+    "orb": "+{M}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "058",
+    "orb": "3 {C}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "059",
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "060",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "061",
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "062",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "063",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "064",
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "065",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "066",
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "067",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "068",
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "069",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "070",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "071",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "072",
+    "orb": "+{C}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "073",
+    "orb": "2 {N} 1 {T}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "074",
+    "orb": "1 {N} 1 {M}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "075",
+    "orb": "3 {N} 1 {C}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "076",
+    "orb": "1 {T} 1 {M}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "077",
+    "orb": "2 {T} 1 {C}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "078",
+    "orb": "1 {M} 1 {C}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "079",
+    "orb": "1 {N} 1 {T}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "080",
+    "orb": "1 {N} 2 {M}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "081",
+    "orb": "2 {N} 1 {C}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "082",
+    "orb": "1 {T} 1 {M}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "083",
+    "orb": "1 {T} 1 {C}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "084",
+    "orb": "1 {M} 1 {C}"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "085",
+    "orb": "+{C}{N/M/T/C}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "004",
+    "orb": "3 {N}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "005",
+    "orb": "4 {N}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "032",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "033",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "034",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "035",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "036",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "037",
+    "orb": "3 {N}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "038",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "039",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "040",
+    "orb": "+{N}{N}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "041",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "042",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "043",
+    "orb": "3 {N}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "044",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "045",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "046",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "047",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "048",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "049",
+    "orb": "+{N}{N}{N}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "050",
+    "orb": "3 {N}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "051",
+    "orb": "2 {N}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "052",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "053",
+    "orb": "1 {N}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "054",
+    "orb": "+{N}{N}{N}{N}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "006",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "007",
+    "orb": "3 {T}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "055",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "056",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "057",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "058",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "059",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "060",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "061",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "062",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "063",
+    "orb": "+{T}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "064",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "065",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "066",
+    "orb": "3 {T}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "067",
+    "orb": "3 {T}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "068",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "069",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "070",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "071",
+    "orb": "3 {T}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "072",
+    "orb": "+{T}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "073",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "074",
+    "orb": "2 {T}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "075",
+    "orb": "1 {T}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "076",
+    "orb": "3 {T}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "077",
+    "orb": "+{T}{T}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "008",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "009",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "078",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "079",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "080",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "081",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "082",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "083",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "084",
+    "orb": "3 {M}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "085",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "086",
+    "orb": "+{M}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "087",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "088",
+    "orb": "3 {M}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "089",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "090",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "091",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "092",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "093",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "094",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "095",
+    "orb": "+{M}{M}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "096",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "097",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "098",
+    "orb": "1 {M}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "099",
+    "orb": "2 {M}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 100,
+    "orb": "+{M}{M}{M}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "010",
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "011",
+    "orb": "5 {C}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 101,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 102,
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 103,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 104,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 105,
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 106,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 107,
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 108,
+    "orb": "3 {C}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 109,
+    "orb": "+{C}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 110,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 111,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 112,
+    "orb": "3 {C}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 113,
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 114,
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 115,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 116,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 117,
+    "orb": "3 {C}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 118,
+    "orb": "+{C}{C}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 119,
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 120,
+    "orb": "2 {C}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 121,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 122,
+    "orb": "1 {C}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 123,
+    "orb": "+{C}{C}{C}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "012",
+    "orb": "3 {N} 3 {T}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "013",
+    "orb": "2 {N} 1 {M}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "014",
+    "orb": "1 {N} 3 {C}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "015",
+    "orb": "2 {T} 2 {M}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "016",
+    "orb": "1 {T} 1 {C}"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "017",
+    "orb": "1 {M} 3 {C}"
   }
 ]

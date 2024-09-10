@@ -1,5 +1,135 @@
 [
   {
+    "setID": "CNF",
+    "cardID": "004",
+    "subtype": "Anomaly"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "027",
+    "subtype": "Anomaly"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "042",
+    "subtype": "Anomaly"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "057",
+    "subtype": "Anomaly"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "072",
+    "subtype": "Anomaly"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "079",
+    "subtype": "Anomaly"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "080",
+    "subtype": "Anomaly"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "084",
+    "subtype": "Anomaly"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "015",
+    "subtype": "Anomaly, Bear, Golem"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "003",
+    "subtype": "Anomaly, Bird, Golem"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "016",
+    "subtype": "Anomaly, Crab, Agent"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "044",
+    "subtype": "Anomaly, Elemental, Undead"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "029",
+    "subtype": "Anomaly, Giant"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "002",
+    "subtype": "Anomaly, Insect"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "014",
+    "subtype": "Anomaly, Insect, Swarm"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "001",
+    "subtype": "Anomaly, Machine"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "030",
+    "subtype": "Anomaly, Machine"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "059",
+    "subtype": "Anomaly, Nightmare"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "081",
+    "subtype": "Anomaly, Plant"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "031",
+    "subtype": "Anomaly, Slime"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "060",
+    "subtype": "Anomaly, Spirit"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "082",
+    "subtype": "Anomaly, Spirit"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "045",
+    "subtype": "Anomaly, Spirit, Artisan"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "061",
+    "subtype": "Anomaly, Undead"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "083",
+    "subtype": "Anomaly, Undead"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "046",
+    "subtype": "Anomaly, Undead, Knight"
+  },
+  {
     "setID": "DEP",
     "cardID": "025",
     "subtype": "Aquatic"
@@ -195,6 +325,36 @@
     "subtype": "Arachnid"
   },
   {
+    "setID": "DAE",
+    "cardID": "082",
+    "subtype": "Arcane"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "092",
+    "subtype": "Arcane"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "094",
+    "subtype": "Arcane"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "099",
+    "subtype": "Arcane"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "038",
+    "subtype": "Armor"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "029",
+    "subtype": "Bat, Fighter"
+  },
+  {
     "setID": "FAL",
     "cardID": 141,
     "subtype": "Beast, Bear, Cultist"
@@ -208,6 +368,16 @@
     "setID": "COR",
     "cardID": "015",
     "subtype": "Beast, Bird, Merchant"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "042",
+    "subtype": "Beast, Boar"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "005",
+    "subtype": "Beast, Cat, Civilian"
   },
   {
     "setID": "FAL",
@@ -283,6 +453,11 @@
     "setID": "NIN",
     "cardID": "026",
     "subtype": "Beast, Fox, Plant, Samurai"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "021",
+    "subtype": "Beast, Fox, Ranger"
   },
   {
     "setID": "NIN",
@@ -430,6 +605,11 @@
     "subtype": "Bird, Human, Cleric"
   },
   {
+    "setID": "DAE",
+    "cardID": "073",
+    "subtype": "Bird, Machine, Swarm"
+  },
+  {
     "setID": "FAL",
     "cardID": 168,
     "subtype": "Bird, Merchant"
@@ -455,6 +635,11 @@
     "subtype": "Bird, Rogue"
   },
   {
+    "setID": "DAE",
+    "cardID": "097",
+    "subtype": "Bird, Snake, Wizard"
+  },
+  {
     "setID": "COR",
     "cardID": "097",
     "subtype": "Bird, Wizard"
@@ -473,6 +658,11 @@
     "setID": "FAL",
     "cardID": 101,
     "subtype": "Celestial, Beast, Rodent, Vehicle"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "051",
+    "subtype": "Celestial, Crab"
   },
   {
     "setID": "KGD",
@@ -580,9 +770,19 @@
     "subtype": "Celestial, Worker"
   },
   {
+    "setID": "DAE",
+    "cardID": "020",
+    "subtype": "Centaur, Fighter"
+  },
+  {
     "setID": "COR",
     "cardID": 124,
     "subtype": "Cephalopod, Cultist"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "079",
+    "subtype": "Cephalopod, Wizard"
   },
   {
     "setID": "FAL",
@@ -732,6 +932,16 @@
   {
     "setID": "FAL",
     "cardID": "088",
+    "subtype": "Consumable"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "026",
+    "subtype": "Consumable"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "085",
     "subtype": "Consumable"
   },
   {
@@ -1070,6 +1280,11 @@
     "subtype": "Dragon"
   },
   {
+    "setID": "DAE",
+    "cardID": "030",
+    "subtype": "Dragon"
+  },
+  {
     "setID": "KGD",
     "cardID": "008",
     "subtype": "Dragon, Cultist"
@@ -1165,6 +1380,11 @@
     "subtype": "Dwarf, Fighter"
   },
   {
+    "setID": "DAE",
+    "cardID": "026",
+    "subtype": "Dwarf, Merchant"
+  },
+  {
     "setID": "COR",
     "cardID": 103,
     "subtype": "Earth"
@@ -1188,6 +1408,11 @@
     "setID": "KGD",
     "cardID": "006",
     "subtype": "Egg"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "007",
+    "subtype": "Eldritch"
   },
   {
     "setID": "FAL",
@@ -1255,6 +1480,11 @@
     "subtype": "Eldritch, Deity"
   },
   {
+    "setID": "CNF",
+    "cardID": "008",
+    "subtype": "Eldritch, Deity"
+  },
+  {
     "setID": "KGD",
     "cardID": "076",
     "subtype": "Eldritch, Dragon"
@@ -1263,6 +1493,11 @@
     "setID": "FAL",
     "cardID": 169,
     "subtype": "Eldritch, Elemental"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "064",
+    "subtype": "Eldritch, Human, Entertainer"
   },
   {
     "setID": "FAL",
@@ -1398,6 +1633,11 @@
     "setID": "FAL",
     "cardID": 193,
     "subtype": "Elf, Merchant, Wizard"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "050",
+    "subtype": "Elf, Ninja, Wizard"
   },
   {
     "setID": "FAL",
@@ -1550,14 +1790,64 @@
     "subtype": "Gear"
   },
   {
+    "setID": "CNF",
+    "cardID": "012",
+    "subtype": "Gear"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "038",
+    "subtype": "Gear"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "028",
+    "subtype": "Gear"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "031",
+    "subtype": "Gear"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 111,
+    "subtype": "Goat, Cultist"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "044",
+    "subtype": "Goat, Entertainer"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "019",
+    "subtype": "Goat, Rogue"
+  },
+  {
     "setID": "KGD",
     "cardID": "055",
+    "subtype": "Goblin"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "025",
     "subtype": "Goblin"
   },
   {
     "setID": "WHV",
     "cardID": "028",
     "subtype": "Goblin, Fighter"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "048",
+    "subtype": "Goblin, Wizard, Entertainer"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "058",
+    "subtype": "Golem"
   },
   {
     "setID": "QIL",
@@ -1685,6 +1975,16 @@
     "subtype": "Human, Agent"
   },
   {
+    "setID": "CNF",
+    "cardID": "035",
+    "subtype": "Human, Agent"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "020",
+    "subtype": "Human, Bear, Entertainer"
+  },
+  {
     "setID": "WHV",
     "cardID": "013",
     "subtype": "Human, Bird, Soldier"
@@ -1693,6 +1993,16 @@
     "setID": "KGD",
     "cardID": "007",
     "subtype": "Human, Cavalry"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "017",
+    "subtype": "Human, Civilian"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "019",
+    "subtype": "Human, Civilian"
   },
   {
     "setID": "COR",
@@ -1715,6 +2025,11 @@
     "subtype": "Human, Cultist"
   },
   {
+    "setID": "CNF",
+    "cardID": "006",
+    "subtype": "Human, Druid"
+  },
+  {
     "setID": "COR",
     "cardID": "069",
     "subtype": "Human, Engineer"
@@ -1732,6 +2047,16 @@
   {
     "setID": "FAL",
     "cardID": "099",
+    "subtype": "Human, Engineer"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "034",
+    "subtype": "Human, Engineer"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "063",
     "subtype": "Human, Engineer"
   },
   {
@@ -1810,6 +2135,11 @@
     "subtype": "Human, Merchant"
   },
   {
+    "setID": "CNF",
+    "cardID": "062",
+    "subtype": "Human, Merchant"
+  },
+  {
     "setID": "DEP",
     "cardID": "086",
     "subtype": "Human, Merchant, Rogue"
@@ -1845,6 +2175,11 @@
     "subtype": "Human, Officer"
   },
   {
+    "setID": "CNF",
+    "cardID": "033",
+    "subtype": "Human, Officer"
+  },
+  {
     "setID": "COR",
     "cardID": 126,
     "subtype": "Human, Official"
@@ -1852,6 +2187,11 @@
   {
     "setID": "FAL",
     "cardID": 172,
+    "subtype": "Human, Official"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "027",
     "subtype": "Human, Official"
   },
   {
@@ -1878,6 +2218,16 @@
     "setID": "COR",
     "cardID": 100,
     "subtype": "Human, Priest"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "018",
+    "subtype": "Human, Ranger"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "018",
+    "subtype": "Human, Ranger"
   },
   {
     "setID": "COR",
@@ -1923,6 +2273,26 @@
     "setID": "DEP",
     "cardID": "013",
     "subtype": "Human, Soldier"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "032",
+    "subtype": "Human, Soldier"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "021",
+    "subtype": "Human, Soldier"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "047",
+    "subtype": "Human, Wizard"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "049",
+    "subtype": "Human, Wizard"
   },
   {
     "setID": "FAL",
@@ -2000,6 +2370,11 @@
     "subtype": "Legendary"
   },
   {
+    "setID": "CNF",
+    "cardID": "058",
+    "subtype": "Legendary Character - Human Villain Official"
+  },
+  {
     "setID": "QIL",
     "cardID": "001",
     "subtype": "Legendary, Aquatic, Golem, Official"
@@ -2015,6 +2390,11 @@
     "subtype": "Legendary, Beast, Alligator, Hero"
   },
   {
+    "setID": "DAE",
+    "cardID": "014",
+    "subtype": "Legendary, Beast, Cat, Monster"
+  },
+  {
     "setID": "NIN",
     "cardID": "003",
     "subtype": "Legendary, Beast, Cat, Noble"
@@ -2028,6 +2408,11 @@
     "setID": "NIN",
     "cardID": "001",
     "subtype": "Legendary, Beast, Cat, Official"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "017",
+    "subtype": "Legendary, Beast, Dog, Monster"
   },
   {
     "setID": "FAL",
@@ -2075,6 +2460,11 @@
     "subtype": "Legendary, Bird, Knight, Hero"
   },
   {
+    "setID": "DAE",
+    "cardID": "016",
+    "subtype": "Legendary, Bird, Monster"
+  },
+  {
     "setID": "FAL",
     "cardID": "012",
     "subtype": "Legendary, Celestial, Cleric"
@@ -2093,6 +2483,11 @@
     "setID": "HOE",
     "cardID": "089",
     "subtype": "Legendary, Concept"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "011",
+    "subtype": "Legendary, Deity, Spirit"
   },
   {
     "setID": "COR",
@@ -2125,6 +2520,11 @@
     "subtype": "Legendary, Dragon"
   },
   {
+    "setID": "DAE",
+    "cardID": "015",
+    "subtype": "Legendary, Dragon, Beast, Cat, Goat, Snake, Monster"
+  },
+  {
     "setID": "KGD",
     "cardID": "003",
     "subtype": "Legendary, Dragon, Deity"
@@ -2137,6 +2537,11 @@
   {
     "setID": "KGD",
     "cardID": "002",
+    "subtype": "Legendary, Dragon, Monster"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "013",
     "subtype": "Legendary, Dragon, Monster"
   },
   {
@@ -2160,6 +2565,11 @@
     "subtype": "Legendary, Eldritch, Beast, Goat, Druid"
   },
   {
+    "setID": "DAE",
+    "cardID": "003",
+    "subtype": "Legendary, Eldritch, Deity"
+  },
+  {
     "setID": "COR",
     "cardID": "005",
     "subtype": "Legendary, Eldritch, Fighter"
@@ -2173,6 +2583,11 @@
     "setID": "FAL",
     "cardID": "017",
     "subtype": "Legendary, Eldritch, Human, Cultist"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "043",
+    "subtype": "Legendary, Eldritch, Human, Wizard"
   },
   {
     "setID": "NIN",
@@ -2230,6 +2645,16 @@
     "subtype": "Legendary, Fey, Wizard"
   },
   {
+    "setID": "DAE",
+    "cardID": "002",
+    "subtype": "Legendary, Fox, Human, Rogue"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "012",
+    "subtype": "Legendary, Giant, Artisan"
+  },
+  {
     "setID": "HOE",
     "cardID": "062",
     "subtype": "Legendary, Human"
@@ -2245,9 +2670,44 @@
     "subtype": "Legendary, Human, Celestial, Scientist"
   },
   {
+    "setID": "CNF",
+    "cardID": "073",
+    "subtype": "Legendary, Human, Civilian"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "074",
+    "subtype": "Legendary, Human, Civilian"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "078",
+    "subtype": "Legendary, Human, Civilian"
+  },
+  {
     "setID": "DEP",
     "cardID": "009",
     "subtype": "Legendary, Human, Cultist, Pirate"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "006",
+    "subtype": "Legendary, Human, Deity, Artisan"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "010",
+    "subtype": "Legendary, Human, Deity, Entertainer"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "004",
+    "subtype": "Legendary, Human, Deity, Fighter"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "008",
+    "subtype": "Legendary, Human, Deity, Wizard"
   },
   {
     "setID": "QIL",
@@ -2262,6 +2722,11 @@
   {
     "setID": "FAL",
     "cardID": "004",
+    "subtype": "Legendary, Human, Entertainer"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "075",
     "subtype": "Legendary, Human, Entertainer"
   },
   {
@@ -2290,9 +2755,19 @@
     "subtype": "Legendary, Human, Merchant"
   },
   {
+    "setID": "DAE",
+    "cardID": "001",
+    "subtype": "Legendary, Human, Merchant"
+  },
+  {
     "setID": "WHV",
     "cardID": "008",
     "subtype": "Legendary, Human, Noble, Cultist, Villain"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "013",
+    "subtype": "Legendary, Human, Official"
   },
   {
     "setID": "QIL",
@@ -2310,6 +2785,11 @@
     "subtype": "Legendary, Human, Pirate, Rogue"
   },
   {
+    "setID": "CNF",
+    "cardID": "077",
+    "subtype": "Legendary, Human, Ranger"
+  },
+  {
     "setID": "DEP",
     "cardID": "008",
     "subtype": "Legendary, Human, Rogue, Scientist"
@@ -2325,14 +2805,34 @@
     "subtype": "Legendary, Human, Scientist"
   },
   {
+    "setID": "CNF",
+    "cardID": "076",
+    "subtype": "Legendary, Human, Scientist"
+  },
+  {
     "setID": "FAL",
     "cardID": "021",
     "subtype": "Legendary, Machine, Deity"
   },
   {
+    "setID": "DAE",
+    "cardID": "007",
+    "subtype": "Legendary, Machine, Golem"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "028",
+    "subtype": "Legendary, Machine, Rogue, Ranger"
+  },
+  {
     "setID": "COR",
     "cardID": "006",
     "subtype": "Legendary, Machine, Scientist"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "005",
+    "subtype": "Legendary, Minotaur, Fighter"
   },
   {
     "setID": "COR",
@@ -2398,6 +2898,11 @@
     "setID": "CLA",
     "cardID": "001",
     "subtype": "Legendary, Seaborn, Aquatic, Monster, Human, Entertainer"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "009",
+    "subtype": "Legendary, Snake, Monster, Wizard"
   },
   {
     "setID": "FAL",
@@ -2470,6 +2975,11 @@
     "subtype": "Lightning"
   },
   {
+    "setID": "DAE",
+    "cardID": "093",
+    "subtype": "Lightning"
+  },
+  {
     "setID": "COR",
     "cardID": "068",
     "subtype": "Machine"
@@ -2505,14 +3015,39 @@
     "subtype": "Machine, Agent"
   },
   {
+    "setID": "DAE",
+    "cardID": "064",
+    "subtype": "Machine, Bird"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "068",
+    "subtype": "Machine, Cat, Trap"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "059",
+    "subtype": "Machine, Cow, Trap"
+  },
+  {
     "setID": "DEP",
     "cardID": "047",
     "subtype": "Machine, Crab"
   },
   {
+    "setID": "DAE",
+    "cardID": "056",
+    "subtype": "Machine, Goblin, Trap"
+  },
+  {
     "setID": "FAL",
     "cardID": "043",
     "subtype": "Machine, Hero, Knight"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "060",
+    "subtype": "Machine, Human"
   },
   {
     "setID": "NIN",
@@ -2530,9 +3065,19 @@
     "subtype": "Machine, Merchant"
   },
   {
+    "setID": "DAE",
+    "cardID": "055",
+    "subtype": "Machine, Rat"
+  },
+  {
     "setID": "DEP",
     "cardID": "048",
     "subtype": "Machine, Shark"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "067",
+    "subtype": "Machine, Snake"
   },
   {
     "setID": "COR",
@@ -2553,6 +3098,16 @@
     "setID": "COR",
     "cardID": "066",
     "subtype": "Machine, Swarm"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "057",
+    "subtype": "Machine, Trap"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "065",
+    "subtype": "Machine, Trap"
   },
   {
     "setID": "COR",
@@ -2585,6 +3140,11 @@
     "subtype": "Machine, Wizard"
   },
   {
+    "setID": "DAE",
+    "cardID": "074",
+    "subtype": "Machine, Worker, Swarm, Trap"
+  },
+  {
     "setID": "COR",
     "cardID": "094",
     "subtype": "Mana, Bird"
@@ -2598,6 +3158,41 @@
     "setID": "CLA",
     "cardID": "031",
     "subtype": "Merchant"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "033",
+    "subtype": "Minotaur, Artisan"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "032",
+    "subtype": "Minotaur, Fighter"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "034",
+    "subtype": "Minotaur, Fighter"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "035",
+    "subtype": "Minotaur, Fighter"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "043",
+    "subtype": "Minotaur, Fighter"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "050",
+    "subtype": "Minotaur, Fighter"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "041",
+    "subtype": "Minotaur, Ranger"
   },
   {
     "setID": "NIN",
@@ -2670,14 +3265,54 @@
     "subtype": "Nightmare"
   },
   {
+    "setID": "DAE",
+    "cardID": 110,
+    "subtype": "Nightmare"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 113,
+    "subtype": "Nightmare"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 119,
+    "subtype": "Nightmare, Beast"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 120,
+    "subtype": "Nightmare, Bird, Spirit"
+  },
+  {
     "setID": "KGD",
     "cardID": "011",
     "subtype": "Nightmare, Dragon"
   },
   {
+    "setID": "DAE",
+    "cardID": 114,
+    "subtype": "Nightmare, Giant"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 101,
+    "subtype": "Nightmare, Goblin"
+  },
+  {
     "setID": "COR",
     "cardID": "012",
     "subtype": "Nightmare, Merchant"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 105,
+    "subtype": "Nightmare, Slime"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 102,
+    "subtype": "Nightmare, Soldier"
   },
   {
     "setID": "DEP",
@@ -2688,6 +3323,16 @@
     "setID": "NIN",
     "cardID": 111,
     "subtype": "Nightmare, Spirit"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 103,
+    "subtype": "Nightmare, Spirit"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 104,
+    "subtype": "Nightmare, Undead"
   },
   {
     "setID": "NIN",
@@ -2895,6 +3540,16 @@
     "subtype": "Rock, Golem"
   },
   {
+    "setID": "DAE",
+    "cardID": "090",
+    "subtype": "Rock, Snake, Golem"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "081",
+    "subtype": "Rock, Snake, Knight"
+  },
+  {
     "setID": "NIN",
     "cardID": "025",
     "subtype": "Rogue, Merchant"
@@ -3080,9 +3735,59 @@
     "subtype": "Shadow"
   },
   {
+    "setID": "DAE",
+    "cardID": 108,
+    "subtype": "Shadow"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 115,
+    "subtype": "Shadow"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 116,
+    "subtype": "Shadow"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 122,
+    "subtype": "Shadow"
+  },
+  {
     "setID": "NIN",
     "cardID": 109,
     "subtype": "Slime, Monster"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "088",
+    "subtype": "Snake, Cleric"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "089",
+    "subtype": "Snake, Cleric"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "096",
+    "subtype": "Snake, Cleric"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "078",
+    "subtype": "Snake, Wizard"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "080",
+    "subtype": "Snake, Wizard"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "087",
+    "subtype": "Snake, Wizard"
   },
   {
     "setID": "COR",
@@ -3123,6 +3828,11 @@
     "setID": "QIL",
     "cardID": "073",
     "subtype": "Spirit, Nightmare"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 112,
+    "subtype": "Spirit, Official"
   },
   {
     "setID": "DEP",
@@ -3265,6 +3975,16 @@
     "subtype": "Token"
   },
   {
+    "setID": "CNF",
+    "cardID": "T02",
+    "subtype": "Token"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "T14",
+    "subtype": "Token Character - Snake"
+  },
+  {
     "setID": "DEP",
     "cardID": "T02",
     "subtype": "Token, Aquatic, Beast, Cephalopod"
@@ -3277,6 +3997,11 @@
   {
     "setID": "FAL",
     "cardID": "T13",
+    "subtype": "Token, Beast, Civilian"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "T04",
     "subtype": "Token, Beast, Civilian"
   },
   {
@@ -3375,8 +4100,18 @@
     "subtype": "Token, Golem"
   },
   {
+    "setID": "DAE",
+    "cardID": "T06",
+    "subtype": "Token, Golem, Trap"
+  },
+  {
     "setID": "FAL",
     "cardID": "T12",
+    "subtype": "Token, Human, Civilian"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "T03",
     "subtype": "Token, Human, Civilian"
   },
   {
@@ -3395,6 +4130,16 @@
     "subtype": "Token, Human, Rogue"
   },
   {
+    "setID": "CNF",
+    "cardID": "T01",
+    "subtype": "Token, Insect"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "T13",
+    "subtype": "Token, Legendary, Weapon"
+  },
+  {
     "setID": "KGD",
     "cardID": "T01",
     "subtype": "Token, Lightning"
@@ -3410,6 +4155,11 @@
     "subtype": "Token, Machine, Human, Soldier"
   },
   {
+    "setID": "DAE",
+    "cardID": "T09",
+    "subtype": "Token, Machine, Trap"
+  },
+  {
     "setID": "QIL",
     "cardID": "T04",
     "subtype": "Token, Machine, Vehicle, Crab"
@@ -3418,6 +4168,11 @@
     "setID": "COR",
     "cardID": "T10",
     "subtype": "Token, Mana, Shapeshifter"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "T12",
+    "subtype": "Token, Nightmare, Tentacle, Trap"
   },
   {
     "setID": "COR",
@@ -3445,6 +4200,11 @@
     "subtype": "Token, Seaborn, Aquatic, Monster"
   },
   {
+    "setID": "DAE",
+    "cardID": "T01",
+    "subtype": "Token, Shapeshifter, Trap"
+  },
+  {
     "setID": "QIL",
     "cardID": "T03",
     "subtype": "Token, Spirit, Beast"
@@ -3453,6 +4213,46 @@
     "setID": "WHV",
     "cardID": "T05",
     "subtype": "Token, Tiefling, Cultist"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "T02",
+    "subtype": "Token, Trap"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "T03",
+    "subtype": "Token, Trap"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "T04",
+    "subtype": "Token, Trap"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "T05",
+    "subtype": "Token, Trap"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "T07",
+    "subtype": "Token, Trap"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "T08",
+    "subtype": "Token, Trap"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "T10",
+    "subtype": "Token, Trap"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "T11",
+    "subtype": "Token, Trap"
   },
   {
     "setID": "FAL",
@@ -3635,6 +4435,11 @@
     "subtype": "Undead, Zombie"
   },
   {
+    "setID": "CNF",
+    "cardID": "065",
+    "subtype": "Undead, Zombie"
+  },
+  {
     "setID": "JGK",
     "cardID": "017",
     "subtype": "Undead, Zombie, Criminal"
@@ -3665,6 +4470,11 @@
     "subtype": "Undead, Zombie, Worker"
   },
   {
+    "setID": "DAE",
+    "cardID": "066",
+    "subtype": "Vampire, Engineer"
+  },
+  {
     "setID": "FAL",
     "cardID": "035",
     "subtype": "Vampire, Fighter"
@@ -3692,6 +4502,11 @@
   {
     "setID": "WHV",
     "cardID": "045",
+    "subtype": "Vehicle"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "066",
     "subtype": "Vehicle"
   },
   {
@@ -3772,6 +4587,26 @@
   {
     "setID": "FAL",
     "cardID": 192,
+    "subtype": "Weapon"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "039",
+    "subtype": "Weapon"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "040",
+    "subtype": "Weapon"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "070",
+    "subtype": "Weapon"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "023",
     "subtype": "Weapon"
   }
 ]

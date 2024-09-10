@@ -28,6 +28,7 @@ setID			VARCHAR (255),
 cardName		VARCHAR (255),
 cardType		VARCHAR (255),
 cardtext		TEXT,
+flavortext		TEXT,
 imageID			VARCHAR (255),
 
 PRIMARY KEY (cardID, setID),

@@ -2,7776 +2,7776 @@
   {
     "setID": "COR",
     "cardID": "001",
-    "keyword": "Haste, Legend, Trash"
+    "color": "Colorless"
   },
   {
     "setID": "COR",
     "cardID": "002",
-    "keyword": "Legend, Summon"
+    "color": "Colorless"
   },
   {
     "setID": "COR",
     "cardID": "003",
-    "keyword": "Invest, Legend"
+    "color": "Colorless"
   },
   {
     "setID": "COR",
     "cardID": "012",
-    "keyword": "Mill, Reclaim"
+    "color": "Colorless"
   },
   {
     "setID": "COR",
     "cardID": "013",
-    "keyword": "Reaction"
+    "color": "Colorless"
   },
   {
     "setID": "COR",
     "cardID": "014",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "COR",
     "cardID": "015",
-    "keyword": "Haste, Invest"
+    "color": "Colorless"
   },
   {
     "setID": "COR",
     "cardID": "016",
-    "keyword": "Exhaust"
+    "color": "Colorless"
   },
   {
     "setID": "COR",
     "cardID": "017",
-    "keyword": "Haste"
+    "color": "Colorless"
   },
   {
     "setID": "COR",
     "cardID": "018",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "COR",
     "cardID": "019",
-    "keyword": "Reaction, Barrier"
+    "color": "Colorless"
   },
   {
     "setID": "COR",
     "cardID": "020",
-    "keyword": "Blockade"
+    "color": "Colorless"
   },
   {
     "setID": "COR",
     "cardID": "021",
-    "keyword": "Armored"
+    "color": "Colorless"
   },
   {
     "setID": "COR",
     "cardID": "022",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "COR",
     "cardID": "023",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "COR",
     "cardID": "024",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "COR",
     "cardID": "025",
-    "keyword": "Reaction"
+    "color": "Colorless"
   },
   {
     "setID": "COR",
     "cardID": "026",
-    "keyword": "Reposition"
+    "color": "Colorless"
   },
   {
     "setID": "COR",
     "cardID": "027",
-    "keyword": "Reaction"
+    "color": "Colorless"
   },
   {
     "setID": "COR",
     "cardID": "028",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "COR",
     "cardID": "029",
-    "keyword": "Deploy, Restrain"
+    "color": "Colorless"
   },
   {
     "setID": "COR",
     "cardID": "030",
-    "keyword": "Choose One"
+    "color": "Colorless"
   },
   {
     "setID": "COR",
     "cardID": "031",
-    "keyword": "Attach"
+    "color": "Colorless"
   },
   {
     "setID": "COR",
     "cardID": "032",
-    "keyword": "Equip, Reaction"
+    "color": "Colorless"
   },
   {
     "setID": "COR",
     "cardID": "033",
-    "keyword": "Deploy"
+    "color": "Colorless"
   },
   {
     "setID": "COR",
     "cardID": "034",
-    "keyword": "Summon"
+    "color": "Colorless"
   },
   {
     "setID": "COR",
     "cardID": "035",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "COR",
     "cardID": "036",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "COR",
     "cardID": "037",
-    "keyword": "Reach"
+    "color": "Colorless"
   },
   {
     "setID": "COR",
     "cardID": 150,
-    "keyword": ""
+    "color": "Green, Blue"
   },
   {
     "setID": "COR",
     "cardID": 151,
-    "keyword": ""
+    "color": "Green, Red"
   },
   {
     "setID": "COR",
     "cardID": 152,
-    "keyword": ""
+    "color": "Green, Purple"
   },
   {
     "setID": "COR",
     "cardID": 153,
-    "keyword": ""
+    "color": "Blue, Red"
   },
   {
     "setID": "COR",
     "cardID": 154,
-    "keyword": ""
+    "color": "Blue, Purple"
   },
   {
     "setID": "COR",
     "cardID": 155,
-    "keyword": ""
+    "color": "Red, Purple"
   },
   {
     "setID": "COR",
     "cardID": "T01",
-    "keyword": "Sacrifice"
+    "color": "Colorless"
   },
   {
     "setID": "COR",
     "cardID": "T02",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "COR",
     "cardID": "004",
-    "keyword": "Legend, Quick Strike"
+    "color": "Green"
   },
   {
     "setID": "COR",
     "cardID": "005",
-    "keyword": "Legend"
+    "color": "Green"
   },
   {
     "setID": "COR",
     "cardID": "038",
-    "keyword": "Invest"
+    "color": "Green"
   },
   {
     "setID": "COR",
     "cardID": "039",
-    "keyword": "Invest, Lethal"
+    "color": "Green"
   },
   {
     "setID": "COR",
     "cardID": "040",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "COR",
     "cardID": "041",
-    "keyword": "Blockade"
+    "color": "Green"
   },
   {
     "setID": "COR",
     "cardID": "042",
-    "keyword": "Exhaust"
+    "color": "Green"
   },
   {
     "setID": "COR",
     "cardID": "043",
-    "keyword": "Overheal"
+    "color": "Green"
   },
   {
     "setID": "COR",
     "cardID": "044",
-    "keyword": "Haste"
+    "color": "Green"
   },
   {
     "setID": "COR",
     "cardID": "045",
-    "keyword": "Breakthrough"
+    "color": "Green"
   },
   {
     "setID": "COR",
     "cardID": "046",
-    "keyword": "Reaction, Overpass"
+    "color": "Green"
   },
   {
     "setID": "COR",
     "cardID": "047",
-    "keyword": "Breakthrough, Barrier"
+    "color": "Green"
   },
   {
     "setID": "COR",
     "cardID": "048",
-    "keyword": "Breakthrough, Exhaust"
+    "color": "Green"
   },
   {
     "setID": "COR",
     "cardID": "049",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "COR",
     "cardID": "050",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "COR",
     "cardID": "051",
-    "keyword": "Reaction, Reposition"
+    "color": "Green"
   },
   {
     "setID": "COR",
     "cardID": "052",
-    "keyword": "Invest"
+    "color": "Green"
   },
   {
     "setID": "COR",
     "cardID": "053",
-    "keyword": "Transform"
+    "color": "Green"
   },
   {
     "setID": "COR",
     "cardID": "054",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "COR",
     "cardID": "055",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "COR",
     "cardID": "056",
-    "keyword": "Equip, Lethal"
+    "color": "Green"
   },
   {
     "setID": "COR",
     "cardID": "057",
-    "keyword": "Equip, Reaction"
+    "color": "Green"
   },
   {
     "setID": "COR",
     "cardID": "058",
-    "keyword": "Afflict"
+    "color": "Green"
   },
   {
     "setID": "COR",
     "cardID": "059",
-    "keyword": "Invest"
+    "color": "Green"
   },
   {
     "setID": "COR",
     "cardID": "060",
-    "keyword": "Equip, Quick Strike"
+    "color": "Green"
   },
   {
     "setID": "COR",
     "cardID": "061",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "COR",
     "cardID": "062",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "COR",
     "cardID": "063",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "COR",
     "cardID": "064",
-    "keyword": "Breakthrough"
+    "color": "Green"
   },
   {
     "setID": "COR",
     "cardID": "065",
-    "keyword": "Sacrifice"
+    "color": "Green"
   },
   {
     "setID": "COR",
     "cardID": "T03",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "COR",
     "cardID": "006",
-    "keyword": "Legend, Summon, Haste"
+    "color": "Blue"
   },
   {
     "setID": "COR",
     "cardID": "007",
-    "keyword": "Legend"
+    "color": "Blue"
   },
   {
     "setID": "COR",
     "cardID": "066",
-    "keyword": "Overpass, Spy"
+    "color": "Blue"
   },
   {
     "setID": "COR",
     "cardID": "067",
-    "keyword": "Invest"
+    "color": "Blue"
   },
   {
     "setID": "COR",
     "cardID": "068",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "COR",
     "cardID": "069",
-    "keyword": "Reaction, Armored"
+    "color": "Blue"
   },
   {
     "setID": "COR",
     "cardID": "070",
-    "keyword": "Haste, Overpass"
+    "color": "Blue"
   },
   {
     "setID": "COR",
     "cardID": "071",
-    "keyword": "Echo"
+    "color": "Blue"
   },
   {
     "setID": "COR",
     "cardID": "072",
-    "keyword": "Blockade, Armored"
+    "color": "Blue"
   },
   {
     "setID": "COR",
     "cardID": "073",
-    "keyword": "Breakthrough, Ruins"
+    "color": "Blue"
   },
   {
     "setID": "COR",
     "cardID": "074",
-    "keyword": "Ruins"
+    "color": "Blue"
   },
   {
     "setID": "COR",
     "cardID": "075",
-    "keyword": "Reaction"
+    "color": "Blue"
   },
   {
     "setID": "COR",
     "cardID": "076",
-    "keyword": "Allocate"
+    "color": "Blue"
   },
   {
     "setID": "COR",
     "cardID": "077",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "COR",
     "cardID": "078",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "COR",
     "cardID": "079",
-    "keyword": "Reaction, Afflict, Reposition"
+    "color": "Blue"
   },
   {
     "setID": "COR",
     "cardID": "080",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "COR",
     "cardID": "081",
-    "keyword": "Reaction, Afflict"
+    "color": "Blue"
   },
   {
     "setID": "COR",
     "cardID": "082",
-    "keyword": "Reaction, Deploy, Haste, Quick Strike"
+    "color": "Blue"
   },
   {
     "setID": "COR",
     "cardID": "083",
-    "keyword": "Equip, Reaction, Sacrifice, Sift"
+    "color": "Blue"
   },
   {
     "setID": "COR",
     "cardID": "084",
-    "keyword": "Afflict"
+    "color": "Blue"
   },
   {
     "setID": "COR",
     "cardID": "085",
-    "keyword": "Reaction"
+    "color": "Blue"
   },
   {
     "setID": "COR",
     "cardID": "086",
-    "keyword": "Choose One"
+    "color": "Blue"
   },
   {
     "setID": "COR",
     "cardID": "087",
-    "keyword": "Sift"
+    "color": "Blue"
   },
   {
     "setID": "COR",
     "cardID": "088",
-    "keyword": "Echo"
+    "color": "Blue"
   },
   {
     "setID": "COR",
     "cardID": "089",
-    "keyword": "Sift"
+    "color": "Blue"
   },
   {
     "setID": "COR",
     "cardID": "090",
-    "keyword": "Armored"
+    "color": "Blue"
   },
   {
     "setID": "COR",
     "cardID": "091",
-    "keyword": "Overpass"
+    "color": "Blue"
   },
   {
     "setID": "COR",
     "cardID": "092",
-    "keyword": "Reclaim"
+    "color": "Blue"
   },
   {
     "setID": "COR",
     "cardID": "093",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "COR",
     "cardID": "T04",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "COR",
     "cardID": "T05",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "COR",
     "cardID": "T06",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "COR",
     "cardID": "008",
-    "keyword": "Haste, Legend, Ephemeral, Sacrifice"
+    "color": "Red"
   },
   {
     "setID": "COR",
     "cardID": "009",
-    "keyword": "Spy, Legend, Reaction"
+    "color": "Red"
   },
   {
     "setID": "COR",
     "cardID": "094",
-    "keyword": "Overpass, Silence"
+    "color": "Red"
   },
   {
     "setID": "COR",
     "cardID": "095",
-    "keyword": "Invest"
+    "color": "Red"
   },
   {
     "setID": "COR",
     "cardID": "096",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "COR",
     "cardID": "097",
-    "keyword": "Ward, Spy"
+    "color": "Red"
   },
   {
     "setID": "COR",
     "cardID": "098",
-    "keyword": "Ward"
+    "color": "Red"
   },
   {
     "setID": "COR",
     "cardID": "099",
-    "keyword": "Overpass, Spy"
+    "color": "Red"
   },
   {
     "setID": "COR",
     "cardID": 100,
-    "keyword": "Ward"
+    "color": "Red"
   },
   {
     "setID": "COR",
     "cardID": 101,
-    "keyword": "Ward, Summon"
+    "color": "Red"
   },
   {
     "setID": "COR",
     "cardID": 102,
-    "keyword": "Reaction"
+    "color": "Red"
   },
   {
     "setID": "COR",
     "cardID": 103,
-    "keyword": "Summon, Invest"
+    "color": "Red"
   },
   {
     "setID": "COR",
     "cardID": 104,
-    "keyword": "Reaction, Barrier"
+    "color": "Red"
   },
   {
     "setID": "COR",
     "cardID": 105,
-    "keyword": "Breakthrough"
+    "color": "Red"
   },
   {
     "setID": "COR",
     "cardID": 106,
-    "keyword": "Summon, Invest, Haste"
+    "color": "Red"
   },
   {
     "setID": "COR",
     "cardID": 107,
-    "keyword": "Trash"
+    "color": "Red"
   },
   {
     "setID": "COR",
     "cardID": 108,
-    "keyword": "Spy"
+    "color": "Red"
   },
   {
     "setID": "COR",
     "cardID": 109,
-    "keyword": "Summon"
+    "color": "Red"
   },
   {
     "setID": "COR",
     "cardID": 110,
-    "keyword": "Exhaust, Echo"
+    "color": "Red"
   },
   {
     "setID": "COR",
     "cardID": 111,
-    "keyword": "Spy"
+    "color": "Red"
   },
   {
     "setID": "COR",
     "cardID": 112,
-    "keyword": "Equip, Reaction, Sacrifice"
+    "color": "Red"
   },
   {
     "setID": "COR",
     "cardID": 113,
-    "keyword": "Summon, Invest"
+    "color": "Red"
   },
   {
     "setID": "COR",
     "cardID": 114,
-    "keyword": "Choose One, Invest"
+    "color": "Red"
   },
   {
     "setID": "COR",
     "cardID": 115,
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "COR",
     "cardID": 116,
-    "keyword": "Untargetable, Equip, Ward"
+    "color": "Red"
   },
   {
     "setID": "COR",
     "cardID": 117,
-    "keyword": "Summon"
+    "color": "Red"
   },
   {
     "setID": "COR",
     "cardID": 118,
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "COR",
     "cardID": 119,
-    "keyword": "Exhaust"
+    "color": "Red"
   },
   {
     "setID": "COR",
     "cardID": 120,
-    "keyword": "Ward"
+    "color": "Red"
   },
   {
     "setID": "COR",
     "cardID": 121,
-    "keyword": "Summon, Spy, Sacrifice"
+    "color": "Red"
   },
   {
     "setID": "COR",
     "cardID": "T07",
-    "keyword": "Blockade, Barrier"
+    "color": "Red"
   },
   {
     "setID": "COR",
     "cardID": "T08",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "COR",
     "cardID": "T09",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "COR",
     "cardID": "T10",
-    "keyword": "Transform"
+    "color": "Red"
   },
   {
     "setID": "COR",
     "cardID": "T11",
-    "keyword": "Ward"
+    "color": "Red"
   },
   {
     "setID": "COR",
     "cardID": "010",
-    "keyword": "Mill, Legend"
+    "color": "Purple"
   },
   {
     "setID": "COR",
     "cardID": "011",
-    "keyword": "Legend, Mill, Summon"
+    "color": "Purple"
   },
   {
     "setID": "COR",
     "cardID": 122,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "COR",
     "cardID": 123,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "COR",
     "cardID": 124,
-    "keyword": "Invest, Convert"
+    "color": "Purple"
   },
   {
     "setID": "COR",
     "cardID": 125,
-    "keyword": "Overpass"
+    "color": "Purple"
   },
   {
     "setID": "COR",
     "cardID": 126,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "COR",
     "cardID": 127,
-    "keyword": "Convert"
+    "color": "Purple"
   },
   {
     "setID": "COR",
     "cardID": 128,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "COR",
     "cardID": 129,
-    "keyword": "Breakthrough, Mill"
+    "color": "Purple"
   },
   {
     "setID": "COR",
     "cardID": 130,
-    "keyword": "Overpass"
+    "color": "Purple"
   },
   {
     "setID": "COR",
     "cardID": 131,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "COR",
     "cardID": 132,
-    "keyword": "Convert, Sacrifice"
+    "color": "Purple"
   },
   {
     "setID": "COR",
     "cardID": 133,
-    "keyword": "Sacrifice"
+    "color": "Purple"
   },
   {
     "setID": "COR",
     "cardID": 134,
-    "keyword": "Invest"
+    "color": "Purple"
   },
   {
     "setID": "COR",
     "cardID": 135,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "COR",
     "cardID": 136,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "COR",
     "cardID": 137,
-    "keyword": "Convert"
+    "color": "Purple"
   },
   {
     "setID": "COR",
     "cardID": 138,
-    "keyword": "Sacrifice, Mill"
+    "color": "Purple"
   },
   {
     "setID": "COR",
     "cardID": 139,
-    "keyword": "Equip"
+    "color": "Purple"
   },
   {
     "setID": "COR",
     "cardID": 140,
-    "keyword": "Equip, Reaction, Sacrifice"
+    "color": "Purple"
   },
   {
     "setID": "COR",
     "cardID": 141,
-    "keyword": "Deploy, Mill"
+    "color": "Purple"
   },
   {
     "setID": "COR",
     "cardID": 142,
-    "keyword": "Deploy"
+    "color": "Purple"
   },
   {
     "setID": "COR",
     "cardID": 143,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "COR",
     "cardID": 144,
-    "keyword": "Attach, Reposition"
+    "color": "Purple"
   },
   {
     "setID": "COR",
     "cardID": 145,
-    "keyword": "Convert"
+    "color": "Purple"
   },
   {
     "setID": "COR",
     "cardID": 146,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "COR",
     "cardID": 147,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "COR",
     "cardID": 148,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "COR",
     "cardID": 149,
-    "keyword": "Sacrifice, Mill"
+    "color": "Purple"
   },
   {
     "setID": "COR",
     "cardID": "T12",
-    "keyword": "Mill"
+    "color": "Purple"
   },
   {
     "setID": "HOE",
     "cardID": "001",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "HOE",
     "cardID": "002",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "HOE",
     "cardID": "003",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "HOE",
     "cardID": "004",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "HOE",
     "cardID": "005",
-    "keyword": "Frailty, Quick Strike"
+    "color": "Colorless"
   },
   {
     "setID": "HOE",
     "cardID": "006",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "HOE",
     "cardID": "007",
-    "keyword": "Stealth"
+    "color": "Colorless"
   },
   {
     "setID": "HOE",
     "cardID": "008",
-    "keyword": "Silence"
+    "color": "Colorless"
   },
   {
     "setID": "HOE",
     "cardID": "009",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "HOE",
     "cardID": "010",
-    "keyword": "Blockade"
+    "color": "Green"
   },
   {
     "setID": "HOE",
     "cardID": "011",
-    "keyword": "Quick Strike"
+    "color": "Green"
   },
   {
     "setID": "HOE",
     "cardID": "012",
-    "keyword": "Exhaust, Reposition"
+    "color": "Green"
   },
   {
     "setID": "HOE",
     "cardID": "013",
-    "keyword": "Blockade, Armored"
+    "color": "Green"
   },
   {
     "setID": "HOE",
     "cardID": "014",
-    "keyword": "Breakthrough"
+    "color": "Green"
   },
   {
     "setID": "HOE",
     "cardID": "015",
-    "keyword": "Lethal"
+    "color": "Green"
   },
   {
     "setID": "HOE",
     "cardID": "016",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "HOE",
     "cardID": "017",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "HOE",
     "cardID": "018",
-    "keyword": "Breakthrough"
+    "color": "Green"
   },
   {
     "setID": "HOE",
     "cardID": "019",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "HOE",
     "cardID": "020",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "HOE",
     "cardID": "021",
-    "keyword": "Summon"
+    "color": "Green"
   },
   {
     "setID": "HOE",
     "cardID": "022",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "HOE",
     "cardID": "023",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "HOE",
     "cardID": "024",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "HOE",
     "cardID": "025",
-    "keyword": "Armored"
+    "color": "Green"
   },
   {
     "setID": "HOE",
     "cardID": "026",
-    "keyword": "Blockade"
+    "color": "Green"
   },
   {
     "setID": "HOE",
     "cardID": "027",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "HOE",
     "cardID": "028",
-    "keyword": "Deploy"
+    "color": "Green"
   },
   {
     "setID": "HOE",
     "cardID": "029",
-    "keyword": "Frailty"
+    "color": "Green"
   },
   {
     "setID": "HOE",
     "cardID": "030",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "HOE",
     "cardID": "031",
-    "keyword": "Frailty"
+    "color": "Green"
   },
   {
     "setID": "HOE",
     "cardID": "032",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "HOE",
     "cardID": "033",
-    "keyword": "Silence, Untargetable"
+    "color": "Green"
   },
   {
     "setID": "HOE",
     "cardID": "034",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "HOE",
     "cardID": "035",
-    "keyword": "Legend"
+    "color": "Blue"
   },
   {
     "setID": "HOE",
     "cardID": "036",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "HOE",
     "cardID": "037",
-    "keyword": "Armored"
+    "color": "Blue"
   },
   {
     "setID": "HOE",
     "cardID": "038",
-    "keyword": "Armored"
+    "color": "Blue"
   },
   {
     "setID": "HOE",
     "cardID": "039",
-    "keyword": "Frailty"
+    "color": "Blue"
   },
   {
     "setID": "HOE",
     "cardID": "040",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "HOE",
     "cardID": "041",
-    "keyword": "Convert"
+    "color": "Blue"
   },
   {
     "setID": "HOE",
     "cardID": "042",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "HOE",
     "cardID": "043",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "HOE",
     "cardID": "044",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "HOE",
     "cardID": "045",
-    "keyword": "Reaction, Frailty"
+    "color": "Blue"
   },
   {
     "setID": "HOE",
     "cardID": "046",
-    "keyword": "Reaction, Armored"
+    "color": "Blue"
   },
   {
     "setID": "HOE",
     "cardID": "047",
-    "keyword": "Frailty, Armored"
+    "color": "Blue"
   },
   {
     "setID": "HOE",
     "cardID": "048",
-    "keyword": "Deploy"
+    "color": "Blue"
   },
   {
     "setID": "HOE",
     "cardID": "049",
-    "keyword": "Reaction, Exhaust"
+    "color": "Blue"
   },
   {
     "setID": "HOE",
     "cardID": "050",
-    "keyword": "Attach, Exhaust"
+    "color": "Blue"
   },
   {
     "setID": "HOE",
     "cardID": "051",
-    "keyword": "Restrain"
+    "color": "Blue"
   },
   {
     "setID": "HOE",
     "cardID": "052",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "HOE",
     "cardID": "053",
-    "keyword": "Exhaust"
+    "color": "Blue"
   },
   {
     "setID": "HOE",
     "cardID": "054",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "HOE",
     "cardID": "055",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "HOE",
     "cardID": "056",
-    "keyword": "Reaction, Attach"
+    "color": "Blue"
   },
   {
     "setID": "HOE",
     "cardID": "057",
-    "keyword": "Deploy, Hoard, Trash"
+    "color": "Blue"
   },
   {
     "setID": "HOE",
     "cardID": "058",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "HOE",
     "cardID": "059",
-    "keyword": "Armored"
+    "color": "Blue"
   },
   {
     "setID": "HOE",
     "cardID": "060",
-    "keyword": "Frailty"
+    "color": "Blue"
   },
   {
     "setID": "HOE",
     "cardID": "061",
-    "keyword": "Armored, Frailty"
+    "color": "Blue"
   },
   {
     "setID": "HOE",
     "cardID": "062",
-    "keyword": "Leader, Legend, Summon"
+    "color": "Red"
   },
   {
     "setID": "HOE",
     "cardID": "063",
-    "keyword": "Invest"
+    "color": "Red"
   },
   {
     "setID": "HOE",
     "cardID": "064",
-    "keyword": "Leader"
+    "color": "Red"
   },
   {
     "setID": "HOE",
     "cardID": "065",
-    "keyword": "Crowd, Twin Strike"
+    "color": "Red"
   },
   {
     "setID": "HOE",
     "cardID": "066",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "HOE",
     "cardID": "067",
-    "keyword": "Crowd"
+    "color": "Red"
   },
   {
     "setID": "HOE",
     "cardID": "068",
-    "keyword": "Exhaust"
+    "color": "Red"
   },
   {
     "setID": "HOE",
     "cardID": "069",
-    "keyword": "Leader, Stealth"
+    "color": "Red"
   },
   {
     "setID": "HOE",
     "cardID": "070",
-    "keyword": "Crowd"
+    "color": "Red"
   },
   {
     "setID": "HOE",
     "cardID": "071",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "HOE",
     "cardID": "072",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "HOE",
     "cardID": "073",
-    "keyword": "Reaction"
+    "color": "Red"
   },
   {
     "setID": "HOE",
     "cardID": "074",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "HOE",
     "cardID": "075",
-    "keyword": "Summon"
+    "color": "Red"
   },
   {
     "setID": "HOE",
     "cardID": "076",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "HOE",
     "cardID": "077",
-    "keyword": "Leader"
+    "color": "Red"
   },
   {
     "setID": "HOE",
     "cardID": "078",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "HOE",
     "cardID": "079",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "HOE",
     "cardID": "080",
-    "keyword": "Equip, Reposition"
+    "color": "Red"
   },
   {
     "setID": "HOE",
     "cardID": "081",
-    "keyword": "Equip, Breakthrough, Overpass"
+    "color": "Red"
   },
   {
     "setID": "HOE",
     "cardID": "082",
-    "keyword": "Deploy, Reposition"
+    "color": "Red"
   },
   {
     "setID": "HOE",
     "cardID": "083",
-    "keyword": "Attach, Reaction"
+    "color": "Red"
   },
   {
     "setID": "HOE",
     "cardID": "084",
-    "keyword": "Invest, Crowd"
+    "color": "Red"
   },
   {
     "setID": "HOE",
     "cardID": "085",
-    "keyword": "Reaction"
+    "color": "Red"
   },
   {
     "setID": "HOE",
     "cardID": "086",
-    "keyword": "Summon"
+    "color": "Red"
   },
   {
     "setID": "HOE",
     "cardID": "087",
-    "keyword": "Leader"
+    "color": "Red"
   },
   {
     "setID": "HOE",
     "cardID": "088",
-    "keyword": "Leader, Crowd"
+    "color": "Red"
   },
   {
     "setID": "HOE",
     "cardID": "089",
-    "keyword": "Breakthrough, Legend, Scarcity"
+    "color": "Purple"
   },
   {
     "setID": "HOE",
     "cardID": "090",
-    "keyword": "Stealth"
+    "color": "Purple"
   },
   {
     "setID": "HOE",
     "cardID": "091",
-    "keyword": "Invest, Summon"
+    "color": "Purple"
   },
   {
     "setID": "HOE",
     "cardID": "092",
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "HOE",
     "cardID": "093",
-    "keyword": "Trash"
+    "color": "Purple"
   },
   {
     "setID": "HOE",
     "cardID": "094",
-    "keyword": "Reposition"
+    "color": "Purple"
   },
   {
     "setID": "HOE",
     "cardID": "095",
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "HOE",
     "cardID": "096",
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "HOE",
     "cardID": "097",
-    "keyword": "Overpass"
+    "color": "Purple"
   },
   {
     "setID": "HOE",
     "cardID": "098",
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "HOE",
     "cardID": "099",
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "HOE",
     "cardID": 100,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "HOE",
     "cardID": 101,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "HOE",
     "cardID": 102,
-    "keyword": "Scarcity"
+    "color": "Purple"
   },
   {
     "setID": "HOE",
     "cardID": 103,
-    "keyword": "Scarcity"
+    "color": "Purple"
   },
   {
     "setID": "HOE",
     "cardID": 104,
-    "keyword": "Scarcity"
+    "color": "Purple"
   },
   {
     "setID": "HOE",
     "cardID": 105,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "HOE",
     "cardID": 106,
-    "keyword": "Scarcity"
+    "color": "Purple"
   },
   {
     "setID": "HOE",
     "cardID": 107,
-    "keyword": "Restrain"
+    "color": "Purple"
   },
   {
     "setID": "HOE",
     "cardID": 108,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "HOE",
     "cardID": 109,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "HOE",
     "cardID": 110,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "HOE",
     "cardID": 111,
-    "keyword": "Exhaust, Scarcity"
+    "color": "Purple"
   },
   {
     "setID": "HOE",
     "cardID": 112,
-    "keyword": "Deploy, Exhaust"
+    "color": "Purple"
   },
   {
     "setID": "HOE",
     "cardID": 113,
-    "keyword": "Deploy, Haste"
+    "color": "Purple"
   },
   {
     "setID": "HOE",
     "cardID": 114,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "HOE",
     "cardID": 115,
-    "keyword": "Scarcity"
+    "color": "Purple"
   },
   {
     "setID": "HOE",
     "cardID": 116,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "ELM",
     "cardID": "001",
-    "keyword": "Breakthrough"
+    "color": "Red"
   },
   {
     "setID": "ELM",
     "cardID": "002",
-    "keyword": "Breakthrough"
+    "color": "Red"
   },
   {
     "setID": "ELM",
     "cardID": "003",
-    "keyword": "Breakthrough"
+    "color": "Red"
   },
   {
     "setID": "ELM",
     "cardID": "004",
-    "keyword": "Breakthrough, Barrier, Ward"
+    "color": "Red"
   },
   {
     "setID": "ELM",
     "cardID": "005",
-    "keyword": "Breakthrough"
+    "color": "Red"
   },
   {
     "setID": "ELM",
     "cardID": "006",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "ELM",
     "cardID": "007",
-    "keyword": "Summon, Invest"
+    "color": "Red"
   },
   {
     "setID": "ELM",
     "cardID": "008",
-    "keyword": "Summon"
+    "color": "Red"
   },
   {
     "setID": "ELM",
     "cardID": "009",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "ELM",
     "cardID": "010",
-    "keyword": "Downgrade, Summon"
+    "color": "Red"
   },
   {
     "setID": "ELM",
     "cardID": "011",
-    "keyword": "Summon"
+    "color": "Red"
   },
   {
     "setID": "ELM",
     "cardID": "012",
-    "keyword": "Trash"
+    "color": "Green"
   },
   {
     "setID": "ELM",
     "cardID": "013",
-    "keyword": "Invest"
+    "color": "Green"
   },
   {
     "setID": "ELM",
     "cardID": "014",
-    "keyword": "Trash"
+    "color": "Green"
   },
   {
     "setID": "ELM",
     "cardID": "015",
-    "keyword": "Lethal"
+    "color": "Green"
   },
   {
     "setID": "ELM",
     "cardID": "016",
-    "keyword": "Trash"
+    "color": "Green"
   },
   {
     "setID": "ELM",
     "cardID": "017",
-    "keyword": "Attach, Invest"
+    "color": "Green"
   },
   {
     "setID": "ELM",
     "cardID": "018",
-    "keyword": "Silence"
+    "color": "Green"
   },
   {
     "setID": "ELM",
     "cardID": "019",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "ELM",
     "cardID": "020",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "ELM",
     "cardID": "021",
-    "keyword": "Deploy"
+    "color": "Green"
   },
   {
     "setID": "ELM",
     "cardID": "022",
-    "keyword": "Reposition"
+    "color": "Green"
   },
   {
     "setID": "ELM",
     "cardID": "023",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "ELM",
     "cardID": "024",
-    "keyword": "Summon"
+    "color": "Blue"
   },
   {
     "setID": "ELM",
     "cardID": "025",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "ELM",
     "cardID": "026",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "ELM",
     "cardID": "027",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "ELM",
     "cardID": "028",
-    "keyword": "Reaction, First Strike"
+    "color": "Blue"
   },
   {
     "setID": "ELM",
     "cardID": "029",
-    "keyword": "Overpass, Armored"
+    "color": "Blue"
   },
   {
     "setID": "ELM",
     "cardID": "030",
-    "keyword": "Reaction, Armored"
+    "color": "Blue"
   },
   {
     "setID": "ELM",
     "cardID": "031",
-    "keyword": "Armored, Overpass"
+    "color": "Blue"
   },
   {
     "setID": "ELM",
     "cardID": "032",
-    "keyword": "Restrain, Armored"
+    "color": "Blue"
   },
   {
     "setID": "WHV",
     "cardID": "001",
-    "keyword": "Roll, Legend"
+    "color": "Colorless"
   },
   {
     "setID": "WHV",
     "cardID": "002",
-    "keyword": "Armored, Legend"
+    "color": "Colorless"
   },
   {
     "setID": "WHV",
     "cardID": "011",
-    "keyword": "Stealth"
+    "color": "Colorless"
   },
   {
     "setID": "WHV",
     "cardID": "012",
-    "keyword": "Blockade"
+    "color": "Colorless"
   },
   {
     "setID": "WHV",
     "cardID": "013",
-    "keyword": "Overpass, Spy"
+    "color": "Colorless"
   },
   {
     "setID": "WHV",
     "cardID": "014",
-    "keyword": "Armored"
+    "color": "Colorless"
   },
   {
     "setID": "WHV",
     "cardID": "015",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "WHV",
     "cardID": "016",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "WHV",
     "cardID": "017",
-    "keyword": "Reaction, Ward, Reposition"
+    "color": "Colorless"
   },
   {
     "setID": "WHV",
     "cardID": "018",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "WHV",
     "cardID": "019",
-    "keyword": "Depth"
+    "color": "Colorless"
   },
   {
     "setID": "WHV",
     "cardID": "020",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "WHV",
     "cardID": "021",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "WHV",
     "cardID": "022",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "WHV",
     "cardID": "023",
-    "keyword": "Attach"
+    "color": "Colorless"
   },
   {
     "setID": "WHV",
     "cardID": "024",
-    "keyword": "Depth"
+    "color": "Colorless"
   },
   {
     "setID": "WHV",
     "cardID": "025",
-    "keyword": "Invest"
+    "color": "Colorless"
   },
   {
     "setID": "WHV",
     "cardID": "026",
-    "keyword": "Depth"
+    "color": "Colorless"
   },
   {
     "setID": "WHV",
     "cardID": "027",
-    "keyword": "Legend"
+    "color": "Colorless"
   },
   {
     "setID": "WHV",
     "cardID": "084",
-    "keyword": "Depth, Mill"
+    "color": "Green, Purple"
   },
   {
     "setID": "WHV",
     "cardID": "085",
-    "keyword": "Depth, Mill"
+    "color": "Blue, Red"
   },
   {
     "setID": "WHV",
     "cardID": "003",
-    "keyword": "Transform, Legend"
+    "color": "Green"
   },
   {
     "setID": "WHV",
     "cardID": "004",
-    "keyword": "Legend"
+    "color": "Green"
   },
   {
     "setID": "WHV",
     "cardID": "028",
-    "keyword": "Breakthrough, Invest, Summon"
+    "color": "Green"
   },
   {
     "setID": "WHV",
     "cardID": "029",
-    "keyword": "Depth"
+    "color": "Green"
   },
   {
     "setID": "WHV",
     "cardID": "030",
-    "keyword": "Overpass, Invest"
+    "color": "Green"
   },
   {
     "setID": "WHV",
     "cardID": "031",
-    "keyword": "Depth, Quick Strike"
+    "color": "Green"
   },
   {
     "setID": "WHV",
     "cardID": "032",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "WHV",
     "cardID": "033",
-    "keyword": "Breakthrough"
+    "color": "Green"
   },
   {
     "setID": "WHV",
     "cardID": "034",
-    "keyword": "Reaction, Attach, Reposition, Ward"
+    "color": "Green"
   },
   {
     "setID": "WHV",
     "cardID": "035",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "WHV",
     "cardID": "036",
-    "keyword": "Attach, Silence"
+    "color": "Green"
   },
   {
     "setID": "WHV",
     "cardID": "037",
-    "keyword": "Attach"
+    "color": "Green"
   },
   {
     "setID": "WHV",
     "cardID": "038",
-    "keyword": "Overheal, Transform"
+    "color": "Green"
   },
   {
     "setID": "WHV",
     "cardID": "039",
-    "keyword": "Attach, Armored"
+    "color": "Green"
   },
   {
     "setID": "WHV",
     "cardID": "040",
-    "keyword": "Lethal"
+    "color": "Green"
   },
   {
     "setID": "WHV",
     "cardID": "041",
-    "keyword": "Reaction"
+    "color": "Green"
   },
   {
     "setID": "WHV",
     "cardID": "T01",
-    "keyword": "Breakthrough"
+    "color": "Green"
   },
   {
     "setID": "WHV",
     "cardID": "T08",
-    "keyword": "Legend"
+    "color": "Green"
   },
   {
     "setID": "WHV",
     "cardID": "T09",
-    "keyword": "Deploy"
+    "color": "Green"
   },
   {
     "setID": "WHV",
     "cardID": "005",
-    "keyword": "Transform, Legend, Stealth, Reposition"
+    "color": "Blue"
   },
   {
     "setID": "WHV",
     "cardID": "006",
-    "keyword": "Legend, Stealth"
+    "color": "Blue"
   },
   {
     "setID": "WHV",
     "cardID": "042",
-    "keyword": "Invest, Summon"
+    "color": "Blue"
   },
   {
     "setID": "WHV",
     "cardID": "043",
-    "keyword": "Armored, Stealth"
+    "color": "Blue"
   },
   {
     "setID": "WHV",
     "cardID": "044",
-    "keyword": "Stealth"
+    "color": "Blue"
   },
   {
     "setID": "WHV",
     "cardID": "045",
-    "keyword": "Armored"
+    "color": "Blue"
   },
   {
     "setID": "WHV",
     "cardID": "046",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "WHV",
     "cardID": "047",
-    "keyword": "Allocate"
+    "color": "Blue"
   },
   {
     "setID": "WHV",
     "cardID": "048",
-    "keyword": "Depth, Sift"
+    "color": "Blue"
   },
   {
     "setID": "WHV",
     "cardID": "049",
-    "keyword": "Depth"
+    "color": "Blue"
   },
   {
     "setID": "WHV",
     "cardID": "050",
-    "keyword": "Depth, Transform"
+    "color": "Blue"
   },
   {
     "setID": "WHV",
     "cardID": "051",
-    "keyword": "Sift, Armored"
+    "color": "Blue"
   },
   {
     "setID": "WHV",
     "cardID": "052",
-    "keyword": "Attach, Quick Strike, Twin Strike"
+    "color": "Blue"
   },
   {
     "setID": "WHV",
     "cardID": "053",
-    "keyword": "Attach, Trash"
+    "color": "Blue"
   },
   {
     "setID": "WHV",
     "cardID": "054",
-    "keyword": "Deploy, Depth, Sift, Mill"
+    "color": "Blue"
   },
   {
     "setID": "WHV",
     "cardID": "055",
-    "keyword": "Reaction"
+    "color": "Blue"
   },
   {
     "setID": "WHV",
     "cardID": "T02",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "WHV",
     "cardID": "T03",
-    "keyword": "Attach, Stealth"
+    "color": "Blue"
   },
   {
     "setID": "WHV",
     "cardID": "T10",
-    "keyword": "Overpass, Legend"
+    "color": "Blue"
   },
   {
     "setID": "WHV",
     "cardID": "T11",
-    "keyword": "Blockade, Exhaust, Sift"
+    "color": "Blue"
   },
   {
     "setID": "WHV",
     "cardID": "007",
-    "keyword": "Transform, Legend, Trash"
+    "color": "Red"
   },
   {
     "setID": "WHV",
     "cardID": "008",
-    "keyword": "Legend, Silence, Sacrifice"
+    "color": "Red"
   },
   {
     "setID": "WHV",
     "cardID": "056",
-    "keyword": "Sacrifice, Invest"
+    "color": "Red"
   },
   {
     "setID": "WHV",
     "cardID": "057",
-    "keyword": "Summon, Silence"
+    "color": "Red"
   },
   {
     "setID": "WHV",
     "cardID": "058",
-    "keyword": "Depth"
+    "color": "Red"
   },
   {
     "setID": "WHV",
     "cardID": "059",
-    "keyword": "Overpass, Choose One, Sacrifice"
+    "color": "Red"
   },
   {
     "setID": "WHV",
     "cardID": "060",
-    "keyword": "Transform"
+    "color": "Red"
   },
   {
     "setID": "WHV",
     "cardID": "061",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "WHV",
     "cardID": "062",
-    "keyword": "Reaction, Attach, Ward, Barrier"
+    "color": "Red"
   },
   {
     "setID": "WHV",
     "cardID": "063",
-    "keyword": "Reaction"
+    "color": "Red"
   },
   {
     "setID": "WHV",
     "cardID": "064",
-    "keyword": "Depth, Silence"
+    "color": "Red"
   },
   {
     "setID": "WHV",
     "cardID": "065",
-    "keyword": "Summon"
+    "color": "Red"
   },
   {
     "setID": "WHV",
     "cardID": "066",
-    "keyword": "Spy"
+    "color": "Red"
   },
   {
     "setID": "WHV",
     "cardID": "067",
-    "keyword": "Attach, Silence, Sacrifice"
+    "color": "Red"
   },
   {
     "setID": "WHV",
     "cardID": "068",
-    "keyword": "Summon, Ward"
+    "color": "Red"
   },
   {
     "setID": "WHV",
     "cardID": "069",
-    "keyword": "Reaction"
+    "color": "Red"
   },
   {
     "setID": "WHV",
     "cardID": "T04",
-    "keyword": "Overpass"
+    "color": "Red"
   },
   {
     "setID": "WHV",
     "cardID": "T05",
-    "keyword": "Sacrifice"
+    "color": "Red"
   },
   {
     "setID": "WHV",
     "cardID": "T12",
-    "keyword": "Legend, Trash, Silence"
+    "color": "Red"
   },
   {
     "setID": "WHV",
     "cardID": "T13",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "WHV",
     "cardID": "009",
-    "keyword": "Transform"
+    "color": "Purple"
   },
   {
     "setID": "WHV",
     "cardID": "010",
-    "keyword": "Legend, Trash"
+    "color": "Purple"
   },
   {
     "setID": "WHV",
     "cardID": "070",
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "WHV",
     "cardID": "071",
-    "keyword": "Invest, Summon"
+    "color": "Purple"
   },
   {
     "setID": "WHV",
     "cardID": "072",
-    "keyword": "Depth, Stealth"
+    "color": "Purple"
   },
   {
     "setID": "WHV",
     "cardID": "073",
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "WHV",
     "cardID": "074",
-    "keyword": "Trash"
+    "color": "Purple"
   },
   {
     "setID": "WHV",
     "cardID": "075",
-    "keyword": "Breakthrough, Haste"
+    "color": "Purple"
   },
   {
     "setID": "WHV",
     "cardID": "076",
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "WHV",
     "cardID": "077",
-    "keyword": "Invest"
+    "color": "Purple"
   },
   {
     "setID": "WHV",
     "cardID": "078",
-    "keyword": "Depth"
+    "color": "Purple"
   },
   {
     "setID": "WHV",
     "cardID": "079",
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "WHV",
     "cardID": "080",
-    "keyword": "Reaction"
+    "color": "Purple"
   },
   {
     "setID": "WHV",
     "cardID": "081",
-    "keyword": "Convert"
+    "color": "Purple"
   },
   {
     "setID": "WHV",
     "cardID": "082",
-    "keyword": "Attach"
+    "color": "Purple"
   },
   {
     "setID": "WHV",
     "cardID": "083",
-    "keyword": "Reaction"
+    "color": "Purple"
   },
   {
     "setID": "WHV",
     "cardID": "T06",
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "WHV",
     "cardID": "T07",
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "WHV",
     "cardID": "T14",
-    "keyword": "Stealth, Legend, Convert"
+    "color": "Purple"
   },
   {
     "setID": "WHV",
     "cardID": "T15",
-    "keyword": "Breakthrough"
+    "color": "Purple"
   },
   {
     "setID": "DEP",
     "cardID": "001",
-    "keyword": "Legend"
+    "color": "Colorless"
   },
   {
     "setID": "DEP",
     "cardID": "010",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "DEP",
     "cardID": "011",
-    "keyword": "Depth, Overpass"
+    "color": "Colorless"
   },
   {
     "setID": "DEP",
     "cardID": "012",
-    "keyword": "Echo"
+    "color": "Colorless"
   },
   {
     "setID": "DEP",
     "cardID": "013",
-    "keyword": "Depth, Armored"
+    "color": "Colorless"
   },
   {
     "setID": "DEP",
     "cardID": "014",
-    "keyword": "Echo"
+    "color": "Colorless"
   },
   {
     "setID": "DEP",
     "cardID": "015",
-    "keyword": "Trash"
+    "color": "Colorless"
   },
   {
     "setID": "DEP",
     "cardID": "016",
-    "keyword": "Trash"
+    "color": "Colorless"
   },
   {
     "setID": "DEP",
     "cardID": "017",
-    "keyword": "Invest, Depth"
+    "color": "Colorless"
   },
   {
     "setID": "DEP",
     "cardID": "018",
-    "keyword": "Attach, Depth"
+    "color": "Colorless"
   },
   {
     "setID": "DEP",
     "cardID": "019",
-    "keyword": "Echo"
+    "color": "Colorless"
   },
   {
     "setID": "DEP",
     "cardID": "020",
-    "keyword": "Trash"
+    "color": "Colorless"
   },
   {
     "setID": "DEP",
     "cardID": "021",
-    "keyword": "Downgrade"
+    "color": "Colorless"
   },
   {
     "setID": "DEP",
     "cardID": "022",
-    "keyword": "Depth"
+    "color": "Colorless"
   },
   {
     "setID": "DEP",
     "cardID": "002",
-    "keyword": "Legend"
+    "color": "Green"
   },
   {
     "setID": "DEP",
     "cardID": "023",
-    "keyword": "Reaction"
+    "color": "Green"
   },
   {
     "setID": "DEP",
     "cardID": "024",
-    "keyword": "Exhaust"
+    "color": "Green"
   },
   {
     "setID": "DEP",
     "cardID": "025",
-    "keyword": "Lethal"
+    "color": "Green"
   },
   {
     "setID": "DEP",
     "cardID": "026",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "DEP",
     "cardID": "027",
-    "keyword": "Depth, Summon"
+    "color": "Green"
   },
   {
     "setID": "DEP",
     "cardID": "028",
-    "keyword": "Breakthrough"
+    "color": "Green"
   },
   {
     "setID": "DEP",
     "cardID": "029",
-    "keyword": "Depth, Barrier, Echo"
+    "color": "Green"
   },
   {
     "setID": "DEP",
     "cardID": "030",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "DEP",
     "cardID": "031",
-    "keyword": "Breakthrough"
+    "color": "Green"
   },
   {
     "setID": "DEP",
     "cardID": "032",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "DEP",
     "cardID": "033",
-    "keyword": "Depth"
+    "color": "Green"
   },
   {
     "setID": "DEP",
     "cardID": "034",
-    "keyword": "Attach, Echo"
+    "color": "Green"
   },
   {
     "setID": "DEP",
     "cardID": "035",
-    "keyword": "Reaction"
+    "color": "Green"
   },
   {
     "setID": "DEP",
     "cardID": "036",
-    "keyword": "Depth, Invest, Exhaust, Breakthrough"
+    "color": "Green"
   },
   {
     "setID": "DEP",
     "cardID": "037",
-    "keyword": "Attach, Armored"
+    "color": "Green"
   },
   {
     "setID": "DEP",
     "cardID": "038",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "DEP",
     "cardID": "039",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "DEP",
     "cardID": "040",
-    "keyword": "Spy, Echo"
+    "color": "Green"
   },
   {
     "setID": "DEP",
     "cardID": "041",
-    "keyword": "Deploy"
+    "color": "Green"
   },
   {
     "setID": "DEP",
     "cardID": "042",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "DEP",
     "cardID": "T01",
-    "keyword": "Depth"
+    "color": "Green"
   },
   {
     "setID": "DEP",
     "cardID": "003",
-    "keyword": "Legend"
+    "color": "Blue"
   },
   {
     "setID": "DEP",
     "cardID": "043",
-    "keyword": "Stealth"
+    "color": "Blue"
   },
   {
     "setID": "DEP",
     "cardID": "044",
-    "keyword": "Armored"
+    "color": "Blue"
   },
   {
     "setID": "DEP",
     "cardID": "045",
-    "keyword": "Stealth"
+    "color": "Blue"
   },
   {
     "setID": "DEP",
     "cardID": "046",
-    "keyword": "Depth, Echo"
+    "color": "Blue"
   },
   {
     "setID": "DEP",
     "cardID": "047",
-    "keyword": "Armored, Reposition, Stealth"
+    "color": "Blue"
   },
   {
     "setID": "DEP",
     "cardID": "048",
-    "keyword": "Armored, Breakthrough, Reaction"
+    "color": "Blue"
   },
   {
     "setID": "DEP",
     "cardID": "049",
-    "keyword": "Armored, Depth"
+    "color": "Blue"
   },
   {
     "setID": "DEP",
     "cardID": "050",
-    "keyword": "Armored, Barrier, Stealth"
+    "color": "Blue"
   },
   {
     "setID": "DEP",
     "cardID": "051",
-    "keyword": "Sift"
+    "color": "Blue"
   },
   {
     "setID": "DEP",
     "cardID": "052",
-    "keyword": "Reposition"
+    "color": "Blue"
   },
   {
     "setID": "DEP",
     "cardID": "053",
-    "keyword": "Depth, Invest"
+    "color": "Blue"
   },
   {
     "setID": "DEP",
     "cardID": "054",
-    "keyword": "Stealth"
+    "color": "Blue"
   },
   {
     "setID": "DEP",
     "cardID": "055",
-    "keyword": "Stealth"
+    "color": "Blue"
   },
   {
     "setID": "DEP",
     "cardID": "056",
-    "keyword": "Deploy"
+    "color": "Blue"
   },
   {
     "setID": "DEP",
     "cardID": "057",
-    "keyword": "Deploy"
+    "color": "Blue"
   },
   {
     "setID": "DEP",
     "cardID": "058",
-    "keyword": "Depth, Attach, Armored"
+    "color": "Blue"
   },
   {
     "setID": "DEP",
     "cardID": "059",
-    "keyword": "Spy, Echo"
+    "color": "Blue"
   },
   {
     "setID": "DEP",
     "cardID": "060",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "DEP",
     "cardID": "061",
-    "keyword": "Deploy"
+    "color": "Blue"
   },
   {
     "setID": "DEP",
     "cardID": "062",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "DEP",
     "cardID": "004",
-    "keyword": "Legend"
+    "color": "Red"
   },
   {
     "setID": "DEP",
     "cardID": "063",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "DEP",
     "cardID": "064",
-    "keyword": "Reaction, Ward, Exhaust"
+    "color": "Red"
   },
   {
     "setID": "DEP",
     "cardID": "065",
-    "keyword": "Ward, Summon"
+    "color": "Red"
   },
   {
     "setID": "DEP",
     "cardID": "066",
-    "keyword": "Ward, Deploy"
+    "color": "Red"
   },
   {
     "setID": "DEP",
     "cardID": "067",
-    "keyword": "Ward, Echo"
+    "color": "Red"
   },
   {
     "setID": "DEP",
     "cardID": "068",
-    "keyword": "Depth, Summon"
+    "color": "Red"
   },
   {
     "setID": "DEP",
     "cardID": "069",
-    "keyword": "Armored"
+    "color": "Red"
   },
   {
     "setID": "DEP",
     "cardID": "070",
-    "keyword": "Barrier"
+    "color": "Red"
   },
   {
     "setID": "DEP",
     "cardID": "071",
-    "keyword": "Depth"
+    "color": "Red"
   },
   {
     "setID": "DEP",
     "cardID": "072",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "DEP",
     "cardID": "073",
-    "keyword": "Reaction"
+    "color": "Red"
   },
   {
     "setID": "DEP",
     "cardID": "074",
-    "keyword": "Silence, Invest"
+    "color": "Red"
   },
   {
     "setID": "DEP",
     "cardID": "075",
-    "keyword": "Echo"
+    "color": "Red"
   },
   {
     "setID": "DEP",
     "cardID": "076",
-    "keyword": "Attach"
+    "color": "Red"
   },
   {
     "setID": "DEP",
     "cardID": "077",
-    "keyword": "Attach"
+    "color": "Red"
   },
   {
     "setID": "DEP",
     "cardID": "078",
-    "keyword": "Depth, Invest"
+    "color": "Red"
   },
   {
     "setID": "DEP",
     "cardID": "079",
-    "keyword": "Attach"
+    "color": "Red"
   },
   {
     "setID": "DEP",
     "cardID": "080",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "DEP",
     "cardID": "081",
-    "keyword": "Spy, Echo"
+    "color": "Red"
   },
   {
     "setID": "DEP",
     "cardID": "082",
-    "keyword": "Summon"
+    "color": "Red"
   },
   {
     "setID": "DEP",
     "cardID": "T02",
-    "keyword": "Ward"
+    "color": "Red"
   },
   {
     "setID": "DEP",
     "cardID": "005",
-    "keyword": "Legend, Stealth, Haste"
+    "color": "Purple"
   },
   {
     "setID": "DEP",
     "cardID": "083",
-    "keyword": "Reaction, Convert, Echo"
+    "color": "Purple"
   },
   {
     "setID": "DEP",
     "cardID": "084",
-    "keyword": "First Strike"
+    "color": "Purple"
   },
   {
     "setID": "DEP",
     "cardID": "085",
-    "keyword": "Covnert"
+    "color": "Purple"
   },
   {
     "setID": "DEP",
     "cardID": "086",
-    "keyword": "Invest, Echo"
+    "color": "Purple"
   },
   {
     "setID": "DEP",
     "cardID": "087",
-    "keyword": "Depth, Blockade"
+    "color": "Purple"
   },
   {
     "setID": "DEP",
     "cardID": "088",
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "DEP",
     "cardID": "089",
-    "keyword": "Barrier, Reposition, Mill"
+    "color": "Purple"
   },
   {
     "setID": "DEP",
     "cardID": "090",
-    "keyword": "Depth, Mill"
+    "color": "Purple"
   },
   {
     "setID": "DEP",
     "cardID": "091",
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "DEP",
     "cardID": "092",
-    "keyword": "Depth"
+    "color": "Purple"
   },
   {
     "setID": "DEP",
     "cardID": "093",
-    "keyword": "Mill"
+    "color": "Purple"
   },
   {
     "setID": "DEP",
     "cardID": "094",
-    "keyword": "Depth"
+    "color": "Purple"
   },
   {
     "setID": "DEP",
     "cardID": "096",
-    "keyword": "Depth"
+    "color": "Purple"
   },
   {
     "setID": "DEP",
     "cardID": "097",
-    "keyword": "Depth, Invest, Mill"
+    "color": "Purple"
   },
   {
     "setID": "DEP",
     "cardID": "098",
-    "keyword": "Attach"
+    "color": "Purple"
   },
   {
     "setID": "DEP",
     "cardID": "099",
-    "keyword": "Mill"
+    "color": "Purple"
   },
   {
     "setID": "DEP",
     "cardID": 100,
-    "keyword": "Depth"
+    "color": "Purple"
   },
   {
     "setID": "DEP",
     "cardID": 101,
-    "keyword": "Spy, Echo"
+    "color": "Purple"
   },
   {
     "setID": "DEP",
     "cardID": 102,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "DEP",
     "cardID": "006",
-    "keyword": "Legend"
+    "color": "Green, Blue"
   },
   {
     "setID": "DEP",
     "cardID": "007",
-    "keyword": "Blockade, Legend"
+    "color": "Green, Red"
   },
   {
     "setID": "DEP",
     "cardID": "008",
-    "keyword": "Sift, Legend"
+    "color": "Blue, Purple"
   },
   {
     "setID": "DEP",
     "cardID": "009",
-    "keyword": "Unblockable, Legend, Summon"
+    "color": "Red, Purple"
   },
   {
     "setID": "DEP",
     "cardID": 103,
-    "keyword": ""
+    "color": "Green, Blue"
   },
   {
     "setID": "DEP",
     "cardID": 104,
-    "keyword": ""
+    "color": "Green, Red"
   },
   {
     "setID": "DEP",
     "cardID": 105,
-    "keyword": "Mill"
+    "color": "Green, Purple"
   },
   {
     "setID": "DEP",
     "cardID": 106,
-    "keyword": "Armored, Ward"
+    "color": "Blue, Red"
   },
   {
     "setID": "DEP",
     "cardID": 107,
-    "keyword": ""
+    "color": "Blue, Purple"
   },
   {
     "setID": "DEP",
     "cardID": 108,
-    "keyword": "Overpass"
+    "color": "Red, Purple"
   },
   {
     "setID": "DEP",
     "cardID": 109,
-    "keyword": "Depth, Mill"
+    "color": "Green, Red"
   },
   {
     "setID": "DEP",
     "cardID": 110,
-    "keyword": "Depth, Mill"
+    "color": "Blue, Purple"
   },
   {
     "setID": "QIL",
     "cardID": "001",
-    "keyword": "Legendary, Summon"
+    "color": "Colorless"
   },
   {
     "setID": "QIL",
     "cardID": "013",
-    "keyword": "Depth"
+    "color": "Colorless"
   },
   {
     "setID": "QIL",
     "cardID": "014",
-    "keyword": "Haste, Trash"
+    "color": "Colorless"
   },
   {
     "setID": "QIL",
     "cardID": "015",
-    "keyword": "Summon"
+    "color": "Colorless"
   },
   {
     "setID": "QIL",
     "cardID": "016",
-    "keyword": "Depth, Quick Strike"
+    "color": "Colorless"
   },
   {
     "setID": "QIL",
     "cardID": "017",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "QIL",
     "cardID": "018",
-    "keyword": "Depth, Reaction"
+    "color": "Colorless"
   },
   {
     "setID": "QIL",
     "cardID": "019",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "QIL",
     "cardID": "020",
-    "keyword": "Attach"
+    "color": "Colorless"
   },
   {
     "setID": "QIL",
     "cardID": "021",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "QIL",
     "cardID": "022",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "QIL",
     "cardID": "023",
-    "keyword": "Spy"
+    "color": "Colorless"
   },
   {
     "setID": "QIL",
     "cardID": "024",
-    "keyword": "Depth, Unblockable"
+    "color": "Colorless"
   },
   {
     "setID": "QIL",
     "cardID": "025",
-    "keyword": "Ward"
+    "color": "Colorless"
   },
   {
     "setID": "QIL",
     "cardID": "T01",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "QIL",
     "cardID": "T02",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "QIL",
     "cardID": "002",
-    "keyword": "Unblockable, Legend"
+    "color": "Green"
   },
   {
     "setID": "QIL",
     "cardID": "026",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "QIL",
     "cardID": "027",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "QIL",
     "cardID": "028",
-    "keyword": "Invest, Convert"
+    "color": "Green"
   },
   {
     "setID": "QIL",
     "cardID": "029",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "QIL",
     "cardID": "030",
-    "keyword": "Overpass"
+    "color": "Green"
   },
   {
     "setID": "QIL",
     "cardID": "031",
-    "keyword": "Lethal"
+    "color": "Green"
   },
   {
     "setID": "QIL",
     "cardID": "032",
-    "keyword": "Breakthrough"
+    "color": "Green"
   },
   {
     "setID": "QIL",
     "cardID": "033",
-    "keyword": "Armored"
+    "color": "Green"
   },
   {
     "setID": "QIL",
     "cardID": "034",
-    "keyword": "Sacrifice"
+    "color": "Green"
   },
   {
     "setID": "QIL",
     "cardID": "035",
-    "keyword": "Lethal"
+    "color": "Green"
   },
   {
     "setID": "QIL",
     "cardID": "036",
-    "keyword": "Reaction, Invest, Armored"
+    "color": "Green"
   },
   {
     "setID": "QIL",
     "cardID": "037",
-    "keyword": "Reaction, Barrier"
+    "color": "Green"
   },
   {
     "setID": "QIL",
     "cardID": "038",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "QIL",
     "cardID": "039",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "QIL",
     "cardID": "040",
-    "keyword": "Trash"
+    "color": "Green"
   },
   {
     "setID": "QIL",
     "cardID": "041",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "QIL",
     "cardID": "042",
-    "keyword": "Summon, Haste"
+    "color": "Green"
   },
   {
     "setID": "QIL",
     "cardID": "043",
-    "keyword": "Deploy"
+    "color": "Green"
   },
   {
     "setID": "QIL",
     "cardID": "044",
-    "keyword": "Attach"
+    "color": "Green"
   },
   {
     "setID": "QIL",
     "cardID": "045",
-    "keyword": "Reaction, Downgrade"
+    "color": "Green"
   },
   {
     "setID": "QIL",
     "cardID": "T03",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "QIL",
     "cardID": "003",
-    "keyword": "Summon, Sift"
+    "color": "Blue"
   },
   {
     "setID": "QIL",
     "cardID": "046",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "QIL",
     "cardID": "047",
-    "keyword": "Overpass, Invest, Reaction"
+    "color": "Blue"
   },
   {
     "setID": "QIL",
     "cardID": "048",
-    "keyword": "Invest"
+    "color": "Blue"
   },
   {
     "setID": "QIL",
     "cardID": "049",
-    "keyword": "Summon, Downgrade"
+    "color": "Blue"
   },
   {
     "setID": "QIL",
     "cardID": "050",
-    "keyword": "Echo"
+    "color": "Blue"
   },
   {
     "setID": "QIL",
     "cardID": "051",
-    "keyword": "Overpass"
+    "color": "Blue"
   },
   {
     "setID": "QIL",
     "cardID": "052",
-    "keyword": "Trash"
+    "color": "Blue"
   },
   {
     "setID": "QIL",
     "cardID": "053",
-    "keyword": "Exhaust"
+    "color": "Blue"
   },
   {
     "setID": "QIL",
     "cardID": "054",
-    "keyword": "Sacrifice"
+    "color": "Blue"
   },
   {
     "setID": "QIL",
     "cardID": "055",
-    "keyword": "Sift"
+    "color": "Blue"
   },
   {
     "setID": "QIL",
     "cardID": "056",
-    "keyword": "Reposition"
+    "color": "Blue"
   },
   {
     "setID": "QIL",
     "cardID": "057",
-    "keyword": "Reaction, Reposition"
+    "color": "Blue"
   },
   {
     "setID": "QIL",
     "cardID": "058",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "QIL",
     "cardID": "059",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "QIL",
     "cardID": "060",
-    "keyword": "Reaction"
+    "color": "Blue"
   },
   {
     "setID": "QIL",
     "cardID": "061",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "QIL",
     "cardID": "062",
-    "keyword": "Deploy"
+    "color": "Blue"
   },
   {
     "setID": "QIL",
     "cardID": "063",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "QIL",
     "cardID": "064",
-    "keyword": "Downgrade"
+    "color": "Blue"
   },
   {
     "setID": "QIL",
     "cardID": "065",
-    "keyword": "Reaction, Downgrade"
+    "color": "Blue"
   },
   {
     "setID": "QIL",
     "cardID": "T04",
-    "keyword": "Depth, Sift"
+    "color": "Blue"
   },
   {
     "setID": "QIL",
     "cardID": "T05",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "QIL",
     "cardID": "004",
-    "keyword": "Depth, Attach, Legend, Trash"
+    "color": "Red"
   },
   {
     "setID": "QIL",
     "cardID": "066",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "QIL",
     "cardID": "067",
-    "keyword": "Echo"
+    "color": "Red"
   },
   {
     "setID": "QIL",
     "cardID": "068",
-    "keyword": "Breakthrough"
+    "color": "Red"
   },
   {
     "setID": "QIL",
     "cardID": "069",
-    "keyword": "Reaction, Overpass, Silence"
+    "color": "Red"
   },
   {
     "setID": "QIL",
     "cardID": "070",
-    "keyword": "Ward"
+    "color": "Red"
   },
   {
     "setID": "QIL",
     "cardID": "071",
-    "keyword": "Breakthrough, Silence"
+    "color": "Red"
   },
   {
     "setID": "QIL",
     "cardID": "072",
-    "keyword": "Ward"
+    "color": "Red"
   },
   {
     "setID": "QIL",
     "cardID": "073",
-    "keyword": "Sacrifice"
+    "color": "Red"
   },
   {
     "setID": "QIL",
     "cardID": "074",
-    "keyword": "Silence"
+    "color": "Red"
   },
   {
     "setID": "QIL",
     "cardID": "075",
-    "keyword": "Silence"
+    "color": "Red"
   },
   {
     "setID": "QIL",
     "cardID": "076",
-    "keyword": "Silence"
+    "color": "Red"
   },
   {
     "setID": "QIL",
     "cardID": "077",
-    "keyword": "Silence"
+    "color": "Red"
   },
   {
     "setID": "QIL",
     "cardID": "078",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "QIL",
     "cardID": "079",
-    "keyword": "Reposition, Invest"
+    "color": "Red"
   },
   {
     "setID": "QIL",
     "cardID": "080",
-    "keyword": "Reaction"
+    "color": "Red"
   },
   {
     "setID": "QIL",
     "cardID": "081",
-    "keyword": "Silence"
+    "color": "Red"
   },
   {
     "setID": "QIL",
     "cardID": "082",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "QIL",
     "cardID": "083",
-    "keyword": "Attach"
+    "color": "Red"
   },
   {
     "setID": "QIL",
     "cardID": "084",
-    "keyword": "Attach"
+    "color": "Red"
   },
   {
     "setID": "QIL",
     "cardID": "085",
-    "keyword": "Reaction, Downgrade"
+    "color": "Red"
   },
   {
     "setID": "QIL",
     "cardID": "005",
-    "keyword": "Attach, Legend"
+    "color": "Purple"
   },
   {
     "setID": "QIL",
     "cardID": "086",
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "QIL",
     "cardID": "087",
-    "keyword": "Mill"
+    "color": "Purple"
   },
   {
     "setID": "QIL",
     "cardID": "088",
-    "keyword": "Mill, Invest"
+    "color": "Purple"
   },
   {
     "setID": "QIL",
     "cardID": "089",
-    "keyword": "Summon"
+    "color": "Purple"
   },
   {
     "setID": "QIL",
     "cardID": "090",
-    "keyword": "Lethal"
+    "color": "Purple"
   },
   {
     "setID": "QIL",
     "cardID": "091",
-    "keyword": "Summon"
+    "color": "Purple"
   },
   {
     "setID": "QIL",
     "cardID": "092",
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "QIL",
     "cardID": "093",
-    "keyword": "Convert"
+    "color": "Purple"
   },
   {
     "setID": "QIL",
     "cardID": "094",
-    "keyword": "Depth, Overpass, Trash, Summon"
+    "color": "Purple"
   },
   {
     "setID": "QIL",
     "cardID": "095",
-    "keyword": "Sacrifice"
+    "color": "Purple"
   },
   {
     "setID": "QIL",
     "cardID": "096",
-    "keyword": "Reaction, Attach"
+    "color": "Purple"
   },
   {
     "setID": "QIL",
     "cardID": "097",
-    "keyword": "Reaction"
+    "color": "Purple"
   },
   {
     "setID": "QIL",
     "cardID": "098",
-    "keyword": "Invest"
+    "color": "Purple"
   },
   {
     "setID": "QIL",
     "cardID": "099",
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "QIL",
     "cardID": 100,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "QIL",
     "cardID": 101,
-    "keyword": "Trash"
+    "color": "Purple"
   },
   {
     "setID": "QIL",
     "cardID": 102,
-    "keyword": "Reaction, Attach"
+    "color": "Purple"
   },
   {
     "setID": "QIL",
     "cardID": 103,
-    "keyword": "Invest"
+    "color": "Purple"
   },
   {
     "setID": "QIL",
     "cardID": 104,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "QIL",
     "cardID": 105,
-    "keyword": "Reaction, Downgrade"
+    "color": "Purple"
   },
   {
     "setID": "QIL",
     "cardID": "T06",
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "QIL",
     "cardID": "T07",
-    "keyword": "Summon"
+    "color": "Purple"
   },
   {
     "setID": "QIL",
     "cardID": "006",
-    "keyword": "Legend"
+    "color": "Green, Blue"
   },
   {
     "setID": "QIL",
     "cardID": "007",
-    "keyword": "Blockade, Legend, Exhaust"
+    "color": "Green, Red"
   },
   {
     "setID": "QIL",
     "cardID": "008",
-    "keyword": "Legend"
+    "color": "Green, Purple"
   },
   {
     "setID": "QIL",
     "cardID": "009",
-    "keyword": "Legend"
+    "color": "Blue, Red"
   },
   {
     "setID": "QIL",
     "cardID": "010",
-    "keyword": "Legend"
+    "color": "Blue, Purple"
   },
   {
     "setID": "QIL",
     "cardID": "011",
-    "keyword": "Legend"
+    "color": "Red, Purple"
   },
   {
     "setID": "QIL",
     "cardID": "012",
-    "keyword": "Legend"
+    "color": "Green, Blue, Red, Purple"
   },
   {
     "setID": "QIL",
     "cardID": 106,
-    "keyword": "Attach"
+    "color": "Green, Blue"
   },
   {
     "setID": "QIL",
     "cardID": 107,
-    "keyword": "Reposition, Breakthrough"
+    "color": "Green, Blue"
   },
   {
     "setID": "QIL",
     "cardID": 108,
-    "keyword": ""
+    "color": "Green, Red"
   },
   {
     "setID": "QIL",
     "cardID": 109,
-    "keyword": ""
+    "color": "Green, Red"
   },
   {
     "setID": "QIL",
     "cardID": 110,
-    "keyword": "Trash"
+    "color": "Green, Purple"
   },
   {
     "setID": "QIL",
     "cardID": 111,
-    "keyword": ""
+    "color": "Green, Purple"
   },
   {
     "setID": "QIL",
     "cardID": 112,
-    "keyword": "Echo, Ward"
+    "color": "Blue, Red"
   },
   {
     "setID": "QIL",
     "cardID": 113,
-    "keyword": "Barrier"
+    "color": "Blue, Red"
   },
   {
     "setID": "QIL",
     "cardID": 114,
-    "keyword": "Lethal, Stealth"
+    "color": "Blue, Purple"
   },
   {
     "setID": "QIL",
     "cardID": 115,
-    "keyword": "Echo"
+    "color": "Blue, Purple"
   },
   {
     "setID": "QIL",
     "cardID": 116,
-    "keyword": "Sacrifice"
+    "color": "Red, Purple"
   },
   {
     "setID": "QIL",
     "cardID": 117,
-    "keyword": ""
+    "color": "Red, Purple"
   },
   {
     "setID": "QIL",
     "cardID": 118,
-    "keyword": ""
+    "color": "Green, Blue, Red, Purple"
   },
   {
     "setID": "QIL",
     "cardID": 119,
-    "keyword": "Depth, Mill"
+    "color": "Green, Blue"
   },
   {
     "setID": "QIL",
     "cardID": 120,
-    "keyword": "Depth, Mill"
+    "color": "Red, Purple"
   },
   {
     "setID": "CLA",
     "cardID": "005",
-    "keyword": "Stealth"
+    "color": "Colorless"
   },
   {
     "setID": "CLA",
     "cardID": "006",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "CLA",
     "cardID": "007",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "CLA",
     "cardID": "008",
-    "keyword": "Roll, Summon, Invest"
+    "color": "Colorless"
   },
   {
     "setID": "CLA",
     "cardID": "009",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "CLA",
     "cardID": "010",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "CLA",
     "cardID": "011",
-    "keyword": "Invest"
+    "color": "Colorless"
   },
   {
     "setID": "CLA",
     "cardID": "012",
-    "keyword": "Mill"
+    "color": "Colorless"
   },
   {
     "setID": "CLA",
     "cardID": "013",
-    "keyword": "Sacrifice"
+    "color": "Colorless"
   },
   {
     "setID": "CLA",
     "cardID": "014",
-    "keyword": "Transform, Silence"
+    "color": "Colorless"
   },
   {
     "setID": "CLA",
     "cardID": "T01",
-    "keyword": "Deploy, Exhaust"
+    "color": "Colorless"
   },
   {
     "setID": "CLA",
     "cardID": "001",
-    "keyword": "Legend"
+    "color": "Green"
   },
   {
     "setID": "CLA",
     "cardID": "015",
-    "keyword": "Trash, Exhaust"
+    "color": "Green"
   },
   {
     "setID": "CLA",
     "cardID": "016",
-    "keyword": "Reach, First Strike"
+    "color": "Green"
   },
   {
     "setID": "CLA",
     "cardID": "017",
-    "keyword": "Overpass, Trash, Exhaust"
+    "color": "Green"
   },
   {
     "setID": "CLA",
     "cardID": "018",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "CLA",
     "cardID": "019",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "CLA",
     "cardID": "020",
-    "keyword": "Armored, Exhaust, Attach"
+    "color": "Green"
   },
   {
     "setID": "CLA",
     "cardID": "021",
-    "keyword": "Overpass, First Strike"
+    "color": "Green"
   },
   {
     "setID": "CLA",
     "cardID": "022",
-    "keyword": "Summon"
+    "color": "Green"
   },
   {
     "setID": "CLA",
     "cardID": "023",
-    "keyword": "Exhaust"
+    "color": "Green"
   },
   {
     "setID": "CLA",
     "cardID": "024",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "CLA",
     "cardID": "025",
-    "keyword": "Choose One, Mill"
+    "color": "Green"
   },
   {
     "setID": "CLA",
     "cardID": "026",
-    "keyword": "Legend"
+    "color": "Green"
   },
   {
     "setID": "CLA",
     "cardID": "027",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "CLA",
     "cardID": "028",
-    "keyword": "Roll"
+    "color": "Green"
   },
   {
     "setID": "CLA",
     "cardID": "T02",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "CLA",
     "cardID": "T03",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "CLA",
     "cardID": "002",
-    "keyword": "Roll, Exhaust"
+    "color": "Blue"
   },
   {
     "setID": "CLA",
     "cardID": "029",
-    "keyword": "Reach, Roll, Transform"
+    "color": "Blue"
   },
   {
     "setID": "CLA",
     "cardID": "030",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "CLA",
     "cardID": "031",
-    "keyword": "Invest"
+    "color": "Blue"
   },
   {
     "setID": "CLA",
     "cardID": "032",
-    "keyword": "Legend"
+    "color": "Blue"
   },
   {
     "setID": "CLA",
     "cardID": "033",
-    "keyword": "Attach, Roll"
+    "color": "Blue"
   },
   {
     "setID": "CLA",
     "cardID": "034",
-    "keyword": "Deploy, Invest, Roll"
+    "color": "Blue"
   },
   {
     "setID": "CLA",
     "cardID": "035",
-    "keyword": "Choose One"
+    "color": "Blue"
   },
   {
     "setID": "CLA",
     "cardID": "036",
-    "keyword": "Invest"
+    "color": "Blue"
   },
   {
     "setID": "CLA",
     "cardID": "037",
-    "keyword": "Reaction, Exhaust"
+    "color": "Blue"
   },
   {
     "setID": "CLA",
     "cardID": "038",
-    "keyword": "Haste, Quick Strike, Echo"
+    "color": "Blue"
   },
   {
     "setID": "CLA",
     "cardID": "039",
-    "keyword": "Deploy, Choose One"
+    "color": "Blue"
   },
   {
     "setID": "CLA",
     "cardID": "040",
-    "keyword": "Choose One"
+    "color": "Blue"
   },
   {
     "setID": "CLA",
     "cardID": "041",
-    "keyword": "Ward"
+    "color": "Blue"
   },
   {
     "setID": "CLA",
     "cardID": "042",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "CLA",
     "cardID": "T04",
-    "keyword": "Sift"
+    "color": "Blue"
   },
   {
     "setID": "CLA",
     "cardID": "003",
-    "keyword": "First Strike, Legend"
+    "color": "Red"
   },
   {
     "setID": "CLA",
     "cardID": "043",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "CLA",
     "cardID": "044",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "CLA",
     "cardID": "045",
-    "keyword": "Reaction, Counter, Roll"
+    "color": "Red"
   },
   {
     "setID": "CLA",
     "cardID": "046",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "CLA",
     "cardID": "047",
-    "keyword": "Sacrifice, Trash"
+    "color": "Red"
   },
   {
     "setID": "CLA",
     "cardID": "048",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "CLA",
     "cardID": "049",
-    "keyword": "Spy, Roll"
+    "color": "Red"
   },
   {
     "setID": "CLA",
     "cardID": "050",
-    "keyword": "Roll"
+    "color": "Red"
   },
   {
     "setID": "CLA",
     "cardID": "051",
-    "keyword": "Spy"
+    "color": "Red"
   },
   {
     "setID": "CLA",
     "cardID": "052",
-    "keyword": "Reaction, Trash"
+    "color": "Red"
   },
   {
     "setID": "CLA",
     "cardID": "053",
-    "keyword": "Blockade, Convert, Quick Strike"
+    "color": "Red"
   },
   {
     "setID": "CLA",
     "cardID": "054",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "CLA",
     "cardID": "055",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "CLA",
     "cardID": "056",
-    "keyword": "Mill"
+    "color": "Red"
   },
   {
     "setID": "CLA",
     "cardID": "004",
-    "keyword": "Sacrifice, Legend, Trash"
+    "color": "Purple"
   },
   {
     "setID": "CLA",
     "cardID": "057",
-    "keyword": "Ward, Unblockable, Trash, Exhaust"
+    "color": "Purple"
   },
   {
     "setID": "CLA",
     "cardID": "058",
-    "keyword": "Trash, Exhaust, Reach"
+    "color": "Purple"
   },
   {
     "setID": "CLA",
     "cardID": "059",
-    "keyword": "Trash, Exhaust, Convert"
+    "color": "Purple"
   },
   {
     "setID": "CLA",
     "cardID": "060",
-    "keyword": "Convert"
+    "color": "Purple"
   },
   {
     "setID": "CLA",
     "cardID": "061",
-    "keyword": "Reach, Sacrifice, Attach"
+    "color": "Purple"
   },
   {
     "setID": "CLA",
     "cardID": "062",
-    "keyword": "Armored, Breakthrough, Summon, Trash, Exhaust"
+    "color": "Purple"
   },
   {
     "setID": "CLA",
     "cardID": "063",
-    "keyword": "Overpass, Haste, Quick Strike, Echo"
+    "color": "Purple"
   },
   {
     "setID": "CLA",
     "cardID": "064",
-    "keyword": "Silence"
+    "color": "Purple"
   },
   {
     "setID": "CLA",
     "cardID": "065",
-    "keyword": "Sacrifice"
+    "color": "Purple"
   },
   {
     "setID": "CLA",
     "cardID": "066",
-    "keyword": "Downgrade"
+    "color": "Purple"
   },
   {
     "setID": "CLA",
     "cardID": "067",
-    "keyword": "Summon, Echo"
+    "color": "Purple"
   },
   {
     "setID": "CLA",
     "cardID": "068",
-    "keyword": "Attach"
+    "color": "Purple"
   },
   {
     "setID": "CLA",
     "cardID": "069",
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "CLA",
     "cardID": "070",
-    "keyword": "Summon"
+    "color": "Purple"
   },
   {
     "setID": "CLA",
     "cardID": "T05",
-    "keyword": "Deploy"
+    "color": "Purple"
   },
   {
     "setID": "CLA",
     "cardID": "T06",
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "KGD",
     "cardID": "001",
-    "keyword": "Haste, Legend"
+    "color": "Colorless"
   },
   {
     "setID": "KGD",
     "cardID": "006",
-    "keyword": "Invest, Summon"
+    "color": "Colorless"
   },
   {
     "setID": "KGD",
     "cardID": "007",
-    "keyword": "Overpass"
+    "color": "Colorless"
   },
   {
     "setID": "KGD",
     "cardID": "008",
-    "keyword": "Invest"
+    "color": "Colorless"
   },
   {
     "setID": "KGD",
     "cardID": "009",
-    "keyword": "Stealth, Spy"
+    "color": "Colorless"
   },
   {
     "setID": "KGD",
     "cardID": "010",
-    "keyword": "Tuck"
+    "color": "Colorless"
   },
   {
     "setID": "KGD",
     "cardID": "011",
-    "keyword": "Hoard, Depth"
+    "color": "Colorless"
   },
   {
     "setID": "KGD",
     "cardID": "012",
-    "keyword": "Overpass"
+    "color": "Colorless"
   },
   {
     "setID": "KGD",
     "cardID": "013",
-    "keyword": "Armored, Ward"
+    "color": "Colorless"
   },
   {
     "setID": "KGD",
     "cardID": "014",
-    "keyword": "Hoard"
+    "color": "Colorless"
   },
   {
     "setID": "KGD",
     "cardID": "015",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "KGD",
     "cardID": "016",
-    "keyword": "Overpass"
+    "color": "Colorless"
   },
   {
     "setID": "KGD",
     "cardID": "017",
-    "keyword": "Hoard, Overpass, Exhaust, Restrain"
+    "color": "Colorless"
   },
   {
     "setID": "KGD",
     "cardID": "018",
-    "keyword": "Armored, Breakthrough, Reach"
+    "color": "Colorless"
   },
   {
     "setID": "KGD",
     "cardID": "019",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "KGD",
     "cardID": "020",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "KGD",
     "cardID": "021",
-    "keyword": "Overpass, Reaction"
+    "color": "Colorless"
   },
   {
     "setID": "KGD",
     "cardID": "022",
-    "keyword": "Legend"
+    "color": "Colorless"
   },
   {
     "setID": "KGD",
     "cardID": "023",
-    "keyword": "Hoard"
+    "color": "Colorless"
   },
   {
     "setID": "KGD",
     "cardID": "024",
-    "keyword": "Attach"
+    "color": "Colorless"
   },
   {
     "setID": "KGD",
     "cardID": "025",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "KGD",
     "cardID": "026",
-    "keyword": "Hoard"
+    "color": "Colorless"
   },
   {
     "setID": "KGD",
     "cardID": "002",
-    "keyword": "Hoard, Legend"
+    "color": "Green"
   },
   {
     "setID": "KGD",
     "cardID": "027",
-    "keyword": "Hoard"
+    "color": "Green"
   },
   {
     "setID": "KGD",
     "cardID": "028",
-    "keyword": "Hoard, Trash"
+    "color": "Green"
   },
   {
     "setID": "KGD",
     "cardID": "029",
-    "keyword": "Hoard"
+    "color": "Green"
   },
   {
     "setID": "KGD",
     "cardID": "030",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "KGD",
     "cardID": "031",
-    "keyword": "Breakthrough"
+    "color": "Green"
   },
   {
     "setID": "KGD",
     "cardID": "032",
-    "keyword": "Hoard, Quick Strike"
+    "color": "Green"
   },
   {
     "setID": "KGD",
     "cardID": "033",
-    "keyword": "Lethal, Overpass"
+    "color": "Green"
   },
   {
     "setID": "KGD",
     "cardID": "034",
-    "keyword": "Hoard, Overheal"
+    "color": "Green"
   },
   {
     "setID": "KGD",
     "cardID": "035",
-    "keyword": "Allocate"
+    "color": "Green"
   },
   {
     "setID": "KGD",
     "cardID": "036",
-    "keyword": "Hoard, Overpass, Exhaust, Lethal"
+    "color": "Green"
   },
   {
     "setID": "KGD",
     "cardID": "037",
-    "keyword": "Reaction, Exhaust"
+    "color": "Green"
   },
   {
     "setID": "KGD",
     "cardID": "038",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "KGD",
     "cardID": "039",
-    "keyword": "Reclaim"
+    "color": "Green"
   },
   {
     "setID": "KGD",
     "cardID": "040",
-    "keyword": "Deploy"
+    "color": "Green"
   },
   {
     "setID": "KGD",
     "cardID": "003",
-    "keyword": "Hoard, Legend"
+    "color": "Blue"
   },
   {
     "setID": "KGD",
     "cardID": "041",
-    "keyword": "Hoard, Sift"
+    "color": "Blue"
   },
   {
     "setID": "KGD",
     "cardID": "042",
-    "keyword": "Hoard, Silence"
+    "color": "Blue"
   },
   {
     "setID": "KGD",
     "cardID": "043",
-    "keyword": "Hoard, Armored"
+    "color": "Blue"
   },
   {
     "setID": "KGD",
     "cardID": "044",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "KGD",
     "cardID": "045",
-    "keyword": "Armored"
+    "color": "Blue"
   },
   {
     "setID": "KGD",
     "cardID": "046",
-    "keyword": "Hoard, Armored"
+    "color": "Blue"
   },
   {
     "setID": "KGD",
     "cardID": "047",
-    "keyword": "Overpass, Echo"
+    "color": "Blue"
   },
   {
     "setID": "KGD",
     "cardID": "048",
-    "keyword": "Hoard, Reposition"
+    "color": "Blue"
   },
   {
     "setID": "KGD",
     "cardID": "049",
-    "keyword": "Allocate"
+    "color": "Blue"
   },
   {
     "setID": "KGD",
     "cardID": "050",
-    "keyword": "Hoard, Overpass, Exhaust, Frailty"
+    "color": "Blue"
   },
   {
     "setID": "KGD",
     "cardID": "051",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "KGD",
     "cardID": "052",
-    "keyword": "Spy, Mill"
+    "color": "Blue"
   },
   {
     "setID": "KGD",
     "cardID": "053",
-    "keyword": "Reclaim, Reposition"
+    "color": "Blue"
   },
   {
     "setID": "KGD",
     "cardID": "054",
-    "keyword": "Deploy, Armored"
+    "color": "Blue"
   },
   {
     "setID": "KGD",
     "cardID": "004",
-    "keyword": "Hoard, Legend"
+    "color": "Red"
   },
   {
     "setID": "KGD",
     "cardID": "055",
-    "keyword": "Hoard"
+    "color": "Red"
   },
   {
     "setID": "KGD",
     "cardID": "056",
-    "keyword": "Hoard"
+    "color": "Red"
   },
   {
     "setID": "KGD",
     "cardID": "057",
-    "keyword": "Hoard"
+    "color": "Red"
   },
   {
     "setID": "KGD",
     "cardID": "058",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "KGD",
     "cardID": "059",
-    "keyword": "Ward"
+    "color": "Red"
   },
   {
     "setID": "KGD",
     "cardID": "060",
-    "keyword": "Hoard, Ward"
+    "color": "Red"
   },
   {
     "setID": "KGD",
     "cardID": "061",
-    "keyword": "Haste, Overpass"
+    "color": "Red"
   },
   {
     "setID": "KGD",
     "cardID": "062",
-    "keyword": "Hoard, Summon"
+    "color": "Red"
   },
   {
     "setID": "KGD",
     "cardID": "063",
-    "keyword": "Allocate"
+    "color": "Red"
   },
   {
     "setID": "KGD",
     "cardID": "064",
-    "keyword": "Hoard, Overpass, Exhaust, Trash"
+    "color": "Red"
   },
   {
     "setID": "KGD",
     "cardID": "065",
-    "keyword": "Armored"
+    "color": "Red"
   },
   {
     "setID": "KGD",
     "cardID": "066",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "KGD",
     "cardID": "067",
-    "keyword": "Reclaim"
+    "color": "Red"
   },
   {
     "setID": "KGD",
     "cardID": "068",
-    "keyword": "Deploy, Ward"
+    "color": "Red"
   },
   {
     "setID": "KGD",
     "cardID": "T01",
-    "keyword": "Breakthrough"
+    "color": "Red"
   },
   {
     "setID": "KGD",
     "cardID": "005",
-    "keyword": "Hoard"
+    "color": "Purple"
   },
   {
     "setID": "KGD",
     "cardID": "069",
-    "keyword": "Hoard, Overpass"
+    "color": "Purple"
   },
   {
     "setID": "KGD",
     "cardID": "070",
-    "keyword": "Hoard, Mill"
+    "color": "Purple"
   },
   {
     "setID": "KGD",
     "cardID": "071",
-    "keyword": "Hoard"
+    "color": "Purple"
   },
   {
     "setID": "KGD",
     "cardID": "072",
-    "keyword": "Lethal"
+    "color": "Purple"
   },
   {
     "setID": "KGD",
     "cardID": "073",
-    "keyword": "Convert"
+    "color": "Purple"
   },
   {
     "setID": "KGD",
     "cardID": "074",
-    "keyword": "Hoard, Lethal"
+    "color": "Purple"
   },
   {
     "setID": "KGD",
     "cardID": "075",
-    "keyword": "Deathcoil, Overpass"
+    "color": "Purple"
   },
   {
     "setID": "KGD",
     "cardID": "076",
-    "keyword": "Hoard, Mill"
+    "color": "Purple"
   },
   {
     "setID": "KGD",
     "cardID": "077",
-    "keyword": "Sacrifice"
+    "color": "Purple"
   },
   {
     "setID": "KGD",
     "cardID": "078",
-    "keyword": "Hoard, Overpass, Exhaust"
+    "color": "Purple"
   },
   {
     "setID": "KGD",
     "cardID": "079",
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "KGD",
     "cardID": "080",
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "KGD",
     "cardID": "081",
-    "keyword": "Barrier, Reclaim"
+    "color": "Purple"
   },
   {
     "setID": "KGD",
     "cardID": "082",
-    "keyword": "Deploy"
+    "color": "Purple"
   },
   {
     "setID": "NIN",
     "cardID": "001",
-    "keyword": "Legend"
+    "color": "Colorless"
   },
   {
     "setID": "NIN",
     "cardID": "008",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "NIN",
     "cardID": "009",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "NIN",
     "cardID": "010",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "NIN",
     "cardID": "011",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "NIN",
     "cardID": "012",
-    "keyword": "Reaction"
+    "color": "Colorless"
   },
   {
     "setID": "NIN",
     "cardID": "013",
-    "keyword": "Blockade, Exhaust"
+    "color": "Colorless"
   },
   {
     "setID": "NIN",
     "cardID": "014",
-    "keyword": "Trash"
+    "color": "Colorless"
   },
   {
     "setID": "NIN",
     "cardID": "015",
-    "keyword": "Equip"
+    "color": "Colorless"
   },
   {
     "setID": "NIN",
     "cardID": "016",
-    "keyword": "Equip"
+    "color": "Colorless"
   },
   {
     "setID": "NIN",
     "cardID": "017",
-    "keyword": "Equip"
+    "color": "Colorless"
   },
   {
     "setID": "NIN",
     "cardID": "018",
-    "keyword": "Equip"
+    "color": "Colorless"
   },
   {
     "setID": "NIN",
     "cardID": "019",
-    "keyword": "Equip"
+    "color": "Colorless"
   },
   {
     "setID": "NIN",
     "cardID": "020",
-    "keyword": "Equip"
+    "color": "Colorless"
   },
   {
     "setID": "NIN",
     "cardID": "021",
-    "keyword": "Unblockable"
+    "color": "Colorless"
   },
   {
     "setID": "NIN",
     "cardID": "022",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "NIN",
     "cardID": "023",
-    "keyword": "Quick Strike, Blockade"
+    "color": "Green"
   },
   {
     "setID": "NIN",
     "cardID": "024",
-    "keyword": "Invest, Restrain"
+    "color": "Green"
   },
   {
     "setID": "NIN",
     "cardID": "025",
-    "keyword": "Invest"
+    "color": "Green"
   },
   {
     "setID": "NIN",
     "cardID": "026",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "NIN",
     "cardID": "027",
-    "keyword": "Invest"
+    "color": "Green"
   },
   {
     "setID": "NIN",
     "cardID": "028",
-    "keyword": "Invest"
+    "color": "Green"
   },
   {
     "setID": "NIN",
     "cardID": "029",
-    "keyword": "Invest"
+    "color": "Green"
   },
   {
     "setID": "NIN",
     "cardID": "030",
-    "keyword": "Breakthrough"
+    "color": "Green"
   },
   {
     "setID": "NIN",
     "cardID": "031",
-    "keyword": "Breakthrough"
+    "color": "Green"
   },
   {
     "setID": "NIN",
     "cardID": "032",
-    "keyword": "Breakthrough"
+    "color": "Green"
   },
   {
     "setID": "NIN",
     "cardID": "033",
-    "keyword": "Haste, Reaction, Reposition"
+    "color": "Green"
   },
   {
     "setID": "NIN",
     "cardID": "034",
-    "keyword": "Quick Strike, Reclaim"
+    "color": "Green"
   },
   {
     "setID": "NIN",
     "cardID": "035",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "NIN",
     "cardID": "036",
-    "keyword": "Attach"
+    "color": "Green"
   },
   {
     "setID": "NIN",
     "cardID": "037",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "NIN",
     "cardID": "038",
-    "keyword": "Reaction"
+    "color": "Green"
   },
   {
     "setID": "NIN",
     "cardID": "039",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "NIN",
     "cardID": "040",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "NIN",
     "cardID": "041",
-    "keyword": "Invest"
+    "color": "Green"
   },
   {
     "setID": "NIN",
     "cardID": "042",
-    "keyword": "Reaction"
+    "color": "Green"
   },
   {
     "setID": "NIN",
     "cardID": "043",
-    "keyword": "Equip"
+    "color": "Green"
   },
   {
     "setID": "NIN",
     "cardID": "044",
-    "keyword": "Equip"
+    "color": "Green"
   },
   {
     "setID": "NIN",
     "cardID": "045",
-    "keyword": "Attach, Invest"
+    "color": "Green"
   },
   {
     "setID": "NIN",
     "cardID": "046",
-    "keyword": "Equip"
+    "color": "Green"
   },
   {
     "setID": "NIN",
     "cardID": "047",
-    "keyword": "Equip, Invest"
+    "color": "Green"
   },
   {
     "setID": "NIN",
     "cardID": "048",
-    "keyword": "Haste, Allocate"
+    "color": "Blue"
   },
   {
     "setID": "NIN",
     "cardID": "049",
-    "keyword": "Blockade, Reaction, Reposition"
+    "color": "Blue"
   },
   {
     "setID": "NIN",
     "cardID": "050",
-    "keyword": "Spy"
+    "color": "Blue"
   },
   {
     "setID": "NIN",
     "cardID": "051",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "NIN",
     "cardID": "052",
-    "keyword": "Overpass"
+    "color": "Blue"
   },
   {
     "setID": "NIN",
     "cardID": "053",
-    "keyword": "Ruins, Allocate"
+    "color": "Blue"
   },
   {
     "setID": "NIN",
     "cardID": "054",
-    "keyword": "Overpass, Reaction, Repostion"
+    "color": "Blue"
   },
   {
     "setID": "NIN",
     "cardID": "055",
-    "keyword": "Overpass"
+    "color": "Blue"
   },
   {
     "setID": "NIN",
     "cardID": "056",
-    "keyword": "Stealth"
+    "color": "Blue"
   },
   {
     "setID": "NIN",
     "cardID": "057",
-    "keyword": "Allocate"
+    "color": "Blue"
   },
   {
     "setID": "NIN",
     "cardID": "058",
-    "keyword": "Haste, Reach"
+    "color": "Blue"
   },
   {
     "setID": "NIN",
     "cardID": "059",
-    "keyword": "Armored"
+    "color": "Blue"
   },
   {
     "setID": "NIN",
     "cardID": "060",
-    "keyword": "Reaction, Armored"
+    "color": "Blue"
   },
   {
     "setID": "NIN",
     "cardID": "061",
-    "keyword": "Overpass, Ruins, Allocate"
+    "color": "Blue"
   },
   {
     "setID": "NIN",
     "cardID": "062",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "NIN",
     "cardID": "063",
-    "keyword": "Reaction, Attach, Overpass"
+    "color": "Blue"
   },
   {
     "setID": "NIN",
     "cardID": "064",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "NIN",
     "cardID": "065",
-    "keyword": "Stealth"
+    "color": "Blue"
   },
   {
     "setID": "NIN",
     "cardID": "066",
-    "keyword": "Invest"
+    "color": "Blue"
   },
   {
     "setID": "NIN",
     "cardID": "067",
-    "keyword": "Equip"
+    "color": "Blue"
   },
   {
     "setID": "NIN",
     "cardID": "068",
-    "keyword": "Trash"
+    "color": "Blue"
   },
   {
     "setID": "NIN",
     "cardID": "069",
-    "keyword": "Reclaim, Echo"
+    "color": "Blue"
   },
   {
     "setID": "NIN",
     "cardID": "070",
-    "keyword": "Deploy, Reposition"
+    "color": "Blue"
   },
   {
     "setID": "NIN",
     "cardID": "071",
-    "keyword": "Reaction, Equip, Armored, Ward, Allocate"
+    "color": "Blue"
   },
   {
     "setID": "NIN",
     "cardID": "072",
-    "keyword": "Reaction, Equip, Quick Strike"
+    "color": "Blue"
   },
   {
     "setID": "NIN",
     "cardID": "T01",
-    "keyword": "Afflict"
+    "color": "Blue"
   },
   {
     "setID": "NIN",
     "cardID": "073",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "NIN",
     "cardID": "074",
-    "keyword": "Invest"
+    "color": "Red"
   },
   {
     "setID": "NIN",
     "cardID": "075",
-    "keyword": "Summon, Stealth"
+    "color": "Red"
   },
   {
     "setID": "NIN",
     "cardID": "076",
-    "keyword": "Stealth, Invest"
+    "color": "Red"
   },
   {
     "setID": "NIN",
     "cardID": "077",
-    "keyword": "Stealth"
+    "color": "Red"
   },
   {
     "setID": "NIN",
     "cardID": "078",
-    "keyword": "Ward, Silence"
+    "color": "Red"
   },
   {
     "setID": "NIN",
     "cardID": "079",
-    "keyword": "Exhaust, Restrain"
+    "color": "Red"
   },
   {
     "setID": "NIN",
     "cardID": "080",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "NIN",
     "cardID": "081",
-    "keyword": "Invest"
+    "color": "Red"
   },
   {
     "setID": "NIN",
     "cardID": "082",
-    "keyword": "Lethal"
+    "color": "Red"
   },
   {
     "setID": "NIN",
     "cardID": "083",
-    "keyword": "Invest"
+    "color": "Red"
   },
   {
     "setID": "NIN",
     "cardID": "084",
-    "keyword": "Stealth"
+    "color": "Red"
   },
   {
     "setID": "NIN",
     "cardID": "085",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "NIN",
     "cardID": "086",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "NIN",
     "cardID": "087",
-    "keyword": "Spy"
+    "color": "Red"
   },
   {
     "setID": "NIN",
     "cardID": "088",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "NIN",
     "cardID": "089",
-    "keyword": "Spy, Invest"
+    "color": "Red"
   },
   {
     "setID": "NIN",
     "cardID": "090",
-    "keyword": "Stealth"
+    "color": "Red"
   },
   {
     "setID": "NIN",
     "cardID": "091",
-    "keyword": "Reaction"
+    "color": "Red"
   },
   {
     "setID": "NIN",
     "cardID": "092",
-    "keyword": "Invest"
+    "color": "Red"
   },
   {
     "setID": "NIN",
     "cardID": "093",
-    "keyword": "Spy"
+    "color": "Red"
   },
   {
     "setID": "NIN",
     "cardID": "094",
-    "keyword": "Afflict"
+    "color": "Red"
   },
   {
     "setID": "NIN",
     "cardID": "095",
-    "keyword": "Trash"
+    "color": "Red"
   },
   {
     "setID": "NIN",
     "cardID": "096",
-    "keyword": "Afflict"
+    "color": "Red"
   },
   {
     "setID": "NIN",
     "cardID": "097",
-    "keyword": "Deploy, Invest, Exhaust"
+    "color": "Red"
   },
   {
     "setID": "NIN",
     "cardID": "T02",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "NIN",
     "cardID": "098",
-    "keyword": "Stealth"
+    "color": "Purple"
   },
   {
     "setID": "NIN",
     "cardID": "099",
-    "keyword": "First Strike"
+    "color": "Purple"
   },
   {
     "setID": "NIN",
     "cardID": 100,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "NIN",
     "cardID": 101,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "NIN",
     "cardID": 102,
-    "keyword": "Stealth"
+    "color": "Purple"
   },
   {
     "setID": "NIN",
     "cardID": 103,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "NIN",
     "cardID": 104,
-    "keyword": "Convert"
+    "color": "Purple"
   },
   {
     "setID": "NIN",
     "cardID": 105,
-    "keyword": "Downgrade, Reclaim"
+    "color": "Purple"
   },
   {
     "setID": "NIN",
     "cardID": 106,
-    "keyword": "Stealth"
+    "color": "Purple"
   },
   {
     "setID": "NIN",
     "cardID": 107,
-    "keyword": "Haste, Allocate"
+    "color": "Purple"
   },
   {
     "setID": "NIN",
     "cardID": 108,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "NIN",
     "cardID": 109,
-    "keyword": "Allocate, Echo"
+    "color": "Purple"
   },
   {
     "setID": "NIN",
     "cardID": 110,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "NIN",
     "cardID": 111,
-    "keyword": "Stealth, Allocate"
+    "color": "Purple"
   },
   {
     "setID": "NIN",
     "cardID": 112,
-    "keyword": "Reaction"
+    "color": "Purple"
   },
   {
     "setID": "NIN",
     "cardID": 113,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "NIN",
     "cardID": 114,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "NIN",
     "cardID": 115,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "NIN",
     "cardID": 116,
-    "keyword": "Invest"
+    "color": "Purple"
   },
   {
     "setID": "NIN",
     "cardID": 117,
-    "keyword": "Ruins, Summon"
+    "color": "Purple"
   },
   {
     "setID": "NIN",
     "cardID": 118,
-    "keyword": "Equip"
+    "color": "Purple"
   },
   {
     "setID": "NIN",
     "cardID": 119,
-    "keyword": "Stealth, Lethal, Allocate"
+    "color": "Purple"
   },
   {
     "setID": "NIN",
     "cardID": 120,
-    "keyword": "Choose One, Stealth"
+    "color": "Purple"
   },
   {
     "setID": "NIN",
     "cardID": 121,
-    "keyword": "Deploy, Stealth"
+    "color": "Purple"
   },
   {
     "setID": "NIN",
     "cardID": 122,
-    "keyword": "Equip, Convert"
+    "color": "Purple"
   },
   {
     "setID": "NIN",
     "cardID": "002",
-    "keyword": "Reaction, Reposition, Legend, Exhaust"
+    "color": "Green, Blue"
   },
   {
     "setID": "NIN",
     "cardID": "003",
-    "keyword": "Invest, Legend"
+    "color": "Green, Red"
   },
   {
     "setID": "NIN",
     "cardID": "004",
-    "keyword": "Reaction, Quick Strike, Legend"
+    "color": "Green, Purple"
   },
   {
     "setID": "NIN",
     "cardID": "005",
-    "keyword": "Exhaust, Legend"
+    "color": "Blue, Red"
   },
   {
     "setID": "NIN",
     "cardID": "006",
-    "keyword": "Legend"
+    "color": "Blue, Purple"
   },
   {
     "setID": "NIN",
     "cardID": "007",
-    "keyword": "Legend"
+    "color": "Red, Purple"
   },
   {
     "setID": "NIN",
     "cardID": 123,
-    "keyword": "Attach, Reaction, Reposition"
+    "color": "Green, Blue"
   },
   {
     "setID": "NIN",
     "cardID": 124,
-    "keyword": "Invest, Summon"
+    "color": "Green, Red"
   },
   {
     "setID": "NIN",
     "cardID": 125,
-    "keyword": ""
+    "color": "Green, Purple"
   },
   {
     "setID": "NIN",
     "cardID": 126,
-    "keyword": "Ward"
+    "color": "Blue, Red"
   },
   {
     "setID": "NIN",
     "cardID": 127,
-    "keyword": ""
+    "color": "Blue, Purple"
   },
   {
     "setID": "NIN",
     "cardID": 128,
-    "keyword": "Convert, Stealth"
+    "color": "Red, Purple"
   },
   {
     "setID": "NIN",
     "cardID": 129,
-    "keyword": "Choose One, Reposition"
+    "color": "Green, Blue"
   },
   {
     "setID": "NIN",
     "cardID": 130,
-    "keyword": "Choose One, Restrain, Barrier"
+    "color": "Green, Red"
   },
   {
     "setID": "NIN",
     "cardID": 131,
-    "keyword": "Choose One"
+    "color": "Green, Purple"
   },
   {
     "setID": "NIN",
     "cardID": 132,
-    "keyword": "Choose One, Spy, Trash"
+    "color": "Blue, Red"
   },
   {
     "setID": "NIN",
     "cardID": 133,
-    "keyword": "Choose One, Sift, Reclaim"
+    "color": "Blue, Purple"
   },
   {
     "setID": "NIN",
     "cardID": 134,
-    "keyword": "Choose One, Summon, Sacrifice, Stealth"
+    "color": "Red, Purple"
   },
   {
     "setID": "NIN",
     "cardID": 135,
-    "keyword": ""
+    "color": "Green, Blue"
   },
   {
     "setID": "NIN",
     "cardID": 136,
-    "keyword": "Invest"
+    "color": "Green, Red"
   },
   {
     "setID": "NIN",
     "cardID": 137,
-    "keyword": ""
+    "color": "Green, Purple"
   },
   {
     "setID": "NIN",
     "cardID": 138,
-    "keyword": "Overpass, Spy"
+    "color": "Blue, Red"
   },
   {
     "setID": "NIN",
     "cardID": 139,
-    "keyword": "Ruins"
+    "color": "Blue, Purple"
   },
   {
     "setID": "NIN",
     "cardID": 140,
-    "keyword": "Stealth, Convert"
+    "color": "Red, Purple"
   },
   {
     "setID": "NIN",
     "cardID": "T03",
-    "keyword": "Invest, Ward"
+    "color": "Green, Red"
   },
   {
     "setID": "JGK",
     "cardID": "001",
-    "keyword": "Unblockable, Legend"
+    "color": "Colorless"
   },
   {
     "setID": "JGK",
     "cardID": "008",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "JGK",
     "cardID": "009",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "JGK",
     "cardID": "010",
-    "keyword": "Restrain"
+    "color": "Colorless"
   },
   {
     "setID": "JGK",
     "cardID": "011",
-    "keyword": "Summon"
+    "color": "Colorless"
   },
   {
     "setID": "JGK",
     "cardID": "012",
-    "keyword": "Choose One"
+    "color": "Colorless"
   },
   {
     "setID": "JGK",
     "cardID": "013",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "JGK",
     "cardID": "014",
-    "keyword": "Attach"
+    "color": "Colorless"
   },
   {
     "setID": "JGK",
     "cardID": "015",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "JGK",
     "cardID": "016",
-    "keyword": "Armored"
+    "color": "Colorless"
   },
   {
     "setID": "JGK",
     "cardID": "017",
-    "keyword": "Exhaust, Reclaim"
+    "color": "Colorless"
   },
   {
     "setID": "JGK",
     "cardID": "018",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "JGK",
     "cardID": "019",
-    "keyword": "Immortal"
+    "color": "Colorless"
   },
   {
     "setID": "JGK",
     "cardID": "020",
-    "keyword": "Blockade, Summon"
+    "color": "Colorless"
   },
   {
     "setID": "JGK",
     "cardID": "021",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "JGK",
     "cardID": "022",
-    "keyword": "Silence"
+    "color": "Colorless"
   },
   {
     "setID": "JGK",
     "cardID": "023",
-    "keyword": "Deploy"
+    "color": "Colorless"
   },
   {
     "setID": "JGK",
     "cardID": "024",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "JGK",
     "cardID": "025",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "JGK",
     "cardID": "026",
-    "keyword": "Restrain"
+    "color": "Colorless"
   },
   {
     "setID": "JGK",
     "cardID": "T01",
-    "keyword": "Afflict, Immortal"
+    "color": "Colorless"
   },
   {
     "setID": "JGK",
     "cardID": "002",
-    "keyword": "Convert, Restrain, Legend"
+    "color": "Green"
   },
   {
     "setID": "JGK",
     "cardID": "027",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "JGK",
     "cardID": "028",
-    "keyword": "Overpass"
+    "color": "Green"
   },
   {
     "setID": "JGK",
     "cardID": "029",
-    "keyword": "Deathcoil, Haste, Flurry"
+    "color": "Green"
   },
   {
     "setID": "JGK",
     "cardID": "030",
-    "keyword": "Flurry"
+    "color": "Green"
   },
   {
     "setID": "JGK",
     "cardID": "031",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "JGK",
     "cardID": "032",
-    "keyword": "Flurry"
+    "color": "Green"
   },
   {
     "setID": "JGK",
     "cardID": "033",
-    "keyword": "Immortal"
+    "color": "Green"
   },
   {
     "setID": "JGK",
     "cardID": "034",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "JGK",
     "cardID": "035",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "JGK",
     "cardID": "036",
-    "keyword": "Invest"
+    "color": "Green"
   },
   {
     "setID": "JGK",
     "cardID": "037",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "JGK",
     "cardID": "038",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "JGK",
     "cardID": "039",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "JGK",
     "cardID": "040",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "JGK",
     "cardID": "041",
-    "keyword": "Breakthrough"
+    "color": "Green"
   },
   {
     "setID": "JGK",
     "cardID": "042",
-    "keyword": "Deathcoil, Lethal, Barrier"
+    "color": "Green"
   },
   {
     "setID": "JGK",
     "cardID": "043",
-    "keyword": "Immortal"
+    "color": "Green"
   },
   {
     "setID": "JGK",
     "cardID": "044",
-    "keyword": "flurry"
+    "color": "Green"
   },
   {
     "setID": "JGK",
     "cardID": "045",
-    "keyword": "Flurry"
+    "color": "Green"
   },
   {
     "setID": "JGK",
     "cardID": "046",
-    "keyword": "Reaction, Lethal"
+    "color": "Green"
   },
   {
     "setID": "JGK",
     "cardID": "047",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "JGK",
     "cardID": "048",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "JGK",
     "cardID": "049",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "JGK",
     "cardID": "050",
-    "keyword": "Flurry, Equip"
+    "color": "Green"
   },
   {
     "setID": "JGK",
     "cardID": "051",
-    "keyword": "Equip"
+    "color": "Green"
   },
   {
     "setID": "JGK",
     "cardID": "052",
-    "keyword": "Restrain, Reclaim"
+    "color": "Green"
   },
   {
     "setID": "JGK",
     "cardID": "053",
-    "keyword": "Summon"
+    "color": "Green"
   },
   {
     "setID": "JGK",
     "cardID": "T02",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "JGK",
     "cardID": "T03",
-    "keyword": "Deathcoil, Haste"
+    "color": "Green"
   },
   {
     "setID": "JGK",
     "cardID": "T04",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "JGK",
     "cardID": "T05",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "JGK",
     "cardID": "003",
-    "keyword": "Armored, Legend, Mill, Immortal"
+    "color": "Blue"
   },
   {
     "setID": "JGK",
     "cardID": "054",
-    "keyword": "Immortal, Mill"
+    "color": "Blue"
   },
   {
     "setID": "JGK",
     "cardID": "055",
-    "keyword": "Echo, Trash"
+    "color": "Blue"
   },
   {
     "setID": "JGK",
     "cardID": "056",
-    "keyword": "Reclaim, Echo"
+    "color": "Blue"
   },
   {
     "setID": "JGK",
     "cardID": "057",
-    "keyword": "Armored, Allocate"
+    "color": "Blue"
   },
   {
     "setID": "JGK",
     "cardID": "058",
-    "keyword": "Armored, Echo"
+    "color": "Blue"
   },
   {
     "setID": "JGK",
     "cardID": "059",
-    "keyword": "Trash"
+    "color": "Blue"
   },
   {
     "setID": "JGK",
     "cardID": "060",
-    "keyword": "Scarcity"
+    "color": "Blue"
   },
   {
     "setID": "JGK",
     "cardID": "061",
-    "keyword": "Echo"
+    "color": "Blue"
   },
   {
     "setID": "JGK",
     "cardID": "062",
-    "keyword": "Allocate"
+    "color": "Blue"
   },
   {
     "setID": "JGK",
     "cardID": "063",
-    "keyword": "Immortal"
+    "color": "Blue"
   },
   {
     "setID": "JGK",
     "cardID": "064",
-    "keyword": "Trash"
+    "color": "Blue"
   },
   {
     "setID": "JGK",
     "cardID": "065",
-    "keyword": "Armored"
+    "color": "Blue"
   },
   {
     "setID": "JGK",
     "cardID": "066",
-    "keyword": "Immortal, Trash"
+    "color": "Blue"
   },
   {
     "setID": "JGK",
     "cardID": "067",
-    "keyword": "Allocate"
+    "color": "Blue"
   },
   {
     "setID": "JGK",
     "cardID": "068",
-    "keyword": "Echo"
+    "color": "Blue"
   },
   {
     "setID": "JGK",
     "cardID": "069",
-    "keyword": "Echo"
+    "color": "Blue"
   },
   {
     "setID": "JGK",
     "cardID": "070",
-    "keyword": "Immortal, Mill, Reclaim"
+    "color": "Blue"
   },
   {
     "setID": "JGK",
     "cardID": "071",
-    "keyword": "Trash"
+    "color": "Blue"
   },
   {
     "setID": "JGK",
     "cardID": "072",
-    "keyword": "Reposition"
+    "color": "Blue"
   },
   {
     "setID": "JGK",
     "cardID": "073",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "JGK",
     "cardID": "074",
-    "keyword": "Summon"
+    "color": "Blue"
   },
   {
     "setID": "JGK",
     "cardID": "075",
-    "keyword": "Trash"
+    "color": "Blue"
   },
   {
     "setID": "JGK",
     "cardID": "076",
-    "keyword": "Choose One, Restrain, Reposition"
+    "color": "Blue"
   },
   {
     "setID": "JGK",
     "cardID": "077",
-    "keyword": "Silence, Trash"
+    "color": "Blue"
   },
   {
     "setID": "JGK",
     "cardID": "078",
-    "keyword": "Deploy, Spy, Trash"
+    "color": "Blue"
   },
   {
     "setID": "JGK",
     "cardID": "079",
-    "keyword": "Reposition"
+    "color": "Blue"
   },
   {
     "setID": "JGK",
     "cardID": "080",
-    "keyword": "Mill"
+    "color": "Blue"
   },
   {
     "setID": "JGK",
     "cardID": "004",
-    "keyword": "Tuck, Legend"
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": "081",
-    "keyword": "Invest, Barrier"
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": "082",
-    "keyword": "Lethal, Reaction"
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": "083",
-    "keyword": "Overpass, Spy, Summon"
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": "084",
-    "keyword": "Frailty, Attach"
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": "085",
-    "keyword": "Invest, Summon"
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": "086",
-    "keyword": "Summon"
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": "087",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": "088",
-    "keyword": "Summon, Breakthrough"
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": "089",
-    "keyword": "Reaction"
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": "090",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": "091",
-    "keyword": "Summon, Barrier"
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": "092",
-    "keyword": "Ward, Summon"
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": "093",
-    "keyword": "Invest"
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": "094",
-    "keyword": "Lethal"
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": "095",
-    "keyword": "Tuck, Summon"
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": "096",
-    "keyword": "Immortal, Sacrifice, Barrier"
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": "097",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": "098",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": "099",
-    "keyword": "Reaction"
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": 100,
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": 101,
-    "keyword": "Trash, Summon"
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": 102,
-    "keyword": "Afflict, Immortal"
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": 103,
-    "keyword": "Summon, Restrain"
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": 104,
-    "keyword": "Equip, Lethal"
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": 105,
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": 106,
-    "keyword": "Deploy, Ward, Summon"
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": 107,
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": "T06",
-    "keyword": "Summon, Tuck"
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": "T07",
-    "keyword": "Blockade, Summon, Barrier"
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": "T08",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": "T09",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": "T10",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": "T11",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": "T12",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": "T13",
-    "keyword": "Ward"
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": "T14",
-    "keyword": "Restrain, Reposition"
+    "color": "Red"
   },
   {
     "setID": "JGK",
     "cardID": "005",
-    "keyword": "Choose One, Legend"
+    "color": "Purple"
   },
   {
     "setID": "JGK",
     "cardID": 108,
-    "keyword": "Stealth, Immortal"
+    "color": "Purple"
   },
   {
     "setID": "JGK",
     "cardID": 109,
-    "keyword": "Convert"
+    "color": "Purple"
   },
   {
     "setID": "JGK",
     "cardID": 110,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "JGK",
     "cardID": 111,
-    "keyword": "Choose One"
+    "color": "Purple"
   },
   {
     "setID": "JGK",
     "cardID": 112,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "JGK",
     "cardID": 113,
-    "keyword": "Lethal, Stealth"
+    "color": "Purple"
   },
   {
     "setID": "JGK",
     "cardID": 114,
-    "keyword": "Convert"
+    "color": "Purple"
   },
   {
     "setID": "JGK",
     "cardID": 115,
-    "keyword": "Armored"
+    "color": "Purple"
   },
   {
     "setID": "JGK",
     "cardID": 116,
-    "keyword": "Choose One, Mill, Summon"
+    "color": "Purple"
   },
   {
     "setID": "JGK",
     "cardID": 117,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "JGK",
     "cardID": 118,
-    "keyword": "Reach, Choose One"
+    "color": "Purple"
   },
   {
     "setID": "JGK",
     "cardID": 119,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "JGK",
     "cardID": 120,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "JGK",
     "cardID": 121,
-    "keyword": "Choose One"
+    "color": "Purple"
   },
   {
     "setID": "JGK",
     "cardID": 122,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "JGK",
     "cardID": 123,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "JGK",
     "cardID": 124,
-    "keyword": "Choose One"
+    "color": "Purple"
   },
   {
     "setID": "JGK",
     "cardID": 125,
-    "keyword": "Immortal, Sacrifice"
+    "color": "Purple"
   },
   {
     "setID": "JGK",
     "cardID": 126,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "JGK",
     "cardID": 127,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "JGK",
     "cardID": 128,
-    "keyword": "Choose One, Sacrifice"
+    "color": "Purple"
   },
   {
     "setID": "JGK",
     "cardID": 129,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "JGK",
     "cardID": 130,
-    "keyword": "Choose One, Summon"
+    "color": "Purple"
   },
   {
     "setID": "JGK",
     "cardID": 131,
-    "keyword": "Reaction, Equip"
+    "color": "Purple"
   },
   {
     "setID": "JGK",
     "cardID": 132,
-    "keyword": "Deploy"
+    "color": "Purple"
   },
   {
     "setID": "JGK",
     "cardID": 133,
-    "keyword": "Mill, Sift"
+    "color": "Purple"
   },
   {
     "setID": "JGK",
     "cardID": 134,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "JGK",
     "cardID": "T15",
-    "keyword": "Overpass"
+    "color": "Purple"
   },
   {
     "setID": "JGK",
     "cardID": "006",
-    "keyword": "Reaction, Legend, Trash, Quick Strike"
+    "color": "Green, Blue"
   },
   {
     "setID": "JGK",
     "cardID": "007",
-    "keyword": "Legend"
+    "color": "Green, Red"
   },
   {
     "setID": "JGK",
     "cardID": 135,
-    "keyword": "Flurry, Mill"
+    "color": "Green, Purple"
   },
   {
     "setID": "JGK",
     "cardID": 136,
-    "keyword": "Reaction, Reposition, Summon"
+    "color": "Blue, Red"
   },
   {
     "setID": "JGK",
     "cardID": 137,
-    "keyword": "Twin Strike"
+    "color": "Blue, Purple"
   },
   {
     "setID": "JGK",
     "cardID": 138,
-    "keyword": "Equip, Ward"
+    "color": "Red, Purple"
   },
   {
     "setID": "FAL",
     "cardID": "001",
-    "keyword": "Haste, Leader, Legend"
+    "color": "Colorless"
   },
   {
     "setID": "FAL",
     "cardID": "027",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "FAL",
     "cardID": "028",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "FAL",
     "cardID": "029",
-    "keyword": "Choose One"
+    "color": "Colorless"
   },
   {
     "setID": "FAL",
     "cardID": "030",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "FAL",
     "cardID": "031",
-    "keyword": "Reposition"
+    "color": "Colorless"
   },
   {
     "setID": "FAL",
     "cardID": "032",
-    "keyword": "Summon"
+    "color": "Colorless"
   },
   {
     "setID": "FAL",
     "cardID": "033",
-    "keyword": "Reaction, Reposition"
+    "color": "Colorless"
   },
   {
     "setID": "FAL",
     "cardID": "034",
-    "keyword": "Stealth"
+    "color": "Colorless"
   },
   {
     "setID": "FAL",
     "cardID": "035",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "FAL",
     "cardID": "036",
-    "keyword": "Leader, Invest, Summon"
+    "color": "Colorless"
   },
   {
     "setID": "FAL",
     "cardID": "037",
-    "keyword": "Ward"
+    "color": "Colorless"
   },
   {
     "setID": "FAL",
     "cardID": "038",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "FAL",
     "cardID": "039",
-    "keyword": "Ward"
+    "color": "Colorless"
   },
   {
     "setID": "FAL",
     "cardID": "040",
-    "keyword": "Immortal, Summon"
+    "color": "Colorless"
   },
   {
     "setID": "FAL",
     "cardID": "041",
-    "keyword": "Reaction"
+    "color": "Colorless"
   },
   {
     "setID": "FAL",
     "cardID": "042",
-    "keyword": "Constellation"
+    "color": "Colorless"
   },
   {
     "setID": "FAL",
     "cardID": "043",
-    "keyword": "Overpass, Breakthrough, Armored, Ward, Convert"
+    "color": "Colorless"
   },
   {
     "setID": "FAL",
     "cardID": "044",
-    "keyword": "Haste, Mill, Ruins"
+    "color": "Colorless"
   },
   {
     "setID": "FAL",
     "cardID": "045",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "FAL",
     "cardID": "046",
-    "keyword": "Stealth, Transform"
+    "color": "Colorless"
   },
   {
     "setID": "FAL",
     "cardID": "047",
-    "keyword": "Ward"
+    "color": "Colorless"
   },
   {
     "setID": "FAL",
     "cardID": "048",
-    "keyword": "Reclaim"
+    "color": "Colorless"
   },
   {
     "setID": "FAL",
     "cardID": "049",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "FAL",
     "cardID": "050",
-    "keyword": "Choose One"
+    "color": "Colorless"
   },
   {
     "setID": "FAL",
     "cardID": "051",
-    "keyword": "Choose One"
+    "color": "Colorless"
   },
   {
     "setID": "FAL",
     "cardID": "052",
-    "keyword": "Reaction"
+    "color": "Colorless"
   },
   {
     "setID": "FAL",
     "cardID": "053",
-    "keyword": "Reaction, First Strike"
+    "color": "Colorless"
   },
   {
     "setID": "FAL",
     "cardID": "054",
-    "keyword": "Spy"
+    "color": "Colorless"
   },
   {
     "setID": "FAL",
     "cardID": "055",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "FAL",
     "cardID": "056",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "FAL",
     "cardID": "057",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "FAL",
     "cardID": "058",
-    "keyword": "Immortal"
+    "color": "Colorless"
   },
   {
     "setID": "FAL",
     "cardID": "T01",
-    "keyword": "Afflict"
+    "color": "Colorless"
   },
   {
     "setID": "FAL",
     "cardID": "002",
-    "keyword": "Legend"
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "059",
-    "keyword": "Exhaust"
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "060",
-    "keyword": "Invest"
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "061",
-    "keyword": "Flurry"
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "062",
-    "keyword": "Invest, Trash"
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "063",
-    "keyword": "Invest, Summon"
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "064",
-    "keyword": "Invest, Reposition"
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "065",
-    "keyword": "Trash"
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "066",
-    "keyword": "Blockade"
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "067",
-    "keyword": "Overpass, Invest, Ward"
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "068",
-    "keyword": "Breakthrough, Reaction, Sift"
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "069",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "070",
-    "keyword": "Flurry"
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "071",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "072",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "073",
-    "keyword": "Breakthrough, Immortal, Trash"
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "074",
-    "keyword": "Overheal, Invest, Ward"
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "075",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "076",
-    "keyword": "Afflict"
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "077",
-    "keyword": "Choose One"
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "078",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "079",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "080",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "081",
-    "keyword": "Invest"
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "082",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "083",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "084",
-    "keyword": "Reaction"
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "085",
-    "keyword": "Constellation, Breakthrough"
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "086",
-    "keyword": "Trash"
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "087",
-    "keyword": "Equip, Ward"
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "088",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "089",
-    "keyword": "Flurry"
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "090",
-    "keyword": "Summon"
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "091",
-    "keyword": "Equip, Barrier, Sift"
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "T02",
-    "keyword": "Deathcoil, Haste"
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "T03",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "T04",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "FAL",
     "cardID": "003",
-    "keyword": "Legend, Summon"
+    "color": "Blue"
   },
   {
     "setID": "FAL",
     "cardID": "092",
-    "keyword": "Invest"
+    "color": "Blue"
   },
   {
     "setID": "FAL",
     "cardID": "093",
-    "keyword": "Allocate"
+    "color": "Blue"
   },
   {
     "setID": "FAL",
     "cardID": "094",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "FAL",
     "cardID": "095",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "FAL",
     "cardID": "096",
-    "keyword": "Reposition"
+    "color": "Blue"
   },
   {
     "setID": "FAL",
     "cardID": "097",
-    "keyword": "Twin Strike, Sift"
+    "color": "Blue"
   },
   {
     "setID": "FAL",
     "cardID": "098",
-    "keyword": "Reposition"
+    "color": "Blue"
   },
   {
     "setID": "FAL",
     "cardID": "099",
-    "keyword": "Reaction"
+    "color": "Blue"
   },
   {
     "setID": "FAL",
     "cardID": 100,
-    "keyword": "Armored, Breakthrough"
+    "color": "Blue"
   },
   {
     "setID": "FAL",
     "cardID": 101,
-    "keyword": "Overpass"
+    "color": "Blue"
   },
   {
     "setID": "FAL",
     "cardID": 102,
-    "keyword": "Armored, Sift"
+    "color": "Blue"
   },
   {
     "setID": "FAL",
     "cardID": 103,
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "FAL",
     "cardID": 104,
-    "keyword": "Overpass"
+    "color": "Blue"
   },
   {
     "setID": "FAL",
     "cardID": 105,
-    "keyword": "Echo"
+    "color": "Blue"
   },
   {
     "setID": "FAL",
     "cardID": 106,
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "FAL",
     "cardID": 107,
-    "keyword": "Ruins"
+    "color": "Blue"
   },
   {
     "setID": "FAL",
     "cardID": 108,
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "FAL",
     "cardID": 109,
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "FAL",
     "cardID": 110,
-    "keyword": "Armored, Constellation"
+    "color": "Blue"
   },
   {
     "setID": "FAL",
     "cardID": 111,
-    "keyword": "Reclaim, Sift"
+    "color": "Blue"
   },
   {
     "setID": "FAL",
     "cardID": 112,
-    "keyword": "Constellation, Reclaim"
+    "color": "Blue"
   },
   {
     "setID": "FAL",
     "cardID": 113,
-    "keyword": "Reaction, Counter"
+    "color": "Blue"
   },
   {
     "setID": "FAL",
     "cardID": 114,
-    "keyword": "Reposition, Constellation"
+    "color": "Blue"
   },
   {
     "setID": "FAL",
     "cardID": 115,
-    "keyword": "Legend"
+    "color": "Blue"
   },
   {
     "setID": "FAL",
     "cardID": 116,
-    "keyword": "Reclaim"
+    "color": "Blue"
   },
   {
     "setID": "FAL",
     "cardID": 117,
-    "keyword": "Ephemeral"
+    "color": "Blue"
   },
   {
     "setID": "FAL",
     "cardID": 118,
-    "keyword": "Allocate"
+    "color": "Blue"
   },
   {
     "setID": "FAL",
     "cardID": 119,
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "FAL",
     "cardID": 120,
-    "keyword": "Equip, Reaction"
+    "color": "Blue"
   },
   {
     "setID": "FAL",
     "cardID": 121,
-    "keyword": "Equip, Breakthrough"
+    "color": "Blue"
   },
   {
     "setID": "FAL",
     "cardID": 122,
-    "keyword": "Deploy, Reaction"
+    "color": "Blue"
   },
   {
     "setID": "FAL",
     "cardID": 123,
-    "keyword": "Equip, Reaction, Overpass"
+    "color": "Blue"
   },
   {
     "setID": "FAL",
     "cardID": 124,
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "FAL",
     "cardID": "T05",
-    "keyword": "Afflict"
+    "color": "Blue"
   },
   {
     "setID": "FAL",
     "cardID": "004",
-    "keyword": "Leader, Legend"
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": 125,
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": 126,
-    "keyword": "Invest, Barrier"
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": 127,
-    "keyword": "Invest, Convert"
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": 128,
-    "keyword": "Overpass, Invest"
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": 129,
-    "keyword": "Overheal"
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": 130,
-    "keyword": "Exhaust, Stealth"
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": 131,
-    "keyword": "Spy"
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": 132,
-    "keyword": "Invest, Allocate"
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": 133,
-    "keyword": "Summon, Allocate"
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": 134,
-    "keyword": "Allocate"
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": 135,
-    "keyword": "Overheal, Invest"
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": 136,
-    "keyword": "Ward, Consume"
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": 137,
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": 138,
-    "keyword": "Leader, Leathal, Invest, Immortal, Sacrifice"
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": 139,
-    "keyword": "Summon"
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": 140,
-    "keyword": "Overpass, Summon"
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": 141,
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": 142,
-    "keyword": "Overpass"
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": 143,
-    "keyword": "Hoard, Mill"
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": 144,
-    "keyword": "Summon, Allocate"
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": 145,
-    "keyword": "Reach, Constellation, Barrier, Ward"
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": 146,
-    "keyword": "Barrier"
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": 147,
-    "keyword": "Summon"
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": 148,
-    "keyword": "Spy"
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": 149,
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": 150,
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": 151,
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": 152,
-    "keyword": "Reaction"
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": 153,
-    "keyword": "Transform, Invest"
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": 154,
-    "keyword": "Equip"
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": 155,
-    "keyword": "Equip, Allocate"
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": 156,
-    "keyword": "Ward"
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": 157,
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": "T06",
-    "keyword": "Summon"
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": "T07",
-    "keyword": "Blockade, Summon, Barrier"
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": "T08",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": "T09",
-    "keyword": "Crowd, Leader"
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": "T10",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "FAL",
     "cardID": "005",
-    "keyword": "Sacrifice, Legend"
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": 158,
-    "keyword": "Invest, Choose One, Haste, Lethal, Stealth, Quick Strike"
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": 159,
-    "keyword": "Reposition"
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": 160,
-    "keyword": "Reach, Summon"
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": 161,
-    "keyword": "Summon"
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": 162,
-    "keyword": "Summon"
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": 163,
-    "keyword": "Summon"
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": 164,
-    "keyword": "Immortal, Mill"
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": 165,
-    "keyword": "Exhaust"
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": 166,
-    "keyword": "Legend"
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": 167,
-    "keyword": "Stealth, Summon"
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": 168,
-    "keyword": "Allocate"
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": 169,
-    "keyword": "Stealth"
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": 170,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": 171,
-    "keyword": "Immortal"
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": 172,
-    "keyword": "Exhaust"
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": 173,
-    "keyword": "Overpass"
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": 174,
-    "keyword": "Deathcoil, Immortal, Mill"
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": 175,
-    "keyword": "Overpass, Choose One"
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": 176,
-    "keyword": "Constellation"
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": 177,
-    "keyword": "Immortal, Sacrifice"
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": 178,
-    "keyword": "Afflict"
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": 179,
-    "keyword": "Summon"
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": 180,
-    "keyword": "Attach"
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": 181,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": 182,
-    "keyword": "Afflict"
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": 183,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": 184,
-    "keyword": "Choose One, Transform"
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": 185,
-    "keyword": "Legend"
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": 186,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": 187,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": 188,
-    "keyword": "Mill, Reposition, Echo"
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": 189,
-    "keyword": "Equip, Reposition"
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": 190,
-    "keyword": "Deploy, Summon"
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": "T11",
-    "keyword": "Afflict"
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": "T12",
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": "T13",
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "FAL",
     "cardID": "006",
-    "keyword": "Legend, Attach"
+    "color": "Green, Purple"
   },
   {
     "setID": "FAL",
     "cardID": "007",
-    "keyword": "Reposition, Legend"
+    "color": "Green, Red"
   },
   {
     "setID": "FAL",
     "cardID": "008",
-    "keyword": "Convert, Legend"
+    "color": "Red, Purple"
   },
   {
     "setID": "FAL",
     "cardID": "009",
-    "keyword": "Breakthrough, Legend, Ruins"
+    "color": "Green, Blue"
   },
   {
     "setID": "FAL",
     "cardID": "010",
-    "keyword": "Legend, Reclaim"
+    "color": "Blue, Red"
   },
   {
     "setID": "FAL",
     "cardID": "011",
-    "keyword": "Overpass, Legend, Choose One"
+    "color": "Red, Purple"
   },
   {
     "setID": "FAL",
     "cardID": "012",
-    "keyword": "Constellation, Legend"
+    "color": "Blue, Red"
   },
   {
     "setID": "FAL",
     "cardID": "013",
-    "keyword": "Overheal, Legend"
+    "color": "Green, Red"
   },
   {
     "setID": "FAL",
     "cardID": "014",
-    "keyword": "Legend, Quick Strike"
+    "color": "Green, Blue"
   },
   {
     "setID": "FAL",
     "cardID": "015",
-    "keyword": "Downgrade, Legend"
+    "color": "Blue, Purple"
   },
   {
     "setID": "FAL",
     "cardID": "016",
-    "keyword": "Legend, Mill, Trash, Reclaim"
+    "color": "Blue, Purple"
   },
   {
     "setID": "FAL",
     "cardID": "017",
-    "keyword": "Legend, Ephemeral"
+    "color": "Red, Purple"
   },
   {
     "setID": "FAL",
     "cardID": "018",
-    "keyword": "Ward, Legend"
+    "color": "Blue, Red"
   },
   {
     "setID": "FAL",
     "cardID": "019",
-    "keyword": "Legend, Choose One, Silence, Exhaust"
+    "color": "Green, Purple"
   },
   {
     "setID": "FAL",
     "cardID": "020",
-    "keyword": "Twin Strike, Legend, Flurry"
+    "color": "Green, Purple"
   },
   {
     "setID": "FAL",
     "cardID": "021",
-    "keyword": "Immortal, Legend"
+    "color": "Green, Blue"
   },
   {
     "setID": "FAL",
     "cardID": "022",
-    "keyword": "Ward, Legend, Invest"
+    "color": "Green, Red"
   },
   {
     "setID": "FAL",
     "cardID": "023",
-    "keyword": "Convert, Legend, Exhaust"
+    "color": "Green, Purple"
   },
   {
     "setID": "FAL",
     "cardID": "024",
-    "keyword": "Overpass, Constellation, Legend"
+    "color": "Blue, Red"
   },
   {
     "setID": "FAL",
     "cardID": "025",
-    "keyword": "Legend"
+    "color": "Blue, Purple"
   },
   {
     "setID": "FAL",
     "cardID": "026",
-    "keyword": "Legend, Tuck"
+    "color": "Red, Purple"
   },
   {
     "setID": "FAL",
     "cardID": 191,
-    "keyword": "Sift, Blockade"
+    "color": "Green, Blue"
   },
   {
     "setID": "FAL",
     "cardID": 192,
-    "keyword": "Equip, First Strike"
+    "color": "Green, Blue"
   },
   {
     "setID": "FAL",
     "cardID": 193,
-    "keyword": "Invest"
+    "color": "Green, Red"
   },
   {
     "setID": "FAL",
     "cardID": 194,
-    "keyword": "Invest"
+    "color": "Green, Red"
   },
   {
     "setID": "FAL",
     "cardID": 195,
-    "keyword": ""
+    "color": "Green, Purple"
   },
   {
     "setID": "FAL",
     "cardID": 196,
-    "keyword": ""
+    "color": "Green, Purple"
   },
   {
     "setID": "FAL",
     "cardID": 197,
-    "keyword": ""
+    "color": "Blue, Red"
   },
   {
     "setID": "FAL",
     "cardID": 198,
-    "keyword": "Afflict, Choose One"
+    "color": "Blue, Red"
   },
   {
     "setID": "FAL",
     "cardID": 199,
-    "keyword": "Reposition"
+    "color": "Blue, Purple"
   },
   {
     "setID": "FAL",
     "cardID": 200,
-    "keyword": "Equip"
+    "color": "Blue, Purple"
   },
   {
     "setID": "FAL",
     "cardID": 201,
-    "keyword": "Stealth, Spy"
+    "color": "Red, Purple"
   },
   {
     "setID": "FAL",
     "cardID": 202,
-    "keyword": ""
+    "color": "Red, Purple"
   },
   {
     "setID": "FAL",
     "cardID": 203,
-    "keyword": "Constellation, Downgrade"
+    "color": "Green, Blue"
   },
   {
     "setID": "FAL",
     "cardID": 204,
-    "keyword": "Ward, Constellation, Downgrade"
+    "color": "Green, Red"
   },
   {
     "setID": "FAL",
     "cardID": 205,
-    "keyword": "Constellation, Downgrade"
+    "color": "Green, Purple"
   },
   {
     "setID": "FAL",
     "cardID": 206,
-    "keyword": "Overpass, Constellation, Downgrade"
+    "color": "Blue, Red"
   },
   {
     "setID": "FAL",
     "cardID": 207,
-    "keyword": "Convert, Constellation, Downgrade"
+    "color": "Blue, Purple"
   },
   {
     "setID": "FAL",
     "cardID": 208,
-    "keyword": "Constellation, Downgrade"
+    "color": "Red, Purple"
   },
   {
     "setID": "CNF",
     "cardID": "001",
-    "keyword": "Anomalous Traits"
+    "color": "Colorless"
   },
   {
     "setID": "CNF",
     "cardID": "002",
-    "keyword": "Anomalous Traits, Lethal, Overpass, Stealth"
+    "color": "Colorless"
   },
   {
     "setID": "CNF",
     "cardID": "003",
-    "keyword": "Anomalous Traits, Armored, Reach, Trash, Ward"
+    "color": "Colorless"
   },
   {
     "setID": "CNF",
     "cardID": "004",
-    "keyword": "Anomalous Traits"
+    "color": "Colorless"
   },
   {
     "setID": "CNF",
     "cardID": "005",
-    "keyword": "Invest, Tuck"
+    "color": "Colorless"
   },
   {
     "setID": "CNF",
     "cardID": "006",
-    "keyword": "Anomalous Traits, Tuck"
+    "color": "Colorless"
   },
   {
     "setID": "CNF",
     "cardID": "007",
-    "keyword": "Stealth"
+    "color": "Colorless"
   },
   {
     "setID": "CNF",
     "cardID": "008",
-    "keyword": "Anomalous Traits"
+    "color": "Colorless"
   },
   {
     "setID": "CNF",
     "cardID": "009",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "CNF",
     "cardID": "010",
-    "keyword": "Legend"
+    "color": "Colorless"
   },
   {
     "setID": "CNF",
     "cardID": "011",
-    "keyword": "Restrain"
+    "color": "Colorless"
   },
   {
     "setID": "CNF",
     "cardID": "012",
-    "keyword": "Equip, Reaction"
+    "color": "Colorless"
   },
   {
     "setID": "CNF",
     "cardID": "013",
-    "keyword": "Legend, Invest"
+    "color": "Green"
   },
   {
     "setID": "CNF",
     "cardID": "014",
-    "keyword": "Anomalous Traits"
+    "color": "Green"
   },
   {
     "setID": "CNF",
     "cardID": "015",
-    "keyword": "Anomalous Traits, Armored, Indestructibe, Lethal"
+    "color": "Green"
   },
   {
     "setID": "CNF",
     "cardID": "016",
-    "keyword": "Anomalous Traits, Stealth"
+    "color": "Green"
   },
   {
     "setID": "CNF",
     "cardID": "017",
-    "keyword": "Anomalous Traits"
+    "color": "Green"
   },
   {
     "setID": "CNF",
     "cardID": "018",
-    "keyword": "Anomalous Traits"
+    "color": "Green"
   },
   {
     "setID": "CNF",
     "cardID": "019",
-    "keyword": "Anomalous Traits, Twin Strike"
+    "color": "Green"
   },
   {
     "setID": "CNF",
     "cardID": "020",
-    "keyword": "Exhaust"
+    "color": "Green"
   },
   {
     "setID": "CNF",
     "cardID": "021",
-    "keyword": "Exhaust"
+    "color": "Green"
   },
   {
     "setID": "CNF",
     "cardID": "022",
-    "keyword": "Reaction"
+    "color": "Green"
   },
   {
     "setID": "CNF",
     "cardID": "023",
-    "keyword": "Reaction, Sacrifice"
+    "color": "Green"
   },
   {
     "setID": "CNF",
     "cardID": "024",
-    "keyword": "Reaction, Quick Strike"
+    "color": "Green"
   },
   {
     "setID": "CNF",
     "cardID": "025",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "CNF",
     "cardID": "026",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "CNF",
     "cardID": "027",
-    "keyword": "Anomalous Traits"
+    "color": "Green"
   },
   {
     "setID": "CNF",
     "cardID": "T01",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "CNF",
     "cardID": "028",
-    "keyword": "Stealth, Attach, Equip, Legend"
+    "color": "Blue"
   },
   {
     "setID": "CNF",
     "cardID": "029",
-    "keyword": "Anomalous Traits, Spy, Mill"
+    "color": "Blue"
   },
   {
     "setID": "CNF",
     "cardID": "030",
-    "keyword": "Anomalous Traits, Exhaust"
+    "color": "Blue"
   },
   {
     "setID": "CNF",
     "cardID": "031",
-    "keyword": "Anomalous Traits, Ruins"
+    "color": "Blue"
   },
   {
     "setID": "CNF",
     "cardID": "032",
-    "keyword": "Spy, First Strike"
+    "color": "Blue"
   },
   {
     "setID": "CNF",
     "cardID": "033",
-    "keyword": "Anomalous Traits"
+    "color": "Blue"
   },
   {
     "setID": "CNF",
     "cardID": "034",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "CNF",
     "cardID": "035",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "CNF",
     "cardID": "036",
-    "keyword": "Anomalous Traits"
+    "color": "Blue"
   },
   {
     "setID": "CNF",
     "cardID": "037",
-    "keyword": "Anomalous Traits"
+    "color": "Blue"
   },
   {
     "setID": "CNF",
     "cardID": "038",
-    "keyword": "Spy"
+    "color": "Blue"
   },
   {
     "setID": "CNF",
     "cardID": "039",
-    "keyword": "Anomalous Traits, Equip"
+    "color": "Blue"
   },
   {
     "setID": "CNF",
     "cardID": "040",
-    "keyword": "Equip, Deny"
+    "color": "Blue"
   },
   {
     "setID": "CNF",
     "cardID": "041",
-    "keyword": "Afflict, Anomalous Traits"
+    "color": "Blue"
   },
   {
     "setID": "CNF",
     "cardID": "042",
-    "keyword": "Anomalous Traits"
+    "color": "Blue"
   },
   {
     "setID": "CNF",
     "cardID": "043",
-    "keyword": "Untargetable, Legend, Silence"
+    "color": "Red"
   },
   {
     "setID": "CNF",
     "cardID": "044",
-    "keyword": "Anomalous Traits, Trash"
+    "color": "Red"
   },
   {
     "setID": "CNF",
     "cardID": "045",
-    "keyword": "Anomalous Traits, Trash"
+    "color": "Red"
   },
   {
     "setID": "CNF",
     "cardID": "046",
-    "keyword": "Anomalous Traits, Ward"
+    "color": "Red"
   },
   {
     "setID": "CNF",
     "cardID": "047",
-    "keyword": "Ward"
+    "color": "Red"
   },
   {
     "setID": "CNF",
     "cardID": "048",
-    "keyword": "Anomalous Traits"
+    "color": "Red"
   },
   {
     "setID": "CNF",
     "cardID": "049",
-    "keyword": "Silence, Tuck, Barrier"
+    "color": "Red"
   },
   {
     "setID": "CNF",
     "cardID": "050",
-    "keyword": "Barrier"
+    "color": "Red"
   },
   {
     "setID": "CNF",
     "cardID": "051",
-    "keyword": "Trash, Anomalous Traits"
+    "color": "Red"
   },
   {
     "setID": "CNF",
     "cardID": "052",
-    "keyword": "Anomalous Traits"
+    "color": "Red"
   },
   {
     "setID": "CNF",
     "cardID": "053",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "CNF",
     "cardID": "054",
-    "keyword": "Silence, Trash"
+    "color": "Red"
   },
   {
     "setID": "CNF",
     "cardID": "055",
-    "keyword": "Anomalous Traits"
+    "color": "Red"
   },
   {
     "setID": "CNF",
     "cardID": "056",
-    "keyword": "Afflict, Anomalous Traits, Barrier"
+    "color": "Red"
   },
   {
     "setID": "CNF",
     "cardID": "057",
-    "keyword": "Anomalous Traits"
+    "color": "Red"
   },
   {
     "setID": "CNF",
     "cardID": "058",
-    "keyword": "Transform, Legend, Anomalous Traits"
+    "color": "Purple"
   },
   {
     "setID": "CNF",
     "cardID": "059",
-    "keyword": "Anomalous Traits, Stealth, Transform"
+    "color": "Purple"
   },
   {
     "setID": "CNF",
     "cardID": "060",
-    "keyword": "Anomalous Traits"
+    "color": "Purple"
   },
   {
     "setID": "CNF",
     "cardID": "061",
-    "keyword": "Anomalous Traits - Mill"
+    "color": "Purple"
   },
   {
     "setID": "CNF",
     "cardID": "062",
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "CNF",
     "cardID": "063",
-    "keyword": "Anomalous Traits"
+    "color": "Purple"
   },
   {
     "setID": "CNF",
     "cardID": "064",
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "CNF",
     "cardID": "065",
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "CNF",
     "cardID": "066",
-    "keyword": "Armored"
+    "color": "Purple"
   },
   {
     "setID": "CNF",
     "cardID": "067",
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "CNF",
     "cardID": "068",
-    "keyword": "Sacrifice"
+    "color": "Purple"
   },
   {
     "setID": "CNF",
     "cardID": "069",
-    "keyword": "Trash, Mill"
+    "color": "Purple"
   },
   {
     "setID": "CNF",
     "cardID": "070",
-    "keyword": "Equip, Reclaim"
+    "color": "Purple"
   },
   {
     "setID": "CNF",
     "cardID": "071",
-    "keyword": "Deploy, Invest"
+    "color": "Purple"
   },
   {
     "setID": "CNF",
     "cardID": "072",
-    "keyword": "Anomalous Traits"
+    "color": "Purple"
   },
   {
     "setID": "CNF",
     "cardID": "T02",
-    "keyword": "Sacrifice"
+    "color": "Purple"
   },
   {
     "setID": "CNF",
     "cardID": "T03",
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "CNF",
     "cardID": "T04",
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "CNF",
     "cardID": "073",
-    "keyword": "Breakthrough, Legend, Equip"
+    "color": "Green, Blue"
   },
   {
     "setID": "CNF",
     "cardID": "074",
-    "keyword": "Legend"
+    "color": "Green, Red"
   },
   {
     "setID": "CNF",
     "cardID": "075",
-    "keyword": "Legend, Haste"
+    "color": "Green, Purple"
   },
   {
     "setID": "CNF",
     "cardID": "076",
-    "keyword": "Attach, Stealth, Legend"
+    "color": "Blue, Red"
   },
   {
     "setID": "CNF",
     "cardID": "077",
-    "keyword": "Legend, Echo"
+    "color": "Blue, Purple"
   },
   {
     "setID": "CNF",
     "cardID": "078",
-    "keyword": "Silence, Legend, Untargetable"
+    "color": "Red, Purple"
   },
   {
     "setID": "CNF",
     "cardID": "079",
-    "keyword": "Anomalous Traits, Stealth, Trash, Hoard"
+    "color": "Green, Blue"
   },
   {
     "setID": "CNF",
     "cardID": "080",
-    "keyword": "Anomalous Traits, Breakthrough"
+    "color": "Green, Red"
   },
   {
     "setID": "CNF",
     "cardID": "081",
-    "keyword": "Anomalous Traits, Sacrifice"
+    "color": "Green, Purple"
   },
   {
     "setID": "CNF",
     "cardID": "082",
-    "keyword": "Anomalous Traits, Afflict, Equip, Spy"
+    "color": "Blue, Red"
   },
   {
     "setID": "CNF",
     "cardID": "083",
-    "keyword": "Anomalous Traits, Armored"
+    "color": "Blue, Purple"
   },
   {
     "setID": "CNF",
     "cardID": "084",
-    "keyword": "Anomalous Traits, Convert"
+    "color": "Red, Purple"
   },
   {
     "setID": "CNF",
     "cardID": "085",
-    "keyword": "Sacrifice"
+    "color": "Purple, Green, Red, Blue"
   },
   {
     "setID": "DAE",
     "cardID": "001",
-    "keyword": "Trash, Legend"
+    "color": "Colorless"
   },
   {
     "setID": "DAE",
     "cardID": "002",
-    "keyword": "Haste, Overpass, Reach, Legend, Equip, Trap"
+    "color": "Colorless"
   },
   {
     "setID": "DAE",
     "cardID": "003",
-    "keyword": "Legend"
+    "color": "Colorless"
   },
   {
     "setID": "DAE",
     "cardID": "018",
-    "keyword": "Trap"
+    "color": "Colorless"
   },
   {
     "setID": "DAE",
     "cardID": "019",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "DAE",
     "cardID": "020",
-    "keyword": "Haste"
+    "color": "Colorless"
   },
   {
     "setID": "DAE",
     "cardID": "021",
-    "keyword": "Armored, Reclaim"
+    "color": "Colorless"
   },
   {
     "setID": "DAE",
     "cardID": "022",
-    "keyword": "Spy"
+    "color": "Colorless"
   },
   {
     "setID": "DAE",
     "cardID": "023",
-    "keyword": "Equip, Quick Strike, Lethal"
+    "color": "Colorless"
   },
   {
     "setID": "DAE",
     "cardID": "024",
-    "keyword": "Allocate, Choose One"
+    "color": "Colorless"
   },
   {
     "setID": "DAE",
     "cardID": "025",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "DAE",
     "cardID": "026",
-    "keyword": ""
+    "color": "Colorless"
   },
   {
     "setID": "DAE",
     "cardID": "027",
-    "keyword": "Reaction"
+    "color": "Colorless"
   },
   {
     "setID": "DAE",
     "cardID": "028",
-    "keyword": "Trap"
+    "color": "Colorless"
   },
   {
     "setID": "DAE",
     "cardID": "029",
-    "keyword": "Invest, Reach, Trap"
+    "color": "Colorless"
   },
   {
     "setID": "DAE",
     "cardID": "030",
-    "keyword": "Hoard, Overpass, Choose One"
+    "color": "Colorless"
   },
   {
     "setID": "DAE",
     "cardID": "031",
-    "keyword": "Modal, Reclaim, Spy"
+    "color": "Colorless"
   },
   {
     "setID": "DAE",
     "cardID": "T01",
-    "keyword": "Trap"
+    "color": "Colorless"
   },
   {
     "setID": "DAE",
     "cardID": "T02",
-    "keyword": "Trap"
+    "color": "Colorless"
   },
   {
     "setID": "DAE",
     "cardID": "T03",
-    "keyword": "Trap"
+    "color": "Colorless"
   },
   {
     "setID": "DAE",
     "cardID": "T04",
-    "keyword": "Trap, Summon"
+    "color": "Colorless"
   },
   {
     "setID": "DAE",
     "cardID": "T05",
-    "keyword": "Trap, Reposition"
+    "color": "Colorless"
   },
   {
     "setID": "DAE",
     "cardID": "T06",
-    "keyword": "Trap, Deny, Blockade, Ward"
+    "color": "Colorless"
   },
   {
     "setID": "DAE",
     "cardID": "T07",
-    "keyword": "Trap"
+    "color": "Colorless"
   },
   {
     "setID": "DAE",
     "cardID": "T08",
-    "keyword": "Trap"
+    "color": "Colorless"
   },
   {
     "setID": "DAE",
     "cardID": "T09",
-    "keyword": "Trap, Armored"
+    "color": "Colorless"
   },
   {
     "setID": "DAE",
     "cardID": "T10",
-    "keyword": "Trap"
+    "color": "Colorless"
   },
   {
     "setID": "DAE",
     "cardID": "T11",
-    "keyword": "Trap"
+    "color": "Colorless"
   },
   {
     "setID": "DAE",
     "cardID": "T12",
-    "keyword": "Trap, Mill"
+    "color": "Colorless"
   },
   {
     "setID": "DAE",
     "cardID": "004",
-    "keyword": "Legend"
+    "color": "Green"
   },
   {
     "setID": "DAE",
     "cardID": "005",
-    "keyword": "Immortal, Legend"
+    "color": "Green"
   },
   {
     "setID": "DAE",
     "cardID": "032",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "DAE",
     "cardID": "033",
-    "keyword": "Choose One, Reclaim"
+    "color": "Green"
   },
   {
     "setID": "DAE",
     "cardID": "034",
-    "keyword": "Haste"
+    "color": "Green"
   },
   {
     "setID": "DAE",
     "cardID": "035",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "DAE",
     "cardID": "036",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "DAE",
     "cardID": "037",
-    "keyword": "Reaction, Silence"
+    "color": "Green"
   },
   {
     "setID": "DAE",
     "cardID": "038",
-    "keyword": "Equip, Breakthrough"
+    "color": "Green"
   },
   {
     "setID": "DAE",
     "cardID": "039",
-    "keyword": "Afflict"
+    "color": "Green"
   },
   {
     "setID": "DAE",
     "cardID": "040",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "DAE",
     "cardID": "041",
-    "keyword": "Deploy, Trap"
+    "color": "Green"
   },
   {
     "setID": "DAE",
     "cardID": "042",
-    "keyword": "Choose One"
+    "color": "Green"
   },
   {
     "setID": "DAE",
     "cardID": "043",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "DAE",
     "cardID": "044",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "DAE",
     "cardID": "045",
-    "keyword": "Reaction, Breakthrough"
+    "color": "Green"
   },
   {
     "setID": "DAE",
     "cardID": "046",
-    "keyword": "Attach, Echo"
+    "color": "Green"
   },
   {
     "setID": "DAE",
     "cardID": "047",
-    "keyword": "Invest"
+    "color": "Green"
   },
   {
     "setID": "DAE",
     "cardID": "048",
-    "keyword": "Exhaust"
+    "color": "Green"
   },
   {
     "setID": "DAE",
     "cardID": "049",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "DAE",
     "cardID": "050",
-    "keyword": "Blockade"
+    "color": "Green"
   },
   {
     "setID": "DAE",
     "cardID": "051",
-    "keyword": "Reposition"
+    "color": "Green"
   },
   {
     "setID": "DAE",
     "cardID": "052",
-    "keyword": "Modal, Legend"
+    "color": "Green"
   },
   {
     "setID": "DAE",
     "cardID": "053",
-    "keyword": "Deploy"
+    "color": "Green"
   },
   {
     "setID": "DAE",
     "cardID": "054",
-    "keyword": ""
+    "color": "Green"
   },
   {
     "setID": "DAE",
     "cardID": "006",
-    "keyword": "Legend, Trash"
+    "color": "Blue"
   },
   {
     "setID": "DAE",
     "cardID": "007",
-    "keyword": "Legend, Trap"
+    "color": "Blue"
   },
   {
     "setID": "DAE",
     "cardID": "055",
-    "keyword": "Trap"
+    "color": "Blue"
   },
   {
     "setID": "DAE",
     "cardID": "056",
-    "keyword": "Trap"
+    "color": "Blue"
   },
   {
     "setID": "DAE",
     "cardID": "057",
-    "keyword": "Trap, Choose One"
+    "color": "Blue"
   },
   {
     "setID": "DAE",
     "cardID": "058",
-    "keyword": "Trap"
+    "color": "Blue"
   },
   {
     "setID": "DAE",
     "cardID": "059",
-    "keyword": "Trap"
+    "color": "Blue"
   },
   {
     "setID": "DAE",
     "cardID": "060",
-    "keyword": "Trap, Allocate"
+    "color": "Blue"
   },
   {
     "setID": "DAE",
     "cardID": "061",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "DAE",
     "cardID": "062",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "DAE",
     "cardID": "063",
-    "keyword": "Choose One"
+    "color": "Blue"
   },
   {
     "setID": "DAE",
     "cardID": "064",
-    "keyword": "Overpass"
+    "color": "Blue"
   },
   {
     "setID": "DAE",
     "cardID": "065",
-    "keyword": "Trap"
+    "color": "Blue"
   },
   {
     "setID": "DAE",
     "cardID": "066",
-    "keyword": "Trap, Choose One, Reclaim"
+    "color": "Blue"
   },
   {
     "setID": "DAE",
     "cardID": "067",
-    "keyword": "Ruins"
+    "color": "Blue"
   },
   {
     "setID": "DAE",
     "cardID": "068",
-    "keyword": "Trap"
+    "color": "Blue"
   },
   {
     "setID": "DAE",
     "cardID": "069",
-    "keyword": "Reaction, Trap"
+    "color": "Blue"
   },
   {
     "setID": "DAE",
     "cardID": "070",
-    "keyword": "Equip, Overpass"
+    "color": "Blue"
   },
   {
     "setID": "DAE",
     "cardID": "071",
-    "keyword": "Deploy"
+    "color": "Blue"
   },
   {
     "setID": "DAE",
     "cardID": "072",
-    "keyword": "Trap, Sacrifice"
+    "color": "Blue"
   },
   {
     "setID": "DAE",
     "cardID": "073",
-    "keyword": "Overpass, Trash"
+    "color": "Blue"
   },
   {
     "setID": "DAE",
     "cardID": "074",
-    "keyword": "Trap, Mill, Ruins"
+    "color": "Blue"
   },
   {
     "setID": "DAE",
     "cardID": "075",
-    "keyword": "Modal, Sift, Stealth, Legend, Trap"
+    "color": "Blue"
   },
   {
     "setID": "DAE",
     "cardID": "076",
-    "keyword": "Deploy, Trap"
+    "color": "Blue"
   },
   {
     "setID": "DAE",
     "cardID": "077",
-    "keyword": ""
+    "color": "Blue"
   },
   {
     "setID": "DAE",
     "cardID": "T13",
-    "keyword": "Equip"
+    "color": "Blue"
   },
   {
     "setID": "DAE",
     "cardID": "008",
-    "keyword": "Legend"
+    "color": "Red"
   },
   {
     "setID": "DAE",
     "cardID": "009",
-    "keyword": "Ward, Restrain, Legend"
+    "color": "Red"
   },
   {
     "setID": "DAE",
     "cardID": "078",
-    "keyword": "Breakthrough"
+    "color": "Red"
   },
   {
     "setID": "DAE",
     "cardID": "079",
-    "keyword": "Choose One"
+    "color": "Red"
   },
   {
     "setID": "DAE",
     "cardID": "080",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "DAE",
     "cardID": "081",
-    "keyword": "Barrier"
+    "color": "Red"
   },
   {
     "setID": "DAE",
     "cardID": "082",
-    "keyword": "Reaction, Deny"
+    "color": "Red"
   },
   {
     "setID": "DAE",
     "cardID": "083",
-    "keyword": "Restrain, Silence"
+    "color": "Red"
   },
   {
     "setID": "DAE",
     "cardID": "084",
-    "keyword": "Trash"
+    "color": "Red"
   },
   {
     "setID": "DAE",
     "cardID": "085",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "DAE",
     "cardID": "086",
-    "keyword": "Summon"
+    "color": "Red"
   },
   {
     "setID": "DAE",
     "cardID": "087",
-    "keyword": "Trap, Trash"
+    "color": "Red"
   },
   {
     "setID": "DAE",
     "cardID": "088",
-    "keyword": "Spy, Choose One"
+    "color": "Red"
   },
   {
     "setID": "DAE",
     "cardID": "089",
-    "keyword": "Reaction, Ward, Deny"
+    "color": "Red"
   },
   {
     "setID": "DAE",
     "cardID": "090",
-    "keyword": "Mill, Allocate"
+    "color": "Red"
   },
   {
     "setID": "DAE",
     "cardID": "091",
-    "keyword": "Reaction, Choose One, Trap"
+    "color": "Red"
   },
   {
     "setID": "DAE",
     "cardID": "092",
-    "keyword": "Reaction"
+    "color": "Red"
   },
   {
     "setID": "DAE",
     "cardID": "093",
-    "keyword": "Spy"
+    "color": "Red"
   },
   {
     "setID": "DAE",
     "cardID": "094",
-    "keyword": "Spy, Restrain"
+    "color": "Red"
   },
   {
     "setID": "DAE",
     "cardID": "095",
-    "keyword": "Lethal, Stealth"
+    "color": "Red"
   },
   {
     "setID": "DAE",
     "cardID": "096",
-    "keyword": "Lethal, Barrier"
+    "color": "Red"
   },
   {
     "setID": "DAE",
     "cardID": "097",
-    "keyword": "Breakthrough, Overpass"
+    "color": "Red"
   },
   {
     "setID": "DAE",
     "cardID": "098",
-    "keyword": "Modal, Barrier, Copy, Legend, Breakthrough, Trash"
+    "color": "Red"
   },
   {
     "setID": "DAE",
     "cardID": "099",
-    "keyword": "Trap"
+    "color": "Red"
   },
   {
     "setID": "DAE",
     "cardID": 100,
-    "keyword": "Breakthrough, Reaction"
+    "color": "Red"
   },
   {
     "setID": "DAE",
     "cardID": "T14",
-    "keyword": ""
+    "color": "Red"
   },
   {
     "setID": "DAE",
     "cardID": "010",
-    "keyword": "Legend, Mill"
+    "color": "Purple"
   },
   {
     "setID": "DAE",
     "cardID": "011",
-    "keyword": "Deathcoil, Legend, Ward, Mill, Deathcoil, Echo"
+    "color": "Purple"
   },
   {
     "setID": "DAE",
     "cardID": 101,
-    "keyword": "Mill"
+    "color": "Purple"
   },
   {
     "setID": "DAE",
     "cardID": 102,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "DAE",
     "cardID": 103,
-    "keyword": "Choose One"
+    "color": "Purple"
   },
   {
     "setID": "DAE",
     "cardID": 104,
-    "keyword": "Stealth, Mill, Reclaim"
+    "color": "Purple"
   },
   {
     "setID": "DAE",
     "cardID": 105,
-    "keyword": "Convert"
+    "color": "Purple"
   },
   {
     "setID": "DAE",
     "cardID": 106,
-    "keyword": "Reaction, Afflict, Summon"
+    "color": "Purple"
   },
   {
     "setID": "DAE",
     "cardID": 107,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "DAE",
     "cardID": 108,
-    "keyword": "Summon"
+    "color": "Purple"
   },
   {
     "setID": "DAE",
     "cardID": 109,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "DAE",
     "cardID": 110,
-    "keyword": "Reaction, Sacrifice, Silence"
+    "color": "Purple"
   },
   {
     "setID": "DAE",
     "cardID": 111,
-    "keyword": "Trap"
+    "color": "Purple"
   },
   {
     "setID": "DAE",
     "cardID": 112,
-    "keyword": "Choose One, Reclaim, Summon"
+    "color": "Purple"
   },
   {
     "setID": "DAE",
     "cardID": 113,
-    "keyword": "Stealth"
+    "color": "Purple"
   },
   {
     "setID": "DAE",
     "cardID": 114,
-    "keyword": "Mill"
+    "color": "Purple"
   },
   {
     "setID": "DAE",
     "cardID": 115,
-    "keyword": "Afflict, Exhaust"
+    "color": "Purple"
   },
   {
     "setID": "DAE",
     "cardID": 116,
-    "keyword": "Trash"
+    "color": "Purple"
   },
   {
     "setID": "DAE",
     "cardID": 117,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "DAE",
     "cardID": 118,
-    "keyword": ""
+    "color": "Purple"
   },
   {
     "setID": "DAE",
     "cardID": 119,
-    "keyword": "Convert, Trash"
+    "color": "Purple"
   },
   {
     "setID": "DAE",
     "cardID": 120,
-    "keyword": "Lethal, Summon"
+    "color": "Purple"
   },
   {
     "setID": "DAE",
     "cardID": 121,
-    "keyword": "Modal, Mill, Legend, Sacrifice"
+    "color": "Purple"
   },
   {
     "setID": "DAE",
     "cardID": 122,
-    "keyword": "Choose One"
+    "color": "Purple"
   },
   {
     "setID": "DAE",
     "cardID": 123,
-    "keyword": "Summon"
+    "color": "Purple"
   },
   {
     "setID": "DAE",
     "cardID": "012",
-    "keyword": "Attach, Legend, Equip"
+    "color": "Green, Blue"
   },
   {
     "setID": "DAE",
     "cardID": "013",
-    "keyword": "Ward, Legend, Overheal"
+    "color": "Green, Red"
   },
   {
     "setID": "DAE",
     "cardID": "014",
-    "keyword": "Legend, Reaction, Exhaust"
+    "color": "Green, Purple"
   },
   {
     "setID": "DAE",
     "cardID": "015",
-    "keyword": "Invest, Armored, Lethal, Overpass, Ward, Legend"
+    "color": "Blue, Red"
   },
   {
     "setID": "DAE",
     "cardID": "016",
-    "keyword": "Overpass, Exhaust, Legend, Ruins"
+    "color": "Blue, Purple"
   },
   {
     "setID": "DAE",
     "cardID": "017",
-    "keyword": "Deathcoil, Haste, Legend"
+    "color": "Red, Purple"
   }
 ]

@@ -1113,5 +1113,205 @@
     "setID": "FAL",
     "cardID": 200,
     "cost": 2
+  },
+  {
+    "setID": "CNF",
+    "cardID": "011",
+    "cost": 6
+  },
+  {
+    "setID": "CNF",
+    "cardID": "012",
+    "cost": 1
+  },
+  {
+    "setID": "CNF",
+    "cardID": "026",
+    "cost": 3
+  },
+  {
+    "setID": "CNF",
+    "cardID": "038",
+    "cost": 2
+  },
+  {
+    "setID": "CNF",
+    "cardID": "039",
+    "cost": 3
+  },
+  {
+    "setID": "CNF",
+    "cardID": "040",
+    "cost": 4
+  },
+  {
+    "setID": "CNF",
+    "cardID": "041",
+    "cost": 2
+  },
+  {
+    "setID": "CNF",
+    "cardID": "056",
+    "cost": 2
+  },
+  {
+    "setID": "CNF",
+    "cardID": "070",
+    "cost": 1
+  },
+  {
+    "setID": "CNF",
+    "cardID": "071",
+    "cost": 3
+  },
+  {
+    "setID": "CNF",
+    "cardID": "T02",
+    "cost": 2
+  },
+  {
+    "setID": "DAE",
+    "cardID": "022",
+    "cost": 1
+  },
+  {
+    "setID": "DAE",
+    "cardID": "023",
+    "cost": 5
+  },
+  {
+    "setID": "DAE",
+    "cardID": "028",
+    "cost": 2
+  },
+  {
+    "setID": "DAE",
+    "cardID": "031",
+    "cost": 1
+  },
+  {
+    "setID": "DAE",
+    "cardID": "T02",
+    "cost": 2
+  },
+  {
+    "setID": "DAE",
+    "cardID": "T03",
+    "cost": 2
+  },
+  {
+    "setID": "DAE",
+    "cardID": "T04",
+    "cost": 2
+  },
+  {
+    "setID": "DAE",
+    "cardID": "T05",
+    "cost": 2
+  },
+  {
+    "setID": "DAE",
+    "cardID": "T07",
+    "cost": 2
+  },
+  {
+    "setID": "DAE",
+    "cardID": "T08",
+    "cost": 2
+  },
+  {
+    "setID": "DAE",
+    "cardID": "T10",
+    "cost": 2
+  },
+  {
+    "setID": "DAE",
+    "cardID": "T11",
+    "cost": 2
+  },
+  {
+    "setID": "DAE",
+    "cardID": "038",
+    "cost": 2
+  },
+  {
+    "setID": "DAE",
+    "cardID": "039",
+    "cost": 1
+  },
+  {
+    "setID": "DAE",
+    "cardID": "047",
+    "cost": 2
+  },
+  {
+    "setID": "DAE",
+    "cardID": "048",
+    "cost": 4
+  },
+  {
+    "setID": "DAE",
+    "cardID": "053",
+    "cost": 4
+  },
+  {
+    "setID": "DAE",
+    "cardID": "062",
+    "cost": 1
+  },
+  {
+    "setID": "DAE",
+    "cardID": "070",
+    "cost": 1
+  },
+  {
+    "setID": "DAE",
+    "cardID": "071",
+    "cost": 7
+  },
+  {
+    "setID": "DAE",
+    "cardID": "076",
+    "cost": 6
+  },
+  {
+    "setID": "DAE",
+    "cardID": "T13",
+    "cost": 4
+  },
+  {
+    "setID": "DAE",
+    "cardID": "085",
+    "cost": 2
+  },
+  {
+    "setID": "DAE",
+    "cardID": "094",
+    "cost": 2
+  },
+  {
+    "setID": "DAE",
+    "cardID": "099",
+    "cost": 4
+  },
+  {
+    "setID": "DAE",
+    "cardID": 108,
+    "cost": 6
+  },
+  {
+    "setID": "DAE",
+    "cardID": 116,
+    "cost": 1
+  },
+  {
+    "setID": "DAE",
+    "cardID": 117,
+    "cost": 3
+  },
+  {
+    "setID": "DAE",
+    "cardID": 122,
+    "cost": 1
   }
 ]

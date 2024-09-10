@@ -573,5 +573,95 @@
     "setID": "FAL",
     "cardID": 208,
     "tier": "III"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "027",
+    "tier": "I"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "042",
+    "tier": "I"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "057",
+    "tier": "I"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "072",
+    "tier": "I"
+  },
+  {
+    "setID": "CNF",
+    "cardID": "085",
+    "tier": "III"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "024",
+    "tier": "I"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "040",
+    "tier": "I"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "049",
+    "tier": "II"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "054",
+    "tier": "III"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "063",
+    "tier": "I"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "072",
+    "tier": "II"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "077",
+    "tier": "III"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "086",
+    "tier": "I"
+  },
+  {
+    "setID": "DAE",
+    "cardID": "095",
+    "tier": "II"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 100,
+    "tier": "III"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 109,
+    "tier": "I"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 118,
+    "tier": "II"
+  },
+  {
+    "setID": "DAE",
+    "cardID": 123,
+    "tier": "III"
   }
 ]
