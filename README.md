@@ -83,10 +83,6 @@ npm install
 node --env-file=.env index.js
 ```
 
-## Usage
-Details on how to use the application, including any available scripts and commands.
-After starting both frontend and backend servers, the application should be ready to be used
-
 ## Contributing
 Guidelines for contributing to the project.
 
@@ -94,4 +90,4 @@ Guidelines for contributing to the project.
 Information about the project's license.
 
 ## Contact
-Details on how to contact the maintainers of the project.
+For support or further details contact Ethan Wen at wenethan6705@gmail.com
